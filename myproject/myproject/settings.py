@@ -110,3 +110,16 @@ HTTPCACHE_POLICY = 'scrapy.extensions.httpcache.RFC2616Policy'
 # Set to 'scrapy.extensions.httpcache.FilesystemCacheStorage' to use filesystem cache
 HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
 
+# Configure a delay for requests for the same website
+DOWNLOAD_DELAY = 1  # (1 second delay between requests)
+
+# Configure maximum concurrent requests (optional)
+CONCURRENT_REQUESTS = 16
+
+# Retry failed requests
+RETRY_ENABLED = True
+RETRY_TIMES = 3  # Number of times to retry failed requests
+
+# Set the download timeout (default is 180 seconds)
+DOWNLOAD_TIMEOUT = 300
+

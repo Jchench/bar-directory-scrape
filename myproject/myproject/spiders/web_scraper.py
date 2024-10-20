@@ -21,12 +21,16 @@ class LawyerScraperSpider(scrapy.Spider):
                     yield scrapy.Request(url=url, callback=self.parse, meta={'lawyer_name': lawyer_name})
 
     def parse(self, response):
-        lawyer_name = response.meta['lawyer_name']
-        page_text = response.xpath('//body//text()').getall()
-        page_text = ' '.join(page_text).strip()
+    lawyer_name = response.meta['lawyer_name']
+    
+    body_text = response.xpath('//body//text()').getall()
+    paragraph_text = response.xpath('//p//text()').getall()
+    specific_class_text = response.css('div.content::text').getall()
+    
+    page_text = ' '.join(body_text + paragraph_text + specific_class_text).strip()
 
-        yield {
-            'lawyer_name': lawyer_name,
-            'url': response.url,
-            'text': page_text
-        }
+    yield {
+        'lawyer_name': lawyer_name,
+        'url': response.url,
+        'text': page_text
+    }
