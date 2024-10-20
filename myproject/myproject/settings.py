@@ -91,3 +91,22 @@ ROBOTSTXT_OBEY = True
 REQUEST_FINGERPRINTER_IMPLEMENTATION = "2.7"
 TWISTED_REACTOR = "twisted.internet.asyncioreactor.AsyncioSelectorReactor"
 FEED_EXPORT_ENCODING = "utf-8"
+
+# Enable HTTP cache
+HTTPCACHE_ENABLED = True
+
+# Set the directory to store the cache
+HTTPCACHE_DIR = 'httpcache'
+
+# Cache responses for 1 day (in seconds) (optional)
+HTTPCACHE_EXPIRATION_SECS = 86400
+
+# Ignore caching HTTP 500, 502, 503, 504 responses (optional)
+HTTPCACHE_IGNORE_HTTP_CODES = [500, 502, 503, 504]
+
+# Cache policies (optional)
+HTTPCACHE_POLICY = 'scrapy.extensions.httpcache.RFC2616Policy'
+
+# Set to 'scrapy.extensions.httpcache.FilesystemCacheStorage' to use filesystem cache
+HTTPCACHE_STORAGE = 'scrapy.extensions.httpcache.FilesystemCacheStorage'
+
