@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:27:11 GMT
+Content-Type: text/html;charset=utf-8
+X-Cache-Operation: plone.app.caching.weakCaching
+X-Ramcache: plone.app.caching.operations.ramcache
+Content-Language: en
+Expires: Fri, 24 Oct 2014 05:44:29 GMT
+X-Ua-Compatible: IE=edge,chrome=1
+Cache-Control: max-age=0, must-revalidate, private
+X-Cache-Rule: plone.content.itemView
+X-Varnish: 40908606
+Age: 0
+Via: 1.1 varnish-v4
+X-Varnish-Cache: MISS
+Vary: accept-encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8zw5bYHbkw2IGaNOCUYELyfCM%2B4xJVWPe6MrQ6zxzMIZBlinisv0Q3mLAb18Do7mRwugS5RUoe%2FdzmeK%2FMDvffUF2Ceer7iSz%2F8%2BjHOw5AKNbFQYzhMe9G2NZ8BKqaEDCvQq%2BB4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2e2a4c0d1261-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=24345&sent=9&recv=9&lost=0&retrans=1&sent_bytes=6221&recv_bytes=1089&delivery_rate=283736&cwnd=226&unsent_bytes=0&cid=6fc552283f718e7f&ts=1370&x=0"

@@ -1,0 +1,18 @@
+Content-Length: 103988
+Accept-Ranges: bytes
+Age: 91187
+Cache-Control: public,max-age=0,must-revalidate
+Cache-Status: "Netlify Edge"; hit
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 21 Oct 2024 05:15:05 GMT
+Etag: "212a571429a5e0906ac80a5b1b2d6900-ssl-df"
+Link: </webpack-runtime-44af360ab676984e09f4.js>; rel=preload; as=script, </framework-8c75987c41040839c232.js>; rel=preload; as=script, </app-571f214f38f3fa6953ef.js>; rel=preload; as=script, </framework-8c75987c41040839c232.js>; rel=preload; as=script, </commons-c90c45c92c3602db5c66.js>; rel=preload; as=script, </0868c460a1a9a62e3c4cb0ea5f0b09599277db1d-cdc0207a043cecbe7036.js>; rel=preload; as=script, </0080d78e02a04a9561dfb2e32c7bb209afdae40d-749667cdbe81fcfd1965.js>; rel=preload; as=script, </1d9499f40bb9342be18067ce2d88035215f6e7d6-e617f4b5a17bd6843587.js>; rel=preload; as=script, </19710143e5ee800a4ae047cf054946075a908535-cda9dad1eab834b09bbe.js>; rel=preload; as=script, </484fcfa581d02f500e18d5bfd9413ea6f57ee327-6ffc3f15d1da3aaf477c.js>; rel=preload; as=script, </b74dd46ffc177b945d971fadbfb7d88ddbc3d357-e3ef89f608a720fb8e0f.js>; rel=preload; as=script, </5640d8475dc2f9729f6421d49b9e95ec5c1126e4-0e014c4c17f5b4661c7a.js>; rel=preload; as=script, </8496935ea29c81905863856ee005c16f282d8dab-0fda0a858a2b7cf7d22d.js>; rel=preload; as=script, </f47ddf659bdc53cb68c9c400d80b9b8e59c1bc78-e2f5aedb60db9a8cb0df.js>; rel=preload; as=script, </4087bf175f6fb962948b07f9e5f2760d178bd772-59b09ed3a6808654450b.js>; rel=preload; as=script, </4b56d865f89987b587b4328304650dd206ac4848-f5f122ac3e6ae03afa9d.js>; rel=preload; as=script, </component---src-detail-page-js-719aa17b7f6677c00d7e.js>; rel=preload; as=script, </page-data/app-data.json>; rel=preload; as=fetch; crossorigin, </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+Referrer-Policy: same-origin
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Nf-Request-Id: 01JAPR05NRSY319EEAZYRGGM8P
+X-Xss-Protection: 1; mode=block

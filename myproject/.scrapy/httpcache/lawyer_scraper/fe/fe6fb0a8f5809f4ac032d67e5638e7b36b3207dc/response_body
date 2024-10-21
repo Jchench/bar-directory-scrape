@@ -1,0 +1,93 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/eschen.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Law Office of James C. Eschen</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<style type="text/css">
+<!--
+body {
+	background-color: #000;
+}
+body,td,th {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+}
+a:link {
+	color: #039;
+}
+a:visited {
+	color: #06F;
+}
+-->
+</style>
+<script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+</head>
+
+<body onload="MM_preloadImages('images/tabs/button3.jpg','images/tabs/buttonD.jpg','images/tabs/button3A.jpg','images/tabs/button3D.jpg','images/tabs/button40.jpg','images/tabs/button43.jpg','images/tabs/button46.jpg','images/tabs/button37.jpg')">
+<table width="1000" border="0" align="center">
+  <tr>
+    <td bgcolor="#FFFFFF"><img src="images/banner.png" alt="Law Office of James C. Eschen" width="1000" height="200" border="0" /></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#000033"><img src="images/phone.png" width="1000" height="25" alt="phone number" /></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000033"><a href="index.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','images/tabs/button3.jpg',1)"><img src="images/tabs/button2.jpg" alt="Home" name="home" width="125" height="20" border="0" id="home" /></a><a href="disputes.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('disputes','','images/tabs/buttonD.jpg',1)"><img src="images/tabs/buttonC.jpg" alt="Business Disputes" name="disputes" width="125" height="20" border="0" id="disputes" /></a><a href="realty.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('realty','','images/tabs/button37.jpg',1)"><img src="images/tabs/button36.jpg" alt="Real Estate" name="realty" width="125" height="20" border="0" id="realty" /></a><a href="appeals.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('appeals','','images/tabs/button3A.jpg',1)"><img src="images/tabs/button39.jpg" alt="Appeals" name="appeals" width="125" height="20" border="0" id="appeals" /></a><a href="defense.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('license','','images/tabs/button3D.jpg',1)"><img src="images/tabs/button3C.jpg" alt="License Defense" name="license" width="125" height="20" border="0" id="license" /></a><a href="publications.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('publications','','images/tabs/button40.jpg',1)"><img src="images/tabs/button3F.jpg" alt="Publications" name="publications" width="125" height="20" border="0" id="publications" /></a><a href="resources.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('resources','','images/tabs/button43.jpg',1)"><img src="images/tabs/button42.jpg" alt="Resources" name="resources" width="125" height="20" border="0" id="resources" /></a><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','images/tabs/button46.jpg',1)"><img src="images/tabs/button45.jpg" alt="Contact Us" name="contact" width="125" height="20" border="0" id="contact" /></a></td>
+  </tr>
+  <tr>
+    <td align="right" bgcolor="#CCCCCC"><a href="http://www.avvo.com/attorneys/95060-ca-james-eschen-40572.html" target="_blank"><img src="images/avvo.png" width="160" height="20" border="0" alt="Avvo Advisor" /></a><a href="http://www.linkedin.com/pub/jake-eschen/8/b60/743" target="_blank"><img src="images/linkedin2.png" alt="LinkedIn" width="38" height="32" border="0" /></a> <a href="https://twitter.com/JakeEschen" target="_blank"> <img src="images/twitter.png" width="32" height="32" border="0" alt="Twitter" /></a></td>
+  </tr>
+  <tr>
+    <td bgcolor="#CCCCCC"><blockquote><!-- InstanceBeginEditable name="text" -->
+      <p><strong><img src="images/text_home.png" width="628" height="43" alt="James C. Eschen" /></strong></p>
+      <p><strong><img src="images/je_portrait.png" alt="James Eschen" width="180" height="224" align="right" />Disputes about business and real estate can be overwhelming</strong>. Finding an attorney with a track record of success can give you peace of mind and allow you to focus on what you do best. </p>
+      <p>For experienced representation in real estate or commercial litigation, contact my Santa Cruz office at 831-466-0753. At your low-cost initial consultation, I will focus on letting you know what to expect and on determining how best to move forward.        </p>
+      <p><strong><em>Put My Experience to Work for You        </em></strong></p>
+      <p>A member of the California bar since 1984, I have more than twenty years of experience in legal research, allowing me to negotiate, mediate, arbitrate or litigate more effectively and to move your dispute efficiently to a favorable conclusion.        </p>
+      <p>I have a reputation as an effective communicator. I will let you know up front what you can expect in the dispute. I discuss what resolving your matter will involve and explain the law that governs it. I discuss your options that we can take towards a resolution.        </p>
+      <p>I have represented clients and individuals in the Santa Cruz area with commercial and business disputes and with real estate concerns since 1997. I understand the challenges business owners and real estate investors face.      </p>
+      <table width="100%" border="0" cellspacing="4" cellpadding="0">
+        <tr>
+          <td align="center"><p>Click to see full <a href="bio.html">attorney profile</a>. </p>
+            <p>Call me at 831-458-0502 or contact me on-line for more information or to schedule an appointment. I provide an initial consultation at a reduced fee. </p>
+            <p>Se habla español. </p>
+            <p>Jake Eschen represents California clients throughout Santa Cruz County and the Monterey Bay Area: Santa Cruz, Scotts Valley, Capitola, Soquel, Watsonville, Aptos, San Lorenzo Valley, Ben Lomond, Boulder Creek, Felton, Monterey, Salinas and Carmel. </p></td>
+          </tr>
+    </table>
+      <p>&nbsp;</p>
+    <!-- InstanceEndEditable --></blockquote></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000033"><img src="images/address.png" width="1000" height="25" alt="address" /></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,19 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:29:30 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+X-Powered-By: PHP/7.4.33
+Content-Type: text/html; charset=UTF-8
+X-Pingback: 
+X-Redirect-By: WordPress
+Location: https://haslamthorne.com/
+Cache-Control: public, max-age=0
+Expires: Mon, 21 Oct 2024 06:29:30 GMT
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+X-Turbo-Charged-By: LiteSpeed

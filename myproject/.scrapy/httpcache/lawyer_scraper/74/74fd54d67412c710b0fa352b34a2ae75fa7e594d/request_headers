@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: apbct_timestamp=1729492368; apbct_site_landing_ts=1729492368; apbct_page_hits=1; apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%2522b5d3389bac42b7be29cfb06c73abf8d2%2522%257D; ct_sfw_pass_key=15b81d350e6bfd6bb33fc3e6c9a842c30; apbct_timestamp=1729492369; apbct_site_landing_ts=1729492369; apbct_page_hits=1; apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25221e52c45fb86bd1305a86bc5dd8151249%2522%257D; ct_sfw_pass_key=15b81d350e6bfd6bb33fc3e6c9a842c30; apbct_urls=%7B%22www.mahavier.com%2Frobots.txt%22%3A%5B1729492368%5D%2C%22mahavier.com%2Frobots.txt%22%3A%5B1729492369%5D%7D; apbct_site_referer=UNKNOWN

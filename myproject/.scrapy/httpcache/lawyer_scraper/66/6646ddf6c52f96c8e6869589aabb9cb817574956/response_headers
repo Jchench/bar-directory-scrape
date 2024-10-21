@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:29:35 GMT
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: https://admin.bakerlaw.com
+Cache-Control: public, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self' https://admin.bakerlaw.com;
+Etag: W/"mwjhcvmp7647cb"
+Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(self "https://cdn.flipsnack.com"), payment=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Nextjs-Cache: STALE
+X-Powered-By: WP Engine Atlas
+X-Xss-Protection: 1; mode=block
+X-Envoy-Upstream-Service-Time: 20
+Cf-Cache-Status: HIT
+Age: 320
+Server: cloudflare
+Cf-Ray: 8d5ed9cf4cfd2a7e-ORD
+Alt-Svc: h3=":443"; ma=86400

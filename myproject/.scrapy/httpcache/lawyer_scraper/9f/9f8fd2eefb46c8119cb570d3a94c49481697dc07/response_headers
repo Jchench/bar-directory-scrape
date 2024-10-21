@@ -1,0 +1,14 @@
+Content-Length: 23138
+Date: Mon, 21 Oct 2024 06:37:44 GMT
+Server: Apache
+X-Powered-By: PHP/7.0.33
+Link: <https://sab-law.net/wp-json/>; rel="https://api.w.org/", <https://sab-law.net/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json", <https://sab-law.net/>; rel=shortlink
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:37:44 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8

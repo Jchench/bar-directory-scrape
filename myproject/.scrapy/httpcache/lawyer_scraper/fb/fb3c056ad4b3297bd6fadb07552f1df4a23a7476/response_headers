@@ -1,0 +1,17 @@
+Content-Length: 0
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 06:22:46 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 20003
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+X-Pingback: https://lawvex.com/xmlrpc.php
+Expires: Mon, 21 Oct 2024 07:22:46 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Set-Cookie: twp_session=adb7789778dd5b1f4a38e123f1cf2b92%7C%7C1729493565%7C%7C1729493205; expires=Mon, 21-Oct-2024 06:52:45 GMT; Max-Age=1800; path=/
+Location: https://lawvex.com/
+Vary: Accept-Encoding
+X-Sucuri-Cache: MISS

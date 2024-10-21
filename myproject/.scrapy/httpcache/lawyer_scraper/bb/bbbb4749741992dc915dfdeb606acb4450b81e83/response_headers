@@ -1,0 +1,14 @@
+Content-Length: 135
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:37 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Tue, 06 Feb 2024 23:01:46 GMT
+Etag: "65c2ba5a-87"
+Cache-Control: public, max-age=300
+Accept-Ranges: bytes
+Content-Security-Policy: default-src 'self' *.yoast.com https://*.hotjar.com https://*.hotjar.io wss://*.hotjar.com 'unsafe-inline'; script-src 'report-sample' 'self' 'unsafe-eval' 'unsafe-inline' *.vidyard.com js.static.parmonic.ai *.windows.net *.hotjar.com *.yoast.com yoast.com *.google-analytics.com *.googletagmanager.com; style-src 'report-sample' 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self'; connect-src 'self' https://cdn-imgcap-01.media.parmonic.ai wss://ws.hotjar.com https://metrics.hotjar.io https://in.hotjar.com https://content.hotjar.io/ https://my.yoast.com https://a7s.parmonic.ai https://customer-qql0eqrrvwcmqa68.cloudflarestream.com https://wapi.parmonic.ai https://www.google-analytics.com; font-src 'self' data:; frame-src 'self' *.vimeo.com *.youtube.com *.google.com; img-src 'self' data: *.parmonic.ai *.googletagmanager.com *.google-analytics.com; manifest-src 'self'; media-src 'self' blob: *.thompsoncoe.com; worker-src *.thompsoncoe.com;
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: "nosniff" always;
+X-Frame-Options: "SAMEORIGIN" always;
+X-Xss-Protection: "1; mode=block";

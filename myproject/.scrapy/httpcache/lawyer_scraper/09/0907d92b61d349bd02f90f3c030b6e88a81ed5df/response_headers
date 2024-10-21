@@ -1,0 +1,20 @@
+Content-Length: 0
+Server: hcdn
+Date: Mon, 21 Oct 2024 05:13:25 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.4.33
+Expires: Mon, 21 Oct 2024 06:13:25 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://legalcounseling.com/
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Alt-Svc: h3=":443"; ma=86400
+X-Hcdn-Request-Id: 21a33856aaa4a713b99f80af4632c007-bos-edge4
+X-Hcdn-Cache-Status: MISS
+X-Hcdn-Upstream-Rt: 0.244

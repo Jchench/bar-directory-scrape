@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html  dir="ltr" lang="en-US">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="description" content="">
+<meta name="author" content="">
+<title>
+	Daniel I. Barness &#124; Freelance Legal Services</title>
+<link rel="stylesheet" type="text/css" media="all" href="https://www.barnesslaw.com/wp-content/plugins/maintenance-page/public/css/style.css">
+<link rel="stylesheet" href="https://www.barnesslaw.com/wp-content/plugins/maintenance-page/public/font-awesome/css/font-awesome.min.css">
+<link href='//fonts.googleapis.com/css?family=Signika+Negative:300,400' rel='stylesheet' type='text/css'>
+
+<script type="text/javascript" src="https://www.barnesslaw.com/wp-includes/js/jquery/jquery.min.js?ver=3.7.1" id="jquery-core-js"></script>
+<style type="text/css">
+				body {
+				background: url("https://www.barnesslaw.com/wp-content/uploads/2019/09/qtq80-nEILcT.jpeg") no-repeat fixed center;
+				background-size: cover;
+			}
+							a, a:hover, .copyright a:hover,a:visited  {
+			color: #1BBC9B;
+		}
+		.subscribe-button button{
+			background-color: #1BBC9B		}
+	
+</style>
+</head>
+
+<body class="home">
+	<div class="page-wrap" id="content-wrap">
+		<section id="content">
+			
+								<h1 class="site-title">MAINTENANCE PAGE</a></h1>
+											<div class="construction-msg">
+					<p>We are currently updating our website. Thanks for your patience.</p>
+				</div>
+						<div class="social-icons clearfix">
+				<ul>
+																																		</ul>
+			</div><!-- .social-icons -->
+		</section>
+
+		
+		<footer id="colophon" class="site-footer">
+						<div class="copyright">Copyright &copy; <a href="https://www.barnesslaw.com">Daniel I. Barness </a></div>
+		</footer>
+	</div><!-- #content-wrap -->
+</body>
+</html>

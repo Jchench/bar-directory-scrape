@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: exp_tracker=%7B%220%22%3A%22index%22%2C%22token%22%3A%2201ee54ab81b4aed5e67849914d390773b84f7bbc56ac1be8f3e0f2de66e82ed1e2c461596f03ef961e51f3b6e89bdf57%22%7D; exp_csrf_token=7fbb38b95fbabefafb93a415a8957606720244f1

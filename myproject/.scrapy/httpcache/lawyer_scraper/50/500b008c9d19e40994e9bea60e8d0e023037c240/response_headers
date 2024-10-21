@@ -1,0 +1,24 @@
+Content-Length: 160
+X-Content-Type-Options: nosniff
+Last-Modified: Wed, 06 Jul 2022 11:24:07 GMT
+X-Fw-Server: Flywheel/5.1.0
+Content-Type: text/plain
+Referrer-Policy: no-referrer-when-downgrade
+X-Fw-Version: 5.0.0
+X-Fw-Hash: 54atejqand
+X-Xss-Protection: 1
+Content-Encoding: gzip
+Etag: W/"62c570d7-136"
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:16:26 GMT
+X-Served-By: cache-chi-klot8100122-CHI, cache-chi-kigq8000086-CHI
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1729487786.124856,VS0,VE27
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

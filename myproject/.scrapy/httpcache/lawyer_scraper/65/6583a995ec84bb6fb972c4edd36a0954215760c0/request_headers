@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: ARRAffinity=504dbda4a2fba22d55207d9088b5357985f1b7353e5b23c6e174b0cdcefdc67a; ARRAffinitySameSite=504dbda4a2fba22d55207d9088b5357985f1b7353e5b23c6e174b0cdcefdc67a; ARRAffinity=504dbda4a2fba22d55207d9088b5357985f1b7353e5b23c6e174b0cdcefdc67a; ARRAffinitySameSite=504dbda4a2fba22d55207d9088b5357985f1b7353e5b23c6e174b0cdcefdc67a

@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:27:16 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: qBo0ghHZIz/oRYk6FbIGtzSxsjZEIRAbNtFkInucqbx4hNVzsipI7o4RClR13c4hm0sEkrFxRE7Hd3AQ1g4zzO5Wfxtz85k50N7Zb3jTvMtONsbWHpRUDmD25eBvmMZkOJd7fW6MOy6oDBgKVRpHVQ==$bKlGPr4dERR5t6iOKx6drQ==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=DQ5YMAhijGRKgXQw3noKfUNYdu8eghp0.X9LfbThJ.s-1729492036-1.0.1.1-fM.sJAmQuarHbgtG6GiNOwp1Be9T0tbRJYUmWDy3fmIOqzqsNhmlSgT0_X1BOjF6X1IMa9kDyuA5EHmvFwf71Q; path=/; expires=Mon, 21-Oct-24 06:57:16 GMT; domain=.www.erichintzlaw.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f2e4ddf95233e-ORD
+Content-Encoding: gzip

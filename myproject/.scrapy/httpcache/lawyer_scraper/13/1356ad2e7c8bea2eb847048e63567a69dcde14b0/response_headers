@@ -1,0 +1,20 @@
+Content-Length: 24
+Date: Mon, 21 Oct 2024 06:42:44 GMT
+Content-Type: text/plain
+Cf-Ray: 8d5f44f558b361d4-ORD
+Cf-Cache-Status: REVALIDATED
+Accept-Ranges: bytes
+Cache-Control: max-age=14400
+Etag: "67069b32-18"
+Last-Modified: Wed, 09 Oct 2024 15:03:14 GMT
+Vary: Accept-Encoding
+Content-Security-Policy: upgrade-insecure-requests; script-src 'self' https://www.googletagmanager.com https://cdn.cookielaw.org https://platform.twitter.com https://player.vimeo.com https://www.youtube.com; object-src 'self';
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Feature-Policy: camera 'none'; microphone 'none'
+Permissions-Policy: camera=(), microphone=(), geolocation=()
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2B1K2q3HSNErjwHr9%2BEHWUn1ppyBlrX%2BDLGtnFrRTJVr4itQvBN0XfHNUY7a1fi75khAc%2B6N%2BKXpuJyiT3DyaTlV%2BcNBTuV0TPmTor%2BDbdW8TGnf7Tqv0ELiQWsDh3vrq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare

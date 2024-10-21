@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492144.49614218634517128855
+Html-Cacheable: true
+Etag: W/"0bece50a5a0a5544807954aafe097ab2"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492144|oThHFWCJVSDO; Path=/; Domain=www.patricksmithlaw.org; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:29:04 GMT
+X-Served-By: cache-chi-klot8100132-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,jKB0KR2wTEE1MYSdxvKSbciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLisKKfFxaoxVWh9lgIvbTC1kavE0ZtMXws1mfakihq4B,2d58ifebGbosy5xc+FRalmviTmVSl9F+F601hCQpaL2nygh7vOl3Fvzybe9pvDff0ipxkS5lyEEczH5yFcgzXg==,2UNV7KOq4oGjA5+PKsX47HClnv7xNLEvnKyzioTaZktYgeUJqUXtid+86vZww+nL,ZyqOU5RmLo06QtSO1rnOlQDQLRL0CB+cXjGp7vN+JY8=,updaSF0YDozocDRTgMoSR7y7aoFwoyWhs1xWSnyDOT2erft53AdcSwlKVwuTfIX+dyHAscEBix0TGlaDSfACdg==,ojHFssArTWoUnGbLVpFtz/BXxUsnWbfhtvi4GvBe8aI=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rkcTQUN0jDq3H18qz5HdVo5CLNeVnJHr/f0zGlJvIs4Q==,hvPRs9vLVE5vQlwEzdMO69idPiiu7q51+NQVr5FVfa4=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxGlkdqgMCXGPzENhOG5FSQWEHvEuRCQoBrq2XeFeLVTueecKX+TuxMmk4b/+Rl7c5U=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

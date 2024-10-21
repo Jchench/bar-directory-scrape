@@ -1,0 +1,5 @@
+Content-Length: 0
+Location: https://www.jacksonandwilson.com/robots.txt
+Strict-Transport-Security: max-age=31536000; preload
+Server: BigIP
+Date: Mon, 21 Oct 2024 06:42:44 GMT

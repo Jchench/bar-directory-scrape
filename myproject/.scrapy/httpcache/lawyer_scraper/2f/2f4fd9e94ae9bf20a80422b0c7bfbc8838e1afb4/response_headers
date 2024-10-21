@@ -1,0 +1,16 @@
+Date: Mon, 21 Oct 2024 05:13:25 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://using.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=172800
+Expires: Wed, 23 Oct 2024 05:13:24 GMT
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:13:25 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=hJR0kT6foLAHOUYgScWAbv3XALF27DignGiTfpi5e2VsBZd5PArOBTZxuIqQ1SdAPA7JPCo%2BI%2FoHjDea6iEM5nd6jgtMQvI8c4Rd17WsVYALtrDhNVZLUgPhlSs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec2176e2c29c0-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16102&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2820&recv_bytes=839&delivery_rate=280185&cwnd=247&unsent_bytes=0&cid=56d18220fc5c001f&ts=702&x=0"

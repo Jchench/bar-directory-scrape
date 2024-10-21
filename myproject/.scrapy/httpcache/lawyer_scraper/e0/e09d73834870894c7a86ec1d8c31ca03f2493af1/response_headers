@@ -1,0 +1,14 @@
+Content-Length: 9673
+Date: Mon, 21 Oct 2024 06:23:46 GMT
+Content-Type: application/octet-stream
+Cache-Control: max-age=43200
+Last-Modified: Tue, 01 Oct 2024 17:35:42 GMT
+Etag: "ba5ed188fcd59af5b059bd5426d9bc03"
+Surrogate-Key: www.hassard.com 665f7b54b20bc120c4aca305 pageId:665f7b54b20bc120c4aca311
+Cf-Cache-Status: EXPIRED
+Set-Cookie: __cf_bm=A8OyMNrsaXXvHlgGQST0eh16osDa2hUF9RMNMEwNSA8-1729491826-1.0.1.1-NBLqVyCmfTtoAnROaG5IQq7zzbVmaNHTgzfHSyN3xT1rGFvsF2loZ4sCA033V5V_hXk9Of_HZsB.4.huz3lzbA; path=/; expires=Mon, 21-Oct-24 06:53:46 GMT; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=Sg6fn_x0y7dZcgWTVDp.0fh71INYgBnMaZ9LWm_6xuM-1729491826131-0.0.1.1-604800000; path=/; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Cf-Ray: 8d5f29284d0f81a9-IAD
+Alt-Svc: h3=":443"; ma=86400
+X-Cluster-Name: us-east-1-prod-hosting-red

@@ -1,0 +1,22 @@
+Content-Length: 0
+Referrer-Policy: no-referrer-when-downgrade
+X-Redirect-By: WordPress
+X-Fw-Hash: p2em3suj8v
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Fw-Dynamic: TRUE
+X-Content-Type-Options: nosniff
+Location: https://richardscarrington.com/?robots=1
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 1
+Server: Flywheel/5.1.0
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:24:50 GMT
+X-Served-By: cache-chi-kigq8000095-CHI, cache-chi-klot8100041-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729488289.202462,VS0,VE1016
+Vary: Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

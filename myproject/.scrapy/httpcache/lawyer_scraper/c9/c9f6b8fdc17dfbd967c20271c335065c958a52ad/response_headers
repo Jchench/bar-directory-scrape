@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:31:44 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5edcf2fdf78f48-ORD
+Cf-Cache-Status: MISS
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 05:31:44 GMT
+Link: <https://hawaiicondolaw.com/wp-json/>; rel="https://api.w.org/", <https://hawaiicondolaw.com/wp-json/wp/v2/pages/563>; rel="alternate"; title="JSON"; type="application/json", <https://hawaiicondolaw.com/>; rel=shortlink
+Vary: Accept-Encoding
+Cache-Tag: 344db5ac-3171-486c-95f6-5dcf38cbfafc,4bdc4f84e4a89c64df808dfbce89ea2b32bda73a565ca86a3072c74e53a16144
+Ki-Cache-Tag: 344db5ac-3171-486c-95f6-5dcf38cbfafc,4bdc4f84e4a89c64df808dfbce89ea2b32bda73a565ca86a3072c74e53a16144
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: SAVING
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=anigLYAg8XHK2X9UkuWFdrXcJkAP2xvBQPcYIfDzLrC8Nv5e4cgtT8jwBLqv4dwI9SwurpqL8q1Ajbo%2BefJfMgd4MN252WwcGrP1KO4Tm0p116RODlHqJoMRl2cnc0IJtZKqBw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

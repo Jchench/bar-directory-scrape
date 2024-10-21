@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:26:32 GMT
+Content-Type: text/html; charset=UTF-8
+Age: 68124
+Cache-Control: public,max-age=0,must-revalidate
+Cache-Status: "Netlify Edge"; hit
+Link: </webpack-runtime-1ed984b18c6bfbc2c3d0.js>; rel=preload; as=script, </framework-92c389df6720b85f8fb6.js>; rel=preload; as=script, </app-15b857bb02951d13d2f6.js>; rel=preload; as=script, </cb1608f2-d280c6277497ef6520db.js>; rel=preload; as=script, </commons-21670ad53e426e1843c7.js>; rel=preload; as=script, </bab12b31997b4c9b8a31bd1a86654733b712fc1c-bba448fbc46b0f7a35b6.js>; rel=preload; as=script, </component---src-pages-index-js-fbc9cf22de82c4354326.js>; rel=preload; as=script, </page-data/app-data.json>; rel=preload; as=fetch; crossorigin, </page-data/index/page-data.json>; rel=preload; as=fetch; crossorigin
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Nf-Request-Id: 01JAPRN404CY7RDD0MM3Y3VTQV
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2BjD9ea4BpykevhXnc4ws6uFfd9rAWjpFBlvKNgkpvbBwFi%2FDLs37URu3wxxXaWN6vdXLQTYZBrssqJmDfQ35rtY9kQEQ79XlPDuedp7VHyrGmWJk6u2sapCpEOfLB5VVO3hZsICaQcw%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed552a8552c17-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16790&sent=9&recv=9&lost=0&retrans=0&sent_bytes=4618&recv_bytes=1095&delivery_rate=263464&cwnd=223&unsent_bytes=0&cid=caa6c1c90af52eea&ts=1426&x=0"

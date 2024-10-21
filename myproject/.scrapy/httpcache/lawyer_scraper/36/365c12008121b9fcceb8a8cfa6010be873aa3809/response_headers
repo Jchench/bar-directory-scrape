@@ -1,0 +1,13 @@
+Content-Length: 35
+Content-Type: text/plain
+Server: nginx/1.18.0 (Ubuntu)
+Date: Sun, 20 Oct 2024 16:34:36 GMT
+Last-Modified: Mon, 20 May 2024 21:16:07 GMT
+Etag: "664bbd97-23"
+Accept-Ranges: bytes
+X-Cache: Hit from cloudfront
+Via: 1.1 dafaeef82c767ffd7ddf7e7721e7657e.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD56-P11
+X-Amz-Cf-Id: NszQa9tvyxoSP0kacDErZbw2z2lkWQOP_g-J6O0KWjZSX-WG3g4T1w==
+Age: 41464
+Vary: Origin

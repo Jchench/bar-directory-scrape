@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 05:12:53 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://hswlaw.com/robots.txt
+X-Redirect-By: WordPress
+Content-Security-Policy: upgrade-insecure-requests;
+Referrer-Policy: no-referrer-when-downgrade
+Expires: Tue, 22 Oct 2024 05:12:52 GMT
+Cache-Control: max-age=86400
+Cf-Cache-Status: MISS
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ec14b0d721261-ORD
+Alt-Svc: h3=":443"; ma=86400

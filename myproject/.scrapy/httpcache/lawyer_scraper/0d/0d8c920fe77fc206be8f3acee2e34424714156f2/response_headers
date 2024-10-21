@@ -1,0 +1,20 @@
+Content-Length: 122
+Date: Mon, 21 Oct 2024 05:15:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/8.2.24
+X-Powered-By: PleskLin
+X-Robots-Tag: noindex, follow
+Link: <https://bcsslaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:15:11 GMT
+Accept-Ranges: bytes
+Server-Timing: cfCacheStatus;desc="EXPIRED"
+Server-Timing: cfL4;desc="?proto=TCP&rtt=21390&sent=5&recv=6&lost=0&retrans=1&sent_bytes=4202&recv_bytes=841&delivery_rate=33452&cwnd=242&unsent_bytes=0&cid=aa72d1c60c3225b3&ts=581&x=0"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=aX%2FeHc0brO4UZNC1wWIjxeZmOGTNKetebCpwKsWFnajgmEkvTLMTAN2tD2NPVeCZAODj4ZhmzyO6UoES3zovS0es5PYRIpqJhQr6hQVnMSEdn4ESvawyZGe%2Ba4tfVA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec4b4b8820128-ORD
+Alt-Svc: h3=":443"; ma=86400

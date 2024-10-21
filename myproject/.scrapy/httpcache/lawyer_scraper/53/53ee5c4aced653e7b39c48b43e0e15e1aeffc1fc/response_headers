@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 05:16:09 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5ec61c29992220-ORD
+Cf-Cache-Status: HIT
+Age: 2580
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 04:27:40 GMT
+Link: <https://www.ccllp.law/wp-json/>; rel="https://api.w.org/", <https://www.ccllp.law/wp-json/wp/v2/pages/69>; rel="alternate"; type="application/json", <https://www.ccllp.law/>; rel=shortlink
+Vary: Accept-Encoding
+Cache-Tag: a2123793-af2c-4f31-a77b-37ab8c86ffc8,df781332eac8d8e0a0b225396f576b17cea3540d46f4be0f04bd93d516d11f12
+Ki-Cache-Tag: a2123793-af2c-4f31-a77b-37ab8c86ffc8,df781332eac8d8e0a0b225396f576b17cea3540d46f4be0f04bd93d516d11f12
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: HIT
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=dmhoWvSnOXi%2FanoyLTul4FITgcAdNJduOgkVRgmu9Dn58wpk4psGNhPcsvka35MaUbL6qEFt9k4qCr4RdOZuM3137Y91ktl9UPg%2BJij6gkDnP0SmaPKZxoMXkDmFuZY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,12 @@
+Date: Mon, 21 Oct 2024 06:28:33 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Link: <https://www.hpylaw.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+Cache-Control: max-age=43200
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:28:33 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YqpIgfn1GSZRRs6qWfYeEwMZoP6uNebIlr%2B4TBuaSgraA1%2B%2BbjwNb16sUKK7AsVgevZzMJ88qSnJ5%2F25g4Rva7b121MKajw%2BqD7cBSsFgQv17fDR59AAk%2BALzV1emKr%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3022ee5613f9-ORD

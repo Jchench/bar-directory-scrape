@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:11:50 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 8d5ebfcc0db0e233-ORD
+Cf-Cache-Status: HIT
+Age: 134325
+Cache-Control: max-age=2592000
+Content-Encoding: gzip
+Expires: Wed, 06 Nov 2024 16:01:12 GMT
+Last-Modified: Mon, 07 Oct 2024 16:01:13 GMT
+Link: <https://bocarsly.com/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=2592000
+Vary: Accept-Encoding, Accept-Encoding
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Referrer-Policy: origin-when-cross-origin
+X-Cache: MISS
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1
+Set-Cookie: __cf_bm=N0KXlJI0kUN.GAUclNe2XOP2WCWYFtLRdkI_8vyntW4-1729487510-1.0.1.1-NAnUI0fe6nRXzPDi0WJ0_j3O0NwPycaJ90AO1aIO0JbrLbV_Fbb3Lcv3AAojRBNLZ92k9IvFQPDYjBGgFu4eXw; path=/; expires=Mon, 21-Oct-24 05:41:50 GMT; domain=.bocarsly.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

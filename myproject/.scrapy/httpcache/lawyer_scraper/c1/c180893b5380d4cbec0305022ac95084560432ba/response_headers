@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 06:31:57 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self' *.ca.gov
+X-Content-Type-Options: nosniff
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Last-Modified: Mon, 21 Oct 2024 05:55:47 GMT
+Cf-Cache-Status: HIT
+Age: 958
+Server: cloudflare
+Cf-Ray: 8d5f35297f256184-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

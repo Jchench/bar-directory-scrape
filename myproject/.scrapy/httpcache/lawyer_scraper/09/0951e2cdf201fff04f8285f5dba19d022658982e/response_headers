@@ -1,0 +1,25 @@
+Content-Length: 20914
+Content-Type: text/html; charset=UTF-8
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Mon, 21 Oct 2024 05:27:17 GMT
+Etag: "1729488437"
+X-Generator: Drupal 10 (https://www.drupal.org)
+Access-Control-Allow-Origin: *
+X-Request-Id: v-22eeba1e-8f6d-11ef-acbf-f3e329ad9c26
+X-Ah-Environment: prod
+X-Cache-Hits: 1
+X-Age: 12
+Accept-Ranges: bytes
+X-Akamai-Transformed: 9 19261 0 pmb=mRUM,1
+Content-Encoding: gzip
+Cache-Control: public, max-age=60
+Expires: Mon, 21 Oct 2024 05:28:30 GMT
+Date: Mon, 21 Oct 2024 05:27:30 GMT
+Vary: Accept-Encoding
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=12
+Server-Timing: origin; dur=35
+Server-Timing: ak_p; desc="1729488450893_389949163_1507890582_4725_2542_17_0_-";dur=1
+Strict-Transport-Security: max-age=15768000

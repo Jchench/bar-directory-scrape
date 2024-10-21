@@ -1,0 +1,14 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:29:25 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains;preload
+X-Xss-Protection: 0
+Content-Security-Policy: upgrade-insecure-requests;
+Expires: Mon, 21 Oct 2024 06:29:26 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+X-Frame-Options: DENY
+Location: https://klinedinstlaw.com/robots.txt
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+Content-Type: text/html; charset=UTF-8

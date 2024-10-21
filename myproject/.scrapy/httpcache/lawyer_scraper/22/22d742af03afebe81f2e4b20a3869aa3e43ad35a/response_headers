@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 05:22:05 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Link: <https://japanuslaw.com/wp-json/>; rel="https://api.w.org/", <https://japanuslaw.com/wp-json/wp/v2/pages/1259>; rel="alternate"; title="JSON"; type="application/json", <https://japanuslaw.com/>; rel=shortlink
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 07:22:05 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

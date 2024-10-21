@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="/FCI-Logo.png" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>MY FCI</title>
+    <!-- Google tag (gtag.js) -->
+    <script
+      async
+      src="https://www.googletagmanager.com/gtag/js?id=G-R5HHCJVZZH"
+    ></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag() {
+        dataLayer.push(arguments);
+      }
+      gtag("js", new Date());
+
+      gtag("config", "G-R5HHCJVZZH");
+    </script>
+    <script>
+      window.addEventListener("DOMContentLoaded", () => {
+        if (window.location.pathname.endsWith(".html")) {
+          const newPath = window.location.pathname.replace(".html", "");
+          window.location.replace(newPath);
+        }
+      });
+    </script>
+    <script>
+      if (window.location.pathname === "/ContactUs.html") {
+        window.location.replace("/AboutUs");
+      }
+    </script>
+    <script>
+      if (window.location.pathname === "/CustomerLogin.html") {
+        window.location.replace("/Login");
+      }
+    </script>
+    <script>
+      if (window.location.pathname === "/ImportantBorrowerStateDisclosures.html") {
+        window.location.replace("/BorrowerStateDisclosures");
+      }
+    </script>
+    <script type="module" crossorigin src="/assets/index.9e4b311e.js"></script>
+    <link rel="stylesheet" href="/assets/index.cb57136a.css">
+  </head>
+  <body>
+    <div id="root"></div>
+    
+    <link rel="stylesheet" href="/src/font/fontQuatro/stylesheet.css" />
+    <link rel="stylesheet" href="/src/font/fontQuatroSlab/stylesheet.css" />
+    <script
+      src="https://cdn.jsdelivr.net/npm/react/umd/react.production.min.js"
+      crossorigin
+    ></script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/react-bootstrap@next/dist/react-bootstrap.min.js"
+      crossorigin
+    ></script>
+
+    <script
+      src="https://www.google.com/recaptcha/enterprise.js"
+      async
+      defer
+    ></script>
+    <script src="https://www.google.com/recaptcha/api.js"></script>
+    <script>
+      (function () {
+        var s = document.createElement("script");
+        var h = document.querySelector("head") || document.body;
+        s.src = "https://acsbapp.com/apps/app/dist/js/app.js";
+        s.async = true;
+        s.onload = function () {
+          acsbJS.init({
+            statementLink: "",
+            footerHtml: "",
+            hideMobile: false,
+            hideTrigger: false,
+            disableBgProcess: false,
+            language: "en",
+            position: "right",
+            leadColor: "#146FF8",
+            triggerColor: "#146FF8",
+            triggerRadius: "50%",
+            triggerPositionX: "right",
+            triggerPositionY: "bottom",
+            triggerIcon: "people",
+            triggerSize: "bottom",
+            triggerOffsetX: 20,
+            triggerOffsetY: 20,
+            mobile: {
+              triggerSize: "small",
+              triggerPositionX: "right",
+              triggerPositionY: "bottom",
+              triggerOffsetX: 10,
+              triggerOffsetY: 10,
+              triggerRadius: "20",
+            },
+          });
+        };
+        h.appendChild(s);
+      })();
+    </script>
+  </body>
+</html>

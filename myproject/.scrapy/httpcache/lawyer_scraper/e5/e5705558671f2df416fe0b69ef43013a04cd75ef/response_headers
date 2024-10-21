@@ -1,0 +1,20 @@
+Content-Length: 2231
+Cache-Control: max-age=31622400
+Content-Type: text/plain
+Etag: W/"670fe62b-8b7"
+Expires: Fri, 17 Oct 2025 16:14:17 GMT
+Last-Modified: Wed, 16 Oct 2024 16:13:31 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Pantheon-Styx-Hostname: styx-fe1-b-86c9db48ff-dsphd
+X-Styx-Req-Id: b185b6c7-8bd9-11ef-8a1d-3ef6c3d288b2
+Age: 392348
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Mon, 21 Oct 2024 05:13:25 GMT
+X-Served-By: cache-chi-klot8100070-CHI, cache-bur-kbur8200080-BUR, cache-bur-kbur8200080-BUR, cache-bur-kbur8200112-BUR
+X-Cache: MISS, HIT, MISS, MISS
+X-Cache-Hits: 0, 6342, 0, 0
+X-Timer: S1729487606.759612,VS0,VE5
+Vary: Accept-Encoding, orig-host
+Set-Cookie: BIGipServerSF_HTTPS_Candidate=2231526807.47873.0000; path=/; Httponly; Secure

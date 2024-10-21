@@ -1,0 +1,11 @@
+Content-Length: 8462
+Date: Mon, 21 Oct 2024 05:14:33 GMT
+Server: nginx/1.25.5
+Content-Type: text/html;charset=UTF-8
+Pragma: no-cache
+Cache-Control: max-age=604800
+Expires: Mon, 28 Oct 2024 05:14:33 GMT
+Content-Encoding: none
+X-Server-Cache: true
+X-Proxy-Cache: MISS
+Set-Cookie: grav-site-d4956a2=96f9fdb95200e245b800d443aac729d2; expires=Mon, 21 Oct 2024 05:44:33 GMT; Max-Age=1800; path=/; domain=www.slaughterlaw.com; secure; HttpOnly; SameSite=Lax

@@ -1,0 +1,14 @@
+Content-Length: 116
+X-Dns-Prefetch-Control: on
+Wp-Hack-Check: 1
+Wp-Blog-Public: 1
+Link: <https://www.bwslaw.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Etag: "93648-1729484560;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 05:18:23 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=15780000
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

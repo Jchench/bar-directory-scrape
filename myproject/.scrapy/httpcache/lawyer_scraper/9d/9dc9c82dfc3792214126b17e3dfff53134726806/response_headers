@@ -1,0 +1,17 @@
+Content-Length: 230
+Content-Type: text/plain; charset=utf-8
+Server: nginx
+X-Powered-By: Craft CMS
+Strict-Transport-Security: max-age=15768000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+Cache-Control: max-age=528789
+Expires: Sun, 27 Oct 2024 08:07:19 GMT
+Date: Mon, 21 Oct 2024 05:14:10 GMT
+Vary: Accept-Encoding
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=4
+Server-Timing: ak_p; desc="1729487650290_389949169_3756169173_433_8620_18_41_-";dur=1

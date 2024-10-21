@@ -1,0 +1,15 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:43 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <http://jessejbanuelos.com/wp-json/>; rel="https://api.w.org/"
+Link: <http://jessejbanuelos.com/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json"
+Link: <http://jessejbanuelos.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Encoding: gzip

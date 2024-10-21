@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:34:25 GMT
+Content-Type: text/plain
+Last-Modified: Thu, 18 Jun 2020 13:27:58 GMT
+Etag: W/"5cfb1e487445d61:0"
+Request-Context: appId=cid-v1:bddf01ec-cbd1-41f7-aa9d-a2d2e34ce538
+Strict-Transport-Security: max-age=63072000
+Cf-Cache-Status: REVALIDATED
+Expires: Mon, 21 Oct 2024 09:34:25 GMT
+Cache-Control: public, max-age=14400
+Set-Cookie: __cf_bm=pE6Z9woUaOp3TtVE7tqBlZXwNfuJ_UBdYTsxqMH2QAc-1729488865-1.0.1.1-XWJUwrQidR3wNUOzn3R.kw7vfRXemeLViCo1s1o42I5dO8xCTtn37NAeZAoNgAONI2NYmX3fD0AdBZipBm10Tg; path=/; expires=Mon, 21-Oct-24 06:04:25 GMT; domain=.orrick.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Access-Control-Allow-Origin: https://orrickdotcom.blob.core.windows.net
+Content-Security-Policy-Report-Only: default-src 'self' algolia.io *.algolia.io algolia.net *.algolia.net algolianet.com *.algolianet.com bc0a.com *.bc0a.com brightcove.net *.brightcove.net ceros.com *.ceros.com clarity.ms *.clarity.ms cloudflare.com *.cloudflare.com cookielaw.org *.cookielaw.org google-analytics.com *.google-analytics.com google.com *.google.com googletagmanager.com *.googletagmanager.com maps.googleapis.com *.maps.googleapis.com onetrust.com *.onetrust.com orrick.com *.orrick.com siteimproveanalytics.com *.siteimproveanalytics.com twitter.com *.twitter.com vimeo.com *.vimeo.com jsdelivr.net *.jsdelivr.net px.ads.linkedin.com fonts.gstatic.com orrick.vuture.net snap.licdn.com icon-library.com; report-uri https://csp-reporting.cloudflare.com/cdn-cgi/script_monitor/report?m=vCmMsK22SruvuBoBbIPUwsiIrpb0maNvpKj2lo5w7gs-1729488865-1.0.1.1-f8TPrnJvNbrxfG_Atl02yHcPBCcY8NPOqqJO7.mK1TCtEFSvD6SLEiHIvQUi46wGm2efgVhb5enH5R0DgTcqm6lm4t45JbvzX262b0agiHAT._FRqQRIP8aCqIYxjteqSL5prIHZnG0eIh5y8Xs_AQPSDISe8y_9wZVqDzsz_fUFORb2PoHajLVeUpN4o3EuXZ6o4BSlrsDqodjbsr3qeg; report-to cf-bxpbjztscpefamjm
+Report-To: {"endpoints":[{"url":"https:\/\/csp-reporting.cloudflare.com\/cdn-cgi\/script_monitor\/report?m=vCmMsK22SruvuBoBbIPUwsiIrpb0maNvpKj2lo5w7gs-1729488865-1.0.1.1-f8TPrnJvNbrxfG_Atl02yHcPBCcY8NPOqqJO7.mK1TCtEFSvD6SLEiHIvQUi46wGm2efgVhb5enH5R0DgTcqm6lm4t45JbvzX262b0agiHAT._FRqQRIP8aCqIYxjteqSL5prIHZnG0eIh5y8Xs_AQPSDISe8y_9wZVqDzsz_fUFORb2PoHajLVeUpN4o3EuXZ6o4BSlrsDqodjbsr3qeg"}],"group":"cf-bxpbjztscpefamjm","max_age":86400}
+Server: cloudflare
+Cf-Ray: 8d5ee0e0ddea2c05-ORD
+Content-Encoding: gzip

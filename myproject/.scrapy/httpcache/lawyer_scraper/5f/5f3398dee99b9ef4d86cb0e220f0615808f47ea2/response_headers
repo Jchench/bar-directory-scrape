@@ -1,0 +1,26 @@
+Date: Mon, 21 Oct 2024 06:40:35 GMT
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: upgrade-insecure-requests
+Strict-Transport-Security: max-age=300
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding, User-Agent
+X-Cache: uncached
+X-Cache-Hit: MISS
+X-Cacheable: YES:Forced
+X-Cacheproxy-Retries: 0/2
+X-Content-Type-Options: nosniff
+X-Fawn-Proc-Count: 2,5,24
+X-Php-Version: 8.0
+X-Tec-Api-Origin: https://erinjoycelaw.com
+X-Tec-Api-Root: https://erinjoycelaw.com/wp-json/tribe/events/v1/
+X-Tec-Api-Version: v1
+X-Xss-Protection: 1; mode=block
+X-Backend: varnish_ssl
+Last-Modified: Sun, 20 Oct 2024 21:58:26 GMT
+Cf-Cache-Status: HIT
+Expires: Thu, 21 Nov 2024 06:40:35 GMT
+Cache-Control: public, max-age=2678400
+Server: cloudflare
+Cf-Ray: 8d5f41cc58002bbd-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

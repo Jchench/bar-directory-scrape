@@ -1,0 +1,16 @@
+Content-Length: 0
+Server: hcdn
+Date: Mon, 21 Oct 2024 05:14:43 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.1.27
+X-Redirect-By: WordPress
+Location: https://dahllaw.net/
+Cache-Control: public, max-age=0,s-maxage=2592000
+Expires: Mon, 21 Oct 2024 05:14:43 GMT
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests
+Alt-Svc: h3=":443"; ma=86400
+X-Hcdn-Request-Id: 12bd7c22e8d4d8493c6eac2890db03a5-bos-edge4
+X-Hcdn-Cache-Status: MISS
+X-Hcdn-Upstream-Rt: 0.449

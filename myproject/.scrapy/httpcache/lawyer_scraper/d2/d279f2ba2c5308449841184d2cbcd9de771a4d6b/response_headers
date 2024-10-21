@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:29:02 GMT
+Location: https://www.patricksmithlaw.org/
+X-Wix-Cache-Control: public, max-age=86400
+Strict-Transport-Security: max-age=86400
+X-Wix-Request-Id: 1729492142.6211425394859231569
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=42
+X-Seen-By: vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLvRKfhx2uNN4hv3eFGgKFZEa0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRaltKhXrf2ZJwGIBLkAMMG65VhDVP4ZsaQ4agNVbxhusIIu18N+qhLgJ/9g5NmQ0dUyg==,2UNV7KOq4oGjA5+PKsX47OFQIYwPrAuSSGkhbTTPX/NYgeUJqUXtid+86vZww+nL,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==
+Cache-Control: no-cache
+Server: Pepyaka
+X-Content-Type-Options: nosniff

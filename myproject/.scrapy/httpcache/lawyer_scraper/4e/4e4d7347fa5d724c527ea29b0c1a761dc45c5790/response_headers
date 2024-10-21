@@ -1,0 +1,31 @@
+Date: Mon, 21 Oct 2024 05:21:06 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5ecd5efb11620b-ORD
+Cf-Cache-Status: HIT
+Age: 290848
+Cache-Control: public, max-age=604800
+Last-Modified: Thu, 17 Oct 2024 20:25:39 GMT
+Link: <https://signatureresolution.com/wp-json/>; rel="https://api.w.org/", <https://signatureresolution.com/wp-json/wp/v2/pages/18>; rel="alternate"; title="JSON"; type="application/json", <https://signatureresolution.com/>; rel=shortlink
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding, Cookie, Cookie
+Via: 1.1 varnish, 1.1 varnish
+Cf-Apo-Via: tcache
+Cf-Edge-Cache: cache,platform=wordpress
+X-Cache: HIT, MISS
+X-Cache-Hits: 1, 0
+X-Pantheon-Styx-Hostname: styx-fe1-a-5bbb8f6849-nfrfc
+X-Served-By: cache-chi-kigq8000150-CHI, cache-ams2100138-AMS
+X-Styx-Req-Id: cad3f89f-8cc5-11ef-8b68-b2d2e56f0f5d
+X-Timer: S1729196740.527108,VS0,VE105
+Server-Timing: cfCacheStatus;desc="HIT"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=QkgGdbwJ8FoZkMgMozSmRropdhCxiNCCjUkYm8bBvK8nr76Kuhs2CXgnqIyDX0GtEQYpsmUw8uucjGWHW0OZuCZp%2FCeJLgNI8B1jowvCbviAM3ap5f9MBYY2%2B%2F%2BA8GBB%2BxcC6OOK4rYO"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

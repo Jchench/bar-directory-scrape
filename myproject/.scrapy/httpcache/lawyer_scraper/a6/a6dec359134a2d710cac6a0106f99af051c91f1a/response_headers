@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:19:43 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Robots-Tag: noindex,follow
+Link: <https://mikemillea.com/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Fastcgi-Cache: HIT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Encoding: gzip
+Last-Modified: Mon, 21 Oct 2024 06:19:43 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5Xmcauh9aGl7UT1E3xkWZcwkecvXGbh1ajDndwJe6f1cR%2FXnJfDka4V5YI39IzLQadwQYVkMnqz2wZdjWZOa%2F0qzX7B68%2F6O3lYubLO7Pp6dIlSNxlU7ENhh2H08%2FvUYT54WHIM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f233cae6acefa-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=86300&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2836&recv_bytes=848&delivery_rate=157485&cwnd=235&unsent_bytes=0&cid=d1c8d1244d788f67&ts=111&x=0"

@@ -1,0 +1,25 @@
+Date: Mon, 21 Oct 2024 06:25:45 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://www.cades.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.cades.com/wp-json/wp/v2/pages/6>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.cades.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 62
+X-Cache-Group: bot
+Content-Security-Policy: default-src * data: blob: 'unsafe-inline'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob:; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline';
+Referrer-Policy: origin
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5f2c1288a413eb-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

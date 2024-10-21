@@ -1,0 +1,12 @@
+Content-Length: 73
+Age: 288284
+Cache-Control: public, max-age=0, must-revalidate
+Content-Security-Policy: default-src 'self' *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; connect-src 'self' *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; script-src 'self' 'nonce-ZDA3NDljNTMtNjA3NC00YWIyLTk2ZmUtMTY3MmVjZjY1ODVm' 'strict-dynamic' *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; style-src 'self' 'nonce-ZDA3NDljNTMtNjA3NC00YWIyLTk2ZmUtMTY3MmVjZjY1ODVm' *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; img-src 'self' blob: data: *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; media-src 'self' blob: data: *.algolia.net *.algolianet.com *.algolia.io *.googleapis.com *.google-analytics.com *.googletagmanager.com *.sanity.io *.vimeo.com *.youtube.com www.google-analytics.com vercel.live epgrlawyers.vercel.app epgr-dev.vercel.app *.epgrlawyers.com www.googletagmanager.com www.goodmorningamerica.com; font-src 'self' data:; object-src 'none'; base-uri 'self'; form-action 'self'; frame-ancestors 'none'; upgrade-insecure-requests;
+Content-Type: text/plain
+Date: Thu, 17 Oct 2024 22:28:59 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+Vary: RSC, Next-Router-State-Tree, Next-Router-Prefetch, Next-Url
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::iad1::5wbwf-1729492424288-6fed12f99225

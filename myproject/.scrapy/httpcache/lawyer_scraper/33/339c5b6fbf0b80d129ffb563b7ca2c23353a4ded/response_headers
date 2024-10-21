@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:23:49 GMT
+Content-Type: text/html; charset=UTF-8
+X-Ua-Compatible: IE=edge
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+X-Robots-Tag: nofollow
+Expires: Mon, 21 Oct 2024 07:23:49 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://accelerant.ai/robots.txt
+X-Proxy-Cache: MISS
+Cf-Cache-Status: BYPASS
+Set-Cookie: wpjb_transient_id=1729491829-2418; expires=Tue, 22-Oct-2024 06:23:49 GMT; Max-Age=86400; path=/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vpAIWjM2WlUFh2jhgsl7LO77lk2HupktmRHglOHZsPcvS%2FRXUG8n%2FuxG8uKF64Pv0tin%2F%2FZjN530GTbgsjnX9j9lYstJLXi206wsIeTl2jFNOUP748RU6CGPjmOrZ%2Bhufub7Ow%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f293dbf526177-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18112&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2830&recv_bytes=847&delivery_rate=151742&cwnd=157&unsent_bytes=0&cid=4f60a102da27544c&ts=547&x=0"

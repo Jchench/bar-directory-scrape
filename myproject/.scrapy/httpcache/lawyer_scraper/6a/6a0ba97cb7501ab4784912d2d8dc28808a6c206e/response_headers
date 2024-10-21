@@ -1,0 +1,14 @@
+Content-Length: 13824
+Date: Mon, 21 Oct 2024 05:13:29 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Link: <https://taylordemarco.com/wp-json/>; rel="https://api.w.org/", <https://taylordemarco.com/>; rel=shortlink
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 07:13:24 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

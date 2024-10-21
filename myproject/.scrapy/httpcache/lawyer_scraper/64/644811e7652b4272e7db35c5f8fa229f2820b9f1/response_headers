@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:20:18 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 06:20:18 GMT
+Cache-Control: max-age=14400
+X-Redirect-By: WordPress
+Location: https://autoaccident.com/robots.txt
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=X%2FkvIIbPgSveDXEggEXUaXOJjyx7XcB5xZrc130gPzY4np96a2y9tbG%2Bjm90H6R9hI5IB4QZgqWHr5B5z9BWqfUgB2mAkxT8dEQGQW9XncvBDuwAJcEXSx6ZbFBkZBjuzSdjLL85Uw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ecc2dfd9a291c-ORD
+Server-Timing: cfL4;desc="?proto=TCP&rtt=21515&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2840&recv_bytes=850&delivery_rate=157331&cwnd=203&unsent_bytes=0&cid=d566648437e41513&ts=490&x=0"

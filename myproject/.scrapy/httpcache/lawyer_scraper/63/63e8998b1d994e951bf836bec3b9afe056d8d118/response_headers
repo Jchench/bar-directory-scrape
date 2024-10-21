@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:24:22 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Link: <https://www.bdlaw.com/wp-json/>; rel="https://api.w.org/"
+Strict-Transport-Security: max-age=15552000; includeSubDomains
+Content-Encoding: gzip
+Cache-Control: max-age=43200
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:24:22 GMT
+Server-Timing: cfCacheStatus;desc="EXPIRED"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=9H%2FhrU1yiUK0LlYfg0NYag%2BSnmC5GnaS50V6YB0ewxuDQsaRl1RO9zqHGYEEU%2B11XSJYspGobpkdLYo1io1M6WZiqlciuKyrfSheW8HGjuxtWfvKLBcyRCuKipIQuRg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 8d5ed2271bd01141-ORD

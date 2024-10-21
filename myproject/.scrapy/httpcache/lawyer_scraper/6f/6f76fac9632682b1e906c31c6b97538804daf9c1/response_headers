@@ -1,0 +1,24 @@
+Content-Length: 154
+Date: Mon, 21 Oct 2024 04:05:40 GMT
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Wed, 08 Nov 2017 00:05:44 GMT
+Etag: "03c33522558d31:0"
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET
+Content-Security-Policy: script-src 'self' https://www.googletagmanager.com https://*.googleapis.com *.gstatic.com www.google-analytics.com ajax.googleapis.com ajax.aspnetcdn.com use.typekit.net us1.siteimprove.com cdnjs.cloudflare.com use.fontawesome.com static.getclicky.com in.getclicky.com 'unsafe-inline' 'unsafe-eval'
+X-Webkit-Csp: script-src 'self' https://www.googletagmanager.com https://*.googleapis.com *.gstatic.com www.google-analytics.com ajax.googleapis.com ajax.aspnetcdn.com use.typekit.net us1.siteimprove.com cdnjs.cloudflare.com use.fontawesome.com static.getclicky.com in.getclicky.com 'unsafe-inline' 'unsafe-eval'
+X-Content-Security-Policy: script-src 'self' https://www.googletagmanager.com https://*.googleapis.com *.gstatic.com www.google-analytics.com ajax.googleapis.com ajax.aspnetcdn.com use.typekit.net us1.siteimprove.com cdnjs.cloudflare.com use.fontawesome.com static.getclicky.com in.getclicky.com 'unsafe-inline' 'unsafe-eval'
+Strict-Transport-Security: max-age=31536000; preload
+Feature-Policy: accelerometer 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; usb 'self'
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self, fullscreen=self, geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: strict-origin-when-cross-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: sameorigin
+Access-Control-Allow-Origin: www.keker.com
+X-Xss-Protection: 1; mode=block
+Cache-Control: max-age=14400
+Cf-Cache-Status: REVALIDATED
+Accept-Ranges: bytes
+Server: cloudflare
+Cf-Ray: 8d5e5ee009e60102-ORD

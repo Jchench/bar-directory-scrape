@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:13:45 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: s-maxage=10800, max-age=0
+Etag: W/"59350dd14ddd215c5b41e8dc8545db40"
+Last-Modified: Tue, 15 Oct 2024 06:22:06 GMT
+Strict-Transport-Security: max-age=31536000
+Cache-Tag: P-8398187,SS-34471370635,PGS-ALL,SW-3
+Content-Security-Policy: upgrade-insecure-requests
+Edge-Cache-Tag: P-8398187,SS-34471370635,PGS-ALL,SW-3
+X-Hs-Cache-Control: s-maxage=10800, max-age=0
+X-Hs-Cf-Cache-Status: REVALIDATED
+X-Hs-Hub-Id: 8398187
+X-Hs-Prerendered: Tue, 15 Oct 2024 06:22:06 GMT
+Set-Cookie: __cf_bm=cz7YRQI7hdV7ljXGb6qnwF_zM4GPYV9m9Aokwy23.Iw-1729487625-1.0.1.1-X7XmKd.7FhuCsduMmg1oi2v6u9laxw9sibMiTL107KxfKvsMyPI61kWwt7aKgiCvglbKFkn9nz.5Eeh9OBYtuw; path=/; expires=Mon, 21-Oct-24 05:43:45 GMT; domain=.www.cageandmiles.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=9094358fd1550597c90d153f5d535cdbc94e0f59-1729487625; path=/; domain=.www.cageandmiles.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=lv8fSA2KRmBLCjoDvUomUAzwOa0JxiLpfMzS0QLCTJZn0YN8CkIkoWruZJhMNNaCptWNPz78RSL7zGUXvg22duHdBnwb%2Fa4lhhSsH%2B%2FUMH1J0PjJVuW3lFqeJw4jK2Ymmeos0r4g"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ec29bdc8de287-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

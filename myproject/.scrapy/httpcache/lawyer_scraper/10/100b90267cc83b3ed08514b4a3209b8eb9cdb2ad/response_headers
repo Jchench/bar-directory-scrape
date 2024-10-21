@@ -1,0 +1,14 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:21:28 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: accept, content-type, cookie
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Link: <https://phillipsadr.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+X-Ac: 2.mdw _atomic_dca MISS
+Alt-Svc: h3=":443"; ma=86400

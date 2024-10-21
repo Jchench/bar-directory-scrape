@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:19:43 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Cookie
+Last-Modified: Sun, 20 Oct 2024 04:52:49 GMT
+Cache-Control: max-age=222, must-revalidate
+X-Nananana: Batcache-Hit
+Host-Header: wpcloud
+Link: <https://www.fdap.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.fdap.org/wp-json/wp/v2/pages/80>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.fdap.org/>; rel=shortlink
+Content-Encoding: gzip
+X-Ac: 1.mdw _atomic_dca STALE
+Alt-Svc: h3=":443"; ma=86400

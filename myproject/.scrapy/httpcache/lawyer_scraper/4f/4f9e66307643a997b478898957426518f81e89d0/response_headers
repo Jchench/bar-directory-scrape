@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:24:10 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.1.29
+Expires: Mon, 21 Oct 2024 06:24:10 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://raulglomas.com/
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=1xbykluklrMKaBVjqVuXg6IlIZG02OH4Qj3TJ7jahlrXSKkf90g2E3NzGu6vhCSPLwpipDilcbsFsMa9cMxkbKuY8FSCp3NdpH7LlNx6Le93pVQ%2F%2BSq1rDIK%2BglDuBx0HTiNY%2FA%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed1d71a5f115c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=21898&sent=10&recv=8&lost=0&retrans=1&sent_bytes=4361&recv_bytes=1089&delivery_rate=227030&cwnd=253&unsent_bytes=0&cid=3f8475ac5382a491&ts=1628&x=0"

@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:24:49 GMT
+Content-Type: text/plain; charset=utf-8
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests;
+X-Robots-Tag: noindex, follow
+Link: <https://www.ehrlichfirm.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: public, max-age=172800
+Expires: Tue, 22 Oct 2024 21:56:26 GMT
+Vary: Accept-Encoding,User-Agent,User-Agent
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: HIT
+Age: 30504
+Last-Modified: Sun, 20 Oct 2024 21:56:25 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eWxYg%2FUa17a%2FS%2FBag4bvj6XKl%2FJlf6%2BiM%2FRTDNIpfvQF2ZbJTu60efKpJvVFfXnfaLpNiowaTbA46jNmChKvrvxnp8dWMmzC3Tfb62hEPRtthkoE9cNpX7TH%2BpdEIdZAX4XXFD4v"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2ab65b8b62fc-ORD
+Content-Encoding: gzip
+Server-Timing: cfL4;desc="?proto=TCP&rtt=13677&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2837&recv_bytes=849&delivery_rate=200985&cwnd=208&unsent_bytes=0&cid=7ba0799d67680461&ts=1287&x=0"

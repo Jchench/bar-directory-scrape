@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 06:25:09 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://stolllaw.com/robots.txt
+X-Redirect-By: WordPress
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 3
+X-Cache-Group: bot
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bliRnoNkKPxkN%2FfE7ORUwPF7uiWe7XMoKibRNA9%2FIViI86afOIEpNHJcA1gGLnPzC36SFa%2BaXHUvK8cDXiELSen8C5CusaP%2FCiGIjT6fG%2F3NjYOLvPXjgfMQdb9moD05ApmZ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f2b30f9711135-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17391&sent=4&recv=4&lost=0&retrans=0&sent_bytes=2824&recv_bytes=846&delivery_rate=200401&cwnd=239&unsent_bytes=0&cid=3d727b2ac481eaaf&ts=304&x=0"

@@ -1,0 +1,13 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 06:30:28 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:30:28 GMT
+Location: https://chastainejones.com/robots.txt
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=d4S6gZaL4QDwBL40oQrKgLHf54wbpZStehxhwzvBkXgv3O6zrXf6qZh%2BsRUYKr6EvKtw2RZDpYromZDi0iHd100QJfThn4nL1LT1JBD0rIBlsye4nCvQKyQE%2Bo9tnjjh7zNJdhfQ1xUd"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f32fa980989f4-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=25336&sent=3&recv=4&lost=0&retrans=0&sent_bytes=2847&recv_bytes=852&delivery_rate=194741&cwnd=250&unsent_bytes=0&cid=39bbd6fc65c8d488&ts=24&x=0"

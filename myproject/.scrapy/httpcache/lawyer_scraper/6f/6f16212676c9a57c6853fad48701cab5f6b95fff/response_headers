@@ -1,0 +1,16 @@
+Content-Length: 795
+Content-Type: text/html
+Date: Mon, 21 Oct 2024 06:29:56 GMT
+Server: LiteSpeed
+Location: https://werksmanjackson.com/
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: origin, x-requested-with, content-type
+Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS
+Content-Security-Policy: default-src 'unsafe-inline' 'unsafe-eval' data: blob: https: http:;
+Content-Security-Policy: img-src 'unsafe-inline' data: blob: *;
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' data: blob: *;
+X-Xss-Protection: 1; mode=block
+Cache-Control: public

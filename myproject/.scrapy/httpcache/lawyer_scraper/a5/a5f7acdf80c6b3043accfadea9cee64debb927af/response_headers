@@ -1,0 +1,16 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:57 GMT
+Content-Type: text/html; charset=UTF-8
+X-Pingback: https://prosperalaw.com/xmlrpc.php
+X-Redirect-By: WordPress
+Content-Security-Policy: default-src 'self' https://prosperalaw.com; img-src 'self' https://prosperalaw.com https://www.lkpgl.com secure.gravatar.com data:; style-src 'self' 'unsafe-inline' fonts.googleapis.com; font-src 'self' fonts.gstatic.com data:; script-src 'unsafe-inline' 'unsafe-eval' https://prosperalaw.com; frame-ancestors 'none'; form-action 'self'; object-src 'none'; script-src 'nonce-{random}' 'unsafe-inline' 'unsafe-eval' 'strict-dynamic' https: http:; base-uri 'none'
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: deny
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Location: https://prosperalaw.com/
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Mon, 21 Oct 2024 06:27:56 GMT
+Age: 0
+X-Cache: MISS

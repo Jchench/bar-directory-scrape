@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 05:32:44 GMT
+Content-Type: text/plain
+X-Powered-By: Express
+X-Bubble-Perf: {"total":23.1,"percents":{"top":{"bubble_cpu":18.1,"block":79.6,"capacity_rl":0,"other_pause":0,"pre_fiber":2.6},"sub":{"pp_userdb":0,"pp_wait_userdb":0,"http_request":0,"serverjson":40.6,"appserver_cache_misses_time":0,"redis":44.5,"fiber_queue":4.8,"capacity_wait":8.7}},"counts":{"pp_userdb":0,"http_request":0,"derived_build":0,"serverjson":8,"appserver_cache_attempts":0,"appserver_mem_cache_hits":0,"appserver_cache_hits":0,"appserver_cache_misses":0,"redis":13,"fiber_queue":15,"blocks":14},"misc":{"userdb_results":0,"userdb_data":0,"spent_time":627933}}
+X-Bubble-Capacity-Used: 0.01 unit-seconds used
+X-Bubble-Capacity-Limit: 0 ms slower
+Vary: Accept-Encoding
+Last-Modified: Mon, 21 Oct 2024 05:32:44 GMT
+Cf-Cache-Status: EXPIRED
+Server: cloudflare
+Cf-Ray: 8d5ede6bcdc31105-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

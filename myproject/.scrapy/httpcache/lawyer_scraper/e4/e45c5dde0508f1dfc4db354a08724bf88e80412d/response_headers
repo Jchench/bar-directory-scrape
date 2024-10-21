@@ -1,0 +1,16 @@
+Date: Mon, 21 Oct 2024 06:31:13 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/7.4.33
+X-Robots-Tag: noindex, follow
+Link: <https://calaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:31:13 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=HMj9vdHVSAAYTQmjN%2FE71hzfvHod5phNKx6BDxkXUw0zFHDw0xI3lCURp4hZ5oZOAgwyJBBnvdRc4EnrqvmTpX5HVDuvmNypySgkFj%2FcWwTwjvtSXyfMpEJob1s%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3411db8310dd-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17352&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2816&recv_bytes=839&delivery_rate=210419&cwnd=249&unsent_bytes=0&cid=e4d6fac273369dc7&ts=645&x=0"

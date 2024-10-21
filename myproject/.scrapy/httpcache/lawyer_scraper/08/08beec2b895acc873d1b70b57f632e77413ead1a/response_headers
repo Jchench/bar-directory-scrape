@@ -1,0 +1,11 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 05:28:12 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Set-Cookie: qtrans_front_language=en; expires=Tue, 21-Oct-2025 05:28:12 GMT; Max-Age=31536000; path=/
+Location: https://bonniesklapper.com/
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Mon, 21 Oct 2024 05:28:11 GMT
+Age: 0
+X-Cache: MISS

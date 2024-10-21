@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492703.4261421606187624400
+Html-Cacheable: true
+Etag: W/"003685282557b37569aeea44641e8796"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492703|j4WQ8b027TOQ; Path=/; Domain=www.kosslawoffices.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:38:23 GMT
+X-Served-By: cache-chi-klot8100069-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,VtqAe8Wu9wvSsl49B/X4+ewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLisKKfFxaoxVWh9lgIvbTC3V0TBmJ+uLPQ4OZPC1VSMH,2d58ifebGbosy5xc+FRaliHM8Ay1fNe/zeVFqkD1u8G4y5Op3/QmBST/rqSNjOn0RsM/kwNYbCDi8N+1ydB/VA==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR1BR5P0wTWNfYH7b935M50/yno9WWZ+tWJkay0UtNckb4hvFGeMPF5fdfHOa7VknIA==,2m8lepT6TCqm7fnWMwrKXXnuXuBtDQE/fVkf8W2c7Ts=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326otqZKMC3FWGktS1nqbxDHcL0L4pM4UL/YR/O8sZfAW6Q==,wMT/a/PqeRQhgzoBC4C0rMMnb8EYZe2UbPKmp1lSIuM=,bamBRVWSlN/v1ZTIwXGEoFFaJyre+jpfTvaJgwVjfY0CjFKWw6pKIBzR3hU2jKAecjUYt+Xaqq6QyXakPF+bWg==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

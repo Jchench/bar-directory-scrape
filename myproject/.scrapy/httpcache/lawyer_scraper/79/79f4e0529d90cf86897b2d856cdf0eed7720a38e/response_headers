@@ -1,0 +1,12 @@
+Content-Length: 31
+Cache-Control: max-age=3600, public, must-revalidate,public
+Expires: Wed, 20 Nov 2024 06:27:55 GMT
+Content-Type: text/plain; charset=UTF-8
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:27:55 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Vary: Accept-Encoding
+X-Powered-By: WP Rocket/3.17.1

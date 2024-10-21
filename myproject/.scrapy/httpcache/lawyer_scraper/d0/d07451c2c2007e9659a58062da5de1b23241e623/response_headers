@@ -1,0 +1,19 @@
+Content-Length: 107
+Server: hcdn
+Date: Mon, 21 Oct 2024 05:14:37 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.1.27
+Link: <https://dahllaw.net/index.php/wp-json/>; rel="https://api.w.org/"
+Cache-Control: public, max-age=2592000,s-maxage=2592000
+Expires: Wed, 20 Nov 2024 05:14:37 GMT
+Content-Encoding: gzip
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests
+X-Turbo-Charged-By: LiteSpeed
+Alt-Svc: h3=":443"; ma=86400
+X-Hcdn-Request-Id: 810fc34271bad29e238f4c45025ab2dd-bos-edge1
+X-Hcdn-Cache-Status: MISS
+X-Hcdn-Upstream-Rt: 0.593
+Accept-Ranges: bytes

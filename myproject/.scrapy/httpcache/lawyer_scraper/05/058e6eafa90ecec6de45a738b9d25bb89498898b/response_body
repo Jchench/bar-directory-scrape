@@ -1,0 +1,9 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: https://www.stevenslee.com/sitemap_index.xml
+Sitemap: https://www.griffinfingroup.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

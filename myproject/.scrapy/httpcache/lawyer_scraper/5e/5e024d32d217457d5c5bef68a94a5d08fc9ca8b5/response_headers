@@ -1,0 +1,10 @@
+Content-Length: 64
+Server: openresty
+Date: Mon, 21 Oct 2024 06:29:03 GMT
+Content-Type: text/plain; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+Accept-Ch: Sec-CH-Save-Data, Sec-CH-DPR, Sec-CH-Width, Sec-CH-Viewport-Width, Sec-CH-Viewport-Height, Sec-CH-Device-Memory, Sec-CH-RTT, Sec-CH-Downlink, Sec-CH-ECT, Sec-CH-Prefers-Color-Scheme, Sec-CH-UA-Arch, Sec-CH-UA-Bitness, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version
+Permissions-Policy: ch-ua-platform-version=("https://dts.gnpge.com"), ch-ua-model=("https://dts.gnpge.com")
+Last-Modified: Thu, 08 Apr 2021 06:29:27 GMT
+Etag: "40-5bf702b5711bc"
+Accept-Ranges: bytes

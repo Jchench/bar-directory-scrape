@@ -1,0 +1,13 @@
+X-Powered-By: PHP/7.4.33
+Last-Modified: Mon, 21 Oct 2024 00:26:10 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: public, max-age=0
+Expires: Mon, 21 Oct 2024 06:27:56 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding,Accept-Encoding
+Date: Mon, 21 Oct 2024 06:27:56 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

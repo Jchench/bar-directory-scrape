@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729489042.7591418848997941227
+Html-Cacheable: true
+Etag: W/"c1d51130e5a192d247e14d59a402447f"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729489043|jwDcuEV6bIqZ; Path=/; Domain=www.tipsgroup.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:37:23 GMT
+X-Served-By: cache-chi-kigq8000022-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,pmHZlB45NPy7b1VBAukQrewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLupO/enPqTWY4Qy4iOZWWztGkFvVdT2Nq6f3Hedj7ewB,2d58ifebGbosy5xc+FRalqaWZZAkcKeD4d+UaXQoqe1muBoAOht4NnoSjMRrPV28HXdaOJYFCbeK5H5VeERkzg==,2UNV7KOq4oGjA5+PKsX47OFQIYwPrAuSSGkhbTTPX/NYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR51NIkM8wQ0SsU0jOBuBexP/gJD2XOtu01Gulsyo2GYDx+EtnrbtknRdXkhB64/yBw==,a3Nab0JeNmH4JCj2Hpshz2tRF2EYifIkAKd3usi9Udw=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rsDtathsqilX0yJvk6O/w9xT3iX6/Dnn6HAjTyZoNsYQ==,wMT/a/PqeRQhgzoBC4C0rMMnb8EYZe2UbPKmp1lSIuM=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxFdR/jiMwPe9p6cVq3VU51anP0EJo7hFpoCttcu9uJ35WsdmlIc7WAioOuQ8XHly0g=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

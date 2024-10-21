@@ -1,0 +1,10 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:24:24 GMT
+Server: nginx/1.23.4
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 07:24:24 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://tinnellylaw.com/robots.txt
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

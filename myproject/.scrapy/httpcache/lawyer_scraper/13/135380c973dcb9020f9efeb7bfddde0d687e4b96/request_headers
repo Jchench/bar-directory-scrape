@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: apbct_timestamp=1729487625; apbct_site_landing_ts=1729487625; apbct_page_hits=1; apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%2522616765dd64c6ad15edee962dc7ec5b58%2522%257D; ct_sfw_pass_key=d39c11a45e463d927e4f977cd4fc9cba0; apbct_urls=%7B%22www.copenbarger.com%2Frobots.txt%22%3A%5B1729487625%5D%7D; apbct_site_referer=UNKNOWN

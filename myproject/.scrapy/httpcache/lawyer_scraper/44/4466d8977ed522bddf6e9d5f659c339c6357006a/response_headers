@@ -1,0 +1,15 @@
+Content-Length: 0
+Server: hcdn
+Date: Mon, 21 Oct 2024 06:30:48 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/7.4.33
+X-Redirect-By: WordPress
+Location: https://deichlerlaw.com/robots.txt
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests
+X-Turbo-Charged-By: LiteSpeed
+Alt-Svc: h3=":443"; ma=86400
+X-Hcdn-Request-Id: b4995ef83ab1f4c23033214a708f234f-bos-edge1
+X-Hcdn-Cache-Status: MISS
+X-Hcdn-Upstream-Rt: 1.957

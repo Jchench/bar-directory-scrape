@@ -1,0 +1,18 @@
+Content-Length: 136
+Date: Mon, 21 Oct 2024 06:19:51 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 8d5f236e0c5a61f8-ORD
+Cf-Cache-Status: MISS
+Accept-Ranges: bytes
+Cache-Control: max-age=14400
+Content-Encoding: gzip
+Last-Modified: Mon, 21 Oct 2024 06:19:51 GMT
+Link: <https://www.brumfieldlawgroup.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cf-Apo-Via: origin,nohtml
+Cf-Edge-Cache: cache,platform=wordpress
+X-Powered-By: PHP/7.4.33
+X-Robots-Tag: noindex, follow
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=DG%2BCZBhTwbBwKEgys8fcaZ3gH6gdzb%2FohbBQXZxnBnVkn8tEJj1VNwB%2BNQK7gLxPRIq7XLIBo4n6KcgLzvkXvI7yq5g9uypfCAb9Qef0F%2Bmj39%2BueMy5nYqZm6xLyQYDvUFVPTGZAt9EoOI%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare

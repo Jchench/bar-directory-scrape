@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:37:33 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5f3d5aeb70116b-ORD
+Cf-Cache-Status: MISS
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 06:37:33 GMT
+Link: <https://hemmerbarrlaw.com/wp-json/>; rel="https://api.w.org/", <https://hemmerbarrlaw.com/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json", <https://hemmerbarrlaw.com/>; rel=shortlink
+Vary: Accept-Encoding
+Cache-Tag: 71645763-3450-45f0-9167-68137c76bb31,5b7343461d5da23aed5fdab0309f4ff247335c6573e0617b03dd8d9f209d45e9
+Ki-Cache-Tag: 71645763-3450-45f0-9167-68137c76bb31,5b7343461d5da23aed5fdab0309f4ff247335c6573e0617b03dd8d9f209d45e9
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: SAVING
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=APr7iqbgue4nKyts7fPi5AtGK8HnteimNTx%2Fs30GwdG8NnhZDQ0uiQ0rh%2F1c6pN9GsjWky1wstdtB6XYgNnQv5trCwQ%2F3dSMJ8OPZk2DeoYFHICnFkFKBuyOq4vZl4dESIFC"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

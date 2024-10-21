@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:34:25 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://practus.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://practus.com/wp-json/wp/v2/pages/9>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://practus.com/>; rel=shortlink
+Server-Timing: wp-before-template;dur=219.83
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 57
+X-Cache-Group: bot
+Content-Encoding: gzip

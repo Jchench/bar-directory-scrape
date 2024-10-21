@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:33:50 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Pragma: no-cache
+X-Robots-Tag: noindex, follow
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 5
+X-Cache-Group: bot
+Access-Control-Allow-Origin: *
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Last-Modified: Mon, 21 Oct 2024 05:33:50 GMT
+Cf-Cache-Status: MISS
+Server: cloudflare
+Cf-Ray: 8d5ee007bd370298-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

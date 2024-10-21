@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 05:16:12 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Last-Modified: Mon, 12 Aug 2024 16:12:28 GMT
+Etag: W/"66ba346c-10a"
+Cache-Control: public, max-age=300
+Content-Security-Policy: upgrade-insecure-requests
+Permissions-Policy: accelerometer=(), battery=(), camera=(), gyroscope=(), magnetometer=(), microphone=(), midi=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: HIT
+Server: cloudflare
+Cf-Ray: 8d5ec63128d213fe-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

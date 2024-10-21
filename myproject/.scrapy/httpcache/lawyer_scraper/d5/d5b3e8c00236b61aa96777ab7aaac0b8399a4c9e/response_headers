@@ -1,0 +1,15 @@
+Content-Length: 24
+Date: Mon, 21 Oct 2024 05:25:32 GMT
+Content-Type: text/plain
+Cf-Ray: 8d5ed3dd6f65acab-ORD
+Cf-Cache-Status: HIT
+Accept-Ranges: bytes
+Age: 3335
+Cache-Control: max-age=43200
+Etag: "66bcfaae-18"
+Last-Modified: Wed, 14 Aug 2024 18:42:54 GMT
+Strict-Transport-Security: max-age=15552000
+Vary: Accept-Encoding
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=rdQAEEzE6lasdFlyDXZmXBlVnBYXDYJATlOocJqQc6qPwBPKN%2BtrCI92khhmcdvWwRFRbL9bCaI%2FhSobpwjlGT%2B9VrhOdkpJdbReSWP4%2FOGd829brOskxsUu%2BL0GZWJ%2FFf4amdB0BQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare

@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:28:10 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Accept-Ch: Sec-CH-UA-Mobile
+X-Pingback: https://ohaganmeyer.com/xmlrpc.php
+X-Nitro-Cache: MISS
+X-Nitro-Disabled-Reason: page type not allowed (home)
+X-Nitro-Disabled: 1
+Link: <https://ohaganmeyer.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://ohaganmeyer.com/wp-json/wp/v2/pages/5>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://ohaganmeyer.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 10
+X-Cache-Group: bot
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ed7b7ced3e223-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

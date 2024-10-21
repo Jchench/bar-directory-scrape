@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:34:53 GMT
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Powered-By: 
+Strict-Transport-Security: max-age=31536000; preload
+Expires: Mon, 21 Oct 2024 06:08:10 GMT
+X-Redirect-By: WordPress
+Location: https://bartkolaw.com/
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'self'
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ee191bac261b1-ORD
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,33 @@
+Content-Length: 58310
+Cache-Control: max-age=0, public, s-maxage=21600
+Content-Encoding: gzip
+Content-Language: en
+Content-Type: text/html; charset=UTF-8
+Etag: W/"1729481893"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 21 Oct 2024 03:38:13 GMT
+Link: <https://www.disabilityrightsca.org/home>; rel="alternate"; hreflang="en"
+Link: </home>; rel="canonical"
+Link: </taxonomy/term/51>; rel="shortlink"
+Link: </taxonomy/term/51/delete>; rel="delete-form"
+Link: </taxonomy/term/51/edit>; rel="edit-form"
+Link: </taxonomy/term/51/translations>; rel="drupal:content-translation-overview"
+Link: </taxonomy/term/51/translations/add>; rel="drupal:content-translation-add"
+Link: </taxonomy/term/51/translations/edit>; rel="drupal:content-translation-edit"
+Link: </taxonomy/term/51/translations/delete>; rel="drupal:content-translation-delete"
+Server: nginx
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 8 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe4-a-746c76f549-tmsbz
+X-Styx-Req-Id: e67c546f-8f5d-11ef-b7f5-4a99526bc4d8
+X-Ua-Compatible: IE=edge
+Date: Mon, 21 Oct 2024 05:11:28 GMT
+X-Served-By: cache-chi-kigq8000089-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729487489.811726,VS0,VE3
+Vary: Accept-Encoding, Cookie, Cookie
+Age: 5595
+Accept-Ranges: bytes
+Via: 1.1 varnish

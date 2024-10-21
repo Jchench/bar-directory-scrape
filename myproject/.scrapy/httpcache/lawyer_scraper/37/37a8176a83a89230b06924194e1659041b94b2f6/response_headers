@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:31:38 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Edge-Cache: cache,platform=wordpress
+X-Redirect-By: WordPress
+Set-Cookie: HandLtestDomainNameServer=HandLtestDomainValueServer; expires=Tue, 22 Oct 2024 06:31:38 GMT; Max-Age=86400; path=/; domain=.caseygerry.com
+Set-Cookie: handl_url_base=https%3A%2F%2Fwww.caseygerry.com%2F; expires=Fri, 20 Dec 2024 06:31:38 GMT; Max-Age=5184000; path=/; domain=.caseygerry.com; secure; SameSite=None
+Set-Cookie: handl_url=https%3A%2F%2Fwww.caseygerry.com%2F; expires=Fri, 20 Dec 2024 06:31:38 GMT; Max-Age=5184000; path=/; domain=.caseygerry.com; secure; SameSite=None
+Set-Cookie: HandLtestDomainNameServer=HandLtestDomainValueServer; expires=Tue, 22 Oct 2024 06:31:38 GMT; Max-Age=86400; path=/; domain=.caseygerry.com
+Vary: Accept-Encoding
+Location: https://caseygerry.com/
+Cache-Control: max-age=0
+Expires: Mon, 21 Oct 2024 06:31:38 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 0
+X-Nginx-Cache: WordPress
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0Y8lmLCfPhtUfpbdudDqsvTk%2B0mqjFlU5p48yuNfDafu9RDfQ%2Fk7aSo9PiHtbZud%2F421aO83T5nOyE9ppWPWJBk0v%2Fs86d%2F0IGltYl5%2BgRAdGtlS61oVYVyo2bAU47u2PbvoEw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f34af2b4c619f-ORD

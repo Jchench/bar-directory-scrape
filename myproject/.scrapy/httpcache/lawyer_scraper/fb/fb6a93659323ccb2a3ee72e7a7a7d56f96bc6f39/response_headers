@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 06:29:42 GMT
+Content-Type: text/plain; charset=utf-8
+Link: <https://www.rinconlawllp.com/wp-json/>; rel="https://api.w.org/"
+Last-Modified: Mon, 21 Oct 2024 06:29:42 GMT
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0AQJkvg7gOuP2OKT7Dz9rABMGvUTedZxwYOu29FqnQz7nsyXf4HhQCWj3y%2B8WgyBZPJXcff6tNiJgSHtNhI5%2BEeJVZkjz2uQF%2F%2F6qz2FvhIOiyJ3ifEhPLljieLICDr4qUnYoWAvtA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f31d40f2a6392-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17504&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2841&recv_bytes=850&delivery_rate=189503&cwnd=234&unsent_bytes=0&cid=1174b0557670b8df&ts=1074&x=0"

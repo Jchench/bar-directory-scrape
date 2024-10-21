@@ -1,0 +1,11 @@
+Content-Length: 151
+Content-Type: text/html; charset=UTF-8
+Location: http://ktslaw.com/robots.txt
+Server: Microsoft-IIS/10.0
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: 'unsafe-inline' object-src data: 'unsafe-eval'
+Date: Mon, 21 Oct 2024 06:23:15 GMT

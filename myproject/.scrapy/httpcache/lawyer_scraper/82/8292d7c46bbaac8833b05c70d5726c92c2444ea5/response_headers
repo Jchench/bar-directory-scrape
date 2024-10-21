@@ -1,0 +1,15 @@
+Content-Length: 299
+Cache-Control: max-age=3600
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Etag: "37b048b8c14c1f09787a50962fac364ca5fcf7e633427c3b6d9f09e29bf7cfdf"
+Last-Modified: Fri, 16 Aug 2024 21:29:52 GMT
+Strict-Transport-Security: max-age=31556926; includeSubDomains; preload
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:22:18 GMT
+X-Served-By: cache-chi-kigq8000091-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1729488138.258127,VS0,VE132
+Vary: x-fh-requested-host, accept-encoding
+Alt-Svc: h3=":443";ma=86400,h3-29=":443";ma=86400,h3-27=":443";ma=86400

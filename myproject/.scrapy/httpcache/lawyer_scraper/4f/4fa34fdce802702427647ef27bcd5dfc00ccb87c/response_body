@@ -1,0 +1,272 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+
+
+<html>
+
+
+
+	<head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+
+		
+
+		<title>Stoody &amp; Mills</title>
+
+		<meta name="description" content="Are committed to providing high quality and cost-effective representation throughout Southern California . The firm specializes in representing both public entities and private employers in all aspects of Workers&rsquo; Compensation Defense.">
+
+		<meta name="keywords" content="Stoody, Mills &amp; Doyle, Stoody, Mills, Doyle">
+
+		<meta name="author" content="www.909Media.com">
+
+		<link href="website.css" rel="stylesheet" type="text/css" media="all">
+
+		<csactionitem name="12A73233"></csactionitem>
+
+		<csscriptdict import>
+
+			<script type="text/javascript" src="GeneratedItems/CSScriptLib.js"></script>
+
+		</csscriptdict>
+
+		<csimport user="reference/address.html" occur="10">
+
+			<link href="website.css" rel="stylesheet" type="text/css" media="all">
+
+		</csimport>
+
+		<csimport user="reference/title.html" occur="24">
+
+			<csactiondict>
+
+				<script type="text/javascript"><!--
+
+function preloadImagesCmp0064443524() {
+
+	if (document.images) {
+
+		pre_main_o = newImage('imgs/buttons/main_o.jpg');
+
+		pre_areasofpractice_o = newImage('imgs/buttons/areasofpractice_o.jpg');
+
+		pre_attorneyprofiles_o = newImage('imgs/buttons/attorneyprofiles_o.jpg');
+
+		pre_webresources_o = newImage('imgs/buttons/webresources_o.jpg');
+
+		pre_contactus_o = newImage('imgs/buttons/contactus_o.jpg');
+
+	}
+
+}
+
+// --></script>
+
+			</csactiondict>
+
+			<link href="website.css" rel="stylesheet" type="text/css" media="all">
+
+		</csimport>
+
+		<csimport user="reference/footer.html" occur="33">
+
+			<link href="website.css" rel="stylesheet" type="text/css" media="all">
+
+		</csimport>
+
+	</head>
+
+
+
+	<body onLoad="CSScriptInit();preloadImages();" bgcolor="#ece8dd"  leftmargin="0" marginheight="0" marginwidth="0" topmargin="0">
+
+		<csobj csref="reference/title.html" h="130" occur="24" t="Component" w="856">
+
+			<table width="100%" border="0" cellspacing="0" cellpadding="0"  background="imgs/bckgrdnameline.jpg">
+
+				<tr>
+                
+                <td align="center"><img src="imgs/name.jpg" >
+                
+              </tr>
+                
+                </td>
+
+		  </table>
+            <div class="menu">
+
+			<ul>
+			<li><a href="main.html"> Home </a></li>
+			<li><a href="areasofpractice.html"> Areas of Practice </a></li>
+			<li><a href="attorneyprofiles.html"> Attorney Profiles </a></li>
+			<li><a href="webresources.html"> Web Resources </a></li>
+			<li><a href="contactus.html"> Contact Us </a></li>
+		</ul>
+        
+        </div>
+
+		</csobj>
+
+		<table width="100%" border="0" cellspacing="0" cellpadding="0" height="81%">
+
+			<tr>
+
+				<td align="center" valign="top" bgcolor="#ece8dd">
+
+					<p><br>
+
+					</p>
+
+					<h5><b><u>The Law Offices of Stoody &amp; Mills</u></b><br>
+
+				  </h5>
+
+<center><img src="imgs/smd.jpg"></center>
+
+					<p align="center"> Stoody &amp; Mills specializes in the defense of Workers&rsquo; Compensation matters, whether they are self-insured employers or insurance carriers. We represent some of the most respected businesses and insurance companies in Southern California. The firm covers several Workers&rsquo; Compensation Appeal Boards including: Ventura County, Los Angeles County, Orange County, Riverside County and San Diego County.</p>
+					<p align="center">Since its founding in 2001, the firm has specialized in the representation of many types of employers in defense of their Workers&rsquo; Compensation matters, as well as defending Labor Code Section 132a actions and claims for Serious &amp; Willful Misconduct. Our firm has also been retained as a Workers&rsquo; Compensation Expert Witness on civil matters and has testified in court on many occasions.<br>
+					  
+					  <br>
+					  
+					  
+					  
+					  
+					  
+					  
+					  
+					  &nbsp;</p>
+
+				</td>
+
+				<td width="12" align="center" valign="top" bgcolor="#ece8dd" ></td>
+
+				<td align="center" valign="top" bgcolor="#ece8dd" width="200"><csobj csref="reference/address.html" h="767" occur="10" t="Component" w="200">
+
+				  <table width="198" border="0" cellspacing="0" cellpadding="0">
+
+							<tr>
+
+								<td align="center" style="padding-top:15px;">
+
+									
+
+									<h6>Stoody &amp; Mills </h6>
+
+									<address>19762 MacArthur Blvd.,<br /> Suite 350<br>
+
+									</address>
+
+									<address>Irvine, CA 92612</address>
+
+									<address>Telephone: (949) 223-9876</address>
+
+									<address>Facsimile: (949) 223-9879<br>
+
+										<br>
+                                        <br>
+
+									</address>
+
+								</td>
+
+							</tr>
+
+							<tr>
+
+								<td align="center">
+
+								
+
+									<h6><br>
+
+										<br>
+									</h6>
+
+								</td>
+
+							</tr>
+
+							<tr>
+
+								<td align="center">
+
+									
+
+                              </td>
+
+							</tr>
+
+						</table>
+
+						<p></p>
+
+					</csobj></td>
+
+			</tr>
+
+			<tr height="25">
+
+				<td align="center" valign="middle" bgcolor="#f6f6f6" height="25"><csobj h="19" occur="33" t="Component" w="644" csref="reference/footer.html">
+
+						<table width="100%" border="0" cellspacing="0" cellpadding="0" height="50px">
+
+							<tr>
+
+								<td align="center" valign="middle" bgcolor="#ece8dd"><a title="Main Page" href="main.html" target="_self">Main</a> | <a title="Areas Of Practice" href="areasofpractice.html" target="_self">Areas Of Practice</a> | <a title="Attorney Profiles" href="attorneyprofiles.html" target="_self">Attorney Profiles</a> | <a title="Web Resources" href="webresources.html" target="_self">Web Resources</a> | <a title="Contact Us" href="contactus.html" target="_self">Contact Us</a></td>
+
+							</tr>
+
+						</table>
+
+					</csobj></td>
+
+				<td width="12" height="25" align="center" valign="middle" bgcolor="#ece8dd">
+
+					<p>
+
+						
+
+					</p>
+
+				</td>
+
+				<td align="center" valign="middle" bgcolor="#ece8dd" width="200" height="25">
+
+					<p>
+
+						
+
+					</p>
+
+				</td>
+
+			</tr>
+
+		</table>
+
+<div style="text-align: center; background-color:#1c2d51; height:50px;"><font size="-1"><span style="color: rgb(255, 255, 255);">Material on this site is owned by Stoody &amp; Mills.</span><br style="color: rgb(255, 255, 255);">
+
+<span style="color: rgb(255, 255, 255);">No material or photographs from www.smdcomp.com or pages contained within, may be copied, reproduced, republished, uploaded, posted, transmitted, sold, resold or distributed in any way.</span><br>
+
+</font>
+</div>
+
+
+
+
+		<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+
+		</script>
+
+		<script type="text/javascript">
+
+		_uacct = "UA-557433-4";
+
+		urchinTracker();
+
+		</script>
+
+	</body>
+
+
+
+</html>
+

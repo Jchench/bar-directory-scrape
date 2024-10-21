@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729487527.63514244523527732092
+Html-Cacheable: true
+Etag: W/"0359758fbd1011c886e77c5af4195cd1"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729487528|VDZGyhtZjrvn; Path=/; Domain=www.attwoodgregg.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:12:08 GMT
+X-Served-By: cache-chi-klot8100174-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLsNSikLMYkJJqXV1PzQmZDtGkFvVdT2Nq6f3Hedj7ewB,2d58ifebGbosy5xc+FRalvft+Dyk4HK+tSDOX+Z9dQ16ms7hanSLfrZO0IDyklb4q3Gry/W4bYKbmHjCwLUKSA==,2UNV7KOq4oGjA5+PKsX47B1ANU/aY3kA+J3E1oSuFO5YgeUJqUXtid+86vZww+nL,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==,FcQVZNVyq29GWX70LfR7tq0hveBuB4gDEEH9mK1WLY4=,LoUK8/saGAmOxZWtpubo2jnczfUW7fXB9AsnyRTMdrZAyWWezndYM6XkJbDInvvh5KbMD0WFGi1Yq12SFpF14g==,oMn5DGqJfTCTt/V07PQOqSM1cYNZW0jFlcbO4UGn964=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxGC0mzk3zW2+ilBu2g+PD8b87DuFnj62qGcfNxJvXF5q+qXI3sTWItAqM/ogSOxAYA=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

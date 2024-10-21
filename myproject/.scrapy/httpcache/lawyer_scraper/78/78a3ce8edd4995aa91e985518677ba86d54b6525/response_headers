@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:13:24 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 03:08:38 GMT
+X-Redirect-By: WordPress
+Location: https://walzermelcher.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Cf-Cache-Status: HIT
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ec21728251152-ORD
+Alt-Svc: h3=":443"; ma=86400

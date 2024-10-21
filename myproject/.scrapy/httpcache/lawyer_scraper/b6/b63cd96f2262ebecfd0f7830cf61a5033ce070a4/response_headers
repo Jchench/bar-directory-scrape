@@ -1,0 +1,19 @@
+Content-Length: 38515
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: accelerometer=(self), ambient-light-sensor=(self), autoplay=(self), battery=(self), camera=(self), cross-origin-isolated=(self), display-capture=(self), document-domain=(self), encrypted-media=(self), execution-while-not-rendered=(self), execution-while-out-of-viewport=(self), geolocation=(self), gyroscope=(self), keyboard-map=(self), magnetometer=(self), microphone=(self), midi=(self), navigation-override=(self), payment=(self), picture-in-picture=(self), publickey-credentials-get=(self), screen-wake-lock=(self), sync-xhr=(self), usb=(self), web-share=(self), xr-spatial-tracking=(self)
+Cache-Control: max-age=3600, stale-while-revalidate=30, stale-if-error=60
+Last-Modified: Sun, 20 Oct 2024 07:26:39 GMT
+Etag: "35afb-624e37504ee0e-gzip"
+Expires: Mon, 21 Oct 2024 05:43:26 GMT
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+Content-Type: text/html;charset=utf-8
+X-Content-Type-Options: nosniff
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:38:00 GMT
+Age: 3574
+Strict-Transport-Security: max-age=31557600
+X-Served-By: cache-chi-klot8100091-CHI
+X-Cache: HIT
+X-Timer: S1729492681.669353,VS0,VS0,VE3
+Vary: Accept-Encoding

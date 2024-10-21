@@ -1,0 +1,7 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: oag.ca.gov=1946487463.20480.0000; incap_ses_132_1238842=pr08DcdpDxMz2u84d/XUAVzoFWcAAAAAJoaH5ogIx5K1LmUPT7UK4w==
+If-Modified-Since: Mon, 21 Oct 2024 05:30:12 GMT
+If-None-Match: "1729488612-0"

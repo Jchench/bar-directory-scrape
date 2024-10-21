@@ -1,0 +1,29 @@
+User-Agent: Elastic Crawler
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /lp/
+Disallow: /petitions/*
+Disallow: /legal/mosa-one*
+
+User-agent: LinkedInBot
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /lp/
+Disallow: /petitions/*
+Disallow: /legal/mosa-one*
+
+User-Agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-content/plugins/
+Disallow: /wp-admin/
+Disallow: /lp/
+Disallow: /petitions/*
+Disallow: /legal/mosa-one*
+Disallow: /de/*
+Disallow: /it/*
+Disallow: /fr/*
+
+Sitemap: https://www.mwe.com/sitemap_index.xml
+

@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:37:45 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.ducrelaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:37:45 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qvkirJH9mbHJCFKCSDjGexiF%2FVEVfOygGdITbtIa2BhgbyOYbUMywTB2ihsnjrVVye5Yg5Fa7gpkxEUU5ypMuWmWUlbJkdv6t0HmkuQ2Tg49yKAXcXUeIRrTPKWJOX9TxJWX"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee5bc9eeb112f-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17971&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2828&recv_bytes=846&delivery_rate=189727&cwnd=240&unsent_bytes=0&cid=3cb7dad9e4c81981&ts=1764&x=0"

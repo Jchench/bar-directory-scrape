@@ -1,0 +1,12 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:20:17 GMT
+Content-Type: text/html; charset=UTF-8
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=604800 ; includeSubDomains
+Referrer-Policy: origin-when-cross-origin
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+X-Redirect-By: WordPress
+Location: https://mechlaw.com/
+X-Cache: MISS

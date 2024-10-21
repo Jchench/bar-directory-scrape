@@ -1,0 +1,136 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+        "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<meta http-equiv="content-type" content="text/html; charset=iso-8859-1">
+	<title></title> 
+<style type="text/css" media="screen">
+	body
+	{
+		margin: 0;
+		padding: 0;
+		font: 85% arial, hevetica, sans-serif;
+		text-align: center;
+		color: #505367;
+		background-color: #ffffcb;
+	}
+	
+	#container
+	{
+		margin: 0 auto;
+		text-align: left;
+		background-color: #ffffcb;
+	}
+	
+	#header
+	{
+		height: 240px;
+	}
+	
+	
+	#menu
+	{
+		float: left;
+		width: 190px;
+		height: 100px;
+		padding-left: 70px;
+		display: inline;
+	}
+	
+	
+	#contents
+	{
+		margin-left: 260px;
+		margin-right: 20px;
+	}
+	
+.style1 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: xx-large;
+}
+.style4 {font-family: Geneva, Arial, Helvetica, sans-serif; color: #000000; font-size: small;}
+.style6 {
+	font-family: "Times New Roman", Times, serif;
+	font-size: medium;
+	font-weight: bold;
+}
+.style7 {
+	font-size: x-small
+}
+.style8 {font-size: xx-small}
+.style9 {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	color: #000000;
+	font-size: medium;
+	font-weight: bold;
+}
+.style11 {
+	font-family: "Times New Roman", Times, serif;
+	color: #000000;
+	font-size: x-large;
+}
+.style12 {font-size: medium}
+.style13 {font-size: larger}
+</style>
+<script language="JavaScript1.2" type="text/javascript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+//-->
+</script>
+</head>
+<body onLoad="MM_preloadImages('Home page buttons jpgs/fbofficero.jpg','ro1dnaboutus.jpg','ro1dnwhatis.jpg','ro1dnplanningforme.jpg','ro1dnplanningforparents.jpg','ro1dnplanningspecialchild.jpg','ro1dnlongtermcare.jpg','ro1dncommonquestions.jpg','ro1dnresourcesandlinks.jpg','ro1dnreturnhome.jpg','ro1dndontplan.jpg')">
+<div id="container">
+	<div id="header"><img src="index_r1_c1.jpg" width="1369" height="239" border="0" align="top"></div>  
+  <div id="menu"><a href="biointro.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('About us','','ro1dnaboutus.jpg',1)"><img src="index_r2_c2.jpg" name="About us" width="159" height="55" border="0"></a><br />
+    <a href="whatis.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('what is','','ro1dnwhatis.jpg',1)"><img src="index_r3_c2.jpg" name="what is" width="159" height="55" border="0"></a><br />
+    <a href="planningforme.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('for me','','ro1dnplanningforme.jpg',1)"><img src="index_r4_c2.jpg" name="for me" width="159" height="55" border="0"></a><br />
+    <a href="planningformyparents.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('my parents','','ro1dnplanningforparents.jpg',1)"><img src="index_r5_c2.jpg" name="my parents" width="159" height="56" border="0"></a><br />
+    <a href="planningformyspecialchild.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('special child','','ro1dnplanningspecialchild.jpg',1)"><img src="index_r6_c2.jpg" name="special child" width="159" height="54" border="0"></a><br />
+    <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('long term care','','ro1dnlongtermcare.jpg',1)"><img src="index_r7_c2.jpg" name="long term care" width="159" height="56" border="0"></a><br />
+    <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('Image13','','ro1dndontplan.jpg',1)"><img src="index_r8_c2.jpg" name="Image13" width="159" height="54" border="0"></a><br />
+    <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('common questions','','ro1dncommonquestions.jpg',1)"><img src="index_r9_c2.jpg" name="common questions" width="159" height="55" border="0"></a><br />
+    <a href="#" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('resources and links','','ro1dnresourcesandlinks.jpg',1)"><img src="index_r10_c2.jpg" name="resources and links" width="159" height="56" border="0"></a><br />
+    <a href="index.htm" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('return home','','ro1dnreturnhome.jpg',1)"><img src="index_r11_c2.jpg" name="return home" width="159" height="55" border="0"></a> </div>
+	<div id="contents">
+	  <h1 class="style1">Welcome</h1>
+	<p class="style4">We are pleased you have chosen to browse the website of the Law Office of Fay Blix. </p>
+	<p class="style4">Our entire law practice has been devoted to Elder Law (Limited Conservatorship, Special Needs Trusts, Medi-Cal planning) and Estate Planning (Advance Health Care Directives, Wills, Trusts and Probate) for more than twenty years. We pride ourselves in listening to our clients' concerns with empathy and compassion and in applying our professional expertise and experience to craft individualized solutions to our clients' problems. We are committed to practicing law with a heart. We provide this site as a guide to help you journey through the often complicated and confusing emotional, financial and legal issues as a loved one ages or lives with a disability. We also hope this site will help save you time as you search for the right attorney to give you peace of mind. Enjoy your visit and please return often.</p>
+	<p align="left" class="style4">As links are activated, you may select  your particular area of interest from the navigation bar on your left.</p>
+	<p class="style4"><a href="https://maps.google.com/maps?client=safari&oe=UTF-8&q=24035+El+Toro+Road+Laguna+Hills,+CA&ie=UTF-8&hq=&hnear=0x80dce8f291a438b7:0x38b19db626acd4f9,24035+El+Toro+Rd,+Laguna+Hills,+CA+92653&gl=us&ei=1Ob5T9nHKounqQH4xZSMCQ&ved=0CAgQ8gEwAA"><img src="images/fb-we've-moved-for-web.jpg" name="fbofficero.jpg" width="1200" height="635" border="0"></a></p>
+	<p align="right" class="style11">Address: 24031 El Toro Road, Suite 301<br>
+	  Laguna Hills, CA 92653<br>
+	</p>
+	<p align="right" class="style11">Telephone: (949) 544-7211 &bull; Facsimile: (949) 544-7218 &bull; email: <a href="mailto:info@blixlaw.com">info@blixlaw.com</a></p>
+	<p align="right" class="style11">&nbsp;</p>
+	<p class="style9 style12">Our office is located in the Laguna Hills Civic Center. Parking is FREE. The Law Offices of Fay Blix are wheelchair accessible. If you need directions from one of our knowledgeable staff, please call (949) 544-7211.</p>
+	<p class="style9">If visiting our office is difficult due to illness or disability, appointments can be made at your home or bedside.</p>
+	<p class="style9">The Law Office of Fay Blix is open Monday through Friday from 9:00 A.M. to 5:00 P.M.</p>
+	<p class="style7">The use of the internet for communicating with the Law Offices of Fay Blix will not establish an attorney-client relationship and messages containing confidential or time-sensitive information should not be sent</p>
+	<p class="style7">This information is designed to provide a general overview with regard to the subject matter covered. All information is California specific. This information does not establish an attorney-client relationship. Different circumstances and different facts impact advice given. Please consult your own attorney about your specific situation.</p>
+	<p class="style7">Copyright &copy; 2008 &mdash; 2014 by Fay Blix, CELA. All rights reserved. You may reproduce the materials available at this site for your own personal use and for non-commercial distribution.</p>
+	<p class="style8">Our firm handles cases throughout Orange County, California, including the following areas: Aliso Viejo, Anaheim, Brea, Buena Park, Costa Mesa, Cypress, Dana Point, Fountain Valley, Fullerton, Garden Grove, Huntington Beach, Irvine, La Habra, La Palma, Laguna Beach, Laguna Hills, Laguna Niguel, Laguna Woods, Lake Forest, Los Alamitos, Mission Viejo, Newport Beach, Orange, Placentia, Rancho Santa Margarita, San Clemente, San Juan Capistrano, Santa Ana, Seal Beach, Stanton, Surfside, Tustin, Villa Park, Westminister, Yorba Linda. We also have assisted clients in Los Angeles, Riverside, San Bernardino and San Diego Counties.</p>
+	<p class="style8"><img src="index_r15_c3.jpg" width="723" height="187"></p>
+	</div>
+
+</body>
+</html>

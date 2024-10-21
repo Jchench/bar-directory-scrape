@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:38:17 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: gGOtVSHhdV9wMyz56YGknIjFk/mYbplIiBUhiN0lGaRjiTkjUdTj1OSzhT1Mn+pNWAJwyUuLVwehXjn0IL/Rhm7e8n1Q9dz217DxYMgplXu3PQEa5IG6FXzDIoaf0HkTBxu4OfE9+HXc7bJ6TIc1Kw==$0uNII2i8Unpq7LalXdrYsA==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=cnODXD21Hvh_HZyqr3nuBiLmLT503ddM4.jThVuo7C8-1729492697-1.0.1.1-dXaEv11txhUaI7iW271KCFNY8TBBnSzPNrrBC3qptL6eLDy.97fgfw9Y6g4.XBROv2SmRRzYFeMj3fafUsayAQ; path=/; expires=Mon, 21-Oct-24 07:08:17 GMT; domain=.www.ethics-lawyer.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f3e6cf90b1193-ORD
+Content-Encoding: gzip

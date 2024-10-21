@@ -1,0 +1,16 @@
+Content-Length: 134
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests;
+X-Robots-Tag: noindex, follow
+Link: <https://www.comstockandwagner.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Cache-Control: public, max-age=172800
+Expires: Wed, 23 Oct 2024 05:16:42 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent,User-Agent
+Date: Mon, 21 Oct 2024 05:16:43 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

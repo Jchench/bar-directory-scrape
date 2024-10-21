@@ -1,0 +1,14 @@
+Content-Length: 173
+Server: nginx
+Date: Mon, 21 Oct 2024 05:22:07 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, follow
+Link: <https://sergioferia.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+Accept-Ranges: bytes
+X-Cache: HIT: 5
+X-Cache-Group: bot

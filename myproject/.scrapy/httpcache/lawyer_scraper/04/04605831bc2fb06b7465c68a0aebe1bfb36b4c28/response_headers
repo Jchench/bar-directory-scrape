@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492240.3591416917050868626
+Html-Cacheable: true
+Etag: W/"222dadc7f8c281f2346dc6ad07925110"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492241|Y8sMiJxvbB12; Path=/; Domain=www.roncooklawgroup.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:30:41 GMT
+X-Served-By: cache-chi-klot8100083-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,AHc3TXLcXOul+t9LIbGg9ciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLmUP/ddjOIocgASMjPBcXg4O5u3dMxPR3QRc6kpLZVuH,2d58ifebGbosy5xc+FRalk8+4sHyA+HU9O13pZUcksVziLvaHkZtbpAy+5zjoWQl1y6r4ZqaWKgPtJDWRDQtWw==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,ZyqOU5RmLo06QtSO1rnOlQDQLRL0CB+cXjGp7vN+JY8=,updaSF0YDozocDRTgMoSR1BR5P0wTWNfYH7b935M50/yno9WWZ+tWJkay0UtNckb4hvFGeMPF5fdfHOa7VknIA==,ojHFssArTWoUnGbLVpFtz/BXxUsnWbfhtvi4GvBe8aI=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326oKoXjl7+gdLhTNh8dAMfpwSn/dtibhYHha3EfD23SzSQ==,sbu8YdkXYD/va37Ig2h5JP7vhG6Ou1INSKvnGXSHnBo=,bamBRVWSlN/v1ZTIwXGEoJJN+MHTOO8Q37+0O+a/qmYFz/KrHIRt5DGF74lMLPmonPHUuUBV9wxgKiVuq18iRg==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

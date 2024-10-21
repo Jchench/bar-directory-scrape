@@ -1,0 +1,9 @@
+Date: Mon, 21 Oct 2024 05:11:46 GMT
+Content-Type: text/html
+Location: https://salciullalaw.com/robots.txt
+Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(self), payment=()
+Cf-Cache-Status: MISS
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ebfafa9dd6360-ORD
+Alt-Svc: h3=":443"; ma=86400

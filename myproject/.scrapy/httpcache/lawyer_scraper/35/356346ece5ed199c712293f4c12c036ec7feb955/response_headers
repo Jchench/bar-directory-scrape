@@ -1,0 +1,20 @@
+Content-Length: 212
+Date: Mon, 21 Oct 2024 05:24:12 GMT
+Content-Type: text/plain
+Cache-Control: public,max-age=7200
+Content-Encoding: gzip
+Etag: "e3dd714cae3cd91:0"
+Last-Modified: Thu, 09 Feb 2023 17:45:28 GMT
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: encrypted-media=(self), fullscreen=(), speaker=(), sync-xhr=()
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' form.huschblackwell.com;
+Cf-Cache-Status: BYPASS
+Set-Cookie: ARRAffinity=5899f70f08a68f61d3465845849ccae46f1db8370091646d58ab798d4329720a;Path=/;HttpOnly;Secure;Domain=www.huschblackwell.com
+Set-Cookie: ARRAffinitySameSite=5899f70f08a68f61d3465845849ccae46f1db8370091646d58ab798d4329720a;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.huschblackwell.com
+Accept-Ranges: bytes
+Server: cloudflare
+Cf-Ray: 8d5ed1e868e061ff-ORD

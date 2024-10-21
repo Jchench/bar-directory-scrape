@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:38:34 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492714.773142651476382155
+Html-Cacheable: true
+Etag: W/"2973181a2200624e3695d2235df82fe0"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+X-Seen-By: vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLk1Uxi5aVwrmRyfWZ8T7SgAMbwluI1yUDJty9McxOlfY,2d58ifebGbosy5xc+FRalvpWbaohri8O+mY9Z/XCctPI+bgt/4tYhbXMS4AT+t5ID2h1w4v2B2JuvhhIp6HZcA==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR7y7aoFwoyWhs1xWSnyDOT2erft53AdcSwlKVwuTfIX+dyHAscEBix0TGlaDSfACdg==,ojHFssArTWoUnGbLVpFtz/BXxUsnWbfhtvi4GvBe8aI=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326q5uo/QNpEJ4U80CNSG1m9Aoy32szZND1LRBgLzqpsDxw==,gazFAw0l8vtzvnvOPPvWdluASuvgBk68NOvL+XPQvvY=,bamBRVWSlN/v1ZTIwXGEoKZWCDehHSxGeOr9NLDAivt0XyyjEClCMwMycvuUYrTLwJwtL+K76lcvnbsu+WgQ4w==
+Vary: Accept-Encoding
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss#dc#desc=42_g; Max-Age=20; Expires=Mon, 21 Oct 2024 06:38:54 GMT
+Set-Cookie: XSRF-TOKEN=1729492714|sQQx4F4kIQLc; Path=/; Domain=cyndicus.wixsite.com; Secure; SameSite=None
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=42_g
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Via: 1.1 google
+Glb-X-Seen-By: zj+a2E71qOCweet+2KoAwKsDXK9Yj1hJlUA0MXxzy6E=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

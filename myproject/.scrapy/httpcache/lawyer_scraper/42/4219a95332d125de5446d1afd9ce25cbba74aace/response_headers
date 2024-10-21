@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+Html-Cacheable: true
+Etag: W/"8a238058dd144341599e836f0b63bb9b"
+Content-Language: en-US
+Strict-Transport-Security: max-age=86400
+Age: 142168
+X-Wix-Request-Id: 1729492945.10214170505017419000
+Set-Cookie: XSRF-TOKEN=1729492945|i7FTwlyIXdEo; Path=/; Domain=www.enviroadvocates.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=hit#varnish=hit_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:42:25 GMT
+X-Served-By: cache-chi-klot8100100-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,pmHZlB45NPy7b1VBAukQrewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLmUP/ddjOIocgASMjPBcXg4O5u3dMxPR3QRc6kpLZVuH,2d58ifebGbosy5xc+FRalk8+4sHyA+HU9O13pZUcksVziLvaHkZtbpAy+5zjoWQl1y6r4ZqaWKgPtJDWRDQtWw==,2UNV7KOq4oGjA5+PKsX47C3Dm4evq/BoMKcAXGKUm7xYgeUJqUXtid+86vZww+nL
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,13 @@
+Content-Length: 14584
+Server: nginx
+Date: Mon, 21 Oct 2024 06:35:30 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.1.26
+X-Powered-By: PleskLin
+Link: <https://www.ponlaw.com/wp-json/>; rel="https://api.w.org/", <https://www.ponlaw.com/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json", <https://www.ponlaw.com/>; rel=shortlink
+Link: </wp-includes/css/dist/block-library/style.min.css>; as=style; rel=preload;
+X-Litespeed-Tag: e7819_HTTP.200,e7819_front,e7819_URL.6666cd76f96956469e7be39d750cc7d9,e7819_F,e7819_Po.2,e7819_PGS,e7819_,e7819_MIN.f8e89772cf1f0d81b3440f09745f2a0c.css,e7819_MIN.881814b8ed3dc8b9729b4f4df48f1f7f.js
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Cache-Control: max-age=2592000
+Expires: Wed, 20 Nov 2024 06:35:28 GMT

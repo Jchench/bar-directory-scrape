@@ -1,0 +1,21 @@
+Content-Length: 42513
+Cache-Control: public, max-age=600
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.judicialethicsopinions.ca.gov/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.judicialethicsopinions.ca.gov/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
+Link: <https://wp.me/Pezz8X-2>; rel=shortlink
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Pantheon-Styx-Hostname: styx-fe4-b-7f998d8f5-hjq7k
+X-Pingback: https://www.judicialethicsopinions.ca.gov/xmlrpc.php
+X-Styx-Req-Id: 8c5dfe24-8f77-11ef-91e3-f62c5b3284af
+Date: Mon, 21 Oct 2024 06:41:49 GMT
+X-Served-By: cache-chi-kigq8000114-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1729492909.053345,VS0,VE323
+Vary: Accept-Encoding, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish

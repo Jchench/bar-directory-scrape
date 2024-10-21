@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:25:10 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+Link: <https://www.boxerlaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.boxerlaw.com/wp-json/wp/v2/pages/3622>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.boxerlaw.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 3
+X-Cache-Group: bot
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=8rO0m3F9gK9%2BmO5rfUSAvA3f1smGg%2BrSbUt7T08HacwxuSy2BrMFrPL7eKsOsqcewjZQaWPy7%2B%2B8hWnYezJ1A9AQeSdKwDRt9mO195D20km%2BLgDIuzlfIPGM85FsofJPCpLm"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2b3838452a72-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=24630&sent=9&recv=9&lost=0&retrans=1&sent_bytes=3888&recv_bytes=1085&delivery_rate=152605&cwnd=225&unsent_bytes=0&cid=96a93b312d7f3d8c&ts=989&x=0"

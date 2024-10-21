@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+Html-Cacheable: true
+Etag: W/"a0075a17e017589b30e1534f63bbcc70"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 14365
+X-Wix-Request-Id: 1729491720.0531426307554862151
+Set-Cookie: XSRF-TOKEN=1729491720|BBeuyxivKyJZ; Path=/; Domain=www.mcguinnessandassociates.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=hit#varnish=hit_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:22:00 GMT
+X-Served-By: cache-chi-klot8100083-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=hit, varnish;desc=hit_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,jKB0KR2wTEE1MYSdxvKSbciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLk1Uxi5aVwrmRyfWZ8T7SgAMbwluI1yUDJty9McxOlfY,2d58ifebGbosy5xc+FRaljM82hmD5nGdl+m7BmfDBY/PCxAY3Jd+iv9gUfuYFlJajKSWTSjutHI8JIo85+bizg==,2UNV7KOq4oGjA5+PKsX47HClnv7xNLEvnKyzioTaZktYgeUJqUXtid+86vZww+nL
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

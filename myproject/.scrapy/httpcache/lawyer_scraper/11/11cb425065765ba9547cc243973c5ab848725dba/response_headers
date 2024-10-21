@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:21:59 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://colmanlawgroup.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://colmanlawgroup.com/wp-json/wp/v2/pages/3359>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://colmanlawgroup.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 12
+X-Cache-Group: bot
+Cache-Tag: colmanlawgroup603db66bf8e43
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6IA2UJ6%2BJGuPUcnzHiaEVAvZ5me9MQrEmspAVPdeH2CNwGpV9GiDrHopp0rRYxyRKHx3n2FP2r%2Bj%2B28vHwwik5wmmOMtOASuw1767ht4HTZ0QIBRV9KpXJZ4w0B5h8%2FNSW3C1Fs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f268c0d3b6206-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16508&sent=8&recv=10&lost=0&retrans=1&sent_bytes=6028&recv_bytes=1089&delivery_rate=196245&cwnd=240&unsent_bytes=0&cid=bc4d1456964141c8&ts=1544&x=0"

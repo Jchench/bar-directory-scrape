@@ -1,0 +1,19 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:35:01 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Sat, 16 Mar 2024 00:31:26 GMT
+Etag: "65f4e85e-a2"
+Cache-Control: public, max-age=300
+Accept-Ranges: bytes
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://apd.lacounty.gov
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1
+Set-Cookie: visid_incap_2159181=yqoE54+BS5i7SmoSvADm+xT2FWcAAAAAQUIPAAAAAAAlqIua3O9O4GtGRe9DF71M; expires=Mon, 20 Oct 2025 07:24:10 GMT; HttpOnly; path=/; Domain=.apd.lacounty.gov
+Set-Cookie: nlbi_2159181=nO8Ce2RowA576qM5OlT8PwAAAABG8K54vjyl38CksOvMQD7K; HttpOnly; path=/; Domain=.apd.lacounty.gov
+Set-Cookie: incap_ses_1427_2159181=O1rCENpV+zk+Nrh5GrnNExT2FWcAAAAAzRo/bLhSR6RhHiCuwgZjtQ==; path=/; Domain=.apd.lacounty.gov
+X-Cdn: Imperva
+Content-Encoding: gzip
+X-Iinfo: 1012-135936098-135936113 NNYN CT(49 51 0) RT(1729492499880 292) q(0 0 1 0) r(2 3) U18

@@ -1,0 +1,11 @@
+Date: Mon, 21 Oct 2024 05:36:46 GMT
+Content-Type: text/html
+Location: https://www.dantescoalfiredpizza.com/
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=zoOz1mkmR1w5DjW8k3pGkUhh%2FgMN4rJA8Np2i2zmLHRz7%2FB%2B0b2c9pwkUF7D0Jh7Fz6eC071YRPd2GHT0I9aRosWEcV5Xwrwn%2Fb3vtbq%2Bqm%2Fq4VPU5e9XhaHBeYKom%2B3snXIPQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee453480d2dba-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=12964&sent=10&recv=9&lost=0&retrans=1&sent_bytes=6371&recv_bytes=1087&delivery_rate=278765&cwnd=252&unsent_bytes=0&cid=19e59e4e44a2477c&ts=3870&x=0"

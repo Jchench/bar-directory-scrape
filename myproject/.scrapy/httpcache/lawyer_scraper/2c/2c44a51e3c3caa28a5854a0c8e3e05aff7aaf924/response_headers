@@ -1,0 +1,17 @@
+Content-Length: 133
+Content-Type: text/plain;charset=UTF-8
+Date: Mon, 21 Oct 2024 06:36:55 GMT
+Server: Apache/2.4.58 (Ubuntu)
+Cache-Control: no-cache
+Cache-Control: max-age=31536000
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: DELETE, GET, HEAD, OPTIONS, PATCH, POST, PUT
+Access-Control-Allow-Headers: Authorization, X-Requested-With, X-Auth-Token, Content-Type
+Access-Control-Allow-Credentials: true
+Expires: Tue, 21 Oct 2025 06:36:55 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Cache: Miss from cloudfront
+Via: 1.1 1ac6f853cf12a9a0c5a9e479f2f18b42.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD56-P7
+X-Amz-Cf-Id: 3NANYqY6nDBDxxEu91Srvhj-bVLMjHy1TTbHDAIfK4xne4t9h_v8kA==

@@ -1,0 +1,110 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+
+
+<html>
+<head>
+
+<title>KimberlyCole.com</title>
+<meta http-equiv="content-type" content="text/html;charset=iso-8859-1">
+<link href="general.css" rel="stylesheet" media="screen">
+<link href="general.css" rel="stylesheet" media="print">
+
+
+<meta name="generator" content="BBEdit 6.5.3">
+<META  name="description"  content="">
+<META  name="keywords" content="">
+
+
+<script language="javascript" src="sleight.js"></script>
+
+</head>
+
+<body bgcolor="#FFFFFF">
+<div class="tophead"><img src="images/kimberlycole.jpg" align="top"></div>
+<div class="headercontent"><img src="images/banner.jpg" align="top"></div>
+
+
+<table id="sidecolumn" border="0" cellpadding="0" cellspacing="0">
+<tr><td>
+<a href="./index.html" id="current"><img src="images/arrow.gif" border="0" alt="Home" height="16" width="16"> Home</a>
+
+</td></tr><tr><td>
+
+<a href="./services.html"><img src="images/arrow.gif" border="0" alt="Services" height="16" width="16"> Services</a>
+
+</td></tr><tr><td>
+
+<a href="./mediation.html"><img src="images/arrow.gif" border="0" alt="Mediation" height="16" width="16"> Mediation</A>
+
+</td></tr><tr><td>
+
+<a href="./collaborative_law.html"><img src="images/arrow.gif" border="0" alt="Collaborative Law" height="16" width="16"> Collaborative Law</a>
+
+</td></tr><tr><td>
+
+<a href="./about.html"><img src="images/arrow.gif" border="0" alt="About" height="16" width="16"> About/Testimonials</a>
+
+</td></tr><tr><td>
+
+<a href="./contact.html"><img src="images/arrow.gif" border="0" alt="Contact" height="16" width="16"> Contact/Directions</a>
+
+</td></tr><tr><td>
+
+<a href="./faq.html"><img src="images/arrow.gif" border="0" alt="FAQ" height="16" width="16"> FAQ</a>
+
+</td></tr><tr><td>
+<br><br><br>
+<center><img id="photo" src="images/photo.jpg"></center><br>
+
+</td></tr>
+</table>
+
+
+
+<script language="JavaScript"><!--
+	function update(url, index, isSuper) 
+	{
+		currentIndex = index;
+		currentIsSuper = isSuper;
+		document['BigPicture'].src=url;
+		return;
+	}
+			
+	
+//--></script>
+
+<div class="maincolumn">
+
+<table border="0" cellpadding="0" cellspacing="0" class="article"><!--100%-->
+<tr><td class='sectiontitle' height='27' colspan=2 align=right>Home</td></tr>
+
+
+
+<td class="article" width="100%">
+<h1>Thank you for contacting the LAW OFFICE OF KIMBERLY COLE.</h1>
+
+<p> This information resource has been created for your reference to explain the type of legal services that are provided by this office.   This office provides services in FAMILY LAW only, which includes Dissolution of Marriage (divorce), Legal Separation, Nullity, and custody matters, generally speaking.  I do not provide legal services in any other area of law.<BR><BR>
+
+	WHAT SHOULD YOU DO?  First, please print out and read the entire document under SERVICES section, and review the separate fee schedule which you can request by email.  Then set up your free telephone consultation so that we can generally go over your situation.  It is usually easier to put your situation into perspective by a one-on-one telephone call than to make assumptions based on the limited information I can give you here.  Don't try to "cubbyhole" your situation, or assume it is "really simple" or "really difficult."  There may be factors you haven't considered which can help.<BR><BR>
+
+EMPOWER  YOURSELF WITH INFORMATION!<BR><BR>
+
+	Our first step is to schedule you for a free one-half hour telephone consultation for the purpose of reviewing your situation and whether the type of services I offer may be suited to your needs, or if you have any other questions about the services I provide.   Please call my secretary, as she will need to gather some basic information from you.<BR><BR>
+
+	PLEASE BE SURE YOU  READ THE ENTIRE DOCUMENT UNDER SERVICES SECTION OF THIS WEBSITE AND FEE SCHEDULE PRIOR TO OUR TELEPHONE APPOINTMENT.  It contains information that our conversation will be based upon, and we can spend our time discussing your situation rather than going over this information.  Have this document in front of you when we talk.<BR><BR>  
+
+	Please understand that when you schedule a telephone appointment, time is being reserved for you.  If you do not want to keep your telephone appointment, please call, email, or fax us at least 24 hours in advance to let us know.  If you are canceling an in-office appointment, please give me at least 48 hours notice. We often have people waiting on a cancellation list that would like to have that time.<BR><BR>  
+</p>
+</td></tr>
+
+
+</table>
+<script LANGUAGE="JavaScript" SRC="copyright.js"></script>
+</div>
+<BR>
+
+
+<BR>
+
+</body>
+</html>

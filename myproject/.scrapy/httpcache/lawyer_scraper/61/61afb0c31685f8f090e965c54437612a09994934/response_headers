@@ -1,0 +1,18 @@
+Content-Length: 0
+Server: CloudFront
+Content-Type: text/html; charset=utf-8
+X-Error: moved
+Last-Modified: Fri, 13 Sep 2024 19:14:25 GMT
+Location: /en
+Via: 1.1 varnish, 1.1 varnish, 1.1 820cbbdab21a9987bdc9e4354fb7442e.cloudfront.net (CloudFront)
+Accept-Ranges: bytes
+Date: Sun, 20 Oct 2024 06:53:50 GMT
+X-Served-By: cache-iad-kjyo7100022-IAD, cache-iad-kjyo7100096-IAD
+X-Cache-Hits: 0, 0
+X-Timer: S1729407230.099535,VS0,VE1
+Strict-Transport-Security: max-age=31557600
+Cache-Control: max-age=7200, s-maxage=172800, must-revalidate
+X-Auth-State: anonymous
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ORD53-C3
+X-Amz-Cf-Id: pMHa2ZQ94L-9vFmHYRhF7lRkMC9M-ud8gXvq5A9BxW46s87aAsyCIQ==

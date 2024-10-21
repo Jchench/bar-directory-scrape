@@ -1,0 +1,16 @@
+Content-Length: 169
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 05:20:39 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 20015
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+X-Robots-Tag: noindex, follow
+Link: <https://carusolaw.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=315360000
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Sucuri-Cache: MISS

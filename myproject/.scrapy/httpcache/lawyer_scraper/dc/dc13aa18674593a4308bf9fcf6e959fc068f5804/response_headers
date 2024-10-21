@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:20:06 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self' *.ca.gov
+X-Content-Type-Options: nosniff
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://www.alrb.ca.gov/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://www.alrb.ca.gov
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Last-Modified: Mon, 21 Oct 2024 02:04:55 GMT
+Cf-Cache-Status: HIT
+Server: cloudflare
+Cf-Ray: 8d5ecbeb5c8722e5-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

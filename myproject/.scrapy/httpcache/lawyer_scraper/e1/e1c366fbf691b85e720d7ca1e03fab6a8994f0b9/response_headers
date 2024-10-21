@@ -1,0 +1,16 @@
+Date: Mon, 21 Oct 2024 06:19:46 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://mikemillea.com/
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: strict-origin-when-cross-origin
+Fastcgi-Cache: HIT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=T50KGfo%2FWss0HhyrEbrEGdnKUPTzyrpLUl7SmXdaEIkabcXQZKNYEX6k6vGNWCGDuHWIKf%2FTaS3s8JHntz%2B1nwsA97llU5fPl4SopjtF%2B1An48RmIveY2oHyn%2BefMfbqPp2mXYs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f234cc9d0cefa-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=77917&sent=8&recv=8&lost=0&retrans=0&sent_bytes=4677&recv_bytes=1089&delivery_rate=225838&cwnd=238&unsent_bytes=0&cid=d1c8d1244d788f67&ts=2674&x=0"

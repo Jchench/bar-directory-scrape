@@ -1,0 +1,6 @@
+# All robots allowed
+User-agent: *
+Disallow: 
+
+User-agent:  *
+Crawl-delay:  5

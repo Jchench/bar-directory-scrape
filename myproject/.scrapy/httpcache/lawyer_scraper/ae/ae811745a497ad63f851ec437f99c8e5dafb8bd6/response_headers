@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 05:11:20 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://sigelmanassociates.com/
+Expires: Mon, 21 Oct 2024 06:11:20 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+X-Litespeed-Cache: miss
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Hc6chQfSMy%2FZ6XoeKQcOioAr8v%2BNmPD%2FRm4HpuARe9wSA4Agz590MFfQmyt9dq3JynpcgHspSApFAe654zXwQZOdYPfOhDJTFhL1rDudESjnFL2mYQ01%2BaDkYE4DeI17htWwGhTnJZMggdW%2Bog%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ebf076be22305-ORD
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18534&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2856&recv_bytes=846&delivery_rate=122235&cwnd=243&unsent_bytes=0&cid=1823ec402ec550f4&ts=1551&x=0"

@@ -1,0 +1,13 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:33:59 GMT
+Server: nginx/1.23.4
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://israel-samuels.com/
+Cache-Control: max-age=300
+Expires: Mon, 21 Oct 2024 05:38:58 GMT
+Vary: Accept-Encoding
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: false
+Set-Cookie: twp_session=fb39b578c1adbc7692b539ff9441bc87%7C%7C1729490631%7C%7C1729490271; expires=Mon, 21-Oct-2024 06:03:51 GMT; Max-Age=1793; path=/

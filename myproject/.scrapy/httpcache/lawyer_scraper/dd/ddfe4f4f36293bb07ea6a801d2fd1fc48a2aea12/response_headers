@@ -1,0 +1,17 @@
+Cache-Control: public, max-age=300
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Content-Language: en-US
+Cache-Tag: pg-9fb8d14ea77e459f822cf1dfa8e8da4b,te-55b783bbef06470ea3c51947466a8908
+Edge-Cache-Tag: pg-9fb8d14ea77e459f822cf1dfa8e8da4b,te-55b783bbef06470ea3c51947466a8908
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self';
+X-Mobile-Client: false
+Set-Cookie: OC_EA_EmergencyAnnouncementList_Dismissed=; path=/; secure; HttpOnly; SameSite=None
+Set-Cookie: incap_ses_132_2917531=m5B4TkJ+XElfoAQ5d/XUAS72FWcAAAAAwCfQZEakEl6CwZp1mbZZkQ==; path=/; Domain=.fresnocountyca.gov
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Date: Mon, 21 Oct 2024 06:35:27 GMT
+X-Cdn: Imperva
+X-Iinfo: 50-109650749-109650750 NNNN CT(24 60 0) RT(1729492526377 45) q(0 0 1 0) r(3 3) U18

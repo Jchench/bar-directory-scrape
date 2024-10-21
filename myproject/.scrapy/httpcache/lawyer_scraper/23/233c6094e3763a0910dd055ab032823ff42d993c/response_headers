@@ -1,0 +1,13 @@
+Content-Length: 111
+Date: Mon, 21 Oct 2024 06:31:19 GMT
+Server: Apache
+Link: <https://folgerlevin.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=86400
+Expires: Tue, 22 Oct 2024 06:31:19 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Newfold-Cache-Level: 2
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+Content-Type: text/plain; charset=utf-8

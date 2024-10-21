@@ -1,0 +1,22 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:39 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Last-Modified: Fri, 10 May 2024 15:53:46 GMT
+Link: <https://www.adrservices.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.adrservices.com/?p=748>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://www.adrservices.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://www.adrservices.com
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Encoding: gzip

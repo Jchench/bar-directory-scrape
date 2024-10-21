@@ -1,0 +1,17 @@
+Server: hcdn
+Date: Mon, 21 Oct 2024 05:14:45 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.1.27
+Last-Modified: Thu, 08 Aug 2024 00:42:18 GMT
+Cache-Provider: CLOUDWAYS-CACHE-DE
+Content-Security-Policy: upgrade-insecure-requests
+Cache-Control: public, max-age=0,s-maxage=2592000
+Expires: Mon, 21 Oct 2024 05:14:45 GMT
+Content-Encoding: gzip
+Platform: hostinger
+Panel: hpanel
+Alt-Svc: h3=":443"; ma=86400
+X-Hcdn-Request-Id: 6ad4e3d90b9bc46a7d99b38cf5c70399-bos-edge1
+X-Hcdn-Cache-Status: DYNAMIC
+X-Hcdn-Upstream-Rt: 0.200

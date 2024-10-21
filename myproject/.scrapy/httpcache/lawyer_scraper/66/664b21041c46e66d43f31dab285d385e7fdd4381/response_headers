@@ -1,0 +1,10 @@
+Content-Length: 108
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=31536000
+Content-Type: text/plain
+Date: Mon, 21 Oct 2024 06:28:44 GMT
+Server: Caddy
+Server: gunicorn/20.0.4
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block

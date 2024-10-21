@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:34:57 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://www.viblaw.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 12
+X-Cache-Group: bot
+Cache-Tag: viblaw6037f5f1e7fa0
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=vJcqhTwGjksIQSiLTi10TQ4Sp5gSEdGmEvmTVCT6no%2BorqVD3B23SfAhwTMenD1MDBMotJQiHYwMAMHHv8Bkr2%2BX82aydtSIOBdwwzzPQXP%2FxwbXYFS8qH2UBp3lAEzOhQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee1aaafe30164-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=10274&sent=6&recv=7&lost=0&retrans=0&sent_bytes=4190&recv_bytes=1081&delivery_rate=193105&cwnd=184&unsent_bytes=0&cid=15ccd7f6f017ed42&ts=637&x=0"

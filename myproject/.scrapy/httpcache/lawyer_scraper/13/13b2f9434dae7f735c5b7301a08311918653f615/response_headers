@@ -1,0 +1,15 @@
+Content-Length: 185
+Cache-Control: max-age=604800
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Wed, 05 May 2021 23:18:06 GMT
+Accept-Ranges: bytes
+Etag: "907cf6e7442d71:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src * blob: data: 'unsafe-inline'; style-src-elem * blob: data: 'unsafe-inline', font-src * data:
+Date: Mon, 21 Oct 2024 05:31:25 GMT
+Set-Cookie: TS017e52cd=0184cfe7a6070adcedaccdc01507d1c08af91a9872ec3c327703bf630750e5f847339a9d222cddabcbf6e82417767853fb6c227046; Path=/; Domain=.www.gordoncruse.com; Secure; HttpOnly;

@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /*?printpdf=
+Disallow: /wp-admin/
+
+Sitemap: https://www.mcjglaw.com/sitemap_index.xml

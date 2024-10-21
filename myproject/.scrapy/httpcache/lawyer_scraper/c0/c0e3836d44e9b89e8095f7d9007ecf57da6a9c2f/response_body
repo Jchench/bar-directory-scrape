@@ -1,0 +1,10 @@
+
+#Googlebot
+
+User-Agent: Googlebot
+
+Allow: /*.js*
+
+Allow: /*.css*
+user-agent:  *
+Crawl-delay:  5

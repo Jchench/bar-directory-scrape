@@ -1,0 +1,33 @@
+Content-Length: 235
+Access-Control-Allow-Headers: Content-Type, Authorization
+Access-Control-Allow-Methods: GET,POST
+Cache-Control: public, max-age=604800
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'none';
+Content-Type: text/plain; charset=utf-8
+Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
+Cross-Origin-Embedder-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Opener-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Resource-Policy: cross-origin
+Link: <https://www.stevenslee.com/wp-json/>; rel="https://api.w.org/"
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=*, publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=*, usb=(), xr-spatial-tracking=(), gamepad=(), serial=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=300
+X-Content-Security-Policy: default-src 'self'; img-src *; media-src * data:;
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Pantheon-Styx-Hostname: styx-fe4-b-7f998d8f5-ptnxh
+X-Permitted-Cross-Domain-Policies: none
+X-Robots-Tag: noindex, follow
+X-Styx-Req-Id: f246cc2d-8cd3-11ef-9b07-be40cedd7d21
+Date: Mon, 21 Oct 2024 06:27:11 GMT
+X-Served-By: cache-chi-kigq8000150-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729492032.528645,VS0,VE3
+Vary: Accept-Encoding
+Age: 289291
+Accept-Ranges: bytes
+Via: 1.1 varnish

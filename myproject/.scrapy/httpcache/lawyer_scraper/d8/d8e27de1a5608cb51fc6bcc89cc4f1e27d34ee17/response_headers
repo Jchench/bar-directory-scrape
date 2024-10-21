@@ -1,0 +1,14 @@
+X-Powered-By: PHP/8.0.30
+Content-Type: text/html; charset=UTF-8
+Link: <https://kevinaduffy.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://kevinaduffy.com/wp-json/wp/v2/pages/10>; rel="alternate"; type="application/json"
+Link: <https://kevinaduffy.com/>; rel=shortlink
+Etag: "4295-1729456472;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 05:33:58 GMT
+Server: LiteSpeed
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests

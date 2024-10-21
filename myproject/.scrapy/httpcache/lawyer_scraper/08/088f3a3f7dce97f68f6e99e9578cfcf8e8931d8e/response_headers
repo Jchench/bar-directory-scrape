@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:20:39 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.belgumlaw.com/wp-json/>; rel="https://api.w.org/", <https://www.belgumlaw.com/wp-json/wp/v2/pages/10>; rel="alternate"; title="JSON"; type="application/json", <https://www.belgumlaw.com/>; rel=shortlink
+Cache-Control: max-age=600
+Expires: Mon, 21 Oct 2024 05:30:37 GMT
+Vary: Accept-Encoding,User-Agent
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=O6eAxXPufc0U%2FYzCAL8yJwiVZd1NvL8u7VXq%2Bd7uPeWrw7qe%2FG8mRWfjkD6nz4jg95RJrwUlMtOvTf5jobGUyrzT2KF3LBMdwM7D4DhznfRzmsAuoQ6%2BY1b6HlAh%2BMDMDvb%2Fng%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5eccabe9de620a-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16897&sent=6&recv=9&lost=0&retrans=0&sent_bytes=4151&recv_bytes=1087&delivery_rate=164042&cwnd=253&unsent_bytes=0&cid=507dbabbf5771057&ts=2877&x=0"

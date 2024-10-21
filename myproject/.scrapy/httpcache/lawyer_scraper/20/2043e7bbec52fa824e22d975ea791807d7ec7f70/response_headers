@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://perkinscoie.com/
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Strict-Transport-Security: max-age=300
+Date: Mon, 21 Oct 2024 06:20:11 GMT
+X-Served-By: cache-chi-klot8100138-CHI, cache-chi-klot8100138-CHI
+X-Cache: HIT, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729491611.065318,VS0,VE3

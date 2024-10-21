@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 05:34:52 GMT
+Content-Type: text/html
+Location: http://bartkolaw.com/
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'self'
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ee18abbda1156-ORD
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,12 @@
+Date: Mon, 21 Oct 2024 06:41:27 GMT
+Content-Type: text/html
+Location: https://rlfllp.com/robots.txt
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OwbZkmSdg3ojh%2B%2F29SPX0AlBSd3NsN6koYZ9%2BRj1qdIqYE2TefNAgGYBNiZVTsj6dgT7EMsTEBUaz3zjplE45S25hqfSldKYLMCA67FTRfFYQkKQopwseIEi5CEh2ED%2BTQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f43144c3522d3-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=26141&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2823&recv_bytes=844&delivery_rate=104019&cwnd=227&unsent_bytes=0&cid=e8bc0a3d88572d49&ts=112&x=0"

@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 06:32:37 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://fitzhunt.com/
+Cf-Edge-Cache: cache,platform=wordpress
+X-Redirect-By: WordPress
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Fastcgi-Cache: HIT
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Nkn1ebu8It4LrC0556xRB8SmBL9RoaFA8N%2FUqcx59kcaR8joEPD6qujm8g0TB3X3Nj4kdEyrBvDiOUy3Xwe4CRnw8d3GYJ9t24cLnO6pzN2VpgiTqzKBH1bnqUtp7gohfbrl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f36208dc661b8-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=12972&sent=7&recv=9&lost=0&retrans=0&sent_bytes=4425&recv_bytes=1085&delivery_rate=264886&cwnd=250&unsent_bytes=0&cid=4e208de733d6351b&ts=2176&x=0"

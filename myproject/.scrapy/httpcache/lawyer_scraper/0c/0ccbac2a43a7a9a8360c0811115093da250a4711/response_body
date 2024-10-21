@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+
+  <head>
+
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Meyer Wine Law</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+       
+    <link href="css/wl.css" rel="stylesheet">
+    <style type="text/css">
+    body {
+    background-color: #080808;
+}
+    </style>
+  </head>
+
+ 
+	<body>
+		<section class="desktop">
+<div id="logo"><img src="nav/logo.png" alt="Meyer-Block" width="135" height="100" /></div>
+
+<div class="content">
+ <div id="gray-logo"><img id="mbw-text-logo"src="nav/mb-logo_500px.png" alt="Meyer-Block"  /></div>
+ </div>
+
+   <div class="page_content">
+    <div class="content-background">
+  <div id="home-text-dt">
+Jeanne Meyer and Kevin Block are no longer law partners but remain trusted colleagues and friends.<br />
+The links below are to their respective websites.
+</div>
+   <div id="winelawyer-circle"><a href="http://www.meyerwinelaw.com" class="page"><img src="images/mwl-circle.png" width="100%" height="auto" alt=""/></a></div>
+    <div id="mb-circle"><a href="http://www.blockandblockllp.com" class="page"><img src="images/bb-circle.png" width="100%" height="auto" alt=""/></a></div>
+    
+</div></div>
+</section>
+		
+<section class="mobile">
+    <h1 class="site-heading text-center text-white d-none d-lg-block">&nbsp;</h1>
+    
+    <!-- Navigation -->
+   <div class="red-bar"><img src="nav/mb-logo-notxt.png" alt="" width="147" height="49" /></div>  
+ <div class="gray-bar"><img id="mbw-text-logo"src="nav/mb-logo_500px.png" alt="Meyer-Block" /></div> 
+    
+
+    <section class="page-section clearfix">
+      <div class="page-white">
+	    <div class="outer-white-box">
+      <div class="inner-white-box">
+<div class="body-copy">
+Jeanne Meyer and Kevin Block are no longer law partners but remain trusted colleagues and friends.<br class="hidden-break" />
+The links below are to their respective websites.
+		  <div id="winelawyer-circle"><a href="http://www.meyerwinelaw.com" ><img id="circle-size" src="images/mwl-circle.png" alt=""/></a></div>
+    <div id="mb-circle"><a href="http://www.blockandblockllp.com" ><img id="circle-size" src="images/bb-circle.png"  alt=""/></a></div>
+		  </div>
+		  </div>
+			</div>
+      </div>
+      
+    </section>
+	   </section>
+    <!-- Bootstrap core JavaScript -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+    <script src="vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+
+  </body>
+
+</html>

@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 06:21:21 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Link: <https://chiulaw.com/wp-json/>; rel="https://api.w.org/", <https://chiulaw.com/wp-json/wp/v2/pages/4>; rel="alternate"; title="JSON"; type="application/json", <https://chiulaw.com/>; rel=shortlink
+Cache-Control: max-age=300
+Expires: Mon, 21 Oct 2024 06:26:21 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

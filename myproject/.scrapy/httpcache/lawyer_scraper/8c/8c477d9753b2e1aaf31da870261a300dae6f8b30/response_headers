@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492684.15314198459641512525
+Html-Cacheable: true
+Etag: W/"6c7c7af8861ed017a6a298fcaf43ca06"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492684|-rmQHQVI9RRI; Path=/; Domain=www.raftermarsh.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:38:04 GMT
+X-Served-By: cache-chi-klot8100101-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLlPVSO1QPQ7KlY+JzrfjmCIMbwluI1yUDJty9McxOlfY,2d58ifebGbosy5xc+FRalp0tVRMCu05tYhPBpOA0cNeJOgb0lDB52Eho15xLdBBl8DpKMygJJnmcix5fvyNBGg==,2UNV7KOq4oGjA5+PKsX47OFQIYwPrAuSSGkhbTTPX/NYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR1BR5P0wTWNfYH7b935M50/yno9WWZ+tWJkay0UtNckb4hvFGeMPF5fdfHOa7VknIA==,OBKtClccko9IfjkunaOFtGkkaKo168gT4bU4q37xh94=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326pRqxL7XunABTckP4//nUo0y3FZxSlQ9OjagXoPDjkQkA==,hvPRs9vLVE5vQlwEzdMO69idPiiu7q51+NQVr5FVfa4=,bamBRVWSlN/v1ZTIwXGEoPX6y5UATx+znK/wAAAstbNGo3Vhcw7XBnRcCX9F4BhSBPTOY9+6ZmfY4tNDcA+NUw==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

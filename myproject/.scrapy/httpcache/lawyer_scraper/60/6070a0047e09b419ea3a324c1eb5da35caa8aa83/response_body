@@ -1,0 +1,6 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /old/
+Disallow: /old/*
+Allow: /wp-admin/admin-ajax.php
+sitemap: https://sandiegodui.com/sitemap_index.xml

@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:25:10 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+X-Robots-Tag: noindex, follow
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Access-Control-Allow-Origin: *
+Content-Security-Policy: script-src 'self' 'unsafe-inline' 'unsafe-eval' *.googletagmanager.com *.google.com *.fontawesome.com *.gstatic.com *.google-analytics.com blob:;  style-src 'self' 'unsafe-inline' use.typekit.net *.typekit.net;  img-src 'self' data:;  font-src 'self' 'unsafe-inline' *.typekit.net *.fontawesome.com data:;
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self, fullscreen=self, geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Cf-Cache-Status: HIT
+Age: 7239
+Last-Modified: Mon, 21 Oct 2024 03:24:31 GMT
+Server: cloudflare
+Cf-Ray: 8d5ed35378a2115d-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

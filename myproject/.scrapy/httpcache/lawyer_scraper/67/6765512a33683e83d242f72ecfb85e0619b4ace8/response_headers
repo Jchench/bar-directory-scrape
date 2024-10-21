@@ -1,0 +1,26 @@
+Date: Mon, 21 Oct 2024 06:30:47 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5f3374bf8b1261-ORD
+Cf-Cache-Status: HIT
+Age: 1860
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 05:33:20 GMT
+Link: <https://dandrelaw.com/wp-json/>; rel="https://api.w.org/", <https://dandrelaw.com/wp-json/wp/v2/pages/21>; rel="alternate"; title="JSON"; type="application/json", <https://dandrelaw.com/>; rel=shortlink
+Vary: Accept-Encoding
+Ki-Cache-Tag: acafaee3-a23b-4472-aa2a-29a99b4a81bc,1daf0b75231dcbc9a914a520d93ec0b90a9fe2290bf6546c049208da6c54d119
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: HIT
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), publickey-credentials-get=(), screen-wake-lock=(), usb=(), vertical-scroll=()
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Frame-Options: SAMEORIGIN
+X-Kinsta-Cache: HIT
+X-Xss-Protection: 1; mode=block
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=F3Q4KhpvPGVFm9LG%2BzpolFRa6VrBYjQaHYDNYSN65R8cSZ2Zk3HneKelsP%2BSQ4%2BnBCPGcBfRTD8j7K%2FOduSQa%2FW1RmlKMWaP9sUedYgn86oWepBsQ4VOvN1zaQVYhc8%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

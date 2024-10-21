@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 06:31:07 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 07:31:07 GMT
+Cache-Control: max-age=14400
+X-Redirect-By: WordPress
+Location: https://rolfeshenry.com/robots.txt
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ltxndNWIPJrsUlvsGJnTPtJGQI%2B1Wn6xket%2BBy%2FTWmbyiok2OfnWfGF16lCn3FtBY0y%2BQL1b9hHmdS8H8bmX3QPlQ7gzzwYKo4okZUx%2FNnkgsZxtCovyZGc1PxZsjXTDAcs3KqsJ"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=0
+Server: cloudflare
+Cf-Ray: 8d5f33e0fa066096-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17538&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2836&recv_bytes=849&delivery_rate=198764&cwnd=236&unsent_bytes=0&cid=04e7e23998c60241&ts=2778&x=0"

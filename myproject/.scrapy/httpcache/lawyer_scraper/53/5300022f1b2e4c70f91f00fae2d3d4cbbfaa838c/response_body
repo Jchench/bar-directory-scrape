@@ -1,0 +1,787 @@
+<!doctype html>
+<html lang="en-US">
+	<head>
+		<meta charset="UTF-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta property="og:site_name" content="Newmeyer Dillion" />
+		<meta property="og:title" content="" />
+		<meta property="og:url" content="https://www.newmeyerdillion.com/publications/the-ccpa-and-cpra-risks-and-obligations-with-third-parties/" />
+		<meta property="og:type" content="article" />
+		<meta property="og:image" content="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/images/og-default.png" />
+		<meta property="og:image:type" content="image/png" />
+		<meta property="og:image:width" content="1200" />
+		<meta property="og:image:height" content="630" />
+		<meta property="twitter:image" content="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/images/og-default.png" />
+		<link rel="profile" href="https://gmpg.org/xfn/11">
+		<script src="https://app.clientpay.com/scripts/embed.js"></script>
+
+		<title>Page not found &#8211; Newmeyer Dillion</title>
+        <script>
+		var AjaxUrl = "https://www.newmeyerdillion.com/wp-admin/admin-ajax.php";
+		
+        </script>
+		<meta name='robots' content='max-image-preview:large' />
+<link rel='dns-prefetch' href='//www.newmeyerdillion.com' />
+<link rel='dns-prefetch' href='//widgetlogic.org' />
+<link rel='dns-prefetch' href='//stats.wp.com' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//i0.wp.com' />
+<link rel='dns-prefetch' href='//c0.wp.com' />
+<link rel="alternate" type="application/rss+xml" title="Newmeyer Dillion &raquo; Feed" href="https://www.newmeyerdillion.com/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Newmeyer Dillion &raquo; Comments Feed" href="https://www.newmeyerdillion.com/comments/feed/" />
+<script>
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/15.0.3\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.newmeyerdillion.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.6.2"}};
+/*! This file is auto-generated */
+!function(i,n){var o,s,e;function c(e){try{var t={supportTests:e,timestamp:(new Date).valueOf()};sessionStorage.setItem(o,JSON.stringify(t))}catch(e){}}function p(e,t,n){e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(t,0,0);var t=new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data),r=(e.clearRect(0,0,e.canvas.width,e.canvas.height),e.fillText(n,0,0),new Uint32Array(e.getImageData(0,0,e.canvas.width,e.canvas.height).data));return t.every(function(e,t){return e===r[t]})}function u(e,t,n){switch(t){case"flag":return n(e,"\ud83c\udff3\ufe0f\u200d\u26a7\ufe0f","\ud83c\udff3\ufe0f\u200b\u26a7\ufe0f")?!1:!n(e,"\ud83c\uddfa\ud83c\uddf3","\ud83c\uddfa\u200b\ud83c\uddf3")&&!n(e,"\ud83c\udff4\udb40\udc67\udb40\udc62\udb40\udc65\udb40\udc6e\udb40\udc67\udb40\udc7f","\ud83c\udff4\u200b\udb40\udc67\u200b\udb40\udc62\u200b\udb40\udc65\u200b\udb40\udc6e\u200b\udb40\udc67\u200b\udb40\udc7f");case"emoji":return!n(e,"\ud83d\udc26\u200d\u2b1b","\ud83d\udc26\u200b\u2b1b")}return!1}function f(e,t,n){var r="undefined"!=typeof WorkerGlobalScope&&self instanceof WorkerGlobalScope?new OffscreenCanvas(300,150):i.createElement("canvas"),a=r.getContext("2d",{willReadFrequently:!0}),o=(a.textBaseline="top",a.font="600 32px Arial",{});return e.forEach(function(e){o[e]=t(a,e,n)}),o}function t(e){var t=i.createElement("script");t.src=e,t.defer=!0,i.head.appendChild(t)}"undefined"!=typeof Promise&&(o="wpEmojiSettingsSupports",s=["flag","emoji"],n.supports={everything:!0,everythingExceptFlag:!0},e=new Promise(function(e){i.addEventListener("DOMContentLoaded",e,{once:!0})}),new Promise(function(t){var n=function(){try{var e=JSON.parse(sessionStorage.getItem(o));if("object"==typeof e&&"number"==typeof e.timestamp&&(new Date).valueOf()<e.timestamp+604800&&"object"==typeof e.supportTests)return e.supportTests}catch(e){}return null}();if(!n){if("undefined"!=typeof Worker&&"undefined"!=typeof OffscreenCanvas&&"undefined"!=typeof URL&&URL.createObjectURL&&"undefined"!=typeof Blob)try{var e="postMessage("+f.toString()+"("+[JSON.stringify(s),u.toString(),p.toString()].join(",")+"));",r=new Blob([e],{type:"text/javascript"}),a=new Worker(URL.createObjectURL(r),{name:"wpTestEmojiSupports"});return void(a.onmessage=function(e){c(n=e.data),a.terminate(),t(n)})}catch(e){}c(n=f(s,u,p))}t(n)}).then(function(e){for(var t in e)n.supports[t]=e[t],n.supports.everything=n.supports.everything&&n.supports[t],"flag"!==t&&(n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&n.supports[t]);n.supports.everythingExceptFlag=n.supports.everythingExceptFlag&&!n.supports.flag,n.DOMReady=!1,n.readyCallback=function(){n.DOMReady=!0}}).then(function(){return e}).then(function(){var e;n.supports.everything||(n.readyCallback(),(e=n.source||{}).concatemoji?t(e.concatemoji):e.wpemoji&&e.twemoji&&(t(e.twemoji),t(e.wpemoji)))}))}((window,document),window._wpemojiSettings);
+</script>
+<style id='wp-emoji-styles-inline-css'>
+
+	img.wp-smiley, img.emoji {
+		display: inline !important;
+		border: none !important;
+		box-shadow: none !important;
+		height: 1em !important;
+		width: 1em !important;
+		margin: 0 0.07em !important;
+		vertical-align: -0.1em !important;
+		background: none !important;
+		padding: 0 !important;
+	}
+</style>
+<link rel='stylesheet' id='wp-block-library-css' href='https://c0.wp.com/c/6.6.2/wp-includes/css/dist/block-library/style.min.css' media='all' />
+<link rel='stylesheet' id='mediaelement-css' href='https://c0.wp.com/c/6.6.2/wp-includes/js/mediaelement/mediaelementplayer-legacy.min.css' media='all' />
+<link rel='stylesheet' id='wp-mediaelement-css' href='https://c0.wp.com/c/6.6.2/wp-includes/js/mediaelement/wp-mediaelement.min.css' media='all' />
+<style id='jetpack-sharing-buttons-style-inline-css'>
+.jetpack-sharing-buttons__services-list{display:flex;flex-direction:row;flex-wrap:wrap;gap:0;list-style-type:none;margin:5px;padding:0}.jetpack-sharing-buttons__services-list.has-small-icon-size{font-size:12px}.jetpack-sharing-buttons__services-list.has-normal-icon-size{font-size:16px}.jetpack-sharing-buttons__services-list.has-large-icon-size{font-size:24px}.jetpack-sharing-buttons__services-list.has-huge-icon-size{font-size:36px}@media print{.jetpack-sharing-buttons__services-list{display:none!important}}.editor-styles-wrapper .wp-block-jetpack-sharing-buttons{gap:0;padding-inline-start:0}ul.jetpack-sharing-buttons__services-list.has-background{padding:1.25em 2.375em}
+</style>
+<link rel='stylesheet' id='block-widget-css' href='https://www.newmeyerdillion.com/wp-content/plugins/widget-logic/block_widget/css/widget.css?ver=1725274728' media='all' />
+<style id='classic-theme-styles-inline-css'>
+/*! This file is auto-generated */
+.wp-block-button__link{color:#fff;background-color:#32373c;border-radius:9999px;box-shadow:none;text-decoration:none;padding:calc(.667em + 2px) calc(1.333em + 2px);font-size:1.125em}.wp-block-file__button{background:#32373c;color:#fff;text-decoration:none}
+</style>
+<style id='global-styles-inline-css'>
+:root{--wp--preset--aspect-ratio--square: 1;--wp--preset--aspect-ratio--4-3: 4/3;--wp--preset--aspect-ratio--3-4: 3/4;--wp--preset--aspect-ratio--3-2: 3/2;--wp--preset--aspect-ratio--2-3: 2/3;--wp--preset--aspect-ratio--16-9: 16/9;--wp--preset--aspect-ratio--9-16: 9/16;--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;--wp--preset--shadow--natural: 6px 6px 9px rgba(0, 0, 0, 0.2);--wp--preset--shadow--deep: 12px 12px 50px rgba(0, 0, 0, 0.4);--wp--preset--shadow--sharp: 6px 6px 0px rgba(0, 0, 0, 0.2);--wp--preset--shadow--outlined: 6px 6px 0px -3px rgba(255, 255, 255, 1), 6px 6px rgba(0, 0, 0, 1);--wp--preset--shadow--crisp: 6px 6px 0px rgba(0, 0, 0, 1);}:where(.is-layout-flex){gap: 0.5em;}:where(.is-layout-grid){gap: 0.5em;}body .is-layout-flex{display: flex;}.is-layout-flex{flex-wrap: wrap;align-items: center;}.is-layout-flex > :is(*, div){margin: 0;}body .is-layout-grid{display: grid;}.is-layout-grid > :is(*, div){margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+:where(.wp-block-post-template.is-layout-flex){gap: 1.25em;}:where(.wp-block-post-template.is-layout-grid){gap: 1.25em;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}:where(.wp-block-columns.is-layout-grid){gap: 2em;}
+:root :where(.wp-block-pullquote){font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel='stylesheet' id='contact-form-7-css' href='https://www.newmeyerdillion.com/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=5.9.8' media='all' />
+<link rel='stylesheet' id='newmeyerdillion_custom_post_types-css' href='https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/css/newmeyerdillion_person-public.css?ver=2.0.2' media='all' />
+<link rel='stylesheet' id='select2-min-css' href='https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/css/select2.min.css?ver=2.0.2' media='all' />
+<link rel='stylesheet' id='theme-style-css' href='https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/css/theme-style.css?ver=2.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-style-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/style.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-soucresans-font-css' href='https://fonts.googleapis.com/css2?family=Source+Sans+Pro%3Awght%40200%3B300%3B400%3B600%3B700%3B900&#038;display=swap&#038;ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-sairacondensed-font-css' href='https://fonts.googleapis.com/css2?family=Saira+Condensed%3Awght%40100%3B200%3B300%3B400%3B500%3B600%3B700%3B800%3B900&#038;display=swap&#038;ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-bootstrap-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/bootstrap.min.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-bootstrap-select-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/bootstrap-select.min.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-owl-css-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/owl-carousel.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-owl-theme-css-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/owl.theme.default.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-font-awesome-css-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/font-awesome.min.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-dl-menu-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/dl-menu.css?ver=1.0.2' media='all' />
+<link rel='stylesheet' id='newmeyer-theme-customstyle-css' href='https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/css/style.css?ver=1.0.3' media='all' />
+<script src="https://c0.wp.com/c/6.6.2/wp-includes/js/jquery/jquery.min.js" id="jquery-core-js"></script>
+<script src="https://c0.wp.com/c/6.6.2/wp-includes/js/jquery/jquery-migrate.min.js" id="jquery-migrate-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/js/jquery-ui.js?ver=2.0.2" id="jquery-ui-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/js/select2-updated.js?ver=2.0.2" id="select-search-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/js/newmeyerdillion_person-public.js?ver=2.0.2" id="newmeyerdillion_custom_post_types-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/newmeyerdillion_custom_post_types/public/js/people-autocomplete.js?ver=2.0.2" id="autocomplete-script-js"></script>
+<link rel="https://api.w.org/" href="https://www.newmeyerdillion.com/wp-json/" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.newmeyerdillion.com/xmlrpc.php?rsd" />
+<meta name="generator" content="WordPress 6.6.2" />
+	<style>img#wpstats{display:none}</style>
+				<style type="text/css">
+					.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+				}
+					</style>
+		<link rel="icon" href="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/favicon-32x32-1.png?fit=32%2C32&#038;ssl=1" sizes="32x32" />
+<link rel="icon" href="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/favicon-32x32-1.png?fit=32%2C32&#038;ssl=1" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/favicon-32x32-1.png?fit=32%2C32&#038;ssl=1" />
+<meta name="msapplication-TileImage" content="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/favicon-32x32-1.png?fit=32%2C32&#038;ssl=1" />
+<script>
+	jQuery(document).ready(function($){	
+		$(document).ready(function() {
+			$('.skip-link').bind('keypress', function(event){
+				if(event.which === 13) {
+					$('main').get(0).focus();
+					$('main').addClass('focus');
+  					console.log('Focused');
+				}
+			});
+			
+			$('.skip-link').click(function(){
+				$('main').get(0).focus();
+				$('main').addClass('focus');
+				console.log('Focused');
+			});
+		});				
+	});
+</script>
+	</head>
+
+	<body class="error404 wp-custom-logo hfeed">
+						<div id="page" class="site">
+				<div id="cookie-notice-popup" class="cookie-notice" role="region" aria-label="cookie consent banner">
+				<div class="cookie-notice__content">
+					<div class="cookie-notice__message">
+						<p>We use cookies on our website to improve functionality and performance, to enhance the user experience, and to provide tailored content for website visitors. If you agree and consent to the use of cookies, please click Accept.</p>
+						<p><button id="cookie-notice-accept-button" class="cookie-notice__button">Accept</button></p>
+						<p>For more information about how we use cookies, visit our <a href="https://www.newmeyerdillion.com/privacy-policy">Privacy Policy</a>.</p>
+					</div>
+				</div>
+			</div>
+			<a class="skip-link screen-reader-text" href="#primary">Skip to content</a>
+		
+
+			<header id="masthead" class="site-header desktopheaderMenu">
+
+				<nav class="navbar navbar-expand-sm navbar-light align-items-center p-0" aria-label="primary">
+					<div class="container align-items-end">
+						<div class="navbar-brand col-lg-6 col-md-4 p-0 mr-auto" ><a href="https://www.newmeyerdillion.com/" class="custom-logo-link" rel="home"><img width="400" height="177" src="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?fit=400%2C177&amp;ssl=1" class="custom-logo" alt="Newmeyer Dillion" decoding="async" fetchpriority="high" srcset="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?w=400&amp;ssl=1 400w, https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?resize=300%2C133&amp;ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></div>
+						<button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-label="Toggle navigation">
+							<span class="navbar-toggler-icon"></span>
+						</button>
+						<div class="position-static col-lg-6 col-md-8 d-flex p-0" >
+							<div class="collapse navbar-collapse position-static p-0" id="navbarSupportedContent">
+								<ul class="navbar-nav ml-auto">
+									<li class="nav-item dropdown position-static">
+										<button class="nav-link dropdown-toggle " type="button" role="button" data-toggle="dropdown" aria-controls="services-menu" aria-expanded="false" >Services </button>
+										<ul class="dropdown-menu w-100 shadow p-0" id="services-menu">
+											<li class="dropdown-item service_dropdown_blk menu-panels">
+												<div class="container">
+													<div class="row py-3 m-0 justify-content-center">
+														<div class="col-md-12 col-lg-9 search_warp pb-2">
+															<h2 role="heading">FIND A SERVICE</h2>
+															<form role="search" action="https://www.newmeyerdillion.com/services/" aria-label="Services Search">
+																<div class="row align-items-end">
+																	<div class=" col-lg-10 col-md-9">
+																		<div class="form-group search">
+																			<!--<input type="text" id="services_search_2" name="search_keyword" class="form-control autocomplete services_search_2" placeholder="Type a name or keyword" title="Type a search keyword" value="" />-->
+																			<div class="people_loading" style="display:none;">Loading</div>
+																			<div class="no_matches" style="display:none;">No Instant Matches</div>
+																			<!----autocomplete search----->
+																			<label for="panel-services-search-by-keyword" id="label-services-search">Service or keyword</label>
+																			<input id="panel-services-search-by-keyword" placeholder="Type a service or keyword" class="form-control text predictive-search-input" type="text" name="search[keyword]" value="" autocomplete="off"  aria-autocomplete="list" aria-haspopup="listbox" role="combobox" aria-expanded="false" aria-controls="panel-services-search-by-keyword__predictiveSearch__dropdown" aria-activedescendant=""
+
+																			      aria-describedby="panel-services-search-by-keyword-instructions"/>
+																			<!------------------->
+																		</div>
+																	</div>
+																	<div class="col-lg-2 col-md-3 form-group submit_btn">
+																		<button type="submit" class="btn searchButton">Search</button>
+																	</div>
+																</div>
+																<div class="services-menu-panel__view-all__wrapper view_all_left">
+																	<a class="menu-panel__control services-menu-panel__view-all" href="https://www.newmeyerdillion.com/services/">
+																		VIEW FULL SERVICES LIST
+																	</a>
+																</div>
+															</form>
+														</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</li>
+									<li class="nav-item dropdown position-static">
+										<button class="nav-link dropdown-toggle " aria-controls="people-menu" type="button" role="button" data-toggle="dropdown" id="navbarDropdownPeople" aria-expanded="false">People </button>
+										<ul class="dropdown-menu w-100 shadow p-0"  id="people-menu">
+											<li class="dropdown-item people_dropdown_blk menu-panels">
+												<div class="container">
+													<div class="row py-3">
+														<div class="col-md-8 col-lg-7 search_warp pb-2">
+															<h2 role="heading">Find a Person</h2>
+															<form role="search" action="https://www.newmeyerdillion.com/peoples/" aria-label="People Search">
+																<div class="row align-items-end">
+																	<div class="col-lg-8  col-md-8">
+																		<div class="form-group search">
+																			<!--<input type="text" id="people_search_2" name="search_keyword" class="form-control autocomplete" placeholder="Type a name or keyword" title="Type a search keyword" value="" />
+																			<div class="people_loading" style="display:none;">Loading</div>
+																			<div class="no_matches" style="display:none;">No Instant Matches</div>-->
+																			<!----autocomplete search----->
+																			<label for="panel-people-search-by-keyword" id="label-people-search">Name or keyword</label>
+																			<input id="panel-people-search-by-keyword" type="text" class="form-control text people-search__field people-search__field--keyword predictive-search-input" name="search[keyword]" value="" placeholder="Type a name or keyword" autocomplete="off" aria-autocomplete="list" aria-haspopup="listbox" aria-expanded="false" role="combobox" aria-autocomplete aria-controls="panel-people-search-by-keyword__predictiveSearch__dropdown" aria-activedescendant=""
+
+																			      aria-describedby="panel-people-search-by-keyword-instructions"/>
+																			<!------------->
+																		</div>
+																		<div class="collapse" id="collapseExample">
+																			<div class="form-group search">
+																			<label for="people_position_list_head" id="label-header-person">Person</label>
+																				<select class="form-control select2-enabled" name="people_position" id="people_position_list_head" data-placeholder="Select a person">
+																					<option value="">Select a person</option>
+																																												<option value="237"  >Accounting Manager</option>
+																																														<option value="23"  >Administrative</option>
+																																														<option value="22"  >Associate</option>
+																																														<option value="24"  >Business Development/Marketing Manager</option>
+																																														<option value="21"  >Controller</option>
+																																														<option value="20"  >Counsel</option>
+																																														<option value="25"  >Director, Human Resources</option>
+																																														<option value="19"  >Director, Information Technology</option>
+																																														<option value="18"  >Executive Director</option>
+																																														<option value="17"  >Of Counsel</option>
+																																														<option value="16"  >Paralegal</option>
+																																														<option value="15"  >Partner</option>
+																																														<option value="14"  >Pre-Bar Associate</option>
+																																														<option value="242"  >Senior Attorney</option>
+																																														<option value="13"  >Senior Counsel</option>
+																							
+																				</select>
+																			</div>
+																			<div class="form-group search">
+																				<label for="search_service_list_head" id="label-header-service">Service</label>
+																				<select class="form-control select2-enabled" data-placeholder="Select a service" name="search_service" id="search_service_list_head">
+																					<option value="">Select a service</option>
+																																												<option value="648"  >Appellate</option>
+																																														<option value="650"  >Bankruptcy & Restructuring</option>
+																																														<option value="651"  >Business Litigation</option>
+																																														<option value="653"  >Business Organizations & Reorganizations</option>
+																																														<option value="699"  >Business Transactions</option>
+																																														<option value="700"  >California Consumer Privacy Act</option>
+																																														<option value="701"  >CEQA</option>
+																																														<option value="702"  >Commercial Construction</option>
+																																														<option value="703"  >Construction Contracting</option>
+																																														<option value="704"  >Construction Litigation</option>
+																																														<option value="706"  >Corporate Matters: Acquisitions, Securities, & Mergers</option>
+																																														<option value="707"  >Coverage & Bad Faith Litigation</option>
+																																														<option value="709"  >Cyber Insurance</option>
+																																														<option value="710"  >Data Breach Response / Ransomware</option>
+																																														<option value="711"  >Eminent Domain & Real Estate Valuation</option>
+																																														<option value="712"  >Environmental</option>
+																																														<option value="716"  >Insurance Policy Review & Placement</option>
+																																														<option value="717"  >Intellectual Property - Trademarks & Licensing</option>
+																																														<option value="719"  >Labor & Employment</option>
+																																														<option value="721"  >Privacy & Data Security</option>
+																																														<option value="722"  >Probate Litigation</option>
+																																														<option value="723"  >Real Estate Lending & Finance</option>
+																																														<option value="724"  >Real Estate Litigation</option>
+																																														<option value="725"  >Real Estate Transactions</option>
+																																														<option value="726"  >Resource Law</option>
+																																														<option value="727"  >Risk Avoidance, Transfer & Management</option>
+																																														<option value="729"  >Sports & Entertainment</option>
+																																														<option value="730"  >Trust Litigation</option>
+																																														<option value="731"  >Trusts & Estates</option>
+																																														<option value="733"  >Wireless Telecommunications & Broadband</option>
+																																														<option value="734"  >Zoning and Land Use – Entitlements & Litigation</option>
+																																											</select>
+																			</div>
+
+																			<div class="form-group search">
+																				<label for="search_office_list_head" id="label-header-office">Office</label>
+																				<select name="search_office" class="form-control select2-enabled" id="search_office_list_head" data-placeholder="Select an Office">
+																					<option value="" selected="selected">Select an Office</option>
+																																												<option class="level-0" value="20" >Las Vegas, NV</option>
+																																														<option class="level-0" value="18" >Newport Beach, CA</option>
+																																														<option class="level-0" value="19" >Walnut Creek, CA</option>
+																							
+																				</select>
+																			</div>
+
+																			<div class="form-group search">
+																				<label for="search_school_list_head" id="label-header-school">School</label>
+																				<select name="search_school" class="form-control select2-enabled" id="search_school_list_head" data-placeholder="Select a School">
+																					<option value="" selected="selected">Select a School</option>
+																																											<option class="level-0" value="120" >Air University</option>
+																																												<option class="level-0" value="119" >Albany Law School</option>
+																																												<option class="level-0" value="224" >American University Washington College of Law</option>
+																																												<option class="level-0" value="118" >Arizona State University</option>
+																																												<option class="level-0" value="230" >Arizona State University Sandra Day O'Connor College of Law</option>
+																																												<option class="level-0" value="117" >Augsburg College</option>
+																																												<option class="level-0" value="116" >Berklee College of Music</option>
+																																												<option class="level-0" value="115" >Boston University</option>
+																																												<option class="level-0" value="114" >Brandeis University</option>
+																																												<option class="level-0" value="113" >Brigham Young University</option>
+																																												<option class="level-0" value="112" >California Lutheran University</option>
+																																												<option class="level-0" value="111" >California Polytechnic State University, San Luis Obispo</option>
+																																												<option class="level-0" value="110" >California State University, Dominguez Hills</option>
+																																												<option class="level-0" value="109" >California State University, East Bay</option>
+																																												<option class="level-0" value="235" >California State University, Long Beach</option>
+																																												<option class="level-0" value="108" >California State University, Northridge</option>
+																																												<option class="level-0" value="107" >California State University, Sacramento</option>
+																																												<option class="level-0" value="106" >California State University, San Jose</option>
+																																												<option class="level-0" value="105" >Chapman University</option>
+																																												<option class="level-0" value="104" >Chapman University, Dale E. Fowler School of Law</option>
+																																												<option class="level-0" value="103" >College of William &amp; Mary</option>
+																																												<option class="level-0" value="223" >Command and Staff College</option>
+																																												<option class="level-0" value="102" >Cornell Law School</option>
+																																												<option class="level-0" value="101" >Cornell University</option>
+																																												<option class="level-0" value="100" >Duke University</option>
+																																												<option class="level-0" value="99" >Fontbonne University</option>
+																																												<option class="level-0" value="227" >Fordham University</option>
+																																												<option class="level-0" value="98" >George Mason University</option>
+																																												<option class="level-0" value="97" >Georgetown University</option>
+																																												<option class="level-0" value="96" >Georgetown University Law Center</option>
+																																												<option class="level-0" value="95" >Gonzaga University</option>
+																																												<option class="level-0" value="94" >Gonzaga University School of Law</option>
+																																												<option class="level-0" value="93" >Hobart College</option>
+																																												<option class="level-0" value="92" >Idaho State University</option>
+																																												<option class="level-0" value="91" >Indiana University Maurer School of Law</option>
+																																												<option class="level-0" value="234" >Indiana University, Kelley School of Business</option>
+																																												<option class="level-0" value="90" >Legal Lean Sigma</option>
+																																												<option class="level-0" value="89" >Loyola Law School, Los Angeles</option>
+																																												<option class="level-0" value="88" >Loyola Marymount University</option>
+																																												<option class="level-0" value="87" >Macalester College</option>
+																																												<option class="level-0" value="86" >Marian University</option>
+																																												<option class="level-0" value="85" >Massachusetts Institute of Technology</option>
+																																												<option class="level-0" value="84" >Mitchell Hamline School of Law</option>
+																																												<option class="level-0" value="241" >National Criminal Defense College's Trial Practice Institute</option>
+																																												<option class="level-0" value="83" >Notre Dame Law School</option>
+																																												<option class="level-0" value="82" >Occidental College</option>
+																																												<option class="level-0" value="81" >Pepperdine Caruso School of Law</option>
+																																												<option class="level-0" value="80" >Pepperdine Law</option>
+																																												<option class="level-0" value="79" >Pepperdine University</option>
+																																												<option class="level-0" value="78" >Principia College</option>
+																																												<option class="level-0" value="238" >Rhodes College</option>
+																																												<option class="level-0" value="77" >Saint Mary’s College, Notre Dame</option>
+																																												<option class="level-0" value="76" >San Diego State University</option>
+																																												<option class="level-0" value="75" >San Francisco State University</option>
+																																												<option class="level-0" value="74" >Santa Ana College</option>
+																																												<option class="level-0" value="73" >Santa Clara University School of Law</option>
+																																												<option class="level-0" value="72" >Seattle University School of Law</option>
+																																												<option class="level-0" value="240" >SMU Dedman School of Law</option>
+																																												<option class="level-0" value="239" >Southern Methodist University</option>
+																																												<option class="level-0" value="71" >Southwestern Law School</option>
+																																												<option class="level-0" value="70" >St. Michael’s Abbey of Nobertine Fathers</option>
+																																												<option class="level-0" value="69" >Stanford University</option>
+																																												<option class="level-0" value="68" >The Benjamin N. Cardozo School of Law</option>
+																																												<option class="level-0" value="67" >The Catholic University of America Columbus School of Law</option>
+																																												<option class="level-0" value="225" >The Judge Advocate General's Legal Center and School</option>
+																																												<option class="level-0" value="66" >Tulane Law School</option>
+																																												<option class="level-0" value="229" >United States Naval Academy</option>
+																																												<option class="level-0" value="231" >University of Arizona</option>
+																																												<option class="level-0" value="65" >University of California, Berkeley</option>
+																																												<option class="level-0" value="64" >University of California, Berkeley School of Law</option>
+																																												<option class="level-0" value="63" >University of California, Davis</option>
+																																												<option class="level-0" value="62" >University of California, Hastings College of Law</option>
+																																												<option class="level-0" value="61" >University of California, Irvine</option>
+																																												<option class="level-0" value="60" >University of California, Irvine Extension</option>
+																																												<option class="level-0" value="59" >University of California, Irvine School of Law</option>
+																																												<option class="level-0" value="58" >University of California, Los Angeles</option>
+																																												<option class="level-0" value="57" >University of California, Riverside Extension</option>
+																																												<option class="level-0" value="56" >University of California, San Diego</option>
+																																												<option class="level-0" value="55" >University of California, Santa Barbara</option>
+																																												<option class="level-0" value="54" >University of California, Santa Cruz</option>
+																																												<option class="level-0" value="53" >University of Illinois</option>
+																																												<option class="level-0" value="52" >University of Iowa College of Law</option>
+																																												<option class="level-0" value="51" >University of Miami School of Law</option>
+																																												<option class="level-0" value="50" >University of Minnesota</option>
+																																												<option class="level-0" value="49" >University of Nevada, Las Vegas</option>
+																																												<option class="level-0" value="48" >University of Nevada, Las Vegas, William S. Boyd School of Law</option>
+																																												<option class="level-0" value="222" >University of Notre Dame</option>
+																																												<option class="level-0" value="47" >University of Pennsylvania Law School</option>
+																																												<option class="level-0" value="228" >University of Pittsburgh</option>
+																																												<option class="level-0" value="46" >University of Salamanca</option>
+																																												<option class="level-0" value="45" >University of San Diego</option>
+																																												<option class="level-0" value="44" >University of San Diego School of Law</option>
+																																												<option class="level-0" value="43" >University of San Francisco School of Law</option>
+																																												<option class="level-0" value="42" >University of Southern California</option>
+																																												<option class="level-0" value="41" >University of Southern California Gould School of Law</option>
+																																												<option class="level-0" value="40" >University of Texas School of Law</option>
+																																												<option class="level-0" value="39" >University of the Pacific</option>
+																																												<option class="level-0" value="38" >University of the Pacific, McGeorge School of Law</option>
+																																												<option class="level-0" value="37" >University of Washington</option>
+																																												<option class="level-0" value="36" >University of Washington School of Law</option>
+																																												<option class="level-0" value="35" >University of Wisconsin</option>
+																																												<option class="level-0" value="34" >Valparaiso University School of Law</option>
+																																												<option class="level-0" value="33" >Vermont Law School</option>
+																																												<option class="level-0" value="32" >Washington State University</option>
+																																												<option class="level-0" value="31" >Washington University</option>
+																																												<option class="level-0" value="30" >William Marsh Rice University</option>
+																																												<option class="level-0" value="29" >Yale University</option>
+																																										</select>
+																			</div>
+
+																			<div class="form-group search">
+																				<label for="search_lang_list_head" id="label-header-lang">Languages</label>
+																				<select name="search_lang" class="form-control select2-enabled" id="search_lang_list_head" data-placeholder="Select a Languages">
+																					<option value="" selected="selected">Select a Languages</option>
+																																												<option class="level-0" value="179"  >Arabic</option>
+																																														<option class="level-0" value="178"  >Cantonese</option>
+																																														<option class="level-0" value="177"  >Farsi</option>
+																																														<option class="level-0" value="176"  >French</option>
+																																														<option class="level-0" value="175"  >Russian</option>
+																																														<option class="level-0" value="174"  >Spanish</option>
+																																														<option class="level-0" value="232"  >Vietnamese</option>
+																																											</select>
+
+
+																			</div>
+																			<div class="form-group search">
+																				<label for="search_admissions_list_head" id="label-header-admissions">Admissions</label>
+																				<select name="search_admissions" class="form-control select2-enabled" id="search_admissions_list_head" data-placeholder="Select an Admissions">
+																					<option value="" selected="selected">Select an Admissions</option>
+																																												<option class="level-0" value="173"  >Arizona</option>
+																																														<option class="level-0" value="172"  >California</option>
+																																														<option class="level-0" value="171"  >California, pending swearing-in ceremony</option>
+																																														<option class="level-0" value="170"  >Colorado</option>
+																																														<option class="level-0" value="169"  >District of Columbia</option>
+																																														<option class="level-0" value="168"  >Florida</option>
+																																														<option class="level-0" value="167"  >Hawaii</option>
+																																														<option class="level-0" value="233"  >Illinois</option>
+																																														<option class="level-0" value="166"  >Indiana</option>
+																																														<option class="level-0" value="165"  >Minnesota</option>
+																																														<option class="level-0" value="164"  >Navy-Marine Corps Court of Criminal Appeals</option>
+																																														<option class="level-0" value="163"  >Nevada</option>
+																																														<option class="level-0" value="162"  >New York</option>
+																																														<option class="level-0" value="236"  >Supreme Court of California</option>
+																																														<option class="level-0" value="161"  >Texas</option>
+																																														<option class="level-0" value="160"  >U.S. Court of Appeals for the Armed Forces</option>
+																																														<option class="level-0" value="159"  >U.S. Court of Appeals, Federal Circuit</option>
+																																														<option class="level-0" value="158"  >U.S. Court of Appeals, Ninth Circuit</option>
+																																														<option class="level-0" value="157"  >U.S. Court of Federal Claims</option>
+																																														<option class="level-0" value="156"  >U.S. District Court, Central District of California</option>
+																																														<option class="level-0" value="155"  >U.S. District Court, District of Colorado</option>
+																																														<option class="level-0" value="154"  >U.S. District Court, District of Nevada</option>
+																																														<option class="level-0" value="153"  >U.S. District Court, District of Utah</option>
+																																														<option class="level-0" value="152"  >U.S. District Court, Eastern District of California</option>
+																																														<option class="level-0" value="151"  >U.S. District Court, Eastern District of Virginia</option>
+																																														<option class="level-0" value="150"  >U.S. District Court, Northern District of California</option>
+																																														<option class="level-0" value="149"  >U.S. District Court, Southern District of California</option>
+																																														<option class="level-0" value="148"  >U.S. District Court, Western District of Washington</option>
+																																														<option class="level-0" value="147"  >United States Bankruptcy Court, Central District of California</option>
+																																														<option class="level-0" value="146"  >United States Bankruptcy Court, Eastern District of California</option>
+																																														<option class="level-0" value="145"  >United States Bankruptcy Court, Northern District of California</option>
+																																														<option class="level-0" value="144"  >United States Bankruptcy Court, Southern District of California</option>
+																																														<option class="level-0" value="143"  >United States Supreme Court</option>
+																																														<option class="level-0" value="142"  >United States Tax Court</option>
+																																														<option class="level-0" value="141"  >Utah</option>
+																																														<option class="level-0" value="140"  >Virginia</option>
+																																														<option class="level-0" value="139"  >Washington</option>
+																																														<option class="level-0" value="138"  >Wisconsin</option>
+																							
+																				</select>
+																			</div>
+																		</div>
+																	</div>
+																	<div class=" col-lg-4 col-md-4  form-group submit_btn">
+																		<button type="submit" class="btn searchButton">Search</button>
+																	</div>
+
+																	<div class="people-menu-panel__view-all__wrapper view_all_left">
+																		<button class="menu-panel__control people-menu-panel__view-all" type="button" data-toggle="collapse" data-target="#collapseExample" role="button" aria-expanded="false" aria-controls="collapseExample" >
+																			<span class="advance">Advance</span> <span class="basic">Basic</span> search
+																		</button>
+																	</div>
+																</div>
+															</form>
+														</div>
+														<div class="col-md-4 col-lg-5 pb-2 alphabets_list text-center">
+															<div class="people-letter__filters">
+																<ul>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=A">A</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=B">B</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=C">C</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=D">D</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=E">E</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=F">F</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=G">G</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=H">H</a></li>
+																<li><a class="people-search__alpha people-filter-button" href="https://www.newmeyerdillion.com/peoples/?search_letter=I">I</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=J">J</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=K">K</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=L">L</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=M">M</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=N">N</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=O">O</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=P">P</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=Q">Q</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=R">R</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=S">S</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=T">T</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=U">U</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=V">V</a></li>
+																<li><a class="people-search__alpha people-filter-button active" href="https://www.newmeyerdillion.com/peoples/?search_letter=W">W</a></li>
+																<li><a class="people-search__alpha people-filter-button" href="https://www.newmeyerdillion.com/peoples/?search_letter=X">X</a></li>
+																<li><a class="people-search__alpha people-filter-button" href="https://www.newmeyerdillion.com/peoples/?search_letter=Y">Y</a></li>
+																<li><a class="people-search__alpha people-filter-button" href="https://www.newmeyerdillion.com/peoples/?search_letter=Z">Z</a></li>
+																</ul>
+																<div class="people-menu-panel__view-all__wrapper">
+																	<a href="https://www.newmeyerdillion.com/peoples/" class="menu-panel__control people-menu-panel__view-all">View All</a>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</li>
+									<li class="nav-item dropdown position-static">
+																				<button class="nav-link dropdown-toggle " aria-controls="firm-menu" type="button" role="button" data-toggle="dropdown" aria-expanded="false" >Firm </button>
+										<ul class="dropdown-menu w-100 shadow p-0" id="firm-menu">
+											<li class="dropdown-item service_dropdown_blk">
+												<div class="container">
+													<div class="row m-0 align-items-center justify-content-center">
+														<div class="col-md-12 col-lg-9 firm_warp">
+															<h2 role="heading">ABOUT THE FIRM</h2>
+															<div class="row justify-content-center">
+																<div class="col-lg-2 col-md-2 drop-nav-link text-left">
+																	<a href="https://www.newmeyerdillion.com/about-us/" class="">About Us</a>
+																</div>
+																<div class="col-lg-3 col-md-3 drop-nav-link text-center">
+																	<a href="https://www.newmeyerdillion.com/careers/" class="">Careers</a>
+																</div>
+																<div class="col-lg-4 col-md-4 drop-nav-link text-center">
+																	<a href="https://www.newmeyerdillion.com/contact-us/" class="">Contact Us</a>
+																</div>
+																<div class="col-lg-3 col-md-3 drop-nav-link dropsubMenu ">
+																	<button class="dropsubMenubtn" type="button" data-toggle="collapse" data-target="#dropsubMenuWrap" role="button" aria-expanded="false" aria-controls="dropsubMenuWrap"  >
+																			Newsroom
+																		</button>
+																	<!--<button type="button" aria-controls="dropsubMenuWrap" role="button" class="dropsubMenubtn ">
+																		Newsroom
+																	</button> -->
+																	<div class="collapse dropsubMenuWrap " id="dropsubMenuWrap" style="" >
+																		<ul>
+																			<li><a href="https://www.newmeyerdillion.com/publications" class="">Publications</a></li>
+																			<li><a href="https://www.newmeyerdillion.com/events" class="">Events</a> </li>
+																			<li><a href="https://www.newmeyerdillion.com/news" class="">News</a>  </li>
+																		</ul>
+																	</div>
+																</div>
+															</div>
+														</div>
+													</div>
+												</div>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</div>
+							<div class="header_search">
+								<!---Header Autocomplete search -->
+								<form role="search" method="get" id="global-search" class="global-search" action="https://www.newmeyerdillion.com" aria-label="Global Search">
+									<div class="global-search__field field form-group search">
+										<label for="global-search-keyword" id="global-search">Search</label>
+										<input type="text" id="global-search-keyword" name="s" class="form-control global-search__input text predictive-search-input" placeholder="" title="Type a search keyword" value=""
+
+										   autocomplete="off" aria-autocomplete="list" aria-haspopup="listbox" aria-expanded="false" aria-activedescendant="" aria-controls="global-search-keyword__predictiveSearch__dropdown"  role="combobox" aria-describedby="global-search-keyword-instructions" aria-label="Search" />
+									</div>
+								</form>
+								<!--<form role="search" action="https://www.newmeyerdillion.com">
+									<div class="form-group search">
+										<input type="text" id="global-search-keyword" name="s" class="form-control" placeholder="Search" title="Type a search keyword" />
+										<div class="people_loading" style="display:none;">Loading</div>
+										<div class="no_matches" style="display:none;">No Instant Matches</div>
+									</div>
+								</form>-->
+							</div>
+						</div>
+					</div>
+				</nav>
+			</header><!-- #masthead -->
+
+				<!--<form role="search" method="get" id="mobile-search" class="mobile mobile-search mobile-search--closed" action="https://www.newmeyerdillion.com/">
+					<span id="mobile-search-toggle" class="mobile-search__toggle"></span>
+					<div class="mobile-search__panel">
+						<span class="input-wrap"><input type="text" name="s" class="text mobile-search-input mobile-search__field" placeholder="Search" title="Type a search keyword" value=""></span>
+						<span class="input-wrap"><input type="button" id="mobile-search-submit" class="mobile-search-submit mobile-search__submit disable-autofill-submit" value=""></span>
+					</div>
+					<input type="hidden" value="">
+				</form>-->
+
+
+
+			<header class="site-header mobileheaderMenu">
+				<nav class="navbar navbar-expand-lg navbar-light" aria-label="Mobile Menu">
+					<div class="container align-items-start">
+						<div class="navbar-brand p-0" ><a href="https://www.newmeyerdillion.com/" class="custom-logo-link" rel="home"><img width="400" height="177" src="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?fit=400%2C177&amp;ssl=1" class="custom-logo" alt="Newmeyer Dillion" decoding="async" srcset="https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?w=400&amp;ssl=1 400w, https://i0.wp.com/www.newmeyerdillion.com/wp-content/uploads/2021/06/logo.png?resize=300%2C133&amp;ssl=1 300w" sizes="(max-width: 400px) 100vw, 400px" /></a></div>
+						<div class="navbar-search position-static  ml-auto" >
+							<a href="#" class="searchbar"></a>
+							<div class="searchDropdowmWrap">
+								<form>
+									<div class="input-group mb-3">
+										<input type="text" id="people_search_2" name="search_keyword" class="form-control autocomplete" placeholder="Search" title="Search" value="" />
+										<div class="input-group-append">
+											<button type="submit" class="btnSearch">Search</button>
+										</div>
+									</div>
+								</form>
+							</div>
+						</div>
+						<div class="navbarMainMenu position-static" >
+							<div id="dl-menu" class="dl-menuwrapper">
+								<button class="dl-trigger" aria-controls="mobMenu" aria-expanded="false">Open Menu</button>
+								<ul class="dl-menu" id="mobMenu">
+									<li><a href="https://www.newmeyerdillion.com/peoples/" class="">People</a></li>
+									<li><a href="https://www.newmeyerdillion.com/services/" class="">Services</a></li>
+									<li>
+										<a href="#" class="" aria-controls="firmMenu" aria-expanded="false">Firm</a>
+										<ul class="dl-submenu" id="firmMenu">
+											<li><a href="https://www.newmeyerdillion.com/about-us/" class="">About Us</a></li>
+											<li>
+												<a href="#" class="">Careers</a>
+												<ul id="nav-mobile-id" class="dl-submenu"><li id="menu-item-1912" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1912"><a href="https://www.newmeyerdillion.com/careers/">Overview</a></li>
+<li id="menu-item-1905" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1905"><a href="https://www.newmeyerdillion.com/attorneys/">Attorneys</a></li>
+<li id="menu-item-1907" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1907"><a href="https://www.newmeyerdillion.com/legal-support-staff/">Legal Support Staff</a></li>
+<li id="menu-item-1908" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1908"><a href="https://www.newmeyerdillion.com/other-professionals/">Other Professionals</a></li>
+<li id="menu-item-1909" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1909"><a href="https://www.newmeyerdillion.com/all-openings/">All Openings</a></li>
+</ul>												<!-- <ul class="dl-submenu">
+													<li><a href="#">Sofas &amp; Loveseats</a></li>
+													<li><a href="#">Coffee &amp; Accent Tables</a></li>
+													<li><a href="#">Chairs &amp; Recliners</a></li>
+													<li><a href="#">Bookshelves</a></li>
+												</ul>-->
+											</li>
+											<li><a href="https://www.newmeyerdillion.com/contact-us/" class="">Contact Us</a></li>
+											
+											<li>
+												<a href="#" class="">Newsroom</a>
+												<ul class="dl-submenu">
+													<li><a href="https://www.newmeyerdillion.com/publications/" class="">Publications</a></li>
+													<li><a href="https://www.newmeyerdillion.com/events/" class="">Events</a></li>
+													<li><a href="https://www.newmeyerdillion.com/news/" class="">News</a></li>
+												</ul>
+											</li>
+										</ul>
+									</li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</nav>
+			</header>
+
+
+<div class="breadcrumb">
+	<div class="container">
+		<h1>Page Not Found</h1>
+	</div>
+</div> 
+<div class="container">
+	<div id="main" class="main">
+	   <div id="main-inner" class="main__inner">
+		  <div id="content" class="content">
+			 <div id="content-inner" class="content__inner">
+				<article class="not-found">
+				   <h2>The page that you are looking for was not found.</h2>
+				   <p>It's possible you entered the address incorrectly or are looking for a page that has moved.</p>
+				   <a class="btn button" href="https://www.newmeyerdillion.com">Return to home page</a>
+				</article>
+			 </div>
+		  </div>
+	   </div>
+	</div>
+</div>
+
+
+	<footer id="footer" class="footer">
+			<div class="footer_top">
+				<div class="container">
+					<ul class ="row">
+													 														<li class="col-md-4 col-sm-12 col-12 news_grid px-5">
+								<h3>
+									<span class="category_name">
+										<a href="https://www.newmeyerdillion.com/news">News</a>
+									</span>
+									<a href="https://www.newmeyerdillion.com/news/10-newmeyer-dillion-attorneys-named-to-2025-u-s-news-best-lawyers-in-multiple-practice-areas/">10 Newmeyer Dillion Attorneys Named to 2025 U.S. News Best Lawyers in Multiple Practice Areas</a>
+								</h3>
+								<p>NEWPORT BEACH, Calif. – August 15, 2024 – Prominent business and real estate law firm Newmeyer Dillion is pleased to announce that eleven of the firm’s attorneys were recently selected for inclusion and will be recognized&hellip;</p>
+							</li>
+						  							<li class="col-md-4 col-sm-12 col-12 news_grid px-5">
+								<h3>
+									<span class="category_name">
+										<a href="https://www.newmeyerdillion.com/news">News</a>
+									</span>
+									<a href="https://www.newmeyerdillion.com/news/newmeyer-dillions-jessica-garland-named-to-2024-southern-california-rising-stars-list/">Newmeyer Dillion&#039;s Jessica Garland Named to 2024 Southern California Rising Stars List</a>
+								</h3>
+								<p>NEWPORT BEACH, Calif. – June 12, 2024 – Prominent business and real estate law firm Newmeyer Dillion is pleased to announce that partner Jessica Garland has been selected to the 2024 Southern California Rising Stars&hellip;</p>
+							</li>
+						  							<li class="col-md-4 col-sm-12 col-12 news_grid px-5">
+								<h3>
+									<span class="category_name">
+										<a href="https://www.newmeyerdillion.com/news">News</a>
+									</span>
+									<a href="https://www.newmeyerdillion.com/news/newmeyer-dillions-kyle-janecek-named-to-2024-southern-california-rising-stars-list/">Newmeyer Dillion&#039;s Kyle Janecek Named to 2024 Southern California Rising Stars List</a>
+								</h3>
+								<p>NEWPORT BEACH, Calif. – June 12, 2024 – Prominent business and real estate law firm Newmeyer Dillion is pleased to announce that associate Kyle Janecek have been selected to the 2024 Southern California Rising Stars&hellip;</p>
+							</li>
+						  					</ul>
+				</div>
+			</div>
+			<div class="footer_bottom">
+				<div class="container">
+					<div class="footer-logo">
+						<a href="https://allyant.com" target="_blank">
+							<img src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/images/Footer-Allyant-Logo.png" alt="Reviewed by Allyant for accessibility">
+						</a>
+					</div>
+					<div id="footer-inner" class="footer__inner">
+						<span class="footer__copyright copyright-notice">© 2024 Newmeyer &amp; Dillion. All Rights Reserved. </span>
+						<ul class="footer-follow social-follow">
+							<li><span class="footer-follow__label follow-label">Follow Us<span class="footer-follow__colon follow-colon">:</span></span></li>
+							<li><a class="footer-follow__link footer-follow__link--linkedin follow-linkedin" href="https://www.linkedin.com/company/newmeyer-&amp;-dillion" aria-label="LinkedIn" target="_blank"></a></li>
+							<li><a class="footer-follow__link footer-follow__link--twitter follow-twitter" aria-label="Twitter" href="https://twitter.com/NandDLaw" target="_blank"></a></li>
+							<li><a class="footer-follow__link footer-follow__link--facebook follow-facebook" aria-label="Facebook" href="https://www.facebook.com/newmeyeranddillion/" target="_blank"></a></li>
+							<li><a class="footer-follow__link footer-follow__link--jdsupra follow-jdsupra" href="https://www.jdsupra.com/profile/newmeyer_dillion_llp_docs" target="_blank"  aria-label="JdSupra" ></a></li>
+						</ul>
+
+							<!--<ul class="nav social_nav justify-content-end">
+							  <li class="nav-item">
+								<a class="nav-link" href="https://www.linkedin.com/company/newmeyer-&-dillion"><i class="fa fa-linkedin"> </i></a>
+							  </li>
+							  <li class="nav-item">
+								<a class="nav-link" href="https://twitter.com/NandDLaw"><i class="fa fa-twitter"> </i></a>
+							  </li>
+							  <li class="nav-item">
+								<a class="nav-link" href="https://www.facebook.com/newmeyeranddillion/"><i class="fa fa-facebook"> </i></a>
+							  </li>
+							   <li class="nav-item jdsupra">
+								<a class="nav-link" href="https://www.facebook.com/newmeyeranddillion/">
+									<i class="fa-jdsupra"> </i>
+								</a>
+							  </li>
+							</ul>-->
+
+						<nav class="footer-menu" aria-label="Footer Menu">
+							<section id="nav_menu-3" class="widget widget_nav_menu"><div class="menu-footer-links-container"><ul id="menu-footer-links" class="menu"><li id="menu-item-1913" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1913"><a href="https://www.newmeyerdillion.com/contact-us/">Contact us</a></li>
+<li id="menu-item-1914" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1914"><a href="https://www.newmeyerdillion.com/subscribe/">Subscribe</a></li>
+<li id="menu-item-1899" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1899"><a href="https://www.newmeyerdillion.com/terms-of-use-legal-disclaimer-attorney-advertising-accessibility-statement/">Terms of Use/Legal Disclaimer/Attorney Advertising/Accessibility Statement</a></li>
+<li id="menu-item-1915" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1915"><a href="https://www.newmeyerdillion.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-1916" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-1916"><a href="https://www.newmeyerdillion.com/do-not-sell-my-personal-information/">Do Not Sell My Personal Information</a></li>
+<li id="menu-item-1998" class="payment-portal menu-item menu-item-type-custom menu-item-object-custom menu-item-1998"><a href="https://app.clientpay.com/home/payment/#/paymentPage/e780ed68-a864-47ed-afff-5e641eed63eb">Bill Payment</a></li>
+<li id="menu-item-2249" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2249"><a href="https://app.clientpay.com/home/payment/#/paymentPage/9abc02fd-df9d-480a-9c05-ead950bb8787">Retainer Payment</a></li>
+</ul></div></section>						</nav>
+					</div>
+				</div>
+			</div>
+		</footer>
+
+</div><!-- #page -->
+
+
+
+<script type="text/javascript">/* <![CDATA[ */
+	var AjaxUrl = "https://www.newmeyerdillion.com/wp-admin/admin-ajax.php";
+	var BaseUrl = "https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme";
+	var predictiveSearch = {"ajaxURL":AjaxUrl,"loadingIndicatorImageURL":BaseUrl+"/images\/predictive-search-loading.gif","postTypes":["persons","practice-area"],"resultLimit":"8","errorMessage":"Sorry, we were unable to complete your request. Please try again.","noResults":"No Instant Matches","searchButtonText":"Press \"Enter\" to search for "};var baseline_l10n = {"globalPredictiveSearchOptions":{"postTypes":["persons","services"],"resultLimit":10,"width":"auto"},"peoplePredictiveSearchOptions":{"postTypes":["persons"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":10,"width":"auto","positionLeft":"0","positionTop":"100%"},"practiceAreasPredictiveSearchOptions":{"postTypes":["services"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":10,"width":"auto","positionLeft":"0","positionTop":"100%"},"firmHighlightsOptions":{"slidesToShow":3},"homePeoplePredictiveSearchOptions":{"postTypes":["persons"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":false,"width":"auto","positionLeft":"0","positionTop":"100%"},"tablet_globalPredictiveSearchOptions":{"postTypes":["persons","services"],"resultLimit":10,"width":"auto"},"tablet_peoplePredictiveSearchOptions":{"postTypes":["persons"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":10,"width":"auto","positionLeft":"0","positionTop":"100%"},"tablet_practiceAreasPredictiveSearchOptions":{"postTypes":["services"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":10,"width":"auto","positionLeft":"0","positionTop":"100%"},"tablet_homePeoplePredictiveSearchOptions":{"postTypes":["persons"],"showPostTypeTitles":false,"showSearchButton":false,"resultLimit":false,"width":"auto","positionLeft":"0","positionTop":"100%"}}; / ]]> / </script>
+<script type="text/javascript" src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/combined.js"></script>
+
+<script src="https://c0.wp.com/c/6.6.2/wp-includes/js/dist/hooks.min.js" id="wp-hooks-js"></script>
+<script src="https://c0.wp.com/c/6.6.2/wp-includes/js/dist/i18n.min.js" id="wp-i18n-js"></script>
+<script id="wp-i18n-js-after">
+wp.i18n.setLocaleData( { 'text direction\u0004ltr': [ 'ltr' ] } );
+</script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/contact-form-7/includes/swv/js/index.js?ver=5.9.8" id="swv-js"></script>
+<script id="contact-form-7-js-extra">
+var wpcf7 = {"api":{"root":"https:\/\/www.newmeyerdillion.com\/wp-json\/","namespace":"contact-form-7\/v1"}};
+</script>
+<script src="https://www.newmeyerdillion.com/wp-content/plugins/contact-form-7/includes/js/index.js?ver=5.9.8" id="contact-form-7-js"></script>
+<script src="https://widgetlogic.org/v2/js/data.js?t=1729468800&amp;ver=6.0.0" id="widget-logic_live_match_widget-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/navigation.js?ver=1.0.2" id="newmeyer-theme-navigation-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/bootstrap.min.js?ver=1.0.2" id="newmeyer-theme-bootstrap-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/bootstrap-select.min.js?ver=1.0.2" id="newmeyer-theme-bootstrap-select-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/owl-carousel.js?ver=1.0.2" id="newmeyer-theme-owl-js-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/modernizr.min.js?ver=1.0.2" id="newmeyer-theme-modernizr.min-js-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/dl-menu.js?ver=1.0.2" id="newmeyer-theme-dlmenu-js-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/custom.js?ver=1.0.2" id="newmeyer-theme-custom-js-js"></script>
+<script src="https://www.newmeyerdillion.com/wp-content/themes/newmeyer-theme/js/jquery.cookie.min.js?ver=1.1" id="cookie_script-js"></script>
+<script src="https://stats.wp.com/e-202443.js" id="jetpack-stats-js" data-wp-strategy="defer"></script>
+<script id="jetpack-stats-js-after">
+_stq = window._stq || [];
+_stq.push([ "view", JSON.parse("{\"v\":\"ext\",\"blog\":\"229453216\",\"post\":\"0\",\"tz\":\"0\",\"srv\":\"www.newmeyerdillion.com\",\"j\":\"1:13.9.1\"}") ]);
+_stq.push([ "clickTrackerInit", "229453216", "0" ]);
+</script>
+
+</body>
+</html>

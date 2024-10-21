@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:41:32 GMT
+Content-Type: text/plain; charset=utf-8
+Report-To: {"group":"heroku-nel","max_age":3600,"endpoints":[{"url":"https://nel.heroku.com/reports?ts=1729492892&sid=1b10b0ff-8a76-4548-befa-353fc6c6c045&s=az%2BpmB63GE4u0yowruwSseqJ4JmtdC69kl3zLPE3bnA%3D"}]}
+Reporting-Endpoints: heroku-nel=https://nel.heroku.com/reports?ts=1729492892&sid=1b10b0ff-8a76-4548-befa-353fc6c6c045&s=az%2BpmB63GE4u0yowruwSseqJ4JmtdC69kl3zLPE3bnA%3D
+Nel: {"report_to":"heroku-nel","max_age":3600,"success_fraction":0.005,"failure_fraction":0.05,"response_headers":["Via"]}
+Vary: Accept-Encoding
+X-Powered-By: Craft CMS
+Link: <https://www.stites.com/robots.txt>; rel="canonical"
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Via: 1.1 vegur
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:41:32 GMT
+Server: cloudflare
+Cf-Ray: 8d5f4330b84122d5-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=19038&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2822&recv_bytes=844&delivery_rate=124655&cwnd=231&unsent_bytes=0&cid=b2ae2ca4f4cff833&ts=230&x=0"

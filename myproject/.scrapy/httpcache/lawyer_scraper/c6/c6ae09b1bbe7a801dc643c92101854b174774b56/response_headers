@@ -1,0 +1,17 @@
+Content-Length: 129
+Date: Mon, 21 Oct 2024 06:30:29 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://chastainejones.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:30:29 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=7EvPUpdD%2Fui9A6XrYNCSe7OuFlHgOhsK3y%2BDH0ckNpJglvsP2uJdyDgQXXn5t4mRTdRJAbE3hcpxdcoLsvVxYG5z0E1qDIt4J9DT5qijj7AcVP3eR2WRf6lWWemULhAE%2Fa6lPHE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f33033d571b66-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18705&sent=5&recv=5&lost=0&retrans=0&sent_bytes=2848&recv_bytes=848&delivery_rate=150496&cwnd=239&unsent_bytes=0&cid=60f98054f8e8a78d&ts=277&x=0"

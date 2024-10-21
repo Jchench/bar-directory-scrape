@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:18:21 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: no-cache, must-revalidate, max-age=0
+Content-Security-Policy: upgrade-insecure-requests
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Retry-After: 86400
+Strict-Transport-Security: max-age=300
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: User-Agent, Accept-Encoding
+X-Cache: uncached
+X-Cache-Hit: MISS
+X-Cacheable: NO:Non-cacheable status
+X-Cacheproxy-Retries: 2/2
+X-Content-Type-Options: nosniff
+X-Fawn-Proc-Count: 3,0,72
+X-Php-Version: 8.0
+X-Xss-Protection: 1; mode=block
+X-Backend: varnish_ssl
+Cf-Cache-Status: MISS
+Server: cloudflare
+Cf-Ray: 8d5ec9541a20e25f-ORD
+Alt-Svc: h3=":443"; ma=86400

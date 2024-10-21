@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:21:35 GMT
+Content-Type: text/html; charset=utf-8
+Status: 200 OK
+Cache-Control: max-age=30, public
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Referrer-Policy: origin
+X-Request-Id: b85de5e7-8858-47c8-a0f1-3311ed4def6c
+Etag: W/"c9320280213a2742059de1cca62cf46e"
+X-Runtime: 0.532105
+X-Varnish-Ttl: 30
+X-Powered-By: Phusion Passenger(R) 6.0.18
+Content-Security-Policy: frame-ancestors *
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Varnish: 1927809
+Age: 0
+Via: 1.1 varnish (Varnish/5.2)
+Accept-Ranges: bytes

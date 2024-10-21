@@ -1,0 +1,12 @@
+Content-Length: 138
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Via: 1.1 google
+Date: Sun, 20 Oct 2024 08:07:13 GMT
+Cache-Control: max-age=86400, s-maxage=432000
+Age: 80444
+Last-Modified: Tue, 08 Oct 2024 00:09:39 GMT
+Etag: "9c-623ebf419ce8e-gzip"
+Content-Type: text/plain; charset=UTF-8
+X-Cache: hit
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

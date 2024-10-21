@@ -1,0 +1,16 @@
+Date: Mon, 21 Oct 2024 06:27:46 GMT
+Content-Type: text/html; charset=UTF-8
+X-Dns-Prefetch-Control: on
+Link: <https://www.craigcastlelaw.com/wp-json/>; rel="https://api.w.org/", <https://www.craigcastlelaw.com/wp-json/wp/v2/pages/25>; rel="alternate"; title="JSON"; type="application/json", <https://www.craigcastlelaw.com/>; rel=shortlink
+X-Litespeed-Tag: c31_HTTP.200,c31_front,c31_URL.6666cd76f96956469e7be39d750cc7d9,c31_F,c31_Po.25,c31_PGS,c31_,c31_MIN.c4c15bbe180906c4ee5c3bef6c543a0b.css,c31_MIN.14a2e14227d5a5951c3f7ebdb83bed7e.js
+Cache-Control: max-age=600
+Expires: Mon, 21 Oct 2024 06:37:43 GMT
+Vary: Accept-Encoding,User-Agent
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=IjvN5rJZNplHJDK2VxPGEikmGQImx4TNzsy4e0BRkOUzFE7RCqmDz%2B8d2dqBdZQCeO7%2FOrU1iOW38fSo%2FTyfb%2BrVZYmWzcmYWJOxgn%2F94fqGp%2FJZRFHMOTu1TBouavksxmKodDalCUd%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2ef9da48115a-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=27115&sent=8&recv=8&lost=0&retrans=1&sent_bytes=4492&recv_bytes=1097&delivery_rate=224757&cwnd=209&unsent_bytes=0&cid=71a7027d92a5f433&ts=3179&x=0"

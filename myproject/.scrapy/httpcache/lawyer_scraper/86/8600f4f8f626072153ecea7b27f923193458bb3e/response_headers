@@ -1,0 +1,24 @@
+Content-Length: 74
+Content-Type: text/plain
+Last-Modified: Fri, 06 May 2022 20:01:53 GMT
+Accept-Ranges: bytes
+Etag: "3f1bb0218461d81:0"
+Server: Microsoft-IIS/10.0
+X-Sharepointhealthscore: 0
+Sprequestguid: 68fb5ba1-98ee-5022-5908-8da539b4f5e3
+Request-Id: 68fb5ba1-98ee-5022-5908-8da539b4f5e3
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;
+Sprequestduration: 2
+Spiislatency: 0
+X-Powered-By: ASP.NET
+Microsoftsharepointteamservices: 16.0.0.10412
+X-Content-Type-Options: nosniff
+X-Ms-Invokeapp: 1; RequireReadOnly
+Date: Mon, 21 Oct 2024 05:25:36 GMT
+Ntcoent-Length: 79
+Set-Cookie: NSC_ESNS=0157e817-e5c9-1715-9678-005056842fba_2524898752_0993898315_00000000012907336108; Path=/; Expires=Mon, 21-Oct-2024 05:25:51 GMT
+Set-Cookie: NSC_JOzpdzplcczi0v0dhu0r0ycwr4qxib3=14b5a3d972f822b76ebcefc5ad247f0af5abead4723b19fb89f6e5078e5272acc650516d;path=/;secure;httponly
+Strict-Transport-Security: max-age=157680000; preload
+Cache-Control: private
+Content-Encoding: gzip

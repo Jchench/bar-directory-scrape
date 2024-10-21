@@ -1,0 +1,12 @@
+Content-Length: 221
+Content-Type: text/plain
+Date: Mon, 21 Oct 2024 06:28:30 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Etag: "81b03a76b58d51:0"
+Last-Modified: Wed, 21 Aug 2019 21:54:38 GMT
+Set-Cookie: ARRAffinity=dab6fe799e6f5a3eda7b5d96ea3aede86b30f43cec1cab7608c8331c1853049b;Path=/;HttpOnly;Secure;Domain=www.dsh.ca.gov
+Set-Cookie: ARRAffinitySameSite=dab6fe799e6f5a3eda7b5d96ea3aede86b30f43cec1cab7608c8331c1853049b;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.dsh.ca.gov
+Vary: Accept-Encoding
+X-Powered-By: ASP.NET

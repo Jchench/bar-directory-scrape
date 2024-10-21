@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492003.81614205048863821656
+Html-Cacheable: true
+Etag: W/"95b0611a07941e3262f04938764c8f3d"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492004|psLcMt-atESF; Path=/; Domain=www.jjkgroup.net; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:26:44 GMT
+X-Served-By: cache-chi-kigq8000117-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,pmHZlB45NPy7b1VBAukQrewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLj7/C5aSAyG//vrZl1d/upnu/2EjeiyKjB/JVOb8T5Ve,2d58ifebGbosy5xc+FRalms88pZCmjZK5PGgNFqx/ZLyU5LxIGLMGXL1dMqcRvsyg2t69MV0mqwncE0BjrcxOA==,2UNV7KOq4oGjA5+PKsX47B1ANU/aY3kA+J3E1oSuFO5YgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR1BR5P0wTWNfYH7b935M50/yno9WWZ+tWJkay0UtNckb4hvFGeMPF5fdfHOa7VknIA==,oMn5DGqJfTCTt/V07PQOqSM1cYNZW0jFlcbO4UGn964=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326pRqxL7XunABTckP4//nUo0y3FZxSlQ9OjagXoPDjkQkA==,gazFAw0l8vtzvnvOPPvWdluASuvgBk68NOvL+XPQvvY=,bamBRVWSlN/v1ZTIwXGEoDq0FQudEvb5SKS73oy8e0AGOVlhIsKqTWhY3VXzNwK8jJti/NXi+TRw15F96dyoSA==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

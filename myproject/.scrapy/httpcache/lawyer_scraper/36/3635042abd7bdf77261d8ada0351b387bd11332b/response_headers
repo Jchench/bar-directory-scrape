@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 06:36:46 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://lemishlaw.com/robots.txt
+Vary: User-Agent, Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=4LtvXAeJumLY1%2Bjp5mlOYVXagf%2BHLuJ4pra6vHDYxI8vurG2vP3bzO%2BczqP4IdszGkc0LkWb7JotZVQrO%2FD%2FEUtRBiyqLoBX%2BDebEzF6URn%2FsCP%2F2reHiZaFimg7FiFNmrzT5A%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3c2e186a6216-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18135&sent=6&recv=6&lost=0&retrans=0&sent_bytes=2833&recv_bytes=847&delivery_rate=149803&cwnd=245&unsent_bytes=0&cid=202d6080b6e56d0a&ts=975&x=0"

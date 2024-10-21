@@ -1,0 +1,19 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:41:31 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Link: <https://dhsl8p9ocex96.cloudfront.net/assets/pages/home-page-cb2c2453cd9ab3126f516e07e3f864ff840831882a8e31a3973506877bb2487a.css>; rel=preload; as=style; nopush,<https://cdn.biola.edu/jwp/jwplayer.js>; rel=preload; as=script; nopush,<//cdn.biola.edu/jwp/jwpsrv-dnt.js>; rel=preload; as=script; type=text/javascript,<https://cdn.biola.edu/jwp/jwplayer.core.js>; rel=preload; as=script; type=text/javascript,<https://cdn.biola.edu/jwp/provider.hlsjs.js>; rel=preload; as=script; type=text/javascript,<https://cdn.biola.edu/biolaedu_header/v5b_e7/v23099_biolaedu_header_v5b.m3u8>; rel=preload; as=fetch; type=application/x-mpegurl; crossorigin=anonymous,<https://dhsl8p9ocex96.cloudfront.net/assets/application-56e803143b9478e470fb1a3ea5e1d2f403eb2e188da600e5bd29d7c527988fb1.css>; rel=preload; as=style; nopush,<https://use.typekit.net/riq0fcm.css>; rel=preload; as=style; nopush,<https://dhsl8p9ocex96.cloudfront.net/assets/home-f8a1795267d1778ff690e37492d46358b126b86ed042d96be59d74e79cf17e1d.js>; rel=preload; as=script; nopush
+Etag: W/"0defe562e606a876d448f1fd8f07dadb"
+Cache-Control: max-age=0, private, must-revalidate
+Set-Cookie: emergency_dismissed=false; path=/; SameSite=Lax; Secure
+Set-Cookie: _biola_edu_session=MxATDeAXcEinv9qe%2FCzlpWzq33diZb8yL8e6Rh4FoGAJ%2Fd62LZIijB%2BkG6dcKgXHCV%2Ft1mYBnXCUfVIuzRxcJ0RlXbDL3XzB50duhonnsOZyhyrCnGPms%2BnPteYEgaTdWFmUFSUFRqLWqG9L8mjrtSIylm4XWISSxJ4Ezl7Q6r9JIOWpTjKQ0cMml8jCp6Yve%2B0HM7ci3T52R5A9OlZ9kmxs%2FODfKTk3Rt6f3rWxa03NLr5orKFItZTzQbuNv%2B7vha4vN%2BoddNmehnmOijqJyI7W%2BmkLfMWIdrg%3D--KqMSDjilaj2egfxd--mMIHC3YQEKccTpnM3fGkkg%3D%3D; path=/; HttpOnly; SameSite=Lax; Secure
+X-Request-Id: 9e12d39019aa6bee4404c37261f07f3b
+X-Runtime: 0.020293
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip

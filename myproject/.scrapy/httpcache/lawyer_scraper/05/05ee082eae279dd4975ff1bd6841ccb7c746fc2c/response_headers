@@ -1,0 +1,16 @@
+Content-Length: 0
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 06:24:27 GMT
+Cache-Control: max-age=3600
+X-Litespeed-Tag: 229_HTTP.200,229_HTTP.301,229_HTTP.301
+X-Redirect-By: WordPress
+Location: https://sglaw.com/
+Date: Mon, 21 Oct 2024 05:24:27 GMT
+Server: LiteSpeed
+Vary: User-Agent
+Content-Security-Policy: default-src * data:; script-src https: 'unsafe-inline' 'unsafe-eval'; style-src https: 'unsafe-inline'
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin

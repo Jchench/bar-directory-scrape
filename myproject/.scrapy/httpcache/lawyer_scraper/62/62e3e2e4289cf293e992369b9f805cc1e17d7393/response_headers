@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:16:49 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5ec71a3d1d1173-ORD
+Cf-Cache-Status: HIT
+Age: 1361
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 04:20:52 GMT
+Link: <https://huntortmann.com/wp-json/>; rel="https://api.w.org/", <https://huntortmann.com/wp-json/wp/v2/pages/9>; rel="alternate"; type="application/json", <https://huntortmann.com/>; rel=shortlink
+Vary: Accept-Encoding
+Ki-Cache-Tag: 6f68017d-e2bc-49e7-9342-9a1879f393a7,92b2a5ba7ca1d1d8c845b6c5db7a490e187eab094266e04d64d00ee85abeda6d
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: HIT
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MvMxAmvftfuTYZMwjWAQQ4Hzz5HDNE%2BGUIdf0733I3XG67NMb0jQREgWMIySDYgfsLv3Gnky7LzMxwxyjmPNisB%2FS6j6TtmJUWcTfOZMr%2FEDsM%2Bj56Hg6AyIWYZuKnvvzg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

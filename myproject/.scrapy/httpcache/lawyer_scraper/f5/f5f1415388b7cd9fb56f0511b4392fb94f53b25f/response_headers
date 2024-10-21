@@ -1,0 +1,19 @@
+Content-Length: 134
+Date: Mon, 21 Oct 2024 05:36:10 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.pillsburycoleman.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=2592000
+Expires: Tue, 19 Nov 2024 09:41:33 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 71674
+Last-Modified: Sun, 20 Oct 2024 09:41:36 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=erCTQPMuCMloImjDrRwmzawY1pLuFFuGt1gneSMTPmLKP%2FRp5oQ5NRxBysDwooMkG%2BK4JZAnsRG82vRksdUoExSWd2DIIOL4%2BXtfeKIS9bFzFHBUSyBbGnSP%2BU3%2BAlYi7J3Yt0xW6ce7QgQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee372d9e161c5-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=14943&sent=3&recv=6&lost=0&retrans=0&sent_bytes=2851&recv_bytes=854&delivery_rate=154075&cwnd=229&unsent_bytes=0&cid=737875ac64f42c45&ts=36&x=0"

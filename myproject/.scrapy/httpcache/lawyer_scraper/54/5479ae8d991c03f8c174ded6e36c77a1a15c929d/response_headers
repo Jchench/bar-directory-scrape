@@ -1,0 +1,10 @@
+Date: Mon, 21 Oct 2024 05:26:13 GMT
+Content-Type: text/html
+Location: https://waynesilverlaw.com/
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RluT5MLlNJSjZtEQ02CanKIqgXZVGWBfFW4Z62vqNedbVxVhYKEtcr1TLjmx8OzAmGc5IJTrb9Wd2xc3NamlrqUdlRt2sx96uk2mzyUlUgK%2BDCefy9lEFppUVGvmshTI9sre2ETiAgBU"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed4db0b75638c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=29038&sent=9&recv=8&lost=0&retrans=1&sent_bytes=4412&recv_bytes=1097&delivery_rate=147027&cwnd=244&unsent_bytes=0&cid=f2743dd09732f857&ts=4038&x=0"

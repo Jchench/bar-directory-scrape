@@ -1,0 +1,14 @@
+Content-Length: 186
+Cache-Control: max-age=31536000
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Thu, 12 Oct 2023 00:32:24 GMT
+Accept-Ranges: bytes
+Etag: "b2b5f891a3fcd91:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src * blob: data: 'unsafe-inline'; style-src-elem * blob: data: 'unsafe-inline', font-src * data:
+Date: Fri, 01 Nov 2024 11:44:47 GMT

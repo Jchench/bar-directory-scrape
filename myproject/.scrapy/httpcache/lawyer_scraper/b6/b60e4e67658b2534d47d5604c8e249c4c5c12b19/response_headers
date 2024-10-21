@@ -1,0 +1,19 @@
+Content-Length: 132
+Date: Mon, 21 Oct 2024 05:26:17 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.hinojosaforer.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=172800
+Expires: Mon, 21 Oct 2024 21:12:38 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Cf-Cache-Status: HIT
+Age: 116017
+Last-Modified: Sat, 19 Oct 2024 21:12:40 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Ltw1PvNsBV3bTFP7hzxQuIaahwa9v72zSQclZ3y3jUjBslZB86LXKHmoacgLarKb4WZKYgUVAYoWnK6IgrD9HTms6MtxgfWyCvkg8VE6YI%2FVnc07koB62Ms6D1c5cAjfygqfsxf26jg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed4f7b86c6071-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=13355&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2613&recv_bytes=851&delivery_rate=235026&cwnd=236&unsent_bytes=0&cid=af5c0a13dcb66035&ts=28&x=0"

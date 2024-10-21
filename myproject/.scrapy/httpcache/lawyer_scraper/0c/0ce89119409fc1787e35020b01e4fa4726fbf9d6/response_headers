@@ -1,0 +1,21 @@
+Content-Length: 883
+Content-Encoding: gzip
+X-Debug-Info: eyJyZXRyaWVzIjowfQ==
+X-Timer: S1727807336.967843,VS0,VE4
+X-Platform-Processor: p4k3eknmxpb5g4feyqkjfbf4bi
+X-Platform-Router: eooj5f34qc2ybtl2defpopzzva
+Expires: Thu, 31 Oct 2024 18:28:55 GMT
+Content-Type: text/plain
+X-Platform-Cluster: losfkpmilencs-main-bvxea6i
+Etag: W/"669910c4-946"
+Cache-Control: max-age=2592000
+Traceresponse: 00-17fa679e24c28f1acf9072bf95722716-4d34ddcd892b4fe1-01
+Last-Modified: Thu, 18 Jul 2024 12:55:32 GMT
+Accept-Ranges: bytes
+Age: 1681013
+Date: Mon, 21 Oct 2024 05:25:48 GMT
+X-Served-By: cache-iad-kjyo7100064-IAD, cache-iad-kjyo7100084-IAD, cache-chi-kigq8000052-CHI
+X-Cache: MISS, HIT, HIT
+X-Cache-Hits: 0, 5, 0
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31557600

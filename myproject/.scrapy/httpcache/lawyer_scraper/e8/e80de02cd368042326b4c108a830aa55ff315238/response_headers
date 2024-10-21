@@ -1,0 +1,29 @@
+Content-Length: 10060
+Cache-Control: max-age=3600, public
+Content-Encoding: gzip
+Content-Language: en
+Content-Security-Policy: report-uri /report-csp-violation
+Content-Type: text/html; charset=UTF-8
+Etag: W/"1729201712"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Thu, 17 Oct 2024 21:48:32 GMT
+Server: nginx
+Strict-Transport-Security: max-age=1000
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Dynamic-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe4-a-746c76f549-tmsbz
+X-Styx-Req-Id: 30aea8a9-8f65-11ef-b7f5-4a99526bc4d8
+X-Xss-Protection: 1; mode=block
+Date: Mon, 21 Oct 2024 05:15:09 GMT
+X-Served-By: cache-chi-klot8100060-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729487709.373265,VS0,VE3
+Vary: Accept-Encoding, Cookie, Cookie
+Age: 2685
+Accept-Ranges: bytes
+Via: 1.1 varnish

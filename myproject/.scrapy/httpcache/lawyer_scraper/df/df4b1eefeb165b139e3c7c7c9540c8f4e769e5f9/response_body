@@ -1,0 +1,6 @@
+# Robots.txt file from https://www.personalinjurytimgill.com
+
+Sitemap: https://www.personalinjurytimgill.com/sitemap.xml
+
+User-agent: *
+Disallow:

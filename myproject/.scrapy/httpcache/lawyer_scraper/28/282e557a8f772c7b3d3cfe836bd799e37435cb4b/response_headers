@@ -1,0 +1,13 @@
+Content-Length: 0
+Retry-After: 0
+Server: Pantheon
+Location: https://www.saul.com/
+X-Pantheon-Redirect: primary-domain-policy-doc
+Date: Mon, 21 Oct 2024 05:31:27 GMT
+X-Served-By: cache-chi-klot8100064-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729488687.420653,VS0,VE4
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish

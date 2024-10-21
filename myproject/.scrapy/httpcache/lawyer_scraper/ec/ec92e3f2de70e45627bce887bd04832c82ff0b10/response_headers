@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729488567.0551425650803152153
+Html-Cacheable: true
+Etag: W/"ddbe88b69af7373688ed51ed17ce46aa"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729488567|sMRHZqUag8Ty; Path=/; Domain=www.averlaw.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:29:27 GMT
+X-Served-By: cache-chi-klot8100113-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,oDbbMvfdXCdtsgjD2KgaM8iHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLk1Uxi5aVwrmRyfWZ8T7SgAMbwluI1yUDJty9McxOlfY,2d58ifebGbosy5xc+FRalqaWZZAkcKeD4d+UaXQoqe1muBoAOht4NnoSjMRrPV28HXdaOJYFCbeK5H5VeERkzg==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR51NIkM8wQ0SsU0jOBuBexP/gJD2XOtu01Gulsyo2GYDx+EtnrbtknRdXkhB64/yBw==,zbc5OE5CrgVxfbH+fTjtmgQdtYSMfssnHMlo1Wqota4=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rkcTQUN0jDq3H18qz5HdVo5CLNeVnJHr/f0zGlJvIs4Q==,zbc5OE5CrgVxfbH+fTjtmgQdtYSMfssnHMlo1Wqota4=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxFOXk4pHxnHGtmI1WD4eID57SUVuyAzWPlYuuDDNQlLNmJQ6A/QwU2GYroslPvpQVE=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

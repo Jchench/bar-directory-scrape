@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 06:27:52 GMT
+Content-Type: text/html
+Strict-Transport-Security: max-age=2592000
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1
+Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' assets.buzzsprout.com www.buzzsprout.com maps.googleapis.com maps.google.com www.google.com analytics.rubensteintech.com www.google-analytics.com use.typekit.net p.typekit.net www.googletagmanager.com maps.gstatic.com www.gstatic.com snap.licdn.com www.linkedin.com static.ads-twitter.com px.ads.linkedin.com analytics.twitter.com platform.twitter.com connect.facebook.net www.facebook.com www.youtube.com s.ytimg.com cdn.plyr.io cse.google.com player.vimeo.com; frame-src https://www.buzzsprout.com www.facebook.com platform.twitter.com www.youtube.com cdn.plyr.io t.co cdn.yoshki.com https://player.vimeo.com 'self' *.google.com; connect-src 'self' https://stats.g.doubleclick.net https://analytics.rubensteintech.com https://*.google-analytics.com https://*.analytics.google.com https://analytics.google.com https://google-analytics.com analytics.twitter.com cdn.plyr.io cse.google.com https://vimeo.com www.facebook.com/tr/; style-src 'self' 'unsafe-inline' https://www.milbank.com maps.googleapis.com www.google.com cloud.typography.com use.typekit.net platform.twitter.com assets.buzzsprout.com; font-src 'self' fonts.googleapis.com maps.gstatic.com use.typekit.net p.typekit.net data:; img-src 'self' https://analytics.twitter.com https://*.analytics.google.com https://*.google-analytics.com https://analytics.google.com https://google-analytics.com assets.buzzsprout.com www.buzzsprout.com www.google-analytics.com stats.g.doubleclick.net px.ads.linkedin.com p.adsymptotic.com www.facebook.com p.typekit.net t.co; form-action 'self' www.facebook.com; child-src www.facebook.com staticxx.facebook.com platform.twitter.com; object-src 'none';
+X-Ruby-Cluster-Id: 403d46100599
+Pragma: no-cache
+Cache-Control: public, max-age=14400
+Expires: Mon, 21 Oct 2024 10:27:52 GMT
+X-Host: www.milbank.com
+X-Powered-By: RubyApps
+Last-Modified: Mon, 21 Oct 2024 06:27:52 GMT
+Cf-Cache-Status: EXPIRED
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f2f2d2b1f232f-ORD
+Content-Encoding: gzip

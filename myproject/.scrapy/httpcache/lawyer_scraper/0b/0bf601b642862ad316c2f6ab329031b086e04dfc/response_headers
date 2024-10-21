@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:34:42 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: P8w8662dUvyavhf8atgQohokb3YjkMIlD3OC44EM9BAkgQ24y7lv1U8lkE75MMig6rglmeIFnTa6uICau4/Apcu/XOg+EL1g9nRxMUi4lMlWURmPgs6xzdG0jH2npN8AOp5Ot1FvYyyW59DjMWtB6w==$3QRN4vNFTsAd3dKL0WiL9A==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=_bzFGLJPGbuG5b7yrg5y6bsYbAhzX3d0CZJ9A43mCjo-1729492482-1.0.1.1-GZLSVgLT9jLGzG682gPo_iSvprAqIte8BEsYXDFlbAlN8LF3P68ImWDNfG58SQEwqAKHNyo084onpJmaErSBIQ; path=/; expires=Mon, 21-Oct-24 07:04:42 GMT; domain=.www.keatinglawpractice.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f392fc879e1c3-ORD
+Content-Encoding: gzip

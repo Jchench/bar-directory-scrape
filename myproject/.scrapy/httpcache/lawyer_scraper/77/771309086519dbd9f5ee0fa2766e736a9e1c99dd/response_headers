@@ -1,0 +1,17 @@
+Content-Length: 13860
+Date: Mon, 21 Oct 2024 06:30:22 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding,User-Agent
+Last-Modified: Wed, 16 Oct 2024 14:40:03 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 08:30:22 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: *
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+Content-Encoding: gzip
+X-Server-Cache: true
+X-Proxy-Cache: MISS

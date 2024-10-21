@@ -1,0 +1,23 @@
+Content-Length: 77
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 05:29:41 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 20011
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Strict-Transport-Security: max-age=31536000
+Strict-Transport-Security: max-age=31536000
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+Permissions-Policy: geolocation=(),midi=(),sync-xhr=(),microphone=(),camera=(),magnetometer=(),gyroscope=(),fullscreen=(self),payment=()
+Referrer-Policy: strict-origin-when-cross-origin
+Referrer-Policy: strict-origin-when-cross-origin
+Link: <https://ashcraftfirm.com/wp-json/>; rel="https://api.w.org/"
+X-Robots-Tag: noindex, follow
+X-Srcache-Fetch-Status: HIT
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Sucuri-Cache: HIT

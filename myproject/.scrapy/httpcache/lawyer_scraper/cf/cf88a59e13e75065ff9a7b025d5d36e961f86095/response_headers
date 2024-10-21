@@ -1,0 +1,9 @@
+Content-Length: 0
+Alt-Svc: h3=":443"; ma=2592000
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 21 Oct 2024 06:26:13 GMT
+Location: https://lawyerchiu.com/
+Server: Caddy
+Server: Apache/2.4.56 (Debian)
+X-Powered-By: PHP/8.0.30
+X-Redirect-By: WordPress

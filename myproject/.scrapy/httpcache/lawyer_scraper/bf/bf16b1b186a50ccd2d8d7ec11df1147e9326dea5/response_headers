@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:22:13 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://donaldsoncallifperez.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://donaldsoncallifperez.com/wp-json/wp/v2/pages/566>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://donaldsoncallifperez.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 8
+X-Cache-Group: bot
+Cache-Tag: dcplaw6062c426abb59
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=hysC4RMX14RsfAQeN%2BRKo6yD8tj9Q1ZGUWdGQvqzTXjVBJOUaIt8tQlR3QeDMPGHuQrx5sk4KhR56QaYYPwgc98RjghsPZHFyipGZp87pHILuELInSlrFApVE5RlRsissMVX90Mz0nv1%2B40%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f26e1ad8c113e-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18583&sent=7&recv=8&lost=0&retrans=0&sent_bytes=4628&recv_bytes=1101&delivery_rate=237092&cwnd=230&unsent_bytes=0&cid=f6779c8de32e73b8&ts=5185&x=0"

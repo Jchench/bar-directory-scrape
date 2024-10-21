@@ -1,0 +1,26 @@
+Content-Length: 44
+Date: Mon, 21 Oct 2024 05:30:56 GMT
+Content-Type: text/plain
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests
+Etag: W/"18-5a29456c3a523"
+Last-Modified: Mon, 06 Apr 2020 00:27:58 GMT
+Strict-Transport-Security: max-age=300
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache: uncached
+X-Cache-Hit: MISS
+X-Cacheable: YES
+X-Cacheproxy-Retries: 0/2
+X-Content-Type-Options: nosniff
+X-Php-Version: 8.1
+X-Xss-Protection: 1; mode=block
+X-Backend: varnish_ssl
+Cf-Cache-Status: HIT
+Age: 650707
+Expires: Thu, 21 Nov 2024 05:30:56 GMT
+Cache-Control: public, max-age=2678400
+Accept-Ranges: bytes
+Server: cloudflare
+Cf-Ray: 8d5edbc8e9f11149-ORD
+Alt-Svc: h3=":443"; ma=86400

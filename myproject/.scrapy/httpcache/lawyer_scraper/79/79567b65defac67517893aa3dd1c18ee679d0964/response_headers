@@ -1,0 +1,8 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:41:04 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Vary: X-Forwarded-Proto
+Location: https://ghclegal.com/robots.txt
+Referrer-Policy: no-referrer-when-downgrade

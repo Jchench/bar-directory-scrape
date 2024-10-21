@@ -1,0 +1,28 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /wireless/
+Disallow: /media_images/
+Disallow: /search
+Disallow: /insights?*
+Disallow: /export/
+Disallow: /npadmin/
+Disallow: /api/Sitecore/Content/
+Disallow: /sitecore
+Disallow: /Sitecore
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /*/Pre Launch Working Folder/
+Disallow: /*/archived-work-pages
+Disallow: /payment
+Disallow: /-/media/noindex/
+
+# Baiduspider
+User-agent: Baiduspider
+Disallow: /
+
+# Host
+Host: https://www.nixonpeabody.com
+
+# Sitemaps
+Sitemap: https://www.nixonpeabody.com/sitemap.xml

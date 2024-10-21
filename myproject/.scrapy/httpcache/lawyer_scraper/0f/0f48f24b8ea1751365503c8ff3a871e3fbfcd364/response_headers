@@ -1,0 +1,10 @@
+Content-Length: 108
+Link: <https://pbbgbs.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Etag: "751-1728926145;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 05:30:57 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

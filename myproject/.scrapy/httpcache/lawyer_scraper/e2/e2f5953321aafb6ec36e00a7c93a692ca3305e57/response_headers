@@ -1,0 +1,12 @@
+Link: <//img1.wsimg.com/ceph-p3-01/website-builder-data-prod/static/widgets/UX.4.44.1.js>; rel=preload; as=script; crossorigin,<https://img1.wsimg.com/gfonts/s/muli/v29/7Aulp_0qiz-aVz7u3PJLcUMYOFnOkEk30eg.woff2>; rel=preload; as=font; crossorigin,<https://img1.wsimg.com/gfonts/s/quicksand/v31/6xKtdSZaM9iE8KbpRA_hK1QN.woff2>; rel=preload; as=font; crossorigin,<https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://isteam.wsimg.com>; rel=preconnect; crossorigin
+Cache-Control: max-age=30
+Content-Security-Policy: frame-ancestors 'self' godaddy.com *.godaddy.com
+Content-Type: text/html;charset=utf-8
+Vary: Accept-Encoding
+Server: DPS/2.0.0+sha-a9ecb8e
+X-Version: a9ecb8e
+X-Siteid: us-east-2
+Set-Cookie: dps_site_id=us-east-2; path=/; secure
+Etag: 42fe06e8a6fc2518e1600d2980a32528
+Content-Encoding: gzip
+Date: Mon, 21 Oct 2024 05:29:03 GMT

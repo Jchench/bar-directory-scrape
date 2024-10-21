@@ -1,0 +1,25 @@
+Content-Length: 44
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 05:31:47 GMT
+Content-Type: text/plain; charset=UTF-8
+X-Sucuri-Id: 20010
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Accept-Ranges: none
+Age: 501221
+Cache-Control: max-age=315360000
+Content-Encoding: gzip
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Vary: Accept-Encoding
+X-Cache: cached
+X-Cache-Hit: HIT
+X-Cacheable: YES
+X-Cacheproxy-Retries: 0/2
+X-Php-Version: 8.0
+X-Backend: varnish_ssl
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Sucuri-Cache: MISS

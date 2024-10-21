@@ -1,0 +1,26 @@
+Date: Mon, 21 Oct 2024 06:23:55 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Ray: 8d5f29626ccb22e1-ORD
+Cf-Cache-Status: BYPASS
+Cache-Control: public, max-age=0, s-maxage=3600
+Link: <https://www.menslegal.com/wp-json/>; rel="https://api.w.org/", <https://www.menslegal.com/wp-json/wp/v2/pages/75>; rel="alternate"; title="JSON"; type="application/json", <https://www.menslegal.com/>; rel=shortlink
+Set-Cookie: apbct_timestamp=1729490313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_landing_ts=1729490313; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_page_hits=1; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25227f0e30949d22a53596b07271794085cf%2522%257D; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_referer=UNKNOWN; expires=Thu, 24-Oct-2024 05:58:33 GMT; Max-Age=259200; path=/; domain=www.menslegal.com; secure; HttpOnly; SameSite=Lax
+Vary: Accept-Encoding
+Cache-Tag: a9efe0fa-a83b-458c-a809-4c5550179e23,2d1c03c950576ab7414328cc905187bf42f43bfb018185f964b745ed54bf3739
+Ki-Cache-Tag: a9efe0fa-a83b-458c-a809-4c5550179e23,2d1c03c950576ab7414328cc905187bf42f43bfb018185f964b745ed54bf3739
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: SAVING
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=oqPA0zj828y47GCNWBzpemlvxicMR5iy2ADCRxF0xDg%2B5Rt68g52al7gvfuNTE6gJSvBQdf9b0uW47TFGgVUSJvr5i0qOFsEGh934Lk7uMtA3v2kSwYRg%2BzXCseeJzZ904U7"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

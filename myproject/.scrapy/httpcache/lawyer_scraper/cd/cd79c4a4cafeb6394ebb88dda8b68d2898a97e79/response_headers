@@ -1,0 +1,13 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:39:58 GMT
+Server: Microsoft-IIS/10.0
+Location: https://hl.com/robots.txt
+Set-Cookie: ARRAffinity=50cf07c4923930f3ead4232e638b6657fb662613b8f01df70fb38ac353b8e3d6;Path=/;HttpOnly;Secure;Domain=www.hl.com
+Set-Cookie: ARRAffinitySameSite=50cf07c4923930f3ead4232e638b6657fb662613b8f01df70fb38ac353b8e3d6;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.hl.com
+Set-Cookie: visid_incap_898992=/O0UAqh7Ql+g9MOZoDsplT33FWcAAAAAQUIPAAAAAAAdxvZsnmaTl0rPpAt8dFbT; expires=Mon, 20 Oct 2025 06:40:47 GMT; HttpOnly; path=/; Domain=.hl.com
+Set-Cookie: nlbi_898992=ig5ieFqwKXBAetIkdBnDywAAAADbda8PAJ7yPJ1Df/xXfgz5; HttpOnly; path=/; Domain=.hl.com
+Set-Cookie: incap_ses_8222_898992=r9RMfg48Fn1hPaPNl2kacj73FWcAAAAACxLufgyQfihIMZlQimUA+A==; path=/; Domain=.hl.com
+Strict-Transport-Security: max-age=2592000
+X-Powered-By: ASP.NET
+X-Cdn: Imperva
+X-Iinfo: 7-82951778-82951784 NNNN CT(50 105 0) RT(1729492797826 18) q(0 0 2 1) r(2 2) U11

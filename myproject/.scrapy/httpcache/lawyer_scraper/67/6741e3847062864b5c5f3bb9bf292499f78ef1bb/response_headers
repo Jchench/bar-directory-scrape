@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729488791.82514246679676116031
+Html-Cacheable: true
+Etag: W/"ee64b9d33e603d8dff68f7f94cb4c840"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729488792|Bu7S1cbNgMPA; Path=/; Domain=www.businesslawnaples.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:33:12 GMT
+X-Served-By: cache-chi-kigq8000143-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,VtqAe8Wu9wvSsl49B/X4+ewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLqz32kGg/0+YmoIOWNy6M58a0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRallslJB3nswrbxjccjLfbbDwTkTwXlxxE7EyZTBoQY6bKT7mcJjJTazA7Phepip7KuA==,2UNV7KOq4oGjA5+PKsX47OFQIYwPrAuSSGkhbTTPX/NYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==,92x85xT3K2kKmbeSe66tNG0JyRznTpHUdI6gXZBEpr0=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326o0diiUol601kkuwzm7eT4VES0W/vAviCULJTDFQFq1dQ==,zojieFDOLVDhlu3IJ5SrEZNVhBQ0pu5GyrkqhwGKas0=,bamBRVWSlN/v1ZTIwXGEoCaOndFnzrXc9OWUszC2lMCXJd+tSeyqv5ay8PlcCx29iOwYOt6SAkIUYOCMZo+K8Q==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,23 @@
+Content-Length: 346
+Server: nginx
+Content-Type: text/plain
+Request-Context: appId=
+X-Source: PROD-WEB-2
+X-Powered-By: ASP.NET
+Expires: Mon, 21 Oct 2024 10:25:43 GMT
+Cache-Control: max-age=14400, public, stale-while-revalidate=1209600, stale-if-error=1209600
+X-Dealeron: PROD-NGINX-1-Platform
+Strict-Transport-Security: max-age=7776000; includeSubDomains
+X-Cache-Key: 4BFCE97B12C6E23048FF019A1A4E20EDFA321373D99DB11C330381A2662F9F2F
+Content-Encoding: gzip
+Via: 1.1 varnish, 1.1 varnish
+Accept-Ranges: bytes
+Age: 0
+Date: Mon, 21 Oct 2024 06:25:43 GMT
+X-Dealeron-Backend: shield_iad_va_us client_director (null)
+X-Dealeron-Original-Url: /robots.txt /robots.txt (null)
+X-Served-By: cache-iad-kiad7000175-IAD, cache-chi-klot8100107-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729491943.403302,VS0,VE54
+Vary: Fastly-SSL, Accept-Encoding,Fastly-SSL

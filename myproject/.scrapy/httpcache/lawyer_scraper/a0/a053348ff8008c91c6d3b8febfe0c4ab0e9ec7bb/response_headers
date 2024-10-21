@@ -1,0 +1,21 @@
+Content-Length: 18069
+Date: Mon, 21 Oct 2024 05:13:42 GMT
+Server: Apache
+Cache-Control: no-cache, private
+Cache-Control: max-age=600
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Referrer-Policy: no-referrer-when-downgrade
+Referrer-Policy: same-origin
+Permissions-Policy: geolocation=(self), microphone=()
+Permissions-Policy: geolocation=(self), microphone=()
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Set-Cookie: XSRF-TOKEN=eyJpdiI6IjRONVdyVnNpTnhiMWZENFBoeURXYWc9PSIsInZhbHVlIjoiYUhyeEVReGtkbTd6d2RleWJ1WEhxVmtSek9lbDdDRUc0M3lhZzllajdwaDJmN05sQ0oyK0hyRTVBaGFWNmtaeWpDY3Z4QUY5dWU4SnArbFgwQkpvVFJTTmY0WnpTckkrbVNqM2IwMlFlbnJYTU9CbGNRYlNVek5ETWdIV3ZTVHQiLCJtYWMiOiI0Y2RjYTk4NzljZTdmMjIxYmI4OTljMWJjMGJiMDQzZWNlYThjOWQ0MmI0NThmMTBjYzNlYzI2NGZkZjVhOGJlIiwidGFnIjoiIn0%3D; expires=Mon, 21 Oct 2024 09:13:42 GMT; Max-Age=14400; path=/
+Set-Cookie: herrmann_easy_edit_session=eyJpdiI6ImgyWXQyMmJ5K2t4cVQ0T1oybGRnTWc9PSIsInZhbHVlIjoiaFFHWFZNcmprTmNwTktOUlN1bVByblZRY01YV3pMK2dpL3lSVXRhdXZuWjF1eThySmdZa1c0OGJXdlhVSkx1bEZ4VWI1RXJnbWQ3bysyU20rNHlEd0ZZOE01MExIV283TFUwbmFUdnZZTGUycFpRUmZJSlcvRGhyZmFlNnlhYW0iLCJtYWMiOiI0MWZiOWZkYTJlMGZjOGVlZjBlZjcxZDI5OWE0OTVmODU5YjU2NDE5NDFmNDk2Nzg0ZDNlZDIyYzRhNjA5ZDM1IiwidGFnIjoiIn0%3D; path=/
+Content-Security-Policy: base-uri 'self'; default-src 'self'; connect-src 'self' *.google-analytics.com *.bamboohr.com *.webspellchecker.net; frame-src 'self' *.google.com *.webspellchecker.net *.googleapis.com *.vimeo.com *.youtube-nocookie.com recruitingbypaycor.com *.youtube.com; font-src 'self' *.bootstrapcdn.com *.typekit.net fonts.gstatic.com *.cloudflare.com *.webspellchecker.net fonts.googleapis.com; script-src *.krcl.com 'unsafe-inline' 'unsafe-eval' *.cloudflare.com *.bamboohr.com unpkg.com *.webspellchecker.net *.youtube.com *.bootstrapcdn.com fonts.googleapis.com *.googletagmanager.com apis.google.com *.google.com *.gstatic.com *.googleapis.com *.siteimprove.com *.jquery.com *.jsdelivr.net *.addthis.com;style-src *.krcl.com 'unsafe-inline' *.cloudflare.com *.bamboohr.com unpkg.com *.typekit.net *.webspellchecker.net *.bootstrapcdn.com fonts.googleapis.com *.googleapis.com *.gstatic.com *.jquery.com *.jsdelivr.net; form-action *.krcl.com; img-src * 'unsafe-inline' data:; object-src 'none'
+Expires: Mon, 21 Oct 2024 05:23:42 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+X-Xss-Protection: 1; mode=block
+Feature-Policy: geolocation 'self'; vibrate 'none'
+Content-Type: text/html; charset=UTF-8

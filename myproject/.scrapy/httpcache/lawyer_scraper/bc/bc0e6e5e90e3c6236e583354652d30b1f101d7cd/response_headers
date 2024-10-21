@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:15:11 GMT
+Content-Type: text/plain; charset=utf-8
+X-Dns-Prefetch-Control: on
+Link: <https://jcd.law>; rel=shortlink
+Etag: W/"14938-1728973442;br"
+X-Litespeed-Cache: hit
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15768000;includeSubdomains
+Content-Security-Policy: object-src 'none'
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cache-Control: max-age=14400
+Cf-Cache-Status: REVALIDATED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3J3AhjTWQgXiaiU3ixGYXrf7BzQ%2Fe7DHwc6kJXTPLEckptjIkxqDcgSu7VX9ID%2BKsZW4Ii6B9ysro53KL3FErYkSYmiZecrmsH%2FmsMKT85Y9D8dib1GMz4yv"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec4b54d2610d7-ORD
+Content-Encoding: gzip
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17232&sent=3&recv=6&lost=0&retrans=0&sent_bytes=2809&recv_bytes=837&delivery_rate=191029&cwnd=231&unsent_bytes=0&cid=bf8637ae547ae148&ts=55&x=0"

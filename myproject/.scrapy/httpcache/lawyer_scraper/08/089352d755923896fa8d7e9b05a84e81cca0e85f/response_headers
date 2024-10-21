@@ -1,0 +1,18 @@
+Content-Length: 2352
+Server: CloudFront
+Content-Type: text/html; charset=utf-8
+Last-Modified: Fri, 13 Sep 2024 19:14:25 GMT
+Content-Encoding: gzip
+Via: 1.1 varnish, 1.1 varnish, 1.1 820cbbdab21a9987bdc9e4354fb7442e.cloudfront.net (CloudFront)
+Accept-Ranges: bytes
+X-Served-By: cache-iad-kiad7000107-IAD, cache-iad-kjyo7100031-IAD
+X-Cache-Hits: 0, 0
+X-Timer: S1729269113.870858,VS0,VE1
+Strict-Transport-Security: max-age=31557600
+X-Auth-State: anonymous
+Date: Sun, 20 Oct 2024 16:33:17 GMT
+Cache-Control: max-age=7200, s-maxage=172800, must-revalidate
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+X-Amz-Cf-Pop: ORD53-C3
+X-Amz-Cf-Id: sWZxeeAYuW5omk3JNT6pHynr1R5NX9oE-g4MEegO9Ch7VQWayNtSYw==

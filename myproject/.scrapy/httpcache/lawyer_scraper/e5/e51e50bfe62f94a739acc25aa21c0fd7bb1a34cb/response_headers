@@ -1,0 +1,14 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:41:39 GMT
+Server: nginx
+Location: https://kennedyslaw.com/en/
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Request-Context: appId=cid-v1:
+X-Dns-Prefetch-Control: off
+Expect-Ct: max-age=0
+X-Frame-Options: SAMEORIGIN
+X-Download-Options: noopen
+X-Content-Type-Options: nosniff
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: no-referrer
+X-Xss-Protection: 0

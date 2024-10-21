@@ -1,0 +1,19 @@
+Content-Length: 125
+Date: Mon, 21 Oct 2024 06:25:09 GMT
+Server: Apache
+X-Robots-Tag: noindex, follow
+Link: <https://wttgroup.co.uk/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=172800
+Expires: Wed, 23 Oct 2024 06:25:09 GMT
+Content-Encoding: gzip
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,OPTIONS,DELETE,PUT
+Access-Control-Allow-Headers: Content-Type
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Type: text/plain; charset=utf-8

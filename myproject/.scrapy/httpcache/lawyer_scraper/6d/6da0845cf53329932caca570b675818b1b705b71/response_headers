@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:37:47 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Sun, 20 Oct 2024 22:23:55 GMT
+X-Redirect-By: WordPress
+Location: https://foxandbank.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 2
+X-Cache-Group: bot

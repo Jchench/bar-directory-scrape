@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:35:28 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/7.4.33
+X-Robots-Tag: noindex, follow
+Link: <https://www.fcoplaw.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: public, max-age=2592000
+Expires: Tue, 19 Nov 2024 03:23:46 GMT
+Vary: Accept-Encoding,Accept-Encoding
+Referrer-Policy: 
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: HIT
+Age: 94301
+Last-Modified: Sun, 20 Oct 2024 03:23:47 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=R7ylPfZAtVmUdPgL00SbQFRhAnPBxxeh3yLcf%2BusMFBGnHJIk7TD%2FYXR3MwC3m20pRFK8iuzA6016%2FzKLKoLjekXWtsqd370ndHxsOqhQi%2BV09Rn1bDRGX9D0FduqSIjhDQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee26b6a216208-ORD
+Content-Encoding: gzip
+Server-Timing: cfL4;desc="?proto=TCP&rtt=21452&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2826&recv_bytes=845&delivery_rate=194010&cwnd=247&unsent_bytes=0&cid=76b40e435d45f280&ts=28&x=0"

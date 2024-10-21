@@ -1,0 +1,19 @@
+Content-Length: 2024
+Cache-Control: max-age=31622400
+Content-Type: text/plain
+Etag: W/"6705c911-7e8"
+Expires: Fri, 10 Oct 2025 18:02:50 GMT
+Last-Modified: Wed, 09 Oct 2024 00:06:41 GMT
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Pantheon-Styx-Hostname: styx-fe4-b-69b57ff94-q4tjc
+X-Styx-Req-Id: b2847134-8668-11ef-9c14-e6f8e7bd130f
+Date: Mon, 21 Oct 2024 05:15:07 GMT
+X-Served-By: cache-chi-klot8100060-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729487708.996047,VS0,VE3
+Vary: Accept-Encoding
+Age: 990738
+Accept-Ranges: bytes
+Via: 1.1 varnish

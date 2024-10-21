@@ -1,0 +1,5 @@
+User-agent: *
+Disallow:
+
+Sitemap: https://www.petersonlawgroup.com/sitemap.xml
+Sitemap: https://www.petersonlawgroup.com/blog/sitemap.xml

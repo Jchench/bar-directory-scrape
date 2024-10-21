@@ -1,0 +1,18 @@
+Content-Length: 0
+Content-Type: text/plain
+Date: Mon, 21 Oct 2024 05:35:05 GMT
+Server: Microsoft-IIS/10.0
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: https://bizdev.bakerdonelson.com
+Etag: "e4f9958613cd21:0"
+Last-Modified: Fri, 11 Nov 2016 21:19:54 GMT
+Set-Cookie: ARRAffinity=7fbdd5725fb0a9495c3091679c7ec45116b5201263be3c3f42fed7f0f0bbd3f0;Path=/;HttpOnly;Secure;Domain=www.bakerdonelson.com
+Set-Cookie: ARRAffinitySameSite=7fbdd5725fb0a9495c3091679c7ec45116b5201263be3c3f42fed7f0f0bbd3f0;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.bakerdonelson.com
+Vary: origin
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Permissions-Policy: encrypted-media=(self), fullscreen=(), speaker=(), sync-xhr=()
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'self' bizdev.bakerdonelson.com;

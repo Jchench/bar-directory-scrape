@@ -1,0 +1,7 @@
+# global
+User-agent: *
+Disallow: /xmlrpc.php
+Disallow: /cgi-bin/
+Allow: /wp-admin/admin-ajax.php
+
+Sitemap: http://www.hinsongravelle.com/sitemap.xml

@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Website hosting by Jade Orchard</title>
+    <style type="text/css">
+        body {
+            background: white;
+            color: #727171;
+            font-family: "Lucida Grande", "Lucida Sans", Lucida, Arial, sans-serif;
+            font-size: 16px;
+            line-height: 1.7em;
+        }
+        
+        .wrap {
+            max-width: 460px;
+            margin: 50px auto;
+            padding: 0 40px;
+        }
+        
+        h1 {
+            font-size: 1.2em;
+        }
+        
+        p {
+            padding-bottom: 1.3em;
+            margin: 0;
+        }
+        
+        p.cite {
+            font-size: 12px;
+        }
+        
+        .logo {
+            display: block;
+            width: 465px;
+            max-width: 100%;
+            margin: 60px auto 0;
+            text-decoration: none;
+        }
+        
+        .logo img {
+            outline: none;
+            width: 100%
+        }
+    </style>
+</head>
+
+<body>
+    <div class="wrap">
+        <h1>Hmm, something’s not quite right…</h1>
+        <p>While evidently configured to send traffic to our web servers, this domain is not (or is no longer) hosted with <a href="http://jadeorchard.com">Jade Orchard</a>.</p>
+        <a class="logo" href="http://jadeorchard.com"><img src="http://jadeorchard.com/images/masthead_color.png" alt="Web Hosting by Jade Orchard" /></a>
+    </div>
+</body>
+</html>

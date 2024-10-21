@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 05:31:50 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://dracupandpatterson.com/robots.txt
+Cf-Ray: 8d5edd13dc9c61e4-ORD
+Cf-Cache-Status: DYNAMIC
+Ki-Cache-Type: None
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=aliSz%2FlNnl9doYY1BWiaFDIf1V7fg63P0Cdb1vh2pL05xHfIpIaBQfNC2FG7aaHq%2B9X19gY00oyg0XHlwplZWmYaizXHezE3MP26JZUtUDsQZeo5%2FJQPXZoBEXV0mQFJYk0yGtH2A7%2FNHEsF"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

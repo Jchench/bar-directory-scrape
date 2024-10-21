@@ -1,0 +1,253 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Law Offices of Cullins & Grandy LLP</title>
+    <link rel="stylesheet" type="text/css" href="style.css?v=1.4"></stylesheet>
+    <meta name="format-detection" content="telephone=no">
+</head>
+<body>
+
+<div class="main">
+    <div class="pre-header">
+        <div style="width: 960px; margin: 0 auto" >
+            <p><img src="images/phone.png" class="sm-icon"/>Phone Number: (949) 454-2500 <a href="mailto:rcullins@cullinsgrandylaw.com"><span style="float: right"> <img src="images/mail.png" class="sm-icon"/>e-mail: rcullins@cullinsgrandylaw.com</span></a></p>
+            <p><img src="images/fax.png" class="sm-icon"/>Fax Number: (949) 454-1409</p>
+        </div>
+    </div>
+    <div class="header">
+        <div style="max-width: 960px;margin: 0 auto;">
+            <img src="images/header_image.jpg" style="margin: 8px 0px 3px 5px"/>
+            <h1 class="header-title">Cullins & Grandy LLP</h1>
+        </div>
+    </div>
+
+    <div class="photo-background">
+        <h1 class="photo-title">Law Offices of</h1>
+        <h1 class="photo-title pt2">Cullins & Grandy <span style="font-size: 50px; font-style: normal;">LLP</span></h1>
+    </div>
+
+    <div class="nav-bg">
+        <div class="nav">
+            <a href="index.html"><div class="nav-btn active"><p>Home</p></div></a>
+            <a href="attorneys.html"><div class="nav-btn"><p>Attorneys</p></div></a>
+            <a href="locations.html"><div class="nav-btn"><p>Locations</p></div></a>
+            <a href="contact.html"><div class="nav-btn" style="margin-right: -6px;border-right: 1px solid #000;"><p>Contact</p></div></a>
+        </div>
+    </div>
+
+    <div class="main-content-bg" style="background: #fff;">
+        <div class="main-content">
+            <div class="content-section">
+
+                <h1 style="margin: 1.5em 0 .5em;"><script type="text/javascript">document.write( "Standing for Justice  " , new Date().getFullYear() - 1990 , " Years!" );</script></h1>
+
+                <p style="font-size: 22px;">Cullins & Grandy LLP is a firm of civil trial attorneys founded in 1990. We have handled thousands of litigated cases and specialize in defending catastrophic personal injury, wrongful death, uninsured motorist, and punitive damages cases.</p>
+                
+                <p style="font-size: 22px;">We are proud of the fact that 50% of our partners are women and a majority of our associates are women.</p>
+
+                <p style="font-size: 22px;">Congratulations to Allison Grandy on her admission to <a href="https://www.ocabota.org/" target="_blank">ABOTA</a> Orange County Chapter. The firm now boasts five members.</p>
+
+                <div style="margin: 3em auto; width:10%;"><hr style="border-color: rgb(52, 113, 187);"></div>
+
+                <h3 style="font-size: 26px; text-align: center; margin: 0px; color: #6a6a6a; padding: 0;">We Are Hiring</h3> 
+
+                <p style="text-align: center;"><a href="https://www.cullinsgrandylaw.com/contact.html#join-our-team">Click here for details</a></p>
+
+                <div style="margin: 3em auto; width:10%;"><hr style="border-color: rgb(52, 113, 187);"></div>
+
+                <p style="margin-top: 1em;">Congratulations to partners Heather Cote, Allison Grandy, Chanel Araujo, and Mike Lowell for <strong>tremendous recent jury verdicts including 11 defense verdicts and 4 more below Defendant's CCP998:</strong></p>
+
+                <p><strong>Chanel Araujo and Doug Cullins:</strong> July 11, 2024, <em>Ornelas v. Lee</em>, San Bernardino County, CIVSB 2217284, 5 day jury trial, left turn intersectional accident with both vehicles totaled, admitted liability, neck and back injuries, injections and claimed cervical fusion needed. Past medical bills $55,648, future medical bills $152,000, Plaintiff asked for $362,648, jury awarded $30,000. Defendant's CCP 998 was $30,000.</p>
+
+                <p><strong>Allison Grandy and Chanel Araujo:</strong> June 13, 2024, <em>Burns v. Meza</em>, Orange County Superior Court, 30-2021-01221051, 9 day jury trial, plaintiff asked for $4.5 million, admitted liability, 9-3 <span class="dverdict">defense verdict</span>. Defendant's CCP 998 was $50,000. Judgment will be entered in favor of defendant.</p>
+
+                <p><strong>Chanel Araujo and Allison Grandy:</strong> May 16, 2024, <em>Silva v. Flores</em>, Los Angeles County, MC028131, 16 day jury trial, admitted liability, 12-0 <span class="dverdict">defense verdict</span>. Defendant's CCP 998 was $40,000. Judgment will be entered in favor of defendants.</p>
+
+                <p><strong>Allison Grandy and Mike Lowell:</strong> April 10, 2024, <em>Messen; Rodriguez v.Vandyken</em>, Orange County Superior Court, 30-2019-01080498, admitted liability, 2 plaintiffs, 12-0 <span class="dverdict">defense verdict</span> both plaintiffs. Defendant's CCP 998's were not accepted. Judgment will be entered in favor of Defendant.</p>
+
+                <p><strong>Allison Grandy:</strong> March 14, 2024, <em>Vang v. Anderson</em>, Superior Court, County of Fresno, 21CECG03365, admitted liability, hit-and-run, no defendant at trial, no defense experts, carrier intervened, 9-3 <span class="dverdict">defense verdict</span>. Judgment will be entered in favor of Defendant.</p>
+
+                <p><strong>Allison Grandy and Mike Lowell:</strong> January 9, 2024, <em>Abdullah v. Bratus</em>, Orange County, 30-2021-01190842, admitted liability, 7 day jury trial, Plaintiff asked for $127,250, jury awarded $6,150. Defendant's CCP 998 was $30,000. Judgment will be entered in favor of Defendant.</p>
+
+
+                <p><strong>Michael Maiolo and Douglas Cullins:</strong> December 13, 2023, <em>Enriquez v. McCarthy</em>, 2020-01166605, Orange County Superior Court, 6 day jury trial, admitted liability, both Plaintiffs asked for over $130,000 each. The jury awarded Martha Enriquez $15,500 and Jose Enriquez $14,500. Defendant had previously served CCP 998's for $30,000 each. Judgment will be entered in favor of Defendant.</p>
+
+                <p><strong>Allison Grandy and Chanel Araujo:</strong> November 15, 2023, <em>Francisco v Ramirez</em>, 22STCV05723, Los Angeles County, 5 day jury trial, admitted liability, Plaintiff asked for $761,000 to $1.52 million, jury awarded $22,200. Defendant had previously served a CCP 998 for $50,000. Judgment will be entered in favor of Defendant.</p>
+
+                <p><strong>Allison Grandy:</strong> October 26, 2023, <em>Chapin v. Solis</em>, 30-2022-01264085, Orange County, 3-day jury trial, admitted liability, plaintiff asked for $25,000, jury awarded $5,000</p>
+
+                <p><strong>Heather Cote and Mike Lowell:</strong> October 10, 2023, <em>Wu v. Hardison</em>, 21STCV03215, Los Angeles County, 5-day jury trial, admitted liability, plaintiff asked for $267,000 in meds and open-ended pain and suffering, <span class="dverdict">defense verdict</span>, defendant had previously served a CCP 998 for $30,000.</p>
+
+                <p><strong>Chanel Araujo:</strong> September 29, 2023, <em>Longoria v. Garcia</em>, Los Angeles County, 21STCV20135, 4-day trial, admitted liability, plaintiff asked for $19,000, jury awarded $700 which was below defendant's CCP 998 of $3,400.</p>
+
+                <p><strong>Heather Cote and Mike Lowell:</strong> August 2, 2023, <em>Muldong v. Skansen</em>, Orange County, 30-2020-01160838, seven-day jury trial, admitted liability, plaintiff asked for $230,000, 12-0 <span class="dverdict">defense verdict</span>, defendant had previously served a CCP 998 for $40,000.
+
+                <p><strong>Heather Cote and Mike Lowell:</strong> June 20, 2023, <em>Olivar v. Cardenas</em>, Los Angeles County, 21STCV15739, six-day trial, admitted liability, plaintiff asked for $1.25 million, <span class="dverdict">defense verdict</span>, defendant had previously served a CCP 998 for $50,000.</p>
+
+                <p><strong>Heather Cote and Mike Lowell:</strong>  April 24, 2023, <em>Gonzalez v. Tabibi</em>, Los Angeles County, BC709486, 12-day trial, admitted liability, plaintiff asked for $25 million, jury awarded $2 million which was <u>below defendant's CCP 998 of $2.5 million</u>. 
+
+                <p><strong>Chanel Araujo:</strong> April 10, 2023, <em>Montenegro v. Zavala</em>, San Bernardino County, CIVBS2000377, 8-0 <span class="dverdict">defense verdict</span>.</p>
+
+                <p><strong>Chanel Araujo:</strong> April 3, 2023, <em>Hervey v. Redmond</em>, Riverside County, CVRI2000115, admitted liability 12-0 <span class="dverdict">defense verdict</span>.</p>
+
+                <p><strong>Allison Grandy and Mike Lowell:</strong> February 15, 2023, <em>Poppink v. Assin,</em> Los Angeles County, BC709341, admitted liability, 9-day jury trial, <span class="dverdict">defense verdict</span>.</p>
+
+                <p><strong>Doug Cullins and Chanel Araujo:</strong> February 10, 2023, <em>Sanders v. O'Hara</em>, Los Angeles County, 20STCV12040, admitted liability, during trial Plaintiff agreed to a high/low waiving costs.</p>
+
+                <p><strong>Allison Grandy and Chanel Araujo:</strong> January 23, 2023, <em>O'Ffill v. Vasquez</em>, Los Angeles County, BC670405, admitted liability, <span class="dverdict">defense verdict</span>.
+
+                <p><strong>Heather Cote and Mike Lowell:</strong> January 9, 2023, <em>Lee v. Gershenovitz</em>, Orange County, 30-2020-01175171, admitted liability, <span class="dverdict">defense verdict</span>.</p>
+
+                <p><strong>Allison Grandy:</strong> December 12, 2022, <em>Garza v. Alvarez</em>, Orange County, 30-2021-0179106, admitted liability, 2 plaintiffs asked for $23,200 each, jury awarded $3,400 each.</p>
+
+                <div style="margin: 3em auto; width:10%;"><hr style="border-color: rgb(52, 113, 187);"></div>
+
+
+                <div class="headshot-container" style="margin-top:2em;">
+                    <h2 style="margin-bottom:.5em;">Attorneys</h2>
+        		    
+                    <a href="doug.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/doug_01_th.jpg);
+                            background-size: 180%;
+                            background-position: 42% 25%;"></div>
+                            <p><b>Douglas Cullins</b></p>
+                        </div> 
+                    </a>	
+         		    
+                    <a href="jim.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/jim_01_th.jpg);
+                            background-size: 150%;
+                            background-position: 57% 25%;"></div>
+                            <p><b>Jim Grandy</b></p>
+                        </div> 
+                    </a>
+
+                    <br>
+
+                    <a href="heather.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/heather_01_th.jpg);
+                            background-size: 150%;
+                            background-position: 45% 25%;"></div>
+                            <p><b>Heather Cote</b></p>
+                        </div> 
+                    </a>
+                    
+                    <a href="allison.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/allison_01_th.jpg);
+                            background-size: 150%;
+                            background-position: 50% 25%;"></div>
+                            <p><b>Allison Grandy</b></p>
+                        </div> 
+                    </a>
+
+                    <a href="chanel.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/chanel_01_th.jpg);
+                            background-size: 120%;
+                            background-position: 50% 15%;"></div>
+                            <p><b>Chanel Araujo</b></p>
+                        </div> 
+                    </a>
+
+                    <a href="mike.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/mike_01_th.jpg);
+                            background-size: 165%;
+                            background-position: 48% 33%;"></div>
+                            <p><b>Mike Lowell</b></p>
+                        </div>
+                    </a>
+
+                    <br>
+
+                    <a href="russ.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/russ_01_th.jpg);
+                            background-size: 150%;
+                            background-position: 47% 15%;"></div>
+                            <p><b>Russ Grandy</b></p>
+                        </div>
+                    </a>
+                    
+                    <a href="bonnie.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/bonnie_01_th.png);
+                            background-size: 150%;
+                            background-position: 58% 25%;"></div>
+                            <p><b>Bonnie Dohrmann</b></p>
+                        </div> 
+                    </a>
+
+                     <a href="rebecca.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/rebecca_01_th.jpg);
+                            background-size: 125%;
+                            background-position: 45% 10%;"></div>
+                            <p><b>Rebecca Swan</b></p>
+                        </div> 
+                    </a>
+
+                    <a href="andrew.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/andrew-cristea-th.jpg);
+                            background-size: 115%;
+                            background-position: 90% 30%;"></div>
+                            <p><b>Andrew Cristea</b></p>
+                        </div> 
+                    </a>
+
+                    <br>
+
+                    <a href="michael.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/michael_headshot_01_th.jpg);
+                            background-size: 170%;
+                            background-position: 50% 20%;"></div>
+                            <p><b>Michael Maiolo</b></p>
+                        </div> 
+                    </a> 
+
+                    <a href="meredith.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(https://placehold.co/300x450.jpg?text=Photo+Coming);
+                            background-size: 150%;
+                            background-position: 50% 50%;"></div>
+                            <p><b>Meredith J. Norris</b></p>
+                        </div> 
+                    </a>  
+
+                    <a href="ashley.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/A-Whelan-headshot-th.jpg);
+                            background-size: 150%;
+                            background-position: 50% 10%;"></div>
+                            <p><b>Ashley Whelan</b></p>
+                        </div> 
+                    </a>
+
+                    <a href="nageen.html">
+                        <div class="headshot">
+                            <div class="hs-pic" style="background: url(images/N-Jalali-headshot-th.jpg);
+                            background-size: 145%;
+                            background-position: 20% 5%;"></div>
+                            <p><b>Nageen Jalali</b></p>
+                        </div> 
+                    </a>
+                    
+                </div>
+        </div>            
+    </div>
+
+    <div class="content-section footer">
+        <p style="text-align: center;margin-top: 1em;"><img src="images/abota.png" style="height: 150px;margin-right: 50px"/><img src="images/top100.png" style="height: 150px;"/></p>
+        <p style="font-size: 14px;text-align: center;margin-top: 2em;">Copyright &copy; 2023 Cullins & Grandy LLP</p>
+
+    </div>
+</div>
+
+</body>
+</html>

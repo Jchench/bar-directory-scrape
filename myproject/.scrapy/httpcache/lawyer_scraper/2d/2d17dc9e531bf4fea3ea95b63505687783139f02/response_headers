@@ -1,0 +1,8 @@
+Content-Length: 0
+X-Redirect-By: WordPress
+Location: https://johnsonfantl.com/robots.txt
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 21 Oct 2024 05:13:51 GMT
+Server: LiteSpeed
+Referrer-Policy: no-referrer-when-downgrade
+Alt-Svc: quic=":443"; ma=2592000; v="43,46", h3-Q043=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-25=":443"; ma=2592000, h3-27=":443"; ma=2592000

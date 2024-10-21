@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 05:15:08 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://brownwhitelaw.com/
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 3
+X-Cache-Group: bot
+Cache-Tag: brownwhitelaw6041c5d5c6bec
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OjqM75Vp2VEvSTCQINenm1aMzHspsRYXx6IQYHSKspAHfY5Eyw2SIm6D%2BcZfHpFk3i72xUWj9x6oO%2FBL089HZ7qcDEGIctNxC5XBDO4nNrz77eTnJMK07gmZrlHMFGpSzfxTBiOXubY%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec4a0fd9a29bd-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17164&sent=7&recv=8&lost=0&retrans=0&sent_bytes=4361&recv_bytes=1095&delivery_rate=156211&cwnd=235&unsent_bytes=0&cid=c336c7b4308b31a8&ts=3016&x=0"

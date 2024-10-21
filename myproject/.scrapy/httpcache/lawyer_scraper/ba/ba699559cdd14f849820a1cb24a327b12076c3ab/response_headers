@@ -1,0 +1,14 @@
+Content-Length: 973
+Accept-Ranges: bytes
+Access-Control-Allow-Origin: *
+Age: 5392937
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline; filename="index.html"
+Content-Type: text/html; charset=utf-8
+Date: Mon, 21 Oct 2024 05:25:46 GMT
+Etag: "57096d186fd4a8ade5b10a5c584d4cbe"
+Last-Modified: Mon, 19 Aug 2024 19:23:28 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::pstmn-1729488346549-6ce76b7f5ae2

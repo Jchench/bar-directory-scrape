@@ -1,0 +1,13 @@
+Content-Length: 125
+Content-Type: text/plain;charset=UTF-8
+Date: Tue, 15 Oct 2024 12:16:38 GMT
+Server: Apache/2.4.59 (Ubuntu)
+Cache-Control: max-age=31536000
+Expires: Wed, 15 Oct 2025 12:16:38 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 08c8cd3bb1ad74a8dd34562862bc0856.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD56-P3
+X-Amz-Cf-Id: jZ2ta4twv2xP7JNP5c9O5A3RmvQbmSUnhtfZCoW4JF8_x_GpD9ItaA==
+Age: 497227

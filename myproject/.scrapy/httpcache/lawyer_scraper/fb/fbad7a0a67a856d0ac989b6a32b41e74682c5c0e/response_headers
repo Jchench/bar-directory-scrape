@@ -1,0 +1,10 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:27:09 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://pursiano.com/robots.txt
+X-Cache: MISS
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *

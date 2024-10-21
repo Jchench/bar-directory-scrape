@@ -1,0 +1,20 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:08 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://pubdef.lacounty.gov/wp-json/>; rel="https://api.w.org/"
+Link: <https://pubdef.lacounty.gov/wp-json/wp/v2/pages/758>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://pubdef.lacounty.gov/>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://pubdef.lacounty.gov/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://pubdef.lacounty.gov
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 17
+X-Cache-Group: bot
+Content-Encoding: gzip
+X-Cdn: Imperva
+X-Iinfo: 7-136392000-136392020 SNNN RT(1729492026730 1239) q(0 0 0 -1) r(1 2) U12

@@ -1,0 +1,16 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /search
+Disallow: /components
+Disallow: /api
+Disallow: /test
+Disallow: /plantable-seed-paper
+Disallow: /mofo-logo
+Disallow: /about/terms-notices/japanese-investors
+
+# Host
+Host: https://www.mofo.com/
+
+# Sitemaps
+Sitemap: https://www.mofo.com/sitemap.xml

@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:13:24 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://walzermelcher.com/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://walzermelcher.com/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://walzermelcher.com
+X-Robots-Tag: noindex
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Last-Modified: Mon, 21 Oct 2024 03:13:23 GMT
+Cf-Cache-Status: HIT
+Server: cloudflare
+Cf-Ray: 8d5ec218698b8101-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

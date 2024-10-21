@@ -1,0 +1,25 @@
+Content-Length: 17313
+Server: nginx
+Date: Mon, 21 Oct 2024 05:15:59 GMT
+Content-Type: text/html; charset=UTF-8
+X-Pingback: https://www.husseylaw.com/xmlrpc.php
+Link: <https://www.husseylaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.husseylaw.com/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json"
+Link: <https://www.husseylaw.com/>; rel=shortlink
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Mon, 21 Oct 2024 09:15:59 GMT
+Cache-Control: max-age=14400
+Cache-Control: public
+Sfs-Uuid: sp_uuid-hlTECEK6C2Lq3BIT2jxvXhK3Vjj-1729487758.931
+Set-Cookie: SPSESSID=sp_sessid-qMLAHb3Of
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Last-Modified: Monday, 21-Oct-2024 05:15:59 GMT
+Etag: 1729487759
+Sfs-Cache: nginx.c1.oh.node.sfs.io
+X-Proxy-Cache: EXPIRED
+Sfs-Cache-Proxy-No-Cache: 0
+Sfs-Cache-Purge: 0
+Sfs-Cache-Bp-Flag: FALSE
+Sfs-Location-Group: Default/All

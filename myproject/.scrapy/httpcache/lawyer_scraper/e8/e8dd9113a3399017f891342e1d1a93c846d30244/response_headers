@@ -1,0 +1,28 @@
+Cache-Control: public, max-age=21600
+Content-Encoding: gzip
+Content-Language: en
+Content-Type: text/html; charset=utf-8
+Etag: W/"1729487605-0"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 21 Oct 2024 05:13:25 GMT
+Link: <https://www.csun.edu/blaw/melanie-williams>; rel="canonical",<https://www.csun.edu/node/18916>; rel="shortlink"
+Server: nginx
+Set-Cookie: NO_CACHE=1
+Set-Cookie: SimpleSAMLSessionID=ce2487a2f659d9008bbb2436b2517990; path=/; HttpOnly
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 7 (http://drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe1-a-5bbb8f6849-2s5dx
+X-Styx-Req-Id: 3370cfa0-8f6b-11ef-9508-1a3e28109877
+X-Ua-Compatible: IE=Edge,chrome=1
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Mon, 21 Oct 2024 05:13:26 GMT
+X-Served-By: cache-chi-klot8100110-CHI, cache-bur-kbur8200052-BUR, cache-bur-kbur8200066-BUR, cache-bur-kbur8200112-BUR
+X-Cache: MISS, MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0, 0
+X-Timer: S1729487606.866928,VS0,VE581
+Vary: Accept-Encoding, Cookie, Cookie, Cookie, orig-host

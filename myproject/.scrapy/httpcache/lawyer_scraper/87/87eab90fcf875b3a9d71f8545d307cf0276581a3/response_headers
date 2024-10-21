@@ -1,0 +1,18 @@
+Content-Length: 207
+Date: Mon, 21 Oct 2024 06:19:53 GMT
+Content-Type: text/plain; charset=utf-8
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, follow
+Link: <https://www.bdhooperlaw.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By-Plesk: PleskWin
+Cache-Control: max-age=31536000
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:19:53 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=A%2BeisBIfX9q3Rrtm9ezzWRcoYg20cfOEml4cwDNsbLoMAsWfZo%2BrcJGwWBTrux8Da2OHIbZ7Z10m6v2vjXKS3bl633E9r9n4rMO3THYF1428Eryx%2FGhYR47dlK8pRqdx8L6fl5Jd"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f23722d4b2b1c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18318&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2835&recv_bytes=849&delivery_rate=203099&cwnd=200&unsent_bytes=0&cid=64538e081514150f&ts=1631&x=0"

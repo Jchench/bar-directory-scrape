@@ -1,0 +1,12 @@
+Date: Mon, 21 Oct 2024 05:32:44 GMT
+X-Powered-By: Express
+Location: https://gurneelaw.com/robots.txt
+Access-Control-Allow-Origin: *
+X-Bubble-Perf: {"total":23.9,"percents":{"top":{"bubble_cpu":20.5,"block":76.6,"capacity_rl":0,"other_pause":0,"pre_fiber":2.3},"sub":{"pp_userdb":0,"pp_wait_userdb":0,"http_request":0,"serverjson":0,"appserver_cache_misses_time":0,"redis":23.8,"fiber_queue":4.5,"capacity_wait":19.6}},"counts":{"pp_userdb":0,"http_request":0,"derived_build":0,"serverjson":0,"appserver_cache_attempts":0,"appserver_mem_cache_hits":0,"appserver_cache_hits":0,"appserver_cache_misses":0,"redis":8,"fiber_queue":11,"blocks":10},"misc":{"userdb_results":0,"userdb_data":0,"spent_time":736297}}
+X-Bubble-Capacity-Used: 0.011 unit-seconds used
+X-Bubble-Capacity-Limit: 0 ms slower
+Cf-Cache-Status: EXPIRED
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ede677b81a3e2-ORD
+Alt-Svc: h3=":443"; ma=86400

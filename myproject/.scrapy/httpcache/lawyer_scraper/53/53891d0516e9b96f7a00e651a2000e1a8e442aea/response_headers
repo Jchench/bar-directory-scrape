@@ -1,0 +1,26 @@
+Date: Mon, 21 Oct 2024 06:37:48 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: max-age=900, public
+Content-Language: en
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Last-Modified: Mon, 21 Oct 2024 05:32:08 GMT
+X-Content-Type-Options: nosniff
+X-Drupal-Cache: HIT
+X-Drupal-Dynamic-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Pantheon-Styx-Hostname: styx-fe1-a-5bbb8f6849-drmtd
+X-Styx-Req-Id: 61051150-8f76-11ef-88cc-925033c56ac3
+X-Served-By: cache-chi-klot8100168-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1729492668.302823,VS0,VE5
+Vary: Accept-Encoding, Cookie, Cookie
+Age: 261
+Via: 1.1 varnish
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Vhhf2%2FOLkBYYL5Lhm1x7eBcWEZMhyCdzF3gr%2BigVjn44PhrI%2Fh%2BRU%2FzXkHRbPDDL%2FJ%2FwCaanIf992akyoHBff%2F5e2XPctv3NXJRZHjD7QjMB0XKv9sUwPYtgSQaowyk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3db8bf762d25-ORD
+Content-Encoding: gzip

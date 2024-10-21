@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /darwin
+Disallow: /data
+Disallow: /home-features
+Disallow: /notices
+Disallow: /subrogation/resources/publications/private
+Disallow: /Templates/media/files

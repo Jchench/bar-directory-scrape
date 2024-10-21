@@ -1,0 +1,20 @@
+Content-Length: 205
+Date: Mon, 21 Oct 2024 06:38:49 GMT
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Fri, 09 Jun 2023 18:00:22 GMT
+Etag: "ffc19342fc9ad91:0"
+Vary: Accept-Encoding
+Access-Control-Expose-Headers: Request-Context
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+Request-Context: appId=cid-v1:11e00dc4-d582-47ad-be9f-2e82d119ccb7
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src 'self' 'unsafe-inline' 'unsafe-eval'; font-src 'self' https://use.typekit.net/ https://fonts.gstatic.com https://fonts.googleapis.com; img-src 'self' data: https://www.bakerbotts.com https://p.typekit.net https://abs.twimg.com https://pbs.twimg.com https://ton.twimg.com https://platform.twitter.com https://syndication.twitter.com https://amplilyimagecap.azureedge.net https://cloudflarestream.com https://www.google-analytics.com https://www.googletagmanager.com https://*.podbean.com https://*.parmonic.ai; script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.bakerbotts.local https://www.bakerbotts.com https://use.typekit.net https://static.oktopost.com https://static.oktopost.com https://okt.to/ https://www.googletagmanager.com https://www.google-analytics.com https://az416426.vo.msecnd.net https://connect.facebook.net https://cdn.syndication.twimg.com https://ajax.cloudflare.com https://static.cloudflareinsights.com https://www.google.com https://www.gstatic.com https://awjs.blob.core.windows.net https://platform.twitter.com https://*.parmonic.ai;  style-src 'self' 'unsafe-inline' 'unsafe-eval' https://cdnjs.cloudflare.com https://platform.twitter.com https://syndication.twitter.com https://pbs.twimg.com https://fonts.googleapis.com https://awjs.blob.core.windows.net https://use.typekit.net https://*.parmonic.ai; frame-ancestors 'self' https://www.bakerbotts.local https://connect.bakerbotts.com https://bbpostgrantblog.com https://login.bakerbotts.com; frame-src 'self' https://twitter.com https://platform.twitter.com https://syndication.twitter.com https://sites-bakerbotts.vuture.net https://communications.bakerbotts.com https://communication.bakerbotts.com https://www.google.com https://sdn.sitecore.net https://ping.sitecore.com https://spe.najmanowicz.com https://apps.sitecore.net https://cdn.yoshki.com https://www.youtube.com https://www.podbean.com; connect-src 'self' https://analytics.google.com https://dc.services.visualstudio.com https://amplilyimagecap.azureedge.net https://subtitles.blob.core.windows.net https://awapi.blob.core.windows.net https://videodelivery.net https://cloudflarestream.com https://cloudflareinsights.com https://www.google-analytics.com https://stats.g.doubleclick.net https://*.parmonic.ai https://customer-qql0eqrrvwcmqa68.cloudflarestream.com; object-src 'none'; media-src blob: 'unsafe-inline' https://amplilyimagecap.azureedge.net https://subtitles.blob.core.windows.net https://videodelivery.net  https://cloudflarestream.com https://*.parmonic.ai https://customer-qql0eqrrvwcmqa68.cloudflarestream.com; base-uri 'none';
+Cf-Cache-Status: REVALIDATED
+Expires: Tue, 22 Oct 2024 02:38:49 GMT
+Cache-Control: public, max-age=72000
+Accept-Ranges: bytes
+Server: cloudflare
+Cf-Ray: 8d5f3f335bcb297a-ORD

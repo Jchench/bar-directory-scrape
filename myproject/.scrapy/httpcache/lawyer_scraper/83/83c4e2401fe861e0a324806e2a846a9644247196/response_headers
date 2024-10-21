@@ -1,0 +1,15 @@
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.comstockandwagner.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.comstockandwagner.com/wp-json/wp/v2/pages/4>; rel="alternate"; type="application/json"
+Link: <https://www.comstockandwagner.com/>; rel=shortlink
+Cache-Control: public, max-age=600
+Expires: Mon, 21 Oct 2024 05:26:44 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding,User-Agent,User-Agent
+Date: Mon, 21 Oct 2024 05:16:44 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=300; includeSubDomains; preload

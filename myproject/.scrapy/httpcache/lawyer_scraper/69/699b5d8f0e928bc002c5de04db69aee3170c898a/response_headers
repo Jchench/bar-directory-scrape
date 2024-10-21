@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 06:39:42 GMT
+Content-Type: text/html; charset=UTF-8
+Cache-Control: must-revalidate, no-cache, private
+X-Drupal-Dynamic-Cache: MISS
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Drupal-Cache: HIT
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=RPW9DwU81wus%2FwkfLJkzWhtazys2FUH6c5ngoOw7qkfuwTVBq5NepFWoM0sdPGMro7XtbacN9pUSnlV85UOclwdVldMb2%2FyF35SvC5ZtZdXTlU8s8RcRrqEepbUklHUqXVZN4D0U"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f407f7d0d115f-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=14755&sent=8&recv=8&lost=0&retrans=0&sent_bytes=5044&recv_bytes=1091&delivery_rate=225252&cwnd=225&unsent_bytes=0&cid=aee52649bf244208&ts=2683&x=0"

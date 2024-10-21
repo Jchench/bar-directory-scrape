@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:20:21 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.1.29
+Link: <http://sgcohenlaw.com/wp-json/>; rel="https://api.w.org/"
+Expires: Tue, 22 Oct 2024 06:20:21 GMT
+Cache-Control: max-age=2678400
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Nginx-Upstream-Cache-Status: STALE
+X-Server-Powered-By: Middlehost Optimized Server
+X-Mh-Tag: 108132is
+Content-Security-Policy: upgrade-insecure-requests
+Content-Encoding: gzip
+Cf-Cache-Status: MISS
+Last-Modified: Mon, 21 Oct 2024 06:20:21 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=747VB%2FE1XLzy3yXao4zoUL%2BldKGrLbKLjS1cLioEPTd0TzOZI2K7HhA0mQqDThRmaHnV21xGLAGbMxvoDpaanoj1AibNHFZTnjPVEcaWV03OrQd89WPB5OtaF7fBKWLTtg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2425e8f1124b-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=25586&sent=5&recv=5&lost=0&retrans=0&sent_bytes=2833&recv_bytes=844&delivery_rate=176725&cwnd=226&unsent_bytes=0&cid=3ec60915c314a6ed&ts=750&x=0"

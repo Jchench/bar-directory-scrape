@@ -1,0 +1,47 @@
+User-agent: *
+Disallow: /*?format=vCard
+Disallow: /*?ajax=1
+Disallow: /sitecore
+Disallow: /sitecore_files/
+Disallow: /sitecore modules/
+Disallow: /App_Browsers/
+Disallow: /App_config/
+Disallow: /App_Data/
+Disallow: /temp/
+Disallow: /upload/
+Disallow: /xsl/
+Disallow: /Tasks/
+Disallow: /SitecoreDesktopSearchWeb/
+
+#Security Reporting Address:
+mailto:security@dlapiper.com
+
+#Our Privacy Policy:
+https://www.dlapiper.com/privacy-policy
+
+#Baiduspider
+User-agent: Baiduspider
+Crawl-delay: 20
+
+#Yandex
+User-agent: Yandex
+Crawl-delay: 20
+
+#Linguee
+User-agent: Linguee Bot
+Crawl-delay: 20
+
+#rogerbot
+User-agent: rogerbot
+Crawl-delay: 20
+
+#Bingbot
+User-Agent: bingbot
+Crawl-delay: 20
+
+#Slurp
+User-agent: Slurp
+Crawl-delay: 20
+
+
+Sitemap: https://www.dlapiper.com/sitemap.xml

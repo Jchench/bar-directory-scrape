@@ -1,0 +1,51 @@
+<html>
+<head>
+<title>Attorney at Law - Alison Elle Alem&aacute;n</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<link rel="stylesheet" href="styles.css" type="text/css">
+
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+
+
+
+<table width="1023" border="0" cellpadding="0" cellspacing="0" align="center">
+	<tr>
+		<td colspan="2" align="left" height="102">
+			<a href="index.html"><img src="images/logo_alison.gif" width="1023" height="102" alt="" border="0"></a></td>
+	</tr>
+	<tr>
+		<td background="images/background_nav.jpg" width="1023" height="68" valign="top" colspan="2">
+			<div id="nav">
+<a href="index.html">Home</a>    |    <a href="services.html">Services</a>    |    <a href="client.html">Client Comments</a>    |    <a href="links.html">Links</a>    |    <a href="aboutus.html">About Us</a>
+</div></td>
+	</tr>
+	<tr>
+		<td width="612">
+			<img src="images/main_hm.jpg" width="612" height="353" alt=""></td>
+		<td background="images/background_text.jpg" width="411" height="353" valign="top">
+			<img src="images/spacer" width="411" height="1" alt="">
+			
+			<div id="body_1">
+<h1>Compassionate, <br>with a Winning Edge.</h1>
+Alison Elle Alem&aacute;n is well known as a personable, caring, and compassionate person, with the strength to be appropriately aggressive to serve your best interests.
+Alison has argued numerous winning cases for the State of California before the California Court of Appeal, California Supreme Court, Federal District Court, and the Ninth Circuit Court of Appeals. Alison knows what it takes to represent a client, and understands her client's needs and desire to have complex situations made easy and injustices made right.
+<br /><br />
+The right touch to serve you with a winning record... Alison Elle Alem&aacute;n is here for you.
+</div></td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			<img src="images/footer.jpg" width="1023" height="50" alt=""></td>
+	</tr>
+	
+</table>
+<div class="clear">
+
+</div>
+<div id="footer" align="center">
+Post Office Box 783  |  Elk Grove, CA  |  95759-0783  |  (916) 812-2362  |  <a href="mailto:Law@AlisonAleman.com">Law@AlisonAleman.com</a>
+</div>
+</body>
+</html>

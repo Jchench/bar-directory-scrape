@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:28:15 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Edge-Cache: cache,platform=wordpress
+X-Robots-Tag: noindex, follow
+Link: <https://www.willicklawgroup.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:28:15 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=eRQZyDf1n6bUmLjNHJ7uUikFCSJuyTJRYwp7PMQcKscEQLomy5ZoTkGZGVMZyyy01zr2G3MKjiQPu9LfSbKYkiGUvLLpi77vY%2BnNSh4a8oSNb7TXxLupGxnn4Eq3y0oi6PqNq7lbo%2B%2FY"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed7d909961121-ORD
+Content-Encoding: gzip

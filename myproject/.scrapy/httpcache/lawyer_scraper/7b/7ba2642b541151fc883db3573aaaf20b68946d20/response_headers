@@ -1,0 +1,9 @@
+Content-Length: 0
+X-Dns-Prefetch-Control: on
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://harrisandplottel.com/robots.txt
+X-Litespeed-Cache: hit
+Date: Mon, 21 Oct 2024 06:39:40 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

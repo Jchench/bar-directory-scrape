@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:21:12 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://breitmanresolutions.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Cf-Cache-Status: HIT
+Age: 45850
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ecd8259efe137-ORD
+Alt-Svc: h3=":443"; ma=86400

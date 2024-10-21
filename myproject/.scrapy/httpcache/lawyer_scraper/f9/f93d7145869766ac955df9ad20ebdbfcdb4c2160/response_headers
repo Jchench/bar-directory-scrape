@@ -1,0 +1,18 @@
+Content-Length: 127
+Content-Type: text/plain
+Date: Fri, 18 Oct 2024 02:40:32 GMT
+Server: Apache/2.4.62 (Ubuntu)
+Last-Modified: Tue, 12 Mar 2024 02:41:44 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=300, stale-if-error=2592000, stale-while-revalidate=2592000, s-maxage=31556952, public
+Expires: Fri, 18 Oct 2024 03:40:32 GMT
+Content-Encoding: gzip
+Referrer-Policy: origin, unsafe-url
+Pragma: public
+X-Powered-By: jCacheOpt v0.1.1
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 748bf2e250893e1ba5433de84d1e52d4.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD58-P4
+X-Amz-Cf-Id: QyR6bSn0l2edrxxUvgJEwVfhGZKFDC9vr2x3ddqnSA_ClJNZhxlrJQ==
+Age: 272830

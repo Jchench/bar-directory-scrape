@@ -1,0 +1,9 @@
+Content-Length: 805
+Accept-Ranges: bytes
+Alt-Svc: h3=":8443"; ma=2592000
+Content-Type: text/plain
+Date: Mon, 21 Oct 2024 05:22:30 GMT
+Etag: "66b20e20-325"
+Last-Modified: Tue, 06 Aug 2024 11:50:56 GMT
+Server: Caddy
+Server: nginx

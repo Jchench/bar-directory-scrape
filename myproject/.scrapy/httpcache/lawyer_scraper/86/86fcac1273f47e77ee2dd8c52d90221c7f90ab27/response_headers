@@ -1,0 +1,31 @@
+Date: Mon, 21 Oct 2024 05:21:04 GMT
+Content-Type: text/plain
+Cf-Ray: 8d5ecd53ca58620b-ORD
+Cf-Cache-Status: HIT
+Age: 133559
+Cache-Control: max-age=31622400
+Etag: W/"6711059b-5a"
+Expires: Sat, 18 Oct 2025 15:54:11 GMT
+Last-Modified: Thu, 17 Oct 2024 12:39:55 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Via: 1.1 varnish
+Cf-Apo-Via: tcache
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Pantheon-Styx-Hostname: styx-fe1-b-6fb56799f8-rwtfd
+X-Served-By: cache-chi-klot8100106-CHI
+X-Styx-Req-Id: 0ce79d26-8ca0-11ef-858a-a280f33369f6
+X-Timer: S1729354506.825938,VS0,VE4
+Server-Timing: cfCacheStatus;desc="HIT"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FjbatA70jIrDEw0PKpOetjtj1CtqxvyRoyLfJ0KJJcfsxwccF1BiEuAITgHv%2BsozEwuBQLwbCqhJcgAah82Pl7VKUccnnh7qxQCWlZbrZvLbxQqlX9TUINwCMbknsBxf9dCH0RTvyC%2Bv"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Server: cloudflare
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

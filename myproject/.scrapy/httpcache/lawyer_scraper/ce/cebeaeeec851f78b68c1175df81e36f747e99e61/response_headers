@@ -1,0 +1,13 @@
+Date: Mon, 21 Oct 2024 05:34:30 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Link: <https://www.fbm.com/wp-json/>; rel="https://api.w.org/"
+Content-Encoding: gzip
+Cache-Control: max-age=2678400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:34:30 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=xEk63BCpcijVRiBJ05Pl1CCruF2i2%2Bv5bt68RmHojPTwsdl5ypblNsngOv%2BO8kI6Zqbom%2FeTDzKcenwXPjiU38YDfEuyUn325PsYph9%2F8t1bAKgEzEjjEqUI%2BWQB"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee101ba2f6081-ORD
+Alt-Svc: h3=":443"; ma=86400

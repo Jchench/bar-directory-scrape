@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:26:14 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://waynesilverlaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://waynesilverlaw.com/wp-json/wp/v2/pages/19>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://waynesilverlaw.com/>; rel=shortlink
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Cache-Tag: waynesilverlaw603d8ca0371c1
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3xV0%2FlBcx50NOX2RwRi7FxuEEPLIWtdKzCj1OQuAe0YppUhMuhaqoDNvnFhFnz9BqtFjk0ySVCwL4f%2F0ailOiQ7Muer%2BdiabwqAs8nz46E7FZSziM8m0mIs09SYoWq%2F8KxBmFwQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed4e1ffc36203-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=10927&sent=7&recv=7&lost=0&retrans=0&sent_bytes=4613&recv_bytes=1089&delivery_rate=252016&cwnd=226&unsent_bytes=0&cid=3124fbe0ab08b329&ts=3622&x=0"

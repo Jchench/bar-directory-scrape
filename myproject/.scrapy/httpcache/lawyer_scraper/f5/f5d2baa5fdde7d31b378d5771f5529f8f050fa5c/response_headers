@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 06:22:18 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.superlawyerdoug.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:22:18 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=zFq9bCBuPiFtKVXmNGJJdyK1xT0HGwV1Q7JxQw0iPXZxF4EodBWssOKOanbn%2BHBNhvIbozVVzTxDjnsrpNCauL1XAs%2FZ2a%2Fr%2FcsJvbZwDbwCxVHEBrgd2j54QHVFDwkEQfks7oq%2BGmceqw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2702093b1129-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17416&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2848&recv_bytes=853&delivery_rate=199010&cwnd=244&unsent_bytes=0&cid=cf7e2be10fc13f6d&ts=480&x=0"

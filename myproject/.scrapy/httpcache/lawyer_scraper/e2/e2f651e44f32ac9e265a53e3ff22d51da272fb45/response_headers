@@ -1,0 +1,13 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:29:19 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: max-age=3600, must-revalidate
+X-Frame-Options: sameorigin
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Hummingbird-Cache: Served
+Content-Encoding: gzip

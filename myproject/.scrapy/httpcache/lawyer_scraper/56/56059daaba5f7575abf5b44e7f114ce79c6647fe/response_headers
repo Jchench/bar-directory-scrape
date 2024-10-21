@@ -1,0 +1,17 @@
+Content-Length: 141
+Content-Type: text/plain
+Date: Mon, 21 Oct 2024 05:36:05 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=86400
+Content-Encoding: gzip
+Etag: "8c2fd5594b1fdb1:0"
+Last-Modified: Tue, 15 Oct 2024 21:44:02 GMT
+Set-Cookie: ARRAffinity=f2bea53e8ce2975eeb1a5cc5dd00341437a9f17cdab583b99781a21171d0d2d7;Path=/;HttpOnly;Secure;Domain=www.clydeco.com
+Set-Cookie: ARRAffinitySameSite=f2bea53e8ce2975eeb1a5cc5dd00341437a9f17cdab583b99781a21171d0d2d7;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.clydeco.com
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=15552001; includeSubDomains; preload
+Content-Security-Policy: default-src 'self'; font-src 'self' *.googlesyndication.com *.googleadservices.com googleads.g.doubleclick.net *.google.com *.googletagmanager.com app.sli.do *.foleon.com fonts.gstatic.com; script-src 'self' 'unsafe-eval' 'unsafe-inline' *.googlesyndication.com app.sli.do *.foleon.com *.googleadservices.com googleads.g.doubleclick.net *.passle.net widget.spreaker.com github.com getglimpse.com *.clydeco.com *.google.com *.googleapis.com *.google-analytics.com *.googletagmanager.com www.youtube.com s.ytimg.com www.gstatic.com *.cookiebot.com *.clydeco.com app.sli.do www.clydeco.com clydeco.com www.cc.com cc.com *.twitter.com cdn.syndication.twimg.com *.foleon.com *.ceros.com; style-src 'self' 'unsafe-inline' app.sli.do *.googlesyndication.com *.foleon.com *.googleadservices.com googleads.g.doubleclick.net *.google.com *.googletagmanager.com tagmanager.google.com fonts.googleapis.com; frame-src 'self' app.sli.do embedder.wirewax.com widget.spreaker.com *.foleon.com w.soundcloud.com *.clydeco.com www.clydeco.com clydeco.com www.cc.com cc.com cdn.yoshki.com www.youtube-nocookie.com *.google.com *.ngrok.io www.facebook.com *.pinterest.com pinterest.com player.vimeo.com www.google.com s7.addthis.com www.youtube.com *.webspellchecker.net *.cookiebot.com *.twitter.com *.ceros.com *.googlesyndication.com *.googleadservices.com; object-src 'none'; img-src 'self' data: https: clydeco.vuturevx.com googleads.g.doubleclick.net app.sli.do *.googlesyndication.com *.googleadservices.com *.foleon.com *.googletagmanager.com; connect-src 'self' app.sli.do *.foleon.com *.googlesyndication.com *.googleadservices.com *.google.com *.googletagmanager.com consentcdn.cookiebot.com maps.googleapis.com *.spreaker.com *.passle.net api.mixpanel.com cc.local *.google-analytics.com *.clydeco.com *.foleon.com *.doubleclick.net; media-src 'self' app.sli.do *.foleon.com *.googlesyndication.com *.googleadservices.com googleads.g.doubleclick.net api.spreaker.com cdn.clydeco.com; frame-ancestors 'self' *.googlesyndication.com app.sli.do *.foleon.com *.googleadservices.com *.google.com *.googletagmanager.com *.clydeco.com *.ceros.com admin.cc.local;
+Permissions-Policy: accelerometer=(), camera=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), payment=(), usb=()
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin

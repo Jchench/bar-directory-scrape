@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:23:02 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://simpsonemploymentlaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://simpsonemploymentlaw.com/wp-json/wp/v2/pages/57781>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://simpsonemploymentlaw.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 2
+X-Cache-Group: bot
+Content-Encoding: gzip

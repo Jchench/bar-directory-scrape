@@ -1,0 +1,18 @@
+Content-Length: 179
+Date: Mon, 21 Oct 2024 05:12:51 GMT
+Content-Type: text/plain; charset=utf-8
+Link: <https://www.kpclegal.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=2592000
+Expires: Sat, 19 Oct 2024 13:56:25 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Last-Modified: Thu, 19 Sep 2024 13:56:26 GMT
+Cf-Cache-Status: HIT
+Age: 801948
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=ELu9eSfXGByasdFWdruiG2WBLn1yaJQckoA2tdjE8Sy9iPG7RfRIzmp5tH4SWTw5RgXr3dWsHCdP1%2F6pylZNENQoJqzXMLNKwwT5p8e7tIPv0s%2FOC%2FVUT4qCOgqWC0bPddeM"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec14a0d382925-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17564&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2826&recv_bytes=846&delivery_rate=198003&cwnd=208&unsent_bytes=0&cid=a915db8811fdb926&ts=219&x=0"

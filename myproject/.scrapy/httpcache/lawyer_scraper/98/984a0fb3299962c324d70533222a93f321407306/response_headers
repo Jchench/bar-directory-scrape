@@ -1,0 +1,14 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:36:32 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Last-Modified: Fri, 18 Oct 2024 12:50:17 GMT
+Etag: W/"8ea1-624bfbeb4455c"
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Referrer-Policy: same-origin
+Content-Security-Policy: default-src 'self' https://kellerhals-carrard.ch ;  script-src 'self' https://js.createsend1.com ;  style-src 'self' 'unsafe-inline' https://*.typekit.net ;  font-src 'self' data: https://use.typekit.net ;  frame-src 'self' https://www.youtube-nocookie.com ;  img-src 'self' data: https://i.ytimg.com https://kellerhals-carrard.ch ;  connect-src 'self' https://createsend.com https://kellerhals-carrard.ch ;  frame-ancestors 'none' ;  object-src 'none' ;
+X-Cache-Status: MISS
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Content-Encoding: gzip

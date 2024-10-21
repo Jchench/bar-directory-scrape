@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /download/2318/Terms_of_Engagement_KC_Basel_en_Nov23.pdf?inline=true
+Disallow: /download/2317/Mandatsbedingungen_KC_Basel_de_Nov23.pdf?inline=true
+
+Sitemap: https://kellerhals-carrard.ch/sitemap.xml

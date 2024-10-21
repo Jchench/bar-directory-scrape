@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:29:16 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 06:29:16 GMT
+Cache-Control: max-age=3600
+Cache-Control: s-maxage=10
+X-Redirect-By: WordPress
+Location: https://robertrandersonlaw.com/
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=VPWJPxwzN2jZm21DghQRF07c89fmXAZ7v7kN9YfFlJ138mxHEfLbY0gKu6HtkdGBgvKt1l7WOGz%2BHp4FtVKOKS2pgQoE1ZroWxtwkreUBXSe49Zi5qw3Rw4fvd7kvEkiAK9lt2IkG9f1Do27MA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed9485d6961d5-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=23508&sent=6&recv=7&lost=0&retrans=0&sent_bytes=4294&recv_bytes=1105&delivery_rate=198723&cwnd=241&unsent_bytes=0&cid=669943347b2bcc9d&ts=2696&x=0"

@@ -1,0 +1,15 @@
+Content-Length: 17457
+X-Powered-By: PHP/8.1.27
+Content-Type: text/html; charset=UTF-8
+Link: <https://sjlawcorp.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://sjlawcorp.com/wp-json/wp/v2/pages/6>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://sjlawcorp.com/>; rel=shortlink
+Etag: "2228-1729474877;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 06:38:28 GMT
+Server: LiteSpeed
+Platform: hostinger
+Panel: hpanel
+Content-Security-Policy: upgrade-insecure-requests

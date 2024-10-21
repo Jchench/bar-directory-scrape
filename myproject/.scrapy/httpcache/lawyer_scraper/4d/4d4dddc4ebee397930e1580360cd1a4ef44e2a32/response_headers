@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 06:39:43 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Pingback: https://www.friedmanlawoffices.com/xmlrpc.php
+Link: <https://www.friedmanlawoffices.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.friedmanlawoffices.com/wp-json/wp/v2/pages/652>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.friedmanlawoffices.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 5
+X-Cache-Group: bot
+Cache-Tag: friedmanlaw261c5decb342a0
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=zqYIZhbC9ILgyR8A1ExRSF1a4lMF8v98rPVkRN%2BdD1WDzSE86%2FBC7OLX4TqYkWg%2BD%2BFfOeDNFOR1RjPlbo5Ytyf2eCnxWejfy0%2FvA7g7TbB5gAsrGIaTBAk%2FMSp73al7NyiRf6it4hUM0VTPJg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f40886ef0e260-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=23180&sent=9&recv=9&lost=0&retrans=1&sent_bytes=4371&recv_bytes=1105&delivery_rate=194232&cwnd=232&unsent_bytes=0&cid=69bad3f830f0a675&ts=2862&x=0"

@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:31:14 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://rosenlegal.com/robots.txt
+Cf-Ray: 8d5edc38add06194-ORD
+Cf-Cache-Status: HIT
+Age: 729867
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Mon, 07 Oct 2024 16:01:51 GMT
+Vary: Accept-Encoding
+X-Cache: MISS
+X-Redirect-By: WordPress
+Set-Cookie: __cf_bm=NXiAWJfeqY7q2VoAW_LoSlk6dNcDvBBSpA.QoouxZsU-1729488674-1.0.1.1-bXb0vtEmg2Ge0oBfFH3VR4Z_ixVhEyGICL9Bc2sXkPD95ySAvqDHc2TEmnBmpmA_j41nJKryMNOIXt18RJb3rA; path=/; expires=Mon, 21-Oct-24 06:01:14 GMT; domain=.www.rosenlegal.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

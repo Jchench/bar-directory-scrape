@@ -1,0 +1,30 @@
+Date: Mon, 21 Oct 2024 06:27:34 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: public, max-age=14400
+Cf-Edge-Cache: cache,platform=wordpress
+Content-Security-Policy: default-src 'self' https: data: 'unsafe-eval'; script-src * 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; object-src 'none'; base-uri 'self'; font-src 'self' https://use.typekit.net; frame-src 'self' https://www.google.com; img-src 'self' https://p.typekit.net https://www.google-analytics.com; manifest-src 'self'; media-src 'self';
+Link: <https://elkinskalt.com/wp-json/>; rel="https://api.w.org/"
+Permissions-Policy: geolocation=(self "https://elkinskalt.com"), microphone=(), camera=()
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Pantheon-Styx-Hostname: styx-fe1-a-5bbb8f6849-drmtd
+X-Robots-Tag: noindex, follow
+X-Styx-Req-Id: 5eed77b4-8f75-11ef-88cc-925033c56ac3
+X-Xss-Protection: 1; mode=block
+X-Served-By: cache-chi-klot8100034-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729492054.106207,VS0,VE4
+Vary: Accept-Encoding
+Via: 1.1 varnish
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:27:34 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=bX6%2B%2FEUQEEKkgqLWHC%2BTc8u6vYxnaaAxtWrWJy1AITe67JVn7wLtxzvnvKdE%2B1DajepB6DcdvIJP1iawMTJgo6d0jPm70CbQCOSnmQFDHoPZJ5VBMWPOrZfV7dPrjRHCiw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2eba0e796187-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17586&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2832&recv_bytes=844&delivery_rate=192080&cwnd=249&unsent_bytes=0&cid=e89b3f186efc7416&ts=49&x=0"

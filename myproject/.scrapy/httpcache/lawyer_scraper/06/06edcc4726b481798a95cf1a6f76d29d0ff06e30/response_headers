@@ -1,0 +1,10 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:38:34 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: max-age=2592000, s-maxage=2592000
+Expires: Wed, 20 Nov 2024 03:02:41 GMT
+Age: 12952
+X-Cache: HIT
+Content-Encoding: gzip

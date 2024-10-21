@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:14:07 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://williamrmitchell.com/
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 07:14:07 GMT
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

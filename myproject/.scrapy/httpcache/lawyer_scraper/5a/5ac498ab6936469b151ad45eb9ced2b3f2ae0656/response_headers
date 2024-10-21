@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:35:53 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://constructiondefect.com/
+Cf-Cache-Status: DYNAMIC
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:35:53 GMT
+Vary: Accept-Encoding
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Edge-O2O: yes
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: EXPIRED
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=yaFduiaiQMHLkSPnylVeyxmT11HCS9FpAe5yHd9q4X6ASGO36NHDUvucEI1BS1ic8RBRWOs2z%2FhFxP%2B7ptbiB9zbUmjtugZAbEDjhNLgRmv68FXf%2Fz4nql66KmNxPWd%2FiOeQ%2Fx5a9ljXt9kg"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3ae74a231123-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=19020&sent=7&recv=7&lost=0&retrans=0&sent_bytes=4548&recv_bytes=1105&delivery_rate=133124&cwnd=215&unsent_bytes=0&cid=5ad2ef076eb5b4a7&ts=2356&x=0"

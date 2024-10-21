@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:42:48 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/8.2.23
+X-Robots-Tag: noindex, follow
+Link: <https://www.hrhlaw.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: public, max-age=2592000
+Expires: Sun, 17 Nov 2024 01:47:44 GMT
+Vary: Accept-Encoding,Accept-Encoding
+Strict-Transport-Security: max-age=10886400; includeSubDomains
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: HIT
+Age: 276904
+Last-Modified: Fri, 18 Oct 2024 01:47:44 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Jgkfug0vj%2Fwx4Qqds3VxeEPVsJhfRQ%2B2ivlLkKVU%2BeCmUdsHc8z7gZs6L2GmO1QdF1iUYxwmPZhDX4BnTX3OVraGDMiK2jV2Uwvkoq0qzPDogeJKKN7oVaGscWVKHDKyjw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f450a1d3fe1e7-ORD
+Content-Encoding: gzip
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17109&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2820&recv_bytes=844&delivery_rate=261018&cwnd=242&unsent_bytes=0&cid=99374a660f613971&ts=1126&x=0"

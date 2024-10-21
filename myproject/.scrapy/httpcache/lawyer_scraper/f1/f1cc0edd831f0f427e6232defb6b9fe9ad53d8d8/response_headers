@@ -1,0 +1,15 @@
+Content-Length: 31
+Date: Mon, 21 Oct 2024 06:37:44 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Last-Modified: Mon, 30 Jul 2018 07:00:05 GMT
+Etag: "1f-5723202dddc9d"
+Accept-Ranges: bytes
+Cache-Control: max-age=3600, public, must-revalidate, public
+Expires: Mon, 21 Oct 2024 07:37:44 GMT
+Vary: User-Agent
+Pragma: public
+Content-Type: text/plain

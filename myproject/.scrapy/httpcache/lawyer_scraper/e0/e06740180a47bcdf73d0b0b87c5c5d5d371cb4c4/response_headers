@@ -1,0 +1,22 @@
+Content-Type: text/html; charset=utf-8
+Date: Fri, 18 Oct 2024 20:42:28 GMT
+X-Amz-Replication-Status: COMPLETED
+Last-Modified: Tue, 15 Oct 2024 04:03:58 GMT
+Etag: W/"b77626376e12f89652771c32bc35626a"
+X-Amz-Server-Side-Encryption: AES256
+X-Amz-Meta-Hash: ab041055c88037700ca71de5c2535269c0ee6b8c8b443359c9915fe6571d61fd
+Cache-Control: public, max-age=0, s-maxage=2678400, must-revalidate
+X-Amz-Version-Id: qlrjku0p0FQA3gOWRAF3at8epf.f4sSb
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 41d17421c3cbd1f0e8a454b1a3df7a64.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: IAD66-C2
+X-Amz-Cf-Id: oDCmOOpHLlNr1ZLrv9w0xSka9ZwTcwQd6k3WAI3eCcH8P6gIJoN1-w==
+Age: 208160
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src 'self' https: blob: data: 'unsafe-inline' 'unsafe-eval'; frame-ancestors 'self'
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=16070400

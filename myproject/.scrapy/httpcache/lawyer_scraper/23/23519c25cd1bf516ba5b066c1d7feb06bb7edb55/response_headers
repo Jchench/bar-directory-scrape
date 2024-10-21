@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 05:19:33 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Thu, 11 Jul 2019 18:45:43 GMT
+Etag: W/"5d2783d7-60"
+Cache-Control: public, max-age=300
+Access-Control-Allow-Origin: *
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self,  fullscreen=(self "https://www.youtube-nocookie.com" ), geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Cf-Cache-Status: REVALIDATED
+Server: cloudflare
+Cf-Ray: 8d5ecb1b8d0d13ce-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

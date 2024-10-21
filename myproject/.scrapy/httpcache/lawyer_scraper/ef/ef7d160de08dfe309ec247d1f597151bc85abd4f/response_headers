@@ -1,0 +1,24 @@
+Content-Length: 123
+X-Content-Type-Options: nosniff
+X-Fw-Hash: hmji8gl8vd
+Etag: W/"666a0903-80"
+X-Fw-Version: 5.0.0
+Content-Type: text/plain
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+Last-Modified: Wed, 12 Jun 2024 20:45:55 GMT
+X-Fw-Server: Flywheel/5.1.0
+X-Xss-Protection: 1
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:20:24 GMT
+X-Served-By: cache-chi-kigq8000105-CHI, cache-chi-klot8100105-CHI
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1729491624.128189,VS0,VE69
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

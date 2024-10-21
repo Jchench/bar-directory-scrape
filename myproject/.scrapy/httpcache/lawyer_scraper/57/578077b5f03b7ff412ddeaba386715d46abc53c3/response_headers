@@ -1,0 +1,27 @@
+Content-Length: 10329
+Server: nginx
+Date: Mon, 21 Oct 2024 05:27:49 GMT
+Content-Type: text/html; charset=utf-8
+X-Drupal-Cache: MISS
+Etag: "1729488318-0"
+Content-Security-Policy: default-src 'self' https://use.typekit.net; script-src 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' https://use.typekit.net *.google.com https://connect.facebook.net *.gstatic.com https://www.google-analytics.com https://*.googleapis.com https://view.ceros.com https://cdn.jsdelivr.net https://www.googletagmanager.com https://cdn.cookielaw.org; object-src 'none'; style-src 'report-sample' 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net https://cdn.jsdelivr.net; img-src 'self' data: *.gstatic.com *.littler.com p.typekit.net  https://www.google-analytics.com https://*.googleapis.com https://i.vimeocdn.com https://cdn.cookielaw.org https://www.googletagmanager.com; media-src 'self'; frame-src 'self' https://player.vimeo.com/ https://app.powerbi.com https://w.soundcloud.com https://www.google.com https://view.ceros.com https://players.brightcove.net https://www.youtube.com https://www.youtube-nocookie.com; frame-ancestors 'self'; child-src 'self' https://player.vimeo.com/; font-src 'self' 'unsafe-inline' https://themes.googleusercontent.com use.typekit.net *.gstatic.com data:; connect-src 'self' https://*.google-analytics.com *.algolia.net *.algolianet.com https://insights.algolia.io https://cdn.cookielaw.org https://geolocation.onetrust.com https://privacyportal.onetrust.com; report-uri /report-csp-violation; upgrade-insecure-requests
+X-Content-Security-Policy: default-src 'self' https://use.typekit.net; script-src 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' https://use.typekit.net *.google.com https://connect.facebook.net *.gstatic.com https://www.google-analytics.com https://*.googleapis.com https://view.ceros.com https://cdn.jsdelivr.net https://www.googletagmanager.com https://cdn.cookielaw.org; object-src 'none'; style-src 'report-sample' 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net https://cdn.jsdelivr.net; img-src 'self' data: *.gstatic.com *.littler.com p.typekit.net  https://www.google-analytics.com https://*.googleapis.com https://i.vimeocdn.com https://cdn.cookielaw.org https://www.googletagmanager.com; media-src 'self'; frame-src 'self' https://player.vimeo.com/ https://app.powerbi.com https://w.soundcloud.com https://www.google.com https://view.ceros.com https://players.brightcove.net https://www.youtube.com https://www.youtube-nocookie.com; frame-ancestors 'self'; child-src 'self' https://player.vimeo.com/; font-src 'self' 'unsafe-inline' https://themes.googleusercontent.com use.typekit.net *.gstatic.com data:; connect-src 'self' https://*.google-analytics.com *.algolia.net *.algolianet.com https://insights.algolia.io https://cdn.cookielaw.org https://geolocation.onetrust.com https://privacyportal.onetrust.com; report-uri /report-csp-violation; upgrade-insecure-requests
+X-Webkit-Csp: default-src 'self' https://use.typekit.net; script-src 'report-sample' 'self' 'unsafe-inline' 'unsafe-eval' https://use.typekit.net *.google.com https://connect.facebook.net *.gstatic.com https://www.google-analytics.com https://*.googleapis.com https://view.ceros.com https://cdn.jsdelivr.net https://www.googletagmanager.com https://cdn.cookielaw.org; object-src 'none'; style-src 'report-sample' 'self' 'unsafe-inline' https://use.typekit.net https://p.typekit.net https://cdn.jsdelivr.net; img-src 'self' data: *.gstatic.com *.littler.com p.typekit.net  https://www.google-analytics.com https://*.googleapis.com https://i.vimeocdn.com https://cdn.cookielaw.org https://www.googletagmanager.com; media-src 'self'; frame-src 'self' https://player.vimeo.com/ https://app.powerbi.com https://w.soundcloud.com https://www.google.com https://view.ceros.com https://players.brightcove.net https://www.youtube.com https://www.youtube-nocookie.com; frame-ancestors 'self'; child-src 'self' https://player.vimeo.com/; font-src 'self' 'unsafe-inline' https://themes.googleusercontent.com use.typekit.net *.gstatic.com data:; connect-src 'self' https://*.google-analytics.com *.algolia.net *.algolianet.com https://insights.algolia.io https://cdn.cookielaw.org https://geolocation.onetrust.com https://privacyportal.onetrust.com; report-uri /report-csp-violation; upgrade-insecure-requests
+X-Xss-Protection: 0
+Strict-Transport-Security: max-age=31536000
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Generator: Drupal 7 (https://www.drupal.org)
+Link: <https://www.littler.com/>; rel="canonical",<https://www.littler.com/>; rel="shortlink"
+Cache-Control: public, max-age=43200
+Last-Modified: Mon, 21 Oct 2024 05:25:18 GMT
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Vary: Cookie,Accept-Encoding
+Content-Encoding: gzip
+X-Request-Id: v-dc1a7e16-8f6c-11ef-a9b2-9b6679863b9a
+X-Ah-Environment: prod
+Age: 150
+Via: varnish
+X-Cache: HIT
+X-Cache-Hits: 15
+Accept-Ranges: bytes

@@ -1,0 +1,27 @@
+Content-Length: 24755
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip
+Content-Language: en
+Etag: "1729280052"
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+Fastly-Drupal-Html: YES
+Fastly-Soc-X-Request-Id: 17292800533fe3b862660c4be6b54dd
+Last-Modified: Fri, 18 Oct 2024 19:34:12 GMT
+Server: nginx
+Via: varnish, 1.1 varnish, 1.1 varnish
+X-Ah-Environment: 01live
+X-Content-Type-Options: nosniff
+X-Drupal-Dynamic-Cache: MISS
+X-Frame-Options: SAMEORIGIN
+X-Generator: Drupal 10 (https://www.drupal.org)
+X-Request-Id: v-f3ffa7a4-8d87-11ef-a0a5-e33933485b18
+Accept-Ranges: bytes
+Age: 211803
+Date: Mon, 21 Oct 2024 06:24:17 GMT
+X-Served-By: cache-pdx12323-PDX, cache-chi-klot8100110-CHI
+X-Cache: HIT, HIT, HIT
+X-Cache-Hits: 1, 10, 0
+X-Timer: S1729491857.022017,VS0,VE2
+Vary: Cookie,Accept-Encoding
+Cache-Control: max-age=3600, public
+Strict-Transport-Security: max-age=31557600

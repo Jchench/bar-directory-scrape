@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729488679.4041420073003831507
+Html-Cacheable: true
+Etag: W/"7b978c8cae7d449a997c2ed36937a293"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729488680|aG4SoMj4bnAQ; Path=/; Domain=www.kennethburgi.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:31:20 GMT
+X-Served-By: cache-chi-klot8100039-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,oDbbMvfdXCdtsgjD2KgaM8iHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLucaPCRnkaJkWJZne822xega0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRallbPYVYly8ezHN02F7/NLBxIr3Wn9aPILH2pOjIhsuYMRmwPanmvLsXRqp0Mm0qvCQ==,2UNV7KOq4oGjA5+PKsX47HLFaI6iNJWKbgg2rxnh6ipYgeUJqUXtid+86vZww+nL,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSRympAGSq7gUQhIjIR19dZyktirn9aP11mPu3IP0Ve3i8qGvlGFeB7NrZ+NQbKLed4w==,ojHFssArTWoUnGbLVpFtz/BXxUsnWbfhtvi4GvBe8aI=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rsDtathsqilX0yJvk6O/w9xT3iX6/Dnn6HAjTyZoNsYQ==,3/G75g/Ccrnvo6tL2FCOJEJ9UB5+1CRPXAz5laMoKLo=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxGPZbsj24a1w9MRZGLIhe54ir+E0dtWF4MM1IzjZdymB1zsxtoHUUCzTXGmj5Qa9rE=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

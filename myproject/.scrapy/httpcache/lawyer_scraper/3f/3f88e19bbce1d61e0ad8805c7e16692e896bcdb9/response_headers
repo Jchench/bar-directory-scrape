@@ -1,0 +1,14 @@
+Access-Control-Allow-Origin: *
+Age: 10502393
+Cache-Control: public, max-age=0, must-revalidate
+Content-Disposition: inline; filename="404"
+Content-Encoding: gzip
+Content-Type: text/html; charset=utf-8
+Date: Mon, 21 Oct 2024 05:21:27 GMT
+Etag: W/"b571a27b43f2802a56f80da212877596"
+Last-Modified: Fri, 21 Jun 2024 16:01:34 GMT
+Server: Vercel
+Strict-Transport-Security: max-age=63072000
+X-Matched-Path: /404
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::pwvfx-1729488087688-f89b4a4f3d06

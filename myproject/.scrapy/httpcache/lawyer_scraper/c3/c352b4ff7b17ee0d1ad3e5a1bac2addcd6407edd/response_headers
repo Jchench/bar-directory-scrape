@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:37:46 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: WP Engine
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+X-Robots-Tag: noindex, follow
+Link: <https://waternow.org/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=2678400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:37:46 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=iV6saEJ%2BeyqG%2BZPqMjqdGF3f%2B5z8hXSWDyJL4Li7q8kyacS%2FhzK5iubWtzwYLcSTMyDuRxc3l68tt5tn5aQcfUJn7S8YJHJfIIVXQ3eBqy7gNV56Ac7JdB6v62XWoBk%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f3daf29df61bc-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17669&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2829&recv_bytes=842&delivery_rate=184470&cwnd=181&unsent_bytes=0&cid=08ef15a18749f269&ts=107&x=0"

@@ -1,0 +1,13 @@
+Content-Length: 16
+Date: Mon, 21 Oct 2024 06:39:37 GMT
+Expires: Mon, 21 Oct 2024 06:39:37 GMT
+Cache-Control: max-age=0, no-cache
+Pragma: no-cache
+X-Origin: 98.158.193.68
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=R19tvawhRQWB7%2FeNWlKSz2VGIaPrWm2wWbT2LaSP0qErCzOnWnVliMcHWxYbbncXv%2B2hpbCLOVIp5oJJvif1OxQn5eZ5R2yiD5V5p46ft%2BC%2BLGKX3BGaUTwhwz9snwJGxznxrnIojQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f40609bdb8737-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=73105&sent=6&recv=7&lost=0&retrans=0&sent_bytes=4193&recv_bytes=1093&delivery_rate=183954&cwnd=250&unsent_bytes=0&cid=0c70aa30a2bf0789&ts=1449&x=0"

@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /wp-admin/
+Disallow: /*?printpdf=
+Sitemap: https://www.ptwww.com/sitemap_index.xml

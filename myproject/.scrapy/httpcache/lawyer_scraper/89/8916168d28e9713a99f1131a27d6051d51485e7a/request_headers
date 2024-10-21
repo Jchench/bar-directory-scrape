@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: apbct_timestamp=1729487554; apbct_site_landing_ts=1729487554; apbct_page_hits=1; apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25227d8c327e6a143c9e461de2bcff1bfbdc%2522%257D; ct_sfw_pass_key=28f43abf9dda1fba083d1462dcf7da740; apbct_site_referer=UNKNOWN

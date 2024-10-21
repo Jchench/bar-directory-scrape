@@ -1,0 +1,14 @@
+Content-Length: 0
+Location: https://www.dlapiper.com/en
+Content-Type: text/html
+Cache-Control: max-age=900
+Expires: Mon, 21 Oct 2024 05:28:17 GMT
+Date: Mon, 21 Oct 2024 05:13:17 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1729487597864_389434679_474324594_12_17283_35_0_-";dur=1
+X-Akam-Sw-Version: 0.5.0
+Access-Control-Expose-Headers: *
+Access-Control-Allow-Headers: Origin, X-Requested-With, Content-Type, Accept
+Access-Control-Allow-Methods: GET, POST, PUT, DELETE, OPTIONS
+Access-Control-Allow-Origin: *

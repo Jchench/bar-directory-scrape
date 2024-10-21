@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 06:30:28 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.bergslaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Last-Modified: Mon, 21 Oct 2024 06:30:28 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kTLHkJV6NGdvSPwNecCQxdrnBTv%2BQI6vfqaef%2BQvVIrpKkiTquh17AfkVzpTnWbDSjbZo%2BZZE6RHYosC76Lkup85ez5oIoyRkK1L7KlZHa3HHk%2FnkdsPkmwXdp00pKs2tBtp"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f32f60c26e254-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=95132&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2826&recv_bytes=846&delivery_rate=239319&cwnd=230&unsent_bytes=0&cid=bb459604872fa860&ts=815&x=0"

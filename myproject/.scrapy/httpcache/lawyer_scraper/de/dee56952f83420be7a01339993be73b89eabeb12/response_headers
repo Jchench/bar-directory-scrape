@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:37:39 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+X-Robots-Tag: noindex, follow
+Link: <https://www.munckwilson.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: frame-ancestors 'self';
+Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(self), payment=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1;mode=block
+Cf-Cache-Status: HIT
+Age: 3714
+Last-Modified: Mon, 21 Oct 2024 04:35:45 GMT
+Server: cloudflare
+Cf-Ray: 8d5ee59cd8586360-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

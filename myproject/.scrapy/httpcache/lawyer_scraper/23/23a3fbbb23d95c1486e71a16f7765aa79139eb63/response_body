@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- #BeginTemplate "/Templates/1033.dwt" --><!-- DW6 -->
+<head>
+
+<!-- #BeginEditable "doctitle" --> 
+<title>Freed Law Offices | Newport Beach Business Attorney | Franchising |  Joint Ventures</title>
+<!-- #EndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<script language="JavaScript" type="text/javascript">
+<!--
+function MM_preloadImages() { //v3.0
+ var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+   var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+   if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_nbGroup(event, grpName) { //v6.0
+  var i,img,nbArr,args=MM_nbGroup.arguments;
+  if (event == "init" && args.length > 2) {
+    if ((img = MM_findObj(args[2])) != null && !img.MM_init) {
+      img.MM_init = true; img.MM_up = args[3]; img.MM_dn = img.src;
+      if ((nbArr = document[grpName]) == null) nbArr = document[grpName] = new Array();
+      nbArr[nbArr.length] = img;
+      for (i=4; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+        if (!img.MM_up) img.MM_up = img.src;
+        img.src = img.MM_dn = args[i+1];
+        nbArr[nbArr.length] = img;
+    } }
+  } else if (event == "over") {
+    document.MM_nbOver = nbArr = new Array();
+    for (i=1; i < args.length-1; i+=3) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = (img.MM_dn && args[i+2]) ? args[i+2] : ((args[i+1])? args[i+1] : img.MM_up);
+      nbArr[nbArr.length] = img;
+    }
+  } else if (event == "out" ) {
+    for (i=0; i < document.MM_nbOver.length; i++) {
+      img = document.MM_nbOver[i]; img.src = (img.MM_dn) ? img.MM_dn : img.MM_up; }
+  } else if (event == "down") {
+    nbArr = document[grpName];
+    if (nbArr)
+      for (i=0; i < nbArr.length; i++) { img=nbArr[i]; img.src = img.MM_up; img.MM_dn = 0; }
+    document[grpName] = nbArr = new Array();
+    for (i=2; i < args.length-1; i+=2) if ((img = MM_findObj(args[i])) != null) {
+      if (!img.MM_up) img.MM_up = img.src;
+      img.src = img.MM_dn = (args[i+1])? args[i+1] : img.MM_up;
+      nbArr[nbArr.length] = img;
+  } }
+}
+//-->
+</script>
+<link rel="stylesheet" href="images/stylea.css" type="text/css" />
+<style type="text/css">
+<!--
+body {
+	margin-left: 0px;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	background-color: #000;
+}
+ul {
+	margin-top: 4px;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+-->
+</style>
+<!--Google analytics Start --><script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-44725145-1', 'freedlawoffices.com');
+  ga('send', 'pageview');
+
+</script>
+</head><body onload="MM_preloadImages('images/partners_f2.gif','images/affiliations_f2.gif','images/cases_f2.gif','images/faq_f2.gif','images/home_f2.gif','images/home.gif','images/firm2.gif','images/attorney2.gif','images/services2.gif','images/contact2.gif')">
+<table width="800" height="100%" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tbody><tr>
+    <td bgcolor="#000000" height="45" valign="middle"><a href="index.html"><img src="images/logoname.gif" alt="Freed Law Offices" name="logo src=" width="400" height="67" hspace="9" border="0" align="bottom" id="logo src=" ..="" images="" logoname.gif="" /></a></td>
+  </tr>
+  <tr>
+    <td background="images/fill-tan.gif" bgcolor="#ce9521" height="27" valign="top"> 
+      <div class="main2" align="left"> 
+        <p align="left"><span class="lines"><img src="images/fill-tan.gif" align="middle" height="27" width="430" /> 
+          | <a href="index.html" class="lines"> Home </a> | <a href="firm.html" class="lines"> Firm Profile </a> | <a href="attorney.html" class="lines">Attorney Profiles </a> 
+          | <a href="services.html" class="lines"> Services </a> | <a href="contact.html" class="lines">Contact </a></span></p>
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"> 
+      <table width="800" height="100%" border="0" align="left" cellpadding="0" cellspacing="0">
+        <tbody><tr> 
+          <td width="9%" rowspan="3" valign="top" bgcolor="#888888"><table border="0" bordercolor="#cc3300" cellpadding="4" cellspacing="0" width="100%">
+              <tbody><tr> 
+                <td bgcolor="#cccccc"><table border="0" cellpadding="0" cellspacing="0">
+                  <tr>
+                    <td height="33"><a href="index.html" target="_top" onclick="MM_nbGroup('down','group1','home3','../images/home_f2.gif',1)" onmouseover="MM_nbGroup('over','home3','../images/home_f2.gif','../images/home_f2.gif',1)" onmouseout="MM_nbGroup('out')"><img src="images/home_f2.gif" alt="Home" name="home3" border="0" id="home2" onload="MM_nbGroup('init','group1','home3','../images/home.gif',1)" /></a></td>
+                  </tr>
+                  <tr>
+                    <td height="33"><a href="firm.html" target="_top" onClick="MM_nbGroup('down','group1','firm','../images/firm2.gif',1)" onMouseOver="MM_nbGroup('over','firm','../images/firm2.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/firm.gif" alt="About the Firm" name="firm" border="0" onLoad="" /></a></td>
+                  </tr>
+                  <tr>
+                    <td height="33"><a href="attorney.html" target="_top" onClick="MM_nbGroup('down','group1','attorney','../images/attorney2.gif',1)" onMouseOver="MM_nbGroup('over','attorney','../images/attorney2.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/attorney.gif" alt="Attorney Profiles" name="attorney" border="0" onLoad="" /></a></td>
+                  </tr>
+                  <tr>
+                    <td height="33"><a href="services.html" target="_top" onClick="MM_nbGroup('down','group1','services2','../images/services2.gif',1)" onMouseOver="MM_nbGroup('over','services2','../images/services2.gif','',1)" onMouseOut="MM_nbGroup('out')"><img src="images/service.gif" alt="Services" name="services2" border="0" onLoad="" /></a></td>
+                  </tr>
+                  <tr>
+                    <td height="33"><a href="contact.html" target="_top" onClick="MM_nbGroup('down','group1','contact','../images/contact2.gif',1)" onMouseOver="MM_nbGroup('over','contact','../images/contact2.gif','',1)" onMouseOut="MM_nbGroup('out')"><img name="contact" src="images/contact.gif" border="0" alt="Contact" onLoad="" /></a></td>
+                  </tr>
+                </table></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#888888"><img src="images/phoneaddress3.gif" alt="Freed Law Offices" width="154" height="144" vspace="6" /></td>
+              </tr>
+            </tbody></table>
+            <!-- #BeginEditable "LEFT" -->            
+            <p>&nbsp;</p>
+            <!-- #EndEditable --></td>
+          <td bgcolor="#333333" height="46" valign="top" width="91%"> <div align="left"><img src="images/mainpic.gif" alt="Law Offices" name="mainpic" width="622" height="91" border="0" id="mainpic" /></div></td>
+        </tr>
+        <tr>
+          <td bgcolor="#666666" height="23" valign="top">&nbsp;</td>
+        </tr>
+        <tr> 
+          <td bgcolor="#ffffff" valign="top"> <table border="0" cellpadding="0" cellspacing="20" width="800">
+              <tbody><tr> 
+                <td rowspan="3" class="mainbody" height="37" valign="top"><!-- #BeginEditable "MAIN" -->
+                  <h3>Counseling Businesses and Structuring Transactions to Achieve Extraordinary Results. </h3>
+                  <p>Freed Law Offices has a successful track record helping clients acquire, finance and grow their businesses, deal with day-to-day operational issues, address retrenchment and reorganization problems, and plan and execute exit strategies. </p>
+                  <p>We provide highly qualified personalized service and attention to help clients accomplish their objectives in a cost effective manner, while minimizing liability. </p>
+                  <h3>The right firm can help you anticipate problems, resolve issues and structure your business in ways that benefit you now and in the future.</h3>
+                  <h3>We are that firm.</h3>
+                  <p>&nbsp;</p>
+<p>&nbsp;</p>
+                <!-- #EndEditable --></td>
+                <td height="2" valign="top" nowrap="nowrap" bgcolor="#d3c68f" class="titles"><strong>Business Counseling &amp; Strategic Planning</strong>
+                  <ul>
+                    <li>Business Structuring &amp; Strategy</li>
+                    <li>Litigation Management</li>
+                    <li>Transaction Management</li>
+                    <li>General Counsel Services</li>
+                  </ul>
+                  <strong>Business Acquisitions, Financing &amp; Restructuring</strong>
+                  <ul>
+                    <li>Purchase &amp; Sale</li>
+                    <li>Private Equity &amp; Venture Capital</li>
+                    <li>Commercial Finance</li>
+                    <li>Restructuring &amp; Reorganization</li>
+                    <li>Choice of Business Entity</li>
+                    <li>Corporation, LLC &amp; Partnership Formation</li>
+                  </ul>
+                  <strong>Franchising, Licensing &amp; Distribution</strong>
+                  <ul>
+                    <li>Domestic &amp; International</li>
+                    <li>Franchisors &amp; Multi-Unit Franchisees</li>
+                    <li>Franchise Agreements &amp; Disclosure Documents</li>
+                    <li>Review and Analysis of Franchise Offerings</li>
+                    <li>Acquisition and Financing of Franchises</li>
+                    <li>Disputes between Franchisors &amp; Franchisees</li>
+                  </ul>
+                  <strong>Joint Ventures &amp; Syndications</strong>
+                  <ul>
+                    <li>Partnership &amp; Operating Agreements</li>
+                    <li>Private Placement Disclosure Documents</li>
+                  </ul>
+                  <strong>Real Estate</strong>
+                  <ul>
+                    <li>Acquisition</li>
+                    <li>Development</li>
+                    <li>Finance</li>
+                    <li>Commercial Leasing</li>
+                    <li>Restructuring</li>
+                  </ul>
+                  <strong>Special Industry Expertise</strong>
+                  <ul>
+                    <li>Restaurants</li>
+                    <li>Retail</li>
+                    <li>Hotel &amp; Hospitality</li>
+                    <li>Cable Television </li>
+                  </ul>
+                  <strong>Litigation &amp; Alternative Dispute Resolution</strong>
+                  <ul>
+                    <li>Arbitration</li>
+                    <li>Mediation</li>
+                    <li>Expert Witness</li>
+                    <li>Litigation Strategy &amp; Oversight</li>
+                  </ul>
+                  <!-- #BeginEditable "sidebar" --><!-- #EndEditable --></td>
+              </tr>
+              <tr> 
+                <td height="3" valign="top">&nbsp;</td>
+              </tr>
+              
+            </tbody></table></td>
+        </tr>
+      </tbody></table>
+    </td>
+  </tr>
+  <tr>
+    <td class="mainbody" bgcolor="#666666" height="33" valign="middle"><div align="center"><span class="main2"><script type="text/javascript">
+now=new Date();
+year=now.getFullYear(); 
+</script>&copy; Copyright 2011- <script type="text/javascript">
+document.write(year);
+</script> Freed Law Offices. All rights reserved.</span><a href="privacy-policy.html" class="lines">Privacy Policy</a><br />
+      </div></td>
+  </tr>
+  <tr>
+    <td bgcolor="#000000" height="22">&nbsp;</td>
+  </tr>
+</tbody></table>
+<br />
+Website by AdMarsh, Inc. Web Designers and Developers
+<p>Website by AdMarsh, Inc</p>
+</body><!-- #EndTemplate --></html>

@@ -1,0 +1,31 @@
+Content-Length: 44
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 06:38:49 GMT
+Content-Type: text/plain
+X-Sucuri-Id: 20038
+X-Xss-Protection: 1; mode=block
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Security-Policy: upgrade-insecure-requests
+Accept-Ranges: bytes
+Age: 369444
+Content-Encoding: gzip
+Etag: W/"18-5c82168e705c0"
+Last-Modified: Tue, 27 Jul 2021 21:18:23 GMT
+Strict-Transport-Security: max-age=300
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Cache: cached
+X-Cache-Hit: HIT
+X-Cacheable: YES
+X-Cacheproxy-Retries: 0/2
+X-Endurance-Cache-Level: 0
+X-Nginx-Cache: WordPress
+X-Php-Version: 8.0
+X-Backend: varnish_ssl
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Sucuri-Cache: MISS

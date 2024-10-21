@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 05:16:48 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://huntortmann.com/
+Cf-Ray: 8d5ec7115b93e271-ORD
+Cf-Cache-Status: MISS
+Cache-Control: public, max-age=0, s-maxage=900
+Expires: Mon, 21 Oct 2024 05:25:54 GMT
+Vary: Accept-Encoding
+Cache-Tag: 6f68017d-e2bc-49e7-9342-9a1879f393a7,8ab15e02d50d88576381ea826f140617eb381af4959b4898695cea36f7d17ee8
+Ki-Cache-Tag: 6f68017d-e2bc-49e7-9342-9a1879f393a7,8ab15e02d50d88576381ea826f140617eb381af4959b4898695cea36f7d17ee8
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: MISS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=deuZxiBJ4xgPZPNkRWg7YoBWruzbD%2BwJHXvd0H%2BIbsqQ6JrvIa6SC94Gwav8vPTdyhf%2FJe8ZTQrWxDRLgIFCf2TN00u719U%2FeeMAgGw17NrFH9NHNWhz2u9QxesDR%2BdhI7wRPaE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

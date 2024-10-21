@@ -1,0 +1,11 @@
+Content-Length: 42
+Content-Type: text/plain
+Last-Modified: Sun, 21 Apr 2024 01:58:04 GMT
+Etag: "0662472ac-0;;;"
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:37:55 GMT
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=1333600, public, must-revalidate
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

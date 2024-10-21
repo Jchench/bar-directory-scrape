@@ -1,0 +1,9 @@
+User-agent: *
+Allow: /wp-content/uploads/
+Disallow: /wp-admin/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /feed/
+Disallow: /wp-content/plugins/
+Disallow: /readme.html
+Crawl-Delay: 10 

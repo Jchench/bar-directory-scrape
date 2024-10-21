@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729488209.5721420641817124400
+Html-Cacheable: true
+Etag: W/"9e27ffffcb1f6b6963452096ed53104e"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729488209|i_kK3C4VhZ24; Path=/; Domain=www.wheatonlawgroup.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:23:29 GMT
+X-Served-By: cache-chi-klot8100101-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,jKB0KR2wTEE1MYSdxvKSbciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLisKKfFxaoxVWh9lgIvbTC3V0TBmJ+uLPQ4OZPC1VSMH,2d58ifebGbosy5xc+FRaliHM8Ay1fNe/zeVFqkD1u8G4y5Op3/QmBST/rqSNjOn0RsM/kwNYbCDi8N+1ydB/VA==,2UNV7KOq4oGjA5+PKsX47OFQIYwPrAuSSGkhbTTPX/NYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSRympAGSq7gUQhIjIR19dZyktirn9aP11mPu3IP0Ve3i8qGvlGFeB7NrZ+NQbKLed4w==,dwzm0teo/KxCIMX1AiFA1vbEKRMmlLER+1qAd6C5D8o=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326r9V8VAERmFkJ9DdwH68L5Mz7CF1T7ZmHBUIivXZBS3oQ==,gazFAw0l8vtzvnvOPPvWdluASuvgBk68NOvL+XPQvvY=,bamBRVWSlN/v1ZTIwXGEoNfTMlCqhRh9ZRqTwR7ZvvFCWAlgVytLFplRfz/vVd3as89WKEQ4J+c8dahTJC3sHQ==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

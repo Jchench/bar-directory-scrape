@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 05:31:14 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 8d5edc39feae113f-ORD
+Cf-Cache-Status: HIT
+Age: 10548
+Cache-Control: max-age=2592000, s-maxage=2592000
+Content-Encoding: gzip
+Expires: Tue, 19 Nov 2024 09:24:12 GMT
+Last-Modified: Sun, 20 Oct 2024 09:24:12 GMT
+Link: <https://rosenlegal.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding, Accept-Encoding
+X-Cache: MISS
+Set-Cookie: __cf_bm=cqRtZyJBvrScqSn.T4V5q2D.cY3Q9lvvN9UsRuo3p8Q-1729488674-1.0.1.1-fxOFbLl63gvE6EYgsvt_IUNio4ecoP2PS9yotDnEVyajn1ehbvg8ePNIjviTYEikGgUBvuPaOCwLwSPG624jng; path=/; expires=Mon, 21-Oct-24 06:01:14 GMT; domain=.rosenlegal.com; HttpOnly; Secure; SameSite=None
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

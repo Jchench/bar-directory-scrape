@@ -1,0 +1,19 @@
+Content-Length: 111
+Date: Mon, 21 Oct 2024 06:34:49 GMT
+Content-Type: text/plain; charset=utf-8
+X-Dns-Prefetch-Control: on
+Link: <https://pagelawyers.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+X-Turbo-Charged-By: LiteSpeed
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Last-Modified: Mon, 21 Oct 2024 06:34:49 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=zYyJGNkFXmxgMPCTB82rkdFGtvQE9cdD8x6XO3tbaldGI7UBxhJoQiv%2Bj6CPKDf7yogp%2F22ynLlpeNeYY3%2B%2BEdUbH3Jt%2FYw1dZhzO8xI8K8eLnwNiNLo6%2B9ItevpiWU5tXs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f395a4d2810e3-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17402&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2835&recv_bytes=845&delivery_rate=148231&cwnd=200&unsent_bytes=0&cid=d6721d7f353ff5cc&ts=186&x=0"

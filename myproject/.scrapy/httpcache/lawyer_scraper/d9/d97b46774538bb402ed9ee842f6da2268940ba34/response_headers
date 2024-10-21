@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 06:20:35 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://www.limnexus.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.limnexus.com/wp-json/wp/v2/pages/2117>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.limnexus.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 3
+X-Cache-Group: bot
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5f24833a418f51-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

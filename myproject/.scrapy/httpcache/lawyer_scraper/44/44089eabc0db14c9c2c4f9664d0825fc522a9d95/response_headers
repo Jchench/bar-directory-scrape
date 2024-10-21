@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:37:28 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://hemmerbarrlaw.com/robots.txt
+Cf-Ray: 8d5f3d3be848e20b-ORD
+Cf-Cache-Status: DYNAMIC
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:37:28 GMT
+Ki-Cache-Type: None
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: MISS
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3u2WcqR%2BqD4Aa58OK2%2FtPSgv8ZIJkfX%2BKIqJjlgQlO0jA1Uk8kCuynnoS37SsNTNvVtz58l%2FFzqPE7BvwMVP9q6jWA3mkGh03VexqCGd0XwJYOSb4uxTBeUA0NCxeoNp%2Bt6poFYczQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

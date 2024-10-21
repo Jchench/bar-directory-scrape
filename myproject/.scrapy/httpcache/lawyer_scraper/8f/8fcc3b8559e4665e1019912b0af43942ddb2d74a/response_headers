@@ -1,0 +1,27 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:21:03 GMT
+Location: https://signatureresolution.com/robots.txt
+Cf-Ray: 8d5ecd4b8c0661d9-ORD
+Cf-Cache-Status: MISS
+Retry-After: 0
+Cache-Control: max-age=14400
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Accept-Encoding
+Via: 1.1 varnish
+Cf-Apo-Via: origin,resnok
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Pantheon-Redirect: primary-domain-policy-doc
+X-Served-By: cache-ams21058-AMS
+X-Timer: S1729488063.367639,VS0,VE5
+Server-Timing: cfCacheStatus;desc="MISS"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FgQb2MwkZpy%2FNevQxxa7LG0CzDvxEIdrMuRuuNGPreYI%2F5R6fSoYICzK3UqeM57Aor%2FAYp9XOtNzMHCvg3gzkvHJP8Xs2TDRanjCRhgnDJ0kIpin4hE1470Z9quNkWDW0TqMynNwiNZ9uycFBA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: upgrade-insecure-requests
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

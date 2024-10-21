@@ -1,0 +1,26 @@
+Date: Mon, 21 Oct 2024 05:20:57 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://www.be-law.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.be-law.com/wp-json/wp/v2/pages/4426>; rel="alternate"; type="application/json"
+Link: <https://www.be-law.com/>; rel=shortlink
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 57
+X-Cache-Group: bot
+Access-Control-Allow-Origin: *
+Feature-Policy: accelerometer 'self'; autoplay 'self'; camera 'self'; encrypted-media 'self'; fullscreen 'self'; geolocation 'self'; gyroscope 'self'; magnetometer 'self'; microphone 'self'; midi 'self'; payment 'self'; usb 'self'
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self, fullscreen=self, geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ecd295ae12a72-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

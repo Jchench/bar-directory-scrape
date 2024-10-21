@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 05:12:35 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://kornreichpersonalinjurylaw.com/wp-json/>; rel="https://api.w.org/"
+Etag: W/"11231-1729484533;br"
+X-Litespeed-Cache: hit
+Vary: Accept-Encoding
+X-Turbo-Charged-By: LiteSpeed
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=FsIpwpyX5RO%2FZAj36S6dx1KVkKZavJDGAgIANadlOLqP4mXrN0FqDUQJ919%2FHEW8B4dX70XNuHJM%2F%2BESbV7dXY20GrobypAPaixeViyPGc0nW56DFVFcIU3geY2STS7ZTRBlSaYuJ6qpk14sn3P8dIs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec0e3bc982a72-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17143&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2882&recv_bytes=896&delivery_rate=214296&cwnd=219&unsent_bytes=0&cid=2add0f190f5fd5bc&ts=90&x=0"

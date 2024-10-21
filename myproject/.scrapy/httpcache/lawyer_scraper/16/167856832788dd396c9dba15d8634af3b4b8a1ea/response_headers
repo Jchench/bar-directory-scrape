@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:32:35 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 123
+X-Cache-Group: bot
+Access-Control-Allow-Origin: www.mto.com
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self, fullscreen=self, geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ede30ea3b22df-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

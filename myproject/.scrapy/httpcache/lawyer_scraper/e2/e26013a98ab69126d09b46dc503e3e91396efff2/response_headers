@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:30:33 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.2.24
+X-Powered-By: PleskLin
+X-Frame-Options: SAMEORIGIN
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+Permissions-Policy: interest-cohort=()
+Set-Cookie: exp_tracker=%7B%220%22%3A%22index%22%2C%22token%22%3A%223b628d9952727f756cde71050ab1b59b02a2e00f54e098fceb43948c121a2f64e8517d3bdb424a40d83a33ff7e17147b%22%7D; path=/; secure; SameSite=Lax
+Set-Cookie: exp_csrf_token=deleted; expires=Thu, 01 Jan 1970 00:00:01 GMT; Max-Age=0; path=/; secure; SameSite=Lax
+Set-Cookie: exp_csrf_token=d28f7e4513d9b42fcacf8108890b868f3e3e303f; expires=Mon, 21 Oct 2024 08:30:33 GMT; Max-Age=7200; path=/; secure; SameSite=Lax
+Last-Modified: Mon, 21 Oct 2024 06:30:33 GMT
+Strict-Transport-Security: max-age=15768000; includeSubDomains
+Content-Encoding: gzip

@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:41:31 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: kVBjF2kbVYi5ONulKYqgDqQKalbnyOVS+pt5aE3ZFZNrrMWdQookzJcrt9Rrg81/dV5JD2wEqYNKloqYr3aXlvsIQPwV+zz2oblHTh7BJFViXkW2gyArPXRDnPDEz6nIWeF9vMzLdBlPKu85qgCifw==$CjxOIp42JlTeXbCSVteqTQ==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=HfN7qVV1A9dZ2OH70EK90.fcuH6qvruT3kferpcT.tk-1729492891-1.0.1.1-bJaYYfpp2sx0rRkv9KaKMlKhFFSpOMG4l8Suc1gYJ4wI9clgLR1SYQOMr_VS5rquuZ1jP_QmofiZ7AJjl7HUaw; path=/; expires=Mon, 21-Oct-24 07:11:31 GMT; domain=.www.lawforhoas.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f432b0d561135-ORD
+Content-Encoding: gzip

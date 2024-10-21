@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:41:30 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Download-Options: noopen
+X-Permitted-Cross-Domain-Policies: none
+Referrer-Policy: strict-origin-when-cross-origin
+Cache-Control: max-age=3600, public
+Etag: W/"22fdd09aa47a263bfde1574c089ec611"
+X-Request-Id: e8fcfb684e72cbd3c610058f57ff1946
+X-Runtime: 0.003423
+Strict-Transport-Security: max-age=31536000
+Content-Encoding: gzip

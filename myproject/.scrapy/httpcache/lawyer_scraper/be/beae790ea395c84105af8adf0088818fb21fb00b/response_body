@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: /professionals/tara-cook/get-pdf
+Disallow: /admin/*
+Sitemap: https://www.proskauer.com/sitemap.xml

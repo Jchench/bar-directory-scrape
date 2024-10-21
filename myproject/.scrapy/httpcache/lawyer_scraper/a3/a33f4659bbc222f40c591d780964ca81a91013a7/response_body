@@ -1,0 +1,364 @@
+
+<!doctype html>
+<html lang="en" xmlns="http://www.w3.org/1999/xhtml"
+      xmlns:og="http://ogp.me/ns#"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+
+<base href="https://lebowitzlaw.com/">
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Glens Falls Lawyer for Business Corporations & Real Estate | Neil H. Lebowitz - Law Office of Neil H. Lebowitz</title>
+
+<meta name="description" content="Glens Falls lawyer Neil H. Lebowitz provides legal services to clients in connection with the organization of business entities and not-for-profit corporations, in business, real estate, and intellectual property transactions, and in related litigation and government agency proceedings.">
+<meta name="keywords" content="Corporate Law; Partnership Law; Limited Liability Company Law; Not-for- Profit Corporation Law; Business Law; Commercial Law; Real Estate Law; Intellectual Property Law; Copyright Law; Trademark Law; Unfair Competition Law; Trade Secret Law; Confidentiality Agreements; Non- Disclosure Agreements; Glens Falls Attorney Lawyer">
+<link rel="shortcut icon" href="https://lebowitzlaw.com/assets/design/icon.png" type="image/x-icon"/>
+<link rel="apple-touch-icon" href="https://lebowitzlaw.com/assets/design/icon.png" type="image/x-icon"/>
+<link rel="android-touch-icon" href="https://lebowitzlaw.com/assets/design/icon.png" type="image/x-icon"/>
+
+    <!--Open Graph Meta Tags-->
+
+    <meta property="og:title" content="Law Office of Neil H. Lebowitz" />
+    <meta property="og:description" content="Glens Falls lawyer Neil H. Lebowitz provides legal services to clients in connection with the organization of business entities and not-for-profit corporations, in business, real estate, and intellectual property transactions, and in related litigation and government agency proceedings." />
+    <meta property="og:image" content="https://lebowitzlaw.com/assets/banners/home3.jpg" />
+    <meta property="og:type" content="company" />	
+
+    <meta property="og:url" content="https://lebowitzlaw.com//" />
+    <meta property="og:site_name" content="Law Office of Neil H. Lebowitz" />
+    <meta property="og:latitude" content="43.3085912" />
+    <meta property="og:longitude" content="-73.6504862" />
+    <meta property="og:street-address" content="9 Broad Street" />
+    <meta property="og:locality" content="Glens Falls" />
+    <meta property="og:region" content="NY " />
+    <meta property="og:postal-code" content="12801" />
+    <meta property="og:country-name" content="United States" />
+    <meta property="og:phone_number" content="<a href='tel:1-518-792-1638'>518-792-1638</a>" />
+
+<link rel="stylesheet" href="includes/styles.css" type="text/css">
+<link rel="stylesheet" href="scripts/magnific-popup.css"> 
+	<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="engine1/style.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+	<!-- End WOWSlider.com HEAD section -->
+    <link rel="stylesheet" type="text/css" href="scripts/flexdropdown.css" />
+    <script type="text/javascript" src="scripts/flexdropdown.js">
+    /***********************************************
+    * Flex Level Drop Down Menu- (c) Dynamic Drive DHTML code library (www.dynamicdrive.com)
+    * This notice MUST stay intact for legal use
+    * Visit Dynamic Drive at http://www.dynamicdrive.com/ for this script and 100s more
+    ***********************************************/
+    </script>
+    <link rel="stylesheet" href="includes/socicon.css" />
+    <link rel="stylesheet" href="scripts/mnav.css" />
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+    <script type="text/javascript" src="scripts/mnav.js"></script>
+	<script type="text/javascript" src="scripts/jquery.magnific-popup.js"></script> 
+    <script type="text/javascript" src="scripts/scrolltopcontrol.js"></script>
+    <script>		
+	$(document).ready(function(){
+	  $('.slider1').bxSlider({
+		  randomStart: true,
+		  auto: true,
+		  autoHover: true,
+		pause: 15000,
+		  adaptiveHeight: true
+	  });
+	});
+	</script>
+  	<link rel="stylesheet" href="scripts/jquery.bxslider.css" type="text/css" />
+  	<script src="scripts/jquery.bxslider.js"></script>
+    <script>
+    function clearText(thefield){
+    if (thefield.defaultValue==thefield.value)
+    thefield.value = ""
+    }
+    </script>
+    <script src="https://www.google.com/recaptcha/api.js" async defer></script>
+</head>
+<body>
+
+<div class="gridContainer clearfix nav">
+    <div id="navigation"><a href="https://lebowitzlaw.com/" data-flexmenu="flexmenu0" class="active">Home</a><a href="/attorney-profile/neil-h-lebowitz/" data-flexmenu="flexmenu1">Profile</a><ul id="flexmenu1" class="flexdropdownmenu"><li><a href="attorney-profile/neil-h-lebowitz" data-flexmenu="flexmenu24">Neil H. Lebowitz</a></li><li><a href="attorney-profile/testimonials" data-flexmenu="flexmenu2">Testimonials</a></li></ul><a href="/practice-areas/business-law/" data-flexmenu="flexmenu3">Practice  Areas</a><ul id="flexmenu3" class="flexdropdownmenu"><li><a href="practice-areas/business-law" data-flexmenu="flexmenu4">Business Organizations & Not-for-Profit Corporations</a></li><li><a href="practice-areas/business-transactions" data-flexmenu="flexmenu5">Business Transactions</a></li><li><a href="practice-areas/real-estate-law" data-flexmenu="flexmenu6">Real Estate Law</a></li><li><a href="practice-areas/tax-assessment" data-flexmenu="flexmenu7">Real Estate Tax Assessments</a></li><li><a href="practice-areas/copyright-law" data-flexmenu="flexmenu8">Copyright Law</a></li><li><a href="practice-areas/trademark-law" data-flexmenu="flexmenu9">Trademark Law & Unfair Competition</a></li><li><a href="practice-areas/litigation" data-flexmenu="flexmenu10">Civil Litigation & Administrative Law</a></li></ul><a href="engagement" data-flexmenu="flexmenu14">Engagement</a><ul id="flexmenu14" class="flexdropdownmenu"><li><a href="engagement">Engagement Policy</a></li><li><a href="engagement/client-rights" data-flexmenu="flexmenu16">Statement of Clients Rights</a></li><li><a href="engagement/client-responsibilities" data-flexmenu="flexmenu17">Statement of Client's Responsibilities</a></li><li><a href="engagement/disclaimer" data-flexmenu="flexmenu20">Website Disclaimer</a></li></ul><a href="contact" data-flexmenu="flexmenu18">Contact</a><ul id="flexmenu18" class="flexdropdownmenu"><li><a href="contact">Contact the Law Office of Neil H. Lebowitz</a></li><li><a href="engagement/disclaimer/" data-flexmenu="flexmenu21">Website Disclaimer</a></li><li><a href="contact/privacy" data-flexmenu="flexmenu22">Privacy Policy</a></li></ul>
+<a href="contact" target="_blank" class="button">Request Appointment</a>
+<br class="clearfloat"></div>
+    <div id="navigationmobile"><div id="nav-demo">
+	<h2>Navigation</h2>
+    <ul>
+	  <li><a href="https://lebowitzlaw.com/">Home</a></li>
+	  <li><a href="/attorney-profile/neil-h-lebowitz/">Profile</a>
+		<ul>
+		
+		<li><a href="attorney-profile/neil-h-lebowitz">Neil H. Lebowitz</a></li>
+		<li><a href="attorney-profile/testimonials">Testimonials</a></li>
+		</ul></li>
+	  <li><a href="/practice-areas/business-law/">Practice  Areas</a>
+		<ul>
+		
+		<li><a href="practice-areas/business-law">Business Organizations & Not-for-Profit Corporations</a></li>
+		<li><a href="practice-areas/business-transactions">Business Transactions</a></li>
+		<li><a href="practice-areas/real-estate-law">Real Estate Law</a></li>
+		<li><a href="practice-areas/tax-assessment">Real Estate Tax Assessments</a></li>
+		<li><a href="practice-areas/copyright-law">Copyright Law</a></li>
+		<li><a href="practice-areas/trademark-law">Trademark Law & Unfair Competition</a></li>
+		<li><a href="practice-areas/litigation">Civil Litigation & Administrative Law</a></li>
+		</ul></li>
+	  <li><a href="engagement">Engagement</a>
+		<ul>
+		<li><a href="engagement">Engagement Policy</a></li>
+		<li><a href="engagement/client-rights">Statement of Clients Rights</a></li>
+		<li><a href="engagement/client-responsibilities">Statement of Client's Responsibilities</a></li>
+		<li><a href="engagement/disclaimer">Website Disclaimer</a></li>
+		</ul></li>
+	  <li><a href="contact">Contact</a>
+		<ul>
+		<li><a href="contact">Contact the Law Office of Neil H. Lebowitz</a></li>
+		<li><a href="engagement/disclaimer/">Website Disclaimer</a></li>
+		<li><a href="contact/privacy">Privacy Policy</a></li>
+		</ul></li>
+    </ul>
+</div>
+<script type="text/javascript">$(function() {$('#nav-demo').Mnav({mobileButtonPos: 'right'});});</script></div>
+</div>
+ <div class="gridContainer clearfix header layer" data-depth="-0.75" data-type="parallax">
+  <div id="header">
+    <a href="https://lebowitzlaw.com/"><img class="logo" src="assets/design/logo.png" alt="Law Office of Neil H. Lebowitz"/></a>
+	  <h3>Focused, analytical, strategic representation.<!--<sup><span style="font-size: 8px;">SM</span></sup>--></h3>
+	<table class="address">
+	  <tr>
+		<td><img src="assets/design/phone.png" alt="Phone" /></td>
+		<td><a href='tel:1-518-792-1638'>518-792-1638</a></td>
+	  </tr>
+	  <tr>
+		  <td><img src="assets/design/location.png" alt="Address"/></td>
+		  <td><a href="contact">9 Broad Street<span class="mobile-hide">, <span style="white-space: nowrap;">2<sup><small>nd</small></sup> Floor</span></span> <br>Glens Falls, NY  <span class="mobile-hide">12801</span></a></td>
+	  </tr>
+	</table>
+    <br class="clearfloat">
+  </div>
+</div>
+<div class="gridContainer">
+  <div class='banner layer' data-depth='-0.40' data-type='parallax'>
+    
+<div id="wowslider-container1">
+<div class="ws_images"><ul>
+
+            <li><img src="assets/banners/home4.jpg" alt="Cityscape view of downtown Glens Falls, Warren County, New York in early evening. Photographer: Craig Murphy. Copyright owner-licensor: Craig Murphy. Copyright licensee: Neil H. Lebowitz." /></li>
+
+            <li><img src="assets/banners/home2.jpg" alt="New York State lawyer Neil H. Lebowitz posing in conference room with Glens Falls, New York cityscape view in background. Photographer: Craig Murphy. Copyright owner-licensor: Craig Murphy. Copyright licensee: Neil H. Lebowitz." /></li>
+
+            <li><img src="assets/banners/home.jpg" alt="Warren County, New York attorney Neil H. Lebowitz conducting legal research in law library. Photographer: Vincent D. Woolley. Copyright owner-licensor: Vincent D. Woolley. Copyright licensee: Neil H. Lebowitz." /></li>
+
+            <li><img src="assets/banners/home3.jpg" alt="Glens Falls, New York lawyer Neil H. Lebowitz posing in law office with Glens Falls cityscape view in background. Photographer: Craig Murphy. Copyright owner-licensor: Craig Murphy. Copyright licensee: Neil H. Lebowitz." /></li>
+	 
+</ul></div>
+	</div>
+<script type="text/javascript" src="engine1/wowslider.js"></script>
+	<script type="text/javascript" src="engine1/script.js"></script>
+
+  </div>
+  <div class="quote layer" data-depth="0.5" data-type="parallax" id="slider">
+	  
+<div id="quote">
+<div class="slider1">
+
+<div class="slide">
+<h3>He is no lawyer who cannot take two sides.</h3><h4>- Charles Lamb</h4>
+</div>
+	
+<div class="slide">
+<h3>Go for the Jugular Vein.</h3><h4>- John W. Davis</h4>
+</div>
+	
+<div class="slide">
+<h3>Litigation should be a last resort, not a knee-jerk reflex.</h3><h4>- Irving S. Shapiro</h4>
+</div>
+	
+<div class="slide">
+<h3>Litigation is the pursuit of practical ends, not a game of chess.</h3><h4>- Felix Frankfurter</h4>
+</div>
+	
+<div class="slide">
+<h3>The power of the lawyer is the uncertainty of the law.</h3><h4>- Jeremy Bentham</h4>
+</div>
+	
+<div class="slide">
+<h3>The life of the law has not been logic, it has been experience.</h3><h4>- Oliver Wendell Holmes, Jr.</h4>
+</div>
+	
+<div class="slide">
+<h3>[A] lawyer without books would be like a workman without tools.</h3><h4>- Thomas Jefferson</h4>
+</div>
+	
+<div class="slide">
+<h3>The leading rule for the lawyer, as for the man of every other calling, is diligence. Leave nothing for to-morrow which can be done to-day.</h3><h4>- Abraham Lincoln</h4>
+</div>
+	
+<div class="slide">
+<h3>A lawyer's time and advice are his stock in trade.</h3><h4>- Abraham Lincoln</h4>
+</div>
+	</div></div>
+
+  </div>
+</div>
+<div class="gridContainer clearfix maincontent" style="background: #fff;">
+  <div id="maincontent">
+	
+	
+<h1>Welcome to the website for the Law Office of Neil H. Lebowitz.</h1>
+<p>Neil Lebowitz helps clients solve their legal problems. Experienced and knowledgeable, he provides legal advice, counseling, and representation in connection with the formation of <a href="practice-areas/business-law">business entities and not for-profit corporations</a>, the negotiation and closing of <a href="practice-areas/real-estate-law">real estate transactions</a>, obtaining permits and approvals from government agencies, the registration, licensing and sale of copyrights and trademarks, and the resolution of disputes arising out of such matters in courts and before government agencies.</p>
+<p>Legal Services are provided to clients throughout upstate New York, primarily in Warren, Washington, and Saratoga Counties, and to clients from outside the area who need a lawyer in the Capital District region.</p>
+<hr />
+<h2 style="text-align: center;">Practice Areas</h2>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/business-law';"><a href="practice-areas/business-law"><img src="assets/images/Business-Organizations.png" alt="Business Organizations &amp; Not-for-Profit Corporations" width="90" /></a>
+<div>Business Organizations &amp; Not-for-Profit Corporations</div>
+</div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/business-transactions';"><a href="practice-areas/business-transactions"><img src="assets/images/Business-Transactions.png" alt="Business Transactions" width="90" /></a>
+<div>Business Transactions</div>
+</div>
+<div class="clearfloat mobileshow"></div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/real-estate-law';"><a href="practice-areas/real-estate-law"><img src="assets/images/Real-Estate-Law.png" alt="Real Estate Law" width="90" /></a>
+<div>Real Estate Law</div>
+</div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/tax-assessment';"><a href="practice-areas/tax-assessment"><img src="assets/images/Real-Estate-Tax-Assessment.png" alt="Real Estate Tax Assessments" width="90" /></a>
+<div><a href="practice-areas/tax-assessment">Real Estate Tax Assessments</a></div>
+</div>
+<div class="clearfloat"></div>
+<div class="col1-8"></div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/copyright-law';"><a href="practice-areas/copyright-law"><img src="assets/images/Copyright-Law.png" alt="Copyright Law" width="90" /></a>
+<div><a href="practice-areas/copyright-law">Copyright Law</a></div>
+</div>
+<div class="clearfloat mobileshow"></div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/trademark-law';"><a href="practice-areas/trademark-law"><img src="assets/images/Trademark-Law.png" alt="Trademark Law &amp; Unfair Competition" width="90" /></a>
+<div><a href="practice-areas/trademark-law">Trademark Law &amp; Unfair Competition</a></div>
+</div>
+<div class="clearfloat mobileshow"></div>
+<div class="col1-4 practicearea" onclick="location.href='practice-areas/litigation';"><a href="practice-areas/litigation"><img src="assets/images/Civil-Litigation.png" alt="Civil Litigation &amp; Administrative Law" width="90" /></a>
+<div><a href="practice-areas/litigation">Civil Litigation &amp; Administrative Law</a></div>
+</div>
+  <br class="clearfloat">
+  </div>
+</div>
+
+<div class="gridContainer clearfix widgets">
+  <div id="widgets">
+	
+  <br class="clearfloat">
+  </div>
+</div>
+
+<div class="gridContainer clearfix footer">
+  <div id="footer">
+    <h3><a href="https://lebowitzlaw.com/">Law Office of Neil H. Lebowitz</a></h3>      
+
+<p>9 Broad Street, 2<sup><small>nd</small></sup> Floor, Glens Falls, NY 12801</p>
+<p><a href='tel:1-518-792-1638'>518-792-1638</a> | <a href="mailto:info@lebowitzlaw.com">info@lebowitzlaw.com</a></p>
+
+<p>This website contains attorney advertising.  Prior results do not guaranty a similar outcome.</p>
+<p><a href="engagement/disclaimer/">Website Disclaimer</a> |   <a href="contact/privacy/">Privacy Policy</a></p>
+<p>&copy; 2018 - 2024 All Rights Reserved</p>
+<p><small><a href="http://noleeo.com" target="_blank">Web Site Design & Hosting by Nolee-O Web Design</a></small></p>
+
+
+
+        <!-- AddThis Button BEGIN -->
+		<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-4dc40f425d357724" async="async"></script>
+        <!-- AddThis Button END -->
+
+
+  <br class="clearfloat">
+  </div>
+</div>
+<script type="text/javascript">
+
+"use strict";"object"!=typeof window.CP&&(window.CP={}),window.CP.PenTimer={programNoLongerBeingMonitored:!1,timeOfFirstCallToShouldStopLoop:0,_loopExits:{},_loopTimers:{},START_MONITORING_AFTER:2e3,STOP_ALL_MONITORING_TIMEOUT:5e3,MAX_TIME_IN_LOOP_WO_EXIT:2200,exitedLoop:function(o){this._loopExits[o]=!0},shouldStopLoop:function(o){if(this.programKilledSoStopMonitoring)return!0;if(this.programNoLongerBeingMonitored)return!1;if(this._loopExits[o])return!1;var t=this._getTime();if(0===this.timeOfFirstCallToShouldStopLoop)return this.timeOfFirstCallToShouldStopLoop=t,!1;var i=t-this.timeOfFirstCallToShouldStopLoop;if(i<this.START_MONITORING_AFTER)return!1;if(i>this.STOP_ALL_MONITORING_TIMEOUT)return this.programNoLongerBeingMonitored=!0,!1;try{this._checkOnInfiniteLoop(o,t)}catch(n){return this._sendErrorMessageToEditor(),this.programKilledSoStopMonitoring=!0,!0}return!1},_sendErrorMessageToEditor:function(){try{if(this._shouldPostMessage()){var o={action:"infinite-loop",line:this._findAroundLineNumber()};parent.postMessage(JSON.stringify(o),"*")}else this._throwAnErrorToStopPen()}catch(t){this._throwAnErrorToStopPen()}},_shouldPostMessage:function(){return document.location.href.match(/boomerang/)},_throwAnErrorToStopPen:function(){throw"We found an infinite loop in your Pen. We've stopped the Pen from running. Please correct it or contact support@codepen.io."},_findAroundLineNumber:function(){var o=new Error,t=0;if(o.stack){var i=o.stack.match(/boomerang\S+:(\d+):\d+/);i&&(t=i[1])}return t},_checkOnInfiniteLoop:function(o,t){if(!this._loopTimers[o])return this._loopTimers[o]=t,!1;var i=t-this._loopTimers[o];if(i>this.MAX_TIME_IN_LOOP_WO_EXIT)throw"Infinite Loop found on loop: "+o},_getTime:function(){return+new Date}},window.CP.shouldStopExecution=function(o){var t=window.CP.PenTimer.shouldStopLoop(o);return t===!0&&console.warn("An infinite loop (or loop taking too long) was detected, so we stopped its execution. Sorry!"),t},window.CP.exitedLoop=function(o){window.CP.PenTimer.exitedLoop(o)};
+
+  (function () {
+window.addEventListener('scroll', function (event) {
+	var depth, i, layer, layers, len, movement, topDistance, translate3d;
+	topDistance = this.pageYOffset;
+	layers = document.querySelectorAll('[data-type=\'parallax\']');
+	for (i = 0, len = layers.length; i < len; i++) {
+		if (window.CP.shouldStopExecution(1)) {
+			break;
+		}
+		layer = layers[i];
+		depth = layer.getAttribute('data-depth');
+		movement = -(topDistance * depth);
+		translate3d = 'translate3d(0, ' + movement + 'px, 0)';
+		layer.style['-webkit-transform'] = translate3d;
+		layer.style['-moz-transform'] = translate3d;
+		layer.style['-ms-transform'] = translate3d;
+		layer.style['-o-transform'] = translate3d;
+		layer.style.transform = translate3d;
+	}
+	window.CP.exitedLoop(1);
+});
+}.call(this));
+
+
+
+  $(document).ready(function() {
+	$('.popup-gallery').magnificPopup({
+	  delegate: 'a',
+	  type: 'image',
+	  tLoading: 'Loading image #%curr%...',
+	  mainClass: 'mfp-img-mobile',
+	  gallery: {
+		enabled: true,
+		navigateByImgClick: true,
+		preload: [0,1] // Will preload 0 - before current, and 1 after the current image
+	  },
+	  image: {
+		tError: '<a href="%url%">The image #%curr%</a> could not be loaded.',
+		titleSrc: function(item) {
+		  return item.el.attr('title') + '<small>Law Office of Neil H. Lebowitz</small>';
+		}
+	  }
+	});
+  });
+</script>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-127199693-1"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-127199693-1');
+</script>
+
+	<script>
+
+	
+		//*** Single form disabling
+		//if (typeof form[0] === "undefined")
+		if (typeof document.forms['contactForm'] != 'undefined') {
+			//alert(navigator.userAgent.toLowerCase().indexOf('firefox'));
+			if(navigator.userAgent.toLowerCase().indexOf('firefox') == -1){
+				document.querySelectorAll('#contactForm input, #contactForm select, #contactForm button, #contactForm textarea').forEach(elem => elem.disabled = true);
+				document.querySelectorAll('#contactForm input, #contactForm select, #contactForm button, #contactForm textarea').forEach(elem => elem.style='pointer-events: none;');
+			}
+			document.getElementById("contactForm").setAttribute('onclick','jCap2Redir();');
+		}
+		if (typeof document.forms['contactForm2'] != 'undefined') {
+			if(navigator.userAgent.toLowerCase().indexOf('firefox') == -1){
+				document.querySelectorAll('#contactForm2 input, #contactForm2 select, #contactForm2 button, #contactForm2 textarea').forEach(elem => elem.disabled = true);
+				document.querySelectorAll('#contactForm2 input, #contactForm2 select, #contactForm2 button, #contactForm2 textarea').forEach(elem => elem.style='pointer-events: none;');
+			}
+			document.getElementById("contactForm2").setAttribute('onclick','jCap2Redir();');
+		}
+	
+
+	function jCap2Redir() {
+		window.location.href = 'https://www.lebowitzlaw.com/jCap2/jCap2.asp';
+		//$.magnificPopup.open({
+		//    items: {
+		//	src: 'https://www.lebowitzlaw.com/jCap2/jCap2.asp',
+		//	type: 'iframe'
+		//    }
+		//});
+	}
+	</script>
+
+</body>
+</html>

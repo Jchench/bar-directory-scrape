@@ -1,0 +1,15 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:42:45 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://www.geoffwillislaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.geoffwillislaw.com/wp-json/wp/v2/pages/10>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.geoffwillislaw.com/>; rel=shortlink
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Content-Encoding: gzip

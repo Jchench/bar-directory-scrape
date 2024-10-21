@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:26:30 GMT
+Content-Type: text/plain; charset=UTF-8
+Cache-Control: public, max-age=14400, must-revalidate
+Cache-Status: "Netlify Edge"; hit
+Etag: W/"1c0828d7c6c229ab982aa2ab20ebc525-ssl"
+Referrer-Policy: same-origin
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Nf-Request-Id: 01J9GS9AG5YRPBY8CB0W5DQV76
+X-Xss-Protection: 1; mode=block
+Cf-Cache-Status: REVALIDATED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=o2dzwK8WTrDHuXL9Q88fXAyjInxFkMhkWRa7DRmQAz65i63bt524bCaY9FEWawVtVDICqJKBdGnCnSJR4VMSMCaTL5EUQCSDSk95xgikGefSe9zoxa2Ybvs2Nn7dWLAOwZSJJLblQTc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ed54a9c4c2c17-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16833&sent=5&recv=7&lost=0&retrans=0&sent_bytes=2842&recv_bytes=851&delivery_rate=209824&cwnd=220&unsent_bytes=0&cid=caa6c1c90af52eea&ts=180&x=0"

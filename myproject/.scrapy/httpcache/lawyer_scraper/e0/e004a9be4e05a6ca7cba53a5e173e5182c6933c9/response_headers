@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:24:50 GMT
+Content-Type: text/html; charset=UTF-8
+X-Xss-Protection: 0
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Content-Security-Policy: upgrade-insecure-requests;
+Link: <https://www.ehrlichfirm.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.ehrlichfirm.com/wp-json/wp/v2/pages/4>; rel="alternate"; type="application/json"
+Link: <https://www.ehrlichfirm.com/>; rel=shortlink
+Cache-Control: public, max-age=600
+Expires: Mon, 21 Oct 2024 06:34:50 GMT
+Vary: Accept-Encoding,User-Agent,User-Agent
+Strict-Transport-Security: max-age=300; includeSubDomains; preload
+Alt-Svc: h3=":443"; ma=86400
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=W%2FwHFQZ9ZMlFUdoNQlzJardV6jIEgc%2Fbo7MWrNaoT92raWVFENiu%2BWoCfONXm4dyPG5G0MAGLlpVka%2BwzkzVOJh0vKxkxFzZmoefosz%2FzvNXxdyhXP2N1ccI7YsC%2FP2%2BbrvJVXUa"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2ab74c0462fc-ORD
+Content-Encoding: gzip
+Server-Timing: cfL4;desc="?proto=TCP&rtt=14343&sent=8&recv=8&lost=0&retrans=0&sent_bytes=4841&recv_bytes=1091&delivery_rate=350584&cwnd=212&unsent_bytes=0&cid=7ba0799d67680461&ts=1734&x=0"

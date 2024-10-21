@@ -1,0 +1,25 @@
+Content-Length: 7399
+X-Content-Type-Options: nosniff
+X-Fw-Dynamic: TRUE
+X-Fw-Hash: kgj978mpu2
+Cache-Control: max-age=3600, must-revalidate
+X-Fw-Version: 5.0.0
+Content-Type: text/html; charset=UTF-8
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+X-Fw-Server: Flywheel/5.1.0
+Hummingbird-Cache: Served
+X-Xss-Protection: 1
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:36:17 GMT
+X-Served-By: cache-chi-kigq8000138-CHI, cache-chi-kigq8000067-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729488977.355173,VS0,VE86
+Vary: Accept-Encoding
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

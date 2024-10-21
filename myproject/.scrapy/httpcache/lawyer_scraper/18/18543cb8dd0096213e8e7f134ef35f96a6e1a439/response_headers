@@ -1,0 +1,13 @@
+Content-Length: 4388
+Accept-Ranges: bytes
+Age: 23516
+Cache-Control: public,max-age=0,must-revalidate
+Cache-Status: "Netlify Edge"; hit
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Date: Mon, 21 Oct 2024 05:32:17 GMT
+Etag: "99dba251a1a4f1a38257be68bb70e864-ssl-df"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+X-Nf-Request-Id: 01JAPRZN1MZNDY8A9ZD12KT4EZ

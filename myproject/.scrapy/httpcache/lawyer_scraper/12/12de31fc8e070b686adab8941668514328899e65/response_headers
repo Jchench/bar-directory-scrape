@@ -1,0 +1,12 @@
+Link: <https://www.uritzlaw.com/site.css?v=>; rel=preload; as=style,<https://fonts.googleapis.com>; rel=preconnect; crossorigin,<https://fonts.gstatic.com>; rel=preconnect; crossorigin,<https://img1.wsimg.com>; rel=preconnect; crossorigin,<https://img2.wsimg.com>; rel=preconnect; crossorigin,<https://img4.wsimg.com>; rel=preconnect; crossorigin,<https://nebula.wsimg.com>; rel=preconnect; crossorigin
+Cache-Control: public, max-age=60, s-maxage=300
+Content-Security-Policy: frame-ancestors 'self'
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Server: DPS/2.0.0+sha-a9ecb8e
+X-Version: a9ecb8e
+X-Siteid: us-east-2
+Set-Cookie: dps_site_id=us-east-2; path=/; secure
+Etag: 9956b1c136ebb9296d44b0cd8766aac1
+Content-Encoding: gzip
+Date: Mon, 21 Oct 2024 05:35:56 GMT

@@ -1,0 +1,11 @@
+Date: Mon, 21 Oct 2024 06:25:23 GMT
+Server: Apache
+Cache-Control: max-age=3600, must-revalidate
+Cache-Control: max-age=0
+Link: <https://www.fiorelaw.com/wp-json/>; rel="https://api.w.org/", <https://www.fiorelaw.com/wp-json/wp/v2/pages/8>; rel="alternate"; type="application/json", <https://www.fiorelaw.com/>; rel=shortlink
+Server-Timing: wp-before-template;dur=219.54
+Hummingbird-Cache: Served
+Expires: Mon, 21 Oct 2024 06:25:23 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8

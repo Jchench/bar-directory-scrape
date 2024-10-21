@@ -1,0 +1,19 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 05:36:28 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: WP Engine
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self' *.ca.gov
+X-Content-Type-Options: nosniff
+Expires: Mon, 21 Oct 2024 06:36:28 GMT
+X-Redirect-By: WordPress
+Location: https://calepa.ca.gov/robots.txt
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Set-Cookie: visid_incap_1238842=fKuUu7aARcWuH5eRNoP/7FvoFWcAAAAAQUIPAAAAAAD1Wvt4fby45Z5LSkhRxJ6d; expires=Mon, 20 Oct 2025 07:56:16 GMT; HttpOnly; path=/; Domain=.calepa.ca.gov
+Set-Cookie: incap_ses_628_1238842=Duz+BBJdtXhzn85G1hq3CFzoFWcAAAAAamVn3kTTAxJp5SjKN8XuxA==; path=/; Domain=.calepa.ca.gov
+X-Cdn: Imperva
+X-Iinfo: 1-3855514-3855515 NNNN CT(43 85 0) RT(1729488987918 32) q(0 0 1 0) r(2 4) U24

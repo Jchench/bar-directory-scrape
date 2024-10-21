@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 05:12:22 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Last-Modified: Thu, 27 Jun 2024 08:34:21 GMT
+Etag: W/"667d240d-a2"
+Cache-Control: public, max-age=300
+Access-Control-Allow-Origin: downeybrand.com
+Permissions-Policy: accelerometer=self, autoplay=self, camera=self, encrypted-media=self, fullscreen=self, geolocation=self, gyroscope=self, magnetometer=self, microphone=self, midi=self, payment=self, usb=self
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; preload
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Cache-Status: REVALIDATED
+Server: cloudflare
+Cf-Ray: 8d5ec0947d2e2231-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

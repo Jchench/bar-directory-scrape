@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:37:28 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://www.acbanet.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.acbanet.org/wp-json/wp/v2/pages/7>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.acbanet.org/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 25
+X-Cache-Group: bot
+Content-Encoding: gzip

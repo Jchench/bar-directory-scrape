@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:42:45 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: m8t71dRRWvtTVVx8YMg0BIVLdaMHjVseBQpPlQheOYlu9w4m/e2eyfwws9FIiwFQiRjsmxG488ifw8wEe9FcUQwH0d2nD4p/6gQIzI1ZfixyilNtkqxQXooWlB++BmWMgEVQ59ll2BOrYdHykdfNuQ==$e2X3gmtlmf08qNO8f6vpqA==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=4IguXVrQ7RKIY75Bo_QD1OM.dfN7XaF3BsEQOcw1kBo-1729492965-1.0.1.1-ZXcS7IyrdVNbHwR7wqL.rJUEdJZbiGLtt8Nt3WbRscKp9uRqzcu6A.4JLF00XrMK1.uOC7N3qTXSh_MViRZZ4g; path=/; expires=Mon, 21-Oct-24 07:12:45 GMT; domain=.www.yocca.us; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f44f8aebe89eb-ORD
+Content-Encoding: gzip

@@ -1,0 +1,13 @@
+Content-Type: text/html; charset=utf-8
+Date: Mon, 21 Oct 2024 05:23:56 GMT
+Server: Microsoft-IIS/10.0
+Cache-Control: public,max-age=3600
+Content-Encoding: gzip
+Expires: Thu, 01 Jan 1970 00:00:00 GMT
+Set-Cookie: .AspNetCore.Identity.Application=CfDJ8Fwce_mgHM5Kq9an6reAiJEQy2LB1E7e2iU7gsRYymrXxxaHfE8bWTE_Qj3J0eW9IOuQczs326QaroP0uPDZT4evxQZbCadUmsHa5QB_yqO199Xs5HUSZF57eZhwTjyaUwGjeT_PyCYhDrL1mJ1TAA3UUGt52MO9fAeDvJKbsZllufxpk0IcrDGgwS5UjIuMq6tofSoGopGAAgl0lam5a_lACIrmNsqUrYYMHgUjNFMe2BlEBQjJFboUujBByZLIltpcQ1s_BM5-DmUXRoeDSAAq343uBTYOM6gjBpuYaU36DgUOy_kwJAgfGUY6_co2OkZZYDTm3GDT1x3ZQlNb7rkIXtua4Azhsk6PaqoNe6IWTldR5IosLXI4dtbWgU_mUBRE-2AQmNz0n9LNP7t53tCZrDRmLHv4z3ldlSs-tKxGgyWsRdAk1l9c2TzyH3A54xBkJ7Xwxz4K7e4LSnz73KXzUOoPqn_ez3EXh2PYDyE-hbZo8f4tytiaEJp1ZV3Q-93kcn5s9SZLeMnE-SaHDwTcI3YofC4cAzGQr4OfCNDXKJKBsblcYzMMHR0g1y2zepkFqmkQG3_20JKkKPPymeEV_LyAGsVdqM_LTHUBa1B_; expires=Wed, 20 Nov 2024 05:23:56 GMT; path=/; secure; samesite=none; httponly
+Set-Cookie: ARRAffinity=5d8acc971fba392375ebf40735eeef591691895de00e40aa36d2ad37cd1ecea5;Path=/;HttpOnly;Secure;Domain=www.rainbowsandals.com
+Set-Cookie: ARRAffinitySameSite=5d8acc971fba392375ebf40735eeef591691895de00e40aa36d2ad37cd1ecea5;Path=/;HttpOnly;SameSite=None;Secure;Domain=www.rainbowsandals.com
+Vary: host,Accept-Encoding
+Request-Context: appId=cid-v1:ed958d61-d0c9-4846-988e-42c83da5f0f5
+X-Xss-Protection: 1
+X-Powered-By: ASP.NET

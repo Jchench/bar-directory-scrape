@@ -1,0 +1,15 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:41:48 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding,Cookie
+X-Redirect-By: WordPress
+Location: https://exposingexpertbias.com/
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 08:41:48 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Newfold-Cache-Level: 2
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

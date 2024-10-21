@@ -1,0 +1,16 @@
+Content-Length: 308
+Cache-Control: max-age=604800
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Tue, 08 Feb 2022 18:32:08 GMT
+Accept-Ranges: bytes
+Etag: "2092232e1a1dd81:0"
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src https: 'unsafe-inline' object-src data: 'unsafe-eval'
+Date: Mon, 21 Oct 2024 06:20:06 GMT

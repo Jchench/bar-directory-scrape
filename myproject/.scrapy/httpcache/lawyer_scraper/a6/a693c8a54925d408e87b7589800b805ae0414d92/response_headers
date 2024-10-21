@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729488737.30613714918634419546
+Html-Cacheable: true
+Etag: W/"5d0209e5a7d1d0aaa5b95573f6bca44b"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729488738|_o4g0g5MxkE0; Path=/; Domain=www.graiwerandkaplan.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:32:18 GMT
+X-Served-By: cache-chi-klot8100039-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,AHc3TXLcXOul+t9LIbGg9ciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLrjAMl1QewRKjWjp2YfgqGAO5u3dMxPR3QRc6kpLZVuH,2d58ifebGbosy5xc+FRalvft+Dyk4HK+tSDOX+Z9dQ16ms7hanSLfrZO0IDyklb4q3Gry/W4bYKbmHjCwLUKSA==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR4eK2m/nEmVr3sv3pWyTWIupml7L94L8ItGedY4pfKiEWSlZHPvL98g+D3FfdPseFQ==,okwl/pyIKhjcuMwHpAMcT5qqEhU3Mu0t+DFRRM0NVc0=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326p9kGJ5Hb4vzENLGO7ilc8OuGDa7e/ChJYh4UmNIjox2A==,c9RNFz3ibkjw1/fsr1xeC024KOJCXXKWRz+QqWhKouw=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxHv4lmepFgAA4+rDGA4s+Q40EM1T5UAwKRDYKDywvTqnJ5jbtDoWVb/VxblP//vB2Y=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,14 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:28:19 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+X-Powered-By: PHP/8.3.12
+X-Powered-By: PleskLin
+Link: <https://www.pculaw.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.pculaw.org/wp-json/wp/v2/pages/466>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.pculaw.org/>; rel=shortlink
+X-Cache-Status: MISS
+Cache-Control: public, max-age=31536000
+Pragma: public
+X-Cache-Enabled: MISS
+Content-Encoding: gzip

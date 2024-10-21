@@ -1,0 +1,15 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:16:13 GMT
+Server: Apache
+X-Powered-By: PHP/5.6.40
+X-Redirect-By: WordPress
+Set-Cookie: apbct_timestamp=1729487774; path=/; httponly
+Set-Cookie: apbct_site_landing_ts=1729487774; path=/; httponly
+Set-Cookie: apbct_page_hits=1; path=/; httponly
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%2522ba8fc28b8edb2d896336f87dfc57ddf2%2522%257D; path=/; httponly
+Set-Cookie: ct_sfw_pass_key=4b38b45acbab55ca43521377b35275ae; expires=Wed, 20-Nov-2024 05:16:14 GMT; Max-Age=2592000; path=/
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Location: https://themannlawfirm.com/
+Content-Type: text/html; charset=UTF-8

@@ -1,0 +1,12 @@
+Content-Type: text/html; charset=UTF-8
+Server: nginx/1.18.0 (Ubuntu)
+Date: Mon, 21 Oct 2024 05:11:10 GMT
+Expires: Mon, 21 Oct 2024 06:11:10 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://sfdistrictattorney.org/
+X-Cache: Miss from cloudfront
+Via: 1.1 3844356caf3306613c6a0113738a4fd0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD56-P11
+X-Amz-Cf-Id: gOKsj5o9W9oJvz6aui7UUohXuiViUKMSYeUCqk-ZEBwl-CLJawq6_A==
+Vary: Origin

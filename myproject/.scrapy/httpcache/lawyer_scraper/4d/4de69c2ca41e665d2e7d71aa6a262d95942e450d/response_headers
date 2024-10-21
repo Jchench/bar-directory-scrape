@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:40:10 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://lklegal.com/robots.txt
+X-Redirect-By: WordPress
+X-Cache-Status: MISS
+X-Rocket-Nginx-Serving-Static: MISS
+Strict-Transport-Security: max-age=31536000;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0tA9krj0RAu%2FP772EFrqUkzaPT9ShnZSNVLj5bze5VqtyD0M%2B88%2FwuZa1Q3NCwZdWEAThqGMCmPtMtWOe1mbVKQPY5iG3xpvt17sWBMF1x%2BcU47px8MzBHMeDxVQz8sRSSM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f4133789c1cf4-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18517&sent=5&recv=5&lost=0&retrans=0&sent_bytes=2822&recv_bytes=845&delivery_rate=156093&cwnd=233&unsent_bytes=0&cid=68e065c390094340&ts=491&x=0"

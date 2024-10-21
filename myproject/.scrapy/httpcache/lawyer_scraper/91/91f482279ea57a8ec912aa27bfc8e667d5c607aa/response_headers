@@ -1,0 +1,19 @@
+Server: openresty/1.25.3.1
+Date: Mon, 21 Oct 2024 06:36:42 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+Set-Cookie: exp_last_visit=1414132601; expires=Tue, 21-Oct-2025 06:36:41 GMT; Max-Age=31536000; path=/; httponly
+Set-Cookie: exp_last_activity=1729492601; expires=Tue, 21-Oct-2025 06:36:41 GMT; Max-Age=31536000; path=/; httponly
+Set-Cookie: exp_tracker=%7B%220%22%3A%22index%22%2C%22token%22%3A%22ac6b372c3bd6d79a0f12700d7a2b7017%22%7D; path=/; httponly
+Set-Cookie: exp_csrf_token=deleted; expires=Thu, 01-Jan-1970 00:00:01 GMT; Max-Age=0; path=/; httponly
+Set-Cookie: exp_csrf_token=a1e297b88d34ce28a27261b21b570e0f40459427; expires=Mon, 21-Oct-2024 08:36:41 GMT; Max-Age=7200; path=/; httponly
+Last-Modified: Mon, 21 Oct 2024 06:36:42 GMT
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: "1; mode=block"
+Referrer-Policy: no-referrer-when-downgrade
+X-Webcom-Cache-Status: BYPASS
+Content-Encoding: gzip

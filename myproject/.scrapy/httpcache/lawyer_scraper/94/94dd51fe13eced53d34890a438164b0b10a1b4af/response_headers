@@ -1,0 +1,16 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:32:51 GMT
+Server: Apache
+X-Powered-By: PHP/7.4.33
+X-Redirect-By: WordPress
+Set-Cookie: apbct_timestamp=1729492371; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_landing_ts=1729492371; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_page_hits=1; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25223d74942f311bf106ca56b9084f5d92d2%2522%257D; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_urls=%7B%22www.robertbuschlaw.com%2F%22%3A%5B1729492371%5D%7D; expires=Thu, 24-Oct-2024 06:32:51 GMT; Max-Age=259200; path=/; domain=robertbuschlaw.com; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_referer=UNKNOWN; expires=Thu, 24-Oct-2024 06:32:51 GMT; Max-Age=259200; path=/; domain=robertbuschlaw.com; secure; HttpOnly; SameSite=Lax
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Location: https://robertbuschlaw.com/
+Content-Type: text/html; charset=UTF-8

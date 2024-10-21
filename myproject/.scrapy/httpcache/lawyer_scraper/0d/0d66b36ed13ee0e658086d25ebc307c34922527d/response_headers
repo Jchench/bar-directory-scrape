@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 06:25:52 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Cache-Enabled: True
+Link: <https://www.brotherssmithlaw.com/wp-json/>; rel="https://api.w.org/"
+X-Httpd: 1
+Host-Header: 8441280b0c35cbc1147f8ba998a563a7
+X-Proxy-Cache: HIT
+X-Cdn-C: static
+Cache-Control: max-age=14400
+Cf-Cache-Status: STALE
+Age: 103231
+Last-Modified: Sun, 20 Oct 2024 01:45:21 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3fU5T4pVtH7ESMhuygNiQIinMbiqyHfDVHlNF8z%2Bptk5Yi4W7PFtemgucuGc4zflUtJWF0NxOCdI413CiNIt%2BAR%2BgXpCgZoABrO98oGgWz0MrUZydxFHi6UUyRY9EJjhUJt8Kb8riAwBGA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2c4068576211-ORD
+Content-Encoding: gzip

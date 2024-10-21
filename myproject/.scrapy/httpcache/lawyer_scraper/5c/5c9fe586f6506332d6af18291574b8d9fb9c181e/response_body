@@ -1,0 +1,6 @@
+# Robots.txt file from https://www.thecoveragelawfirm.com
+
+Sitemap: https://www.thecoveragelawfirm.com/sitemap.xml
+
+User-agent: *
+Disallow:

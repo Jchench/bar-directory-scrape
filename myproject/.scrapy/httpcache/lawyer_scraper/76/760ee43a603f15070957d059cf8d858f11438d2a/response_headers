@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729487774.9501419881103781508
+Html-Cacheable: true
+Etag: W/"9a4e9133c59e1633e08c3cc1f796d5b4"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729487775|rpI61454NOMN; Path=/; Domain=www.zarkajanke.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:16:15 GMT
+X-Served-By: cache-chi-klot8100111-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLucaPCRnkaJkWJZne822xega0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRalvft+Dyk4HK+tSDOX+Z9dQ16ms7hanSLfrZO0IDyklb4q3Gry/W4bYKbmHjCwLUKSA==,2UNV7KOq4oGjA5+PKsX47LfM9MmI0GeI1fZYvIpqbMsfbJaKSXYQ/lskq2jK6SGP,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==,zojieFDOLVDhlu3IJ5SrEZNVhBQ0pu5GyrkqhwGKas0=,LoUK8/saGAmOxZWtpubo2jnczfUW7fXB9AsnyRTMdraW8SCl8cQEpa1jPn2URt+XkZGW2B6VRRIzsArmMj4S0A==,92x85xT3K2kKmbeSe66tNG0JyRznTpHUdI6gXZBEpr0=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxGIqdVKAXOf6wjmePV+26Ya4qWP8T21ltzCAvKA48OdnNP5hU0fbLy54xe4ioaESZ0=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

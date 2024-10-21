@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:12:35 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: MtpvCh7gese5EOX8WT5uZI2zhtoLWHZo4GrWCchkz9+V24kDGqXVN1i32KLOT5coLDXhpCqNxLNj4EZvbB9Z5kJUruQ3UzAteYDZQtLs8tO3AkZWRLmBHM5AO3De5sFnMeranQnFyK6KN0fOYF7K8Q==$Gn6MIs9R8t1eviVw2k6LsQ==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=FC0H635lajTKV_4SMdQbFjhD6Q2DiFL_en.2Sy_lPII-1729487555-1.0.1.1-Lm0u25Yb3iaElYH1X95g6j1aJq7cF9cdHj.MGBXs6ap_G1Nz939UF31TIdQfengiMpRe_f21UEYLQoVKsLd0WA; path=/; expires=Mon, 21-Oct-24 05:42:35 GMT; domain=.www.hamricklaw.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ec0e3988ee12f-ORD
+Content-Encoding: gzip

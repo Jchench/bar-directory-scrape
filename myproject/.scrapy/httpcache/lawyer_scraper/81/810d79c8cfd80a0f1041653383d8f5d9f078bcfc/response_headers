@@ -1,0 +1,13 @@
+Content-Length: 9643
+Date: Mon, 21 Oct 2024 06:23:47 GMT
+Server: nginx/1.23.4
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.nelson-kennard.com/index.php/wp-json/>; rel="https://api.w.org/", <https://www.nelson-kennard.com/index.php/wp-json/wp/v2/pages/33>; rel="alternate"; title="JSON"; type="application/json", <https://www.nelson-kennard.com/>; rel=shortlink
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 06:45:18 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: HIT

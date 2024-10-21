@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: visid_incap_2159181=yqoE54+BS5i7SmoSvADm+xT2FWcAAAAAQUIPAAAAAAAlqIua3O9O4GtGRe9DF71M; nlbi_2159181=nO8Ce2RowA576qM5OlT8PwAAAABG8K54vjyl38CksOvMQD7K; incap_ses_1427_2159181=O1rCENpV+zk+Nrh5GrnNExT2FWcAAAAAzRo/bLhSR6RhHiCuwgZjtQ==; visid_incap_2161623=sxhchJUfSc+BIN9ACyWO+Tv0FWcAAAAAQUIPAAAAAAB9n2apFIfMaOoqfiXVgUye; nlbi_2161623=hUiMNaHmO3iJwRj7s+CBPAAAAAC/r5noV4XJ+ZICZnTAEtsY; incap_ses_1226_2161623=CPSvXqdHmka1/IpuraADETv0FWcAAAAARTzqn7ufYPRlUMW7hRJJ9A==

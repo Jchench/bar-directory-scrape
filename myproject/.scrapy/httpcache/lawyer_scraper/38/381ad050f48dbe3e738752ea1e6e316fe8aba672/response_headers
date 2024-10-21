@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 06:36:51 GMT
+Content-Type: text/html
+Cf-Ray: 8d5f3c54be9f8203-IAD
+Cf-Cache-Status: HIT
+Age: 99659
+Content-Encoding: gzip
+Last-Modified: Sun, 20 Oct 2024 02:55:52 GMT
+Content-Security-Policy: frame-ancestors 'self'
+Surrogate-Control: max-age=2147483647
+Surrogate-Key: www.smithgoffman.com 6543bb1f65706ef95add5759 pageId:6543bb1f65706ef95add5750
+X-Frame-Options: SAMEORIGIN
+X-Lambda-Id: f7cf0920-707a-4ecc-9268-eb6014a8d38a
+Set-Cookie: __cf_bm=nl3KMgdDKLPu8EJNi4F2t39ymfARBBfVmUkBcaZFMQI-1729492611-1.0.1.1-oRVBb04ZKT0fkOfcGk5M26UJ2XI8yU1QqLf3ZJgNwSUYbnq_12deaywB7bq3FhUYUZjLWhPYAQkKLpHKfROoRw; path=/; expires=Mon, 21-Oct-24 07:06:51 GMT; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=kGBHjtMuCBNfemVIfG5J6DFfEftuHk59aulLYq2gNvU-1729492611583-0.0.1.1-604800000; path=/; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Alt-Svc: h3=":443"; ma=86400
+X-Cluster-Name: us-east-1-prod-hosting-red

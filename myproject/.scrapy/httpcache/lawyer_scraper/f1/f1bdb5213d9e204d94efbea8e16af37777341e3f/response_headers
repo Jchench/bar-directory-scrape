@@ -1,0 +1,23 @@
+Content-Length: 99
+Date: Mon, 21 Oct 2024 05:14:08 GMT
+Content-Type: text/plain
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Vary: X-Forwarded-Proto,Accept-Encoding
+Last-Modified: Mon, 01 Mar 2021 19:02:52 GMT
+Etag: "52-5bc7e43ccc53f-gzip"
+Cache-Control: public, max-age=14400, must-revalidate
+Expires: Mon, 21 Oct 2024 06:14:08 GMT
+Content-Encoding: gzip
+Referrer-Policy: no-referrer-when-downgrade
+Pragma: public
+X-Powered-By: W3 Total Cache/2.6.1
+Cf-Cache-Status: EXPIRED
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MIWtHdN4GtFQlCVMyZMqlAzzkqE4fJiUFIuwXtziyPdoJ0SE7QymU7B4Feg0n%2FMjEggeMdt1MuAUAPwBs1QgiFtorj9YhIGK60XV%2FfoxCLHdDk4%2F2jPMS7isGHfE7StYHHuqFlUdlnZ20Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec32d2f07870a-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17392&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2849&recv_bytes=853&delivery_rate=210572&cwnd=231&unsent_bytes=0&cid=e991f8dcf5ba7b49&ts=82&x=0"

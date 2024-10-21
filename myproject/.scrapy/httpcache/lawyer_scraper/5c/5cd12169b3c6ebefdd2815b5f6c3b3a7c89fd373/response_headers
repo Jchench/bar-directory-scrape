@@ -1,0 +1,15 @@
+Content-Length: 188
+Cache-Control: max-age=31536000
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Wed, 13 Mar 2024 00:12:45 GMT
+Accept-Ranges: bytes
+Etag: "30fc872cdb74da1:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src * blob: data: 'unsafe-inline'; style-src-elem * blob: data: 'unsafe-inline', font-src * data:
+Date: Mon, 21 Oct 2024 04:05:40 GMT
+Set-Cookie: TS015c74e5=0184cfe7a6b9dfc7ab8ecdfc5d6c5419f6f2aac7df74097aabf269ef80eb6ea7096b81fca345ec1a3e2bb7f17e8547b487561d8c7a; Path=/; Domain=.www.opperwall.com; Secure; HttpOnly;

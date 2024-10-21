@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 05:31:43 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://hawaiicondolaw.com/
+Cf-Cache-Status: DYNAMIC
+Vary: Accept-Encoding
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Edge-O2O: yes
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: MISS
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=5zpAaAWMNTM4Ls1nm3M3ycnB7v2t7A8AfuXWBz8tCNaaOmadi8KqSGdIeFszwpFj7N%2Fwl%2FIZHMtRsKRLbIzZTxSj5jEiuaqAlznlOmV8Lw9Xs%2B%2F3%2BPDEZLLBGoXp0OKGB6%2BxSdSSQ6E%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5edcea7e7e639c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=26370&sent=9&recv=9&lost=0&retrans=2&sent_bytes=6060&recv_bytes=1097&delivery_rate=37666&cwnd=244&unsent_bytes=0&cid=ed1a786218bcb86e&ts=2590&x=0"

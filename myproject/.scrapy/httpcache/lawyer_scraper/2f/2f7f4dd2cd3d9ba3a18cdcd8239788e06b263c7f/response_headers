@@ -1,0 +1,24 @@
+Content-Length: 98
+X-Fw-Hash: kb2brl3rhu
+Last-Modified: Tue, 07 Jul 2020 18:05:32 GMT
+X-Fw-Server: Flywheel/5.1.0
+X-Content-Type-Options: nosniff
+X-Fw-Version: 5.0.0
+Etag: W/"5f04b96c-5b"
+X-Xss-Protection: 1
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+Content-Type: text/plain
+Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:35:17 GMT
+X-Served-By: cache-chi-klot8100163-CHI, cache-chi-kigq8000131-CHI
+X-Cache: MISS, HIT
+X-Cache-Hits: 0, 0
+X-Timer: S1729488918.647570,VS0,VE30
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

@@ -1,0 +1,13 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 06:20:19 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:20:19 GMT
+Location: https://sgcohenlaw.com/robots.txt
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=HavhWTdzpGBcvwK2i2IbRQzeq%2B4%2FEUzyjqLVzUc2N7XqNwEKls8jyjnK3a%2Be5mIJwVqkIEZoYwUSBAH87HksuVkXW%2B5eyW0YBbnl5%2FlwD64V1MRvqMkHC3OraV3BVsBbsw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f241deed6297a-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17915&sent=1&recv=3&lost=0&retrans=0&sent_bytes=0&recv_bytes=225&delivery_rate=0&cwnd=239&unsent_bytes=0&cid=0000000000000000&ts=0&x=0"

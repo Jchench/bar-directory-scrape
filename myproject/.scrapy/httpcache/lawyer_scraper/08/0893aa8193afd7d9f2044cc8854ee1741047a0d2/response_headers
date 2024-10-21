@@ -1,0 +1,18 @@
+Content-Length: 0
+Server: openresty
+Date: Mon, 21 Oct 2024 05:26:08 GMT
+Content-Type: text/html; charset=UTF-8
+Age: 74365
+Location: https://rattolaw.com/
+Vary: User-Agent
+X-Cache: cached
+X-Cache-Hit: HIT
+X-Cacheable: YES:Forced
+X-Cacheproxy-Retries: 0/2
+X-Content-Type-Options: nosniff
+X-Fawn-Proc-Count: 1,0,24
+X-Php-Version: 8.0
+X-Redirect-By: WordPress
+X-Xss-Protection: 1; mode=block
+X-Backend: varnish_ssl
+Strict-Transport-Security: max-age=31536000; includeSubDomains

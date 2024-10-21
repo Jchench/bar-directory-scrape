@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 05:17:56 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://www.woodllp.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.woodllp.com/wp-json/wp/v2/pages/8>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.woodllp.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 8
+X-Cache-Group: bot
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ec8be1aa9124e-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,10 @@
+Content-Length: 0
+X-Powered-By: PHP/7.4.33
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://sf-lawyer.com/robots.txt
+Cache-Control: public, max-age=2592000
+Expires: Sun, 17 Nov 2024 09:51:23 GMT
+X-Litespeed-Cache: hit
+Date: Mon, 21 Oct 2024 05:14:52 GMT
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

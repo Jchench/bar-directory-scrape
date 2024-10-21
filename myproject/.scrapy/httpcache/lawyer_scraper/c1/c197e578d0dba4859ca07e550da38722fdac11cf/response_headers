@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 05:14:50 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://realestateattorneychico.net/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 06:14:50 GMT
+X-Cache: MISS
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip
+Last-Modified: Mon, 21 Oct 2024 05:14:50 GMT
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=XuIEMtAgB8VHMhy1Lq4W2ZGFXIEaUAT%2BqdCbEsZN0D2LJxjpkwpHqmCQs6JFkFfzntP9LsAM6fiDTakh9jKkIVKtwn2qpifdRlUAccowCvIO3Ns97CLxhVjb5DKuSW%2BfPzlScWIZYgGlIUBbe7A%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec431cf6e61ac-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=27869&sent=5&recv=6&lost=0&retrans=1&sent_bytes=4296&recv_bytes=857&delivery_rate=33273&cwnd=244&unsent_bytes=0&cid=987b00774afcac18&ts=265&x=0"

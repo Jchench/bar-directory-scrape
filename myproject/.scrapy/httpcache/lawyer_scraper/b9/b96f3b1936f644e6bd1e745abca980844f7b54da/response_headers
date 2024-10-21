@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:31:12 GMT
+Content-Type: text/plain; charset=UTF-8
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=2592000 ; includeSubDomains
+Referrer-Policy: origin-when-cross-origin
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+Link: <https://www.nheh.com/wp-json/>; rel="https://api.w.org/"
+X-Cache: MISS
+Cache-Control: max-age=14400
+Cf-Cache-Status: HIT
+Age: 4692
+Last-Modified: Mon, 21 Oct 2024 05:13:00 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fh0%2FpEKC1nmS%2FLLRybhPosXpsezc6vhdRpL6eNfKw110zKbaXqjDpb8dt5zMy3iPtAkx207qMIy4oduvm21tIli8nYnlzNrygmV6igtV6MDImMWPyr%2FAraCRgPwN9Eg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f34119d6d1403-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17682&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2816&recv_bytes=842&delivery_rate=191953&cwnd=240&unsent_bytes=0&cid=f6c63a4bb7d547f5&ts=37&x=0"

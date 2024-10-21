@@ -1,0 +1,11 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 05:30:03 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 06:30:03 GMT
+Location: https://hahnlawyers.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=OlfpGWWcLYzOP9tNlrEkh59ZHloAoGoIAB9L43qEqvkBtqLbqcf%2BPSsRJ36bQc93ND3%2BbxvM5g%2F9fvfc7AcxqWMni52fFlpQk2UdvFIeXsCp%2FtXO%2FTVHOP9n9yXCCw7wHzg3v78%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5eda78de22e174-ORD

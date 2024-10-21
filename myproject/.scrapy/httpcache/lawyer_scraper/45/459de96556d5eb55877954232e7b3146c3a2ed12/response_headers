@@ -1,0 +1,12 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:13:35 GMT
+Location: https://www.barneslawsb.com/
+X-Wix-Cache-Control: public, max-age=86400
+Strict-Transport-Security: max-age=86400
+X-Wix-Request-Id: 1729487615.2511169213752216341
+Age: 0
+Server-Timing: cache;desc=miss, varnish;desc=miss, dc;desc=uw2-pub-1
+X-Seen-By: ui2Pjuc3zC1HEw7V2qXeyh9slopJdhD+WySraMrpIY8=,m0j2EEknGIVUW/liY8BLLpLkXwApeozbAp9OYhJGBzcG/hKs8AeY1T4OIbgnD+yx,2d58ifebGbosy5xc+FRaltQ0F+nVdpAQ+3DIC2Kmzc7kDBn0VFnx5PABSvigb2OxVE6CQk86gqDUJgxhz6gARw==,2UNV7KOq4oGjA5+PKsX47AB4LYDt6X51rN1ziNGIk85jPZTuGyYqVhtmEIgJUb4w,R8nVwPJv9QJL1m78OROO+CxvJfokc8HGcOpHcqbgK2E=,GsWP0CMYHkt4ic+JYzA/x7/yzUa2CeQmw4aOcRXlwDUSO5XmrrCSQNDehIjmfew3+jMmuUmMLVY1k1bW5dFrDg==
+Cache-Control: no-cache
+Server: Pepyaka
+X-Content-Type-Options: nosniff

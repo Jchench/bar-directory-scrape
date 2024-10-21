@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:34:44 GMT
+Content-Type: text/plain; charset=utf-8
+Referrer-Policy: strict-origin-when-cross-origin
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Powered-By: 
+Strict-Transport-Security: max-age=31536000; preload
+X-Robots-Tag: noindex, follow
+Link: <https://bartkolaw.com/wp-json/>; rel="https://api.w.org/"
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: block-all-mixed-content; frame-ancestors 'self'
+Permissions-Policy: geolocation=(), microphone=(), camera=()
+Cf-Cache-Status: HIT
+Age: 2833
+Last-Modified: Mon, 21 Oct 2024 04:47:31 GMT
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ee1578c1461b1-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

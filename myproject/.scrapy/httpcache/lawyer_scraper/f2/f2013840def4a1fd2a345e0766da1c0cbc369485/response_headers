@@ -1,0 +1,19 @@
+Cache-Control: public, max-age=600
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.phillipsandcohen.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.phillipsandcohen.com/wp-json/wp/v2/pages/64>; rel="alternate"; type="application/json"
+Link: <https://www.phillipsandcohen.com/>; rel=shortlink
+Server: nginx
+Strict-Transport-Security: max-age=300
+X-Pantheon-Styx-Hostname: styx-fe2-b-5955f47cc7-vvrfc
+X-Styx-Req-Id: f1d8ad58-8f6c-11ef-97b0-2ea2d7878a92
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Mon, 21 Oct 2024 05:25:55 GMT
+X-Served-By: cache-chi-klot8100143-CHI, cache-chi-kigq8000152-CHI, cache-chi-kigq8000152-CHI
+X-Cache: MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0
+X-Timer: S1729488355.839888,VS0,VE497
+Vary: Accept-Encoding, Cookie

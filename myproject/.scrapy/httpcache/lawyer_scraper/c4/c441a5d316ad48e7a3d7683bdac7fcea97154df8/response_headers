@@ -1,0 +1,10 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 05:22:33 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://mcpherson-llp.com/robots.txt
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Mon, 21 Oct 2024 05:22:32 GMT
+Age: 0
+X-Cache: MISS

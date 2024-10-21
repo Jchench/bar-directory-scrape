@@ -1,0 +1,15 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:17:59 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Robots-Tag: noindex, follow
+Link: <https://maryalexanderlaw.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 10
+X-Cache-Group: bot
+Content-Encoding: gzip

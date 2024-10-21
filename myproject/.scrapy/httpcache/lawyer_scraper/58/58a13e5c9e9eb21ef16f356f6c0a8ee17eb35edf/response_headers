@@ -1,0 +1,18 @@
+Date: Mon, 21 Oct 2024 06:41:29 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/8.2.24
+X-Powered-By: PleskLin
+Cf-Edge-Cache: cache,platform=wordpress
+X-Robots-Tag: noindex, follow
+Link: <https://rlfllp.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=14400
+Cf-Cache-Status: MISS
+Last-Modified: Mon, 21 Oct 2024 06:41:29 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=afroNgd6w8tFO64ssfxR7GF24BNOr9zPct8RMdxA2x%2BkNpN7nxMvVFQ53jDM4B9gqIlWfqD7K%2Bd8rf0Gr%2BDhLeYTIkCLbrSGtAtz2KJtNEfkwGUsG4N3be3997tP"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f4316afc286fe-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18539&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2823&recv_bytes=840&delivery_rate=123549&cwnd=238&unsent_bytes=0&cid=936f97a52eedfc24&ts=1147&x=0"

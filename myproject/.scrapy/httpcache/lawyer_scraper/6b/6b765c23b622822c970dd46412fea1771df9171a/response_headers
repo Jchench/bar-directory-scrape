@@ -1,0 +1,25 @@
+Cache-Control: public, max-age=2678400
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self';
+Content-Type: text/html; charset=UTF-8
+Expires: Thu, 21 Nov 2024 00:35:03 GMT
+Link: <https://www.mwe.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.mwe.com/wp-json/wp/v2/pages/8>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.mwe.com/>; rel=shortlink
+Server: nginx
+Strict-Transport-Security: max-age=2629746; includeSubDomains
+Strict-Transport-Security: max-age=300
+X-Content-Type-Options: nosniff
+X-Pantheon-Styx-Hostname: styx-fe1-a-5bbb8f6849-t4bpl
+X-Styx-Req-Id: 4ec99083-8f44-11ef-9b29-d268eddcbd71
+Date: Mon, 21 Oct 2024 05:32:00 GMT
+X-Served-By: cache-chi-klot8100086-CHI
+X-Cache: HIT
+X-Cache-Hits: 1
+X-Timer: S1729488721.730157,VS0,VE3
+Vary: Accept-Encoding, Cookie
+Age: 17815
+Accept-Ranges: bytes
+Via: 1.1 varnish
+X-Cdn: Imperva
+X-Iinfo: 14-225959799-225959805 SNNN RT(1729488718613 1299) q(0 0 0 -1) r(0 0) U24

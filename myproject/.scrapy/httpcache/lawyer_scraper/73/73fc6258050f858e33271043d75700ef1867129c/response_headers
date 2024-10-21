@@ -1,0 +1,16 @@
+Content-Length: 15118
+Server: nginx/1.18.0
+Date: Mon, 21 Oct 2024 06:24:47 GMT
+Content-Type: text/plain
+Set-Cookie: CookieStatus=COOKIE_OK; path=/; domain=.tripod.com; expires=Tue, 21-Oct-2025 06:24:47 GMT
+Set-Cookie: CookieStatus=COOKIE_OK; path=/; domain=(null); expires=Tue, 21-Oct-2025 06:24:47 GMT
+Vary: *
+X-Server-Ip: 127.0.0.1
+P3P: policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
+Last-Modified: Tue, 20 Mar 2012 23:14:12 GMT
+Etag: "1093152-3b0e-4f690f44"
+Accept-Ranges: bytes
+X-Cache: MISS from members.tripod.com
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: *

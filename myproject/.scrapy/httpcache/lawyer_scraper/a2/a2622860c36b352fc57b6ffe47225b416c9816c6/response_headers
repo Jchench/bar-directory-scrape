@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:13:18 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 06:13:18 GMT
+Cache-Control: max-age=14400
+X-Redirect-By: WordPress
+Vary: Accept-Encoding,User-Agent
+Location: https://using.com/robots.txt
+Cf-Cache-Status: EXPIRED
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Vin0Y7CbJNUImZbKzJw52xUUbOqxDPxziQQgI0QCC0H25szAL0XGKMcKUNjp7Db%2Fq8Ni%2FrLdqXppxJlJnC1Hw73DTRqELKrEf%2FKjD3WRlkTOIbpqBdcbBPkMWcjourXq"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec1eb9d90616c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18022&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2819&recv_bytes=843&delivery_rate=149772&cwnd=246&unsent_bytes=0&cid=1eccf8c3444e1104&ts=811&x=0"

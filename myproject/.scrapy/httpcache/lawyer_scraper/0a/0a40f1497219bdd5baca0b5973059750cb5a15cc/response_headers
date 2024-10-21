@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:31:13 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: s-maxage=10800, max-age=0
+Etag: W/"042b05ecb9cca3926b4e1a215dc7f8b1"
+Last-Modified: Wed, 16 Oct 2024 10:23:28 GMT
+Strict-Transport-Security: max-age=31536000
+Cache-Tag: P-20223062,SS-51604526434,PGS-ALL,SW-1
+Content-Security-Policy: upgrade-insecure-requests
+Edge-Cache-Tag: P-20223062,SS-51604526434,PGS-ALL,SW-1
+X-Hs-Cache-Control: s-maxage=10800, max-age=0
+X-Hs-Cf-Cache-Status: REVALIDATED
+X-Hs-Hub-Id: 20223062
+X-Hs-Prerendered: Wed, 16 Oct 2024 10:23:28 GMT
+Set-Cookie: __cf_bm=oAiByhOsTFCIQ9ezWdpE1tYu09N9KHGBXFmRIBybQjY-1729492273-1.0.1.1-kI8TrP82T_5mYJLG3b0bwp90N2N2H5FS1.q73ejd7nwivsFauDTySmizACOf6d4oN1N1zMhNjG5RuWBQqVbieQ; path=/; expires=Mon, 21-Oct-24 07:01:13 GMT; domain=.www.glennagre.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=699de1f5a6481d6dc87c0722ce0f97c4dfbeca22-1729492273; path=/; domain=.www.glennagre.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=R6ACYzXGS0SPdLF6izgrLcWBKqbxbjTaDo73p%2FwP34Bad0Y3jwFgWOzK3xShI85DV7b4ML7yTld%2BVF0yOO7azjQFODfQdxpRjQu58nXrEsj8sa6TnzzA3bmMyGdoWQ7d376d"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f34171fda10c7-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

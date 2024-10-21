@@ -1,0 +1,23 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:33:41 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Accept-Ch: Sec-CH-UA-Mobile
+Cloudflare-Cdn-Cache-Control: no-cache
+X-Nitro-Cache: HIT
+X-Nitro-Cache-From: drop-in
+X-Nitro-Rev: e211f41
+Link: <https://cdn-clbbm.nitrocdn.com>; rel=preconnect
+Link: <https://www.dankolaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.dankolaw.com/wp-json/wp/v2/pages/10>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.dankolaw.com/>; rel=shortlink
+X-Cache-Ctime: 1729454776
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 18
+X-Cache-Group: bot
+Content-Encoding: gzip

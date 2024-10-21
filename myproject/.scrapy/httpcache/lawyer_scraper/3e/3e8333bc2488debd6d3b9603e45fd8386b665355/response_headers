@@ -1,0 +1,27 @@
+Date: Mon, 21 Oct 2024 05:19:50 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cf-Edge-Cache: cache, platform=WordPress
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=2592000
+Referrer-Policy: origin-when-cross-origin
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Last-Modified: Tue, 24 Sep 2024 13:38:10 GMT
+Link: <https://healthlaw.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://healthlaw.org/wp-json/wp/v2/pages/4>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://healthlaw.org/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 43
+X-Cache-Group: bot
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ecb82bfba2318-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

@@ -1,0 +1,17 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:30:21 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Cf-Edge-Cache: cache,platform=wordpress
+X-Redirect-By: WordPress
+Vary: Accept-Encoding,User-Agent
+Location: https://hcesq.com/
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 08:30:21 GMT
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: *
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

@@ -1,0 +1,8 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 05:37:05 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.1.30
+X-Redirect-By: WordPress
+Location: https://hernandezworkcomp.com/robots.txt
+Cache-Control: private, must-revalidate

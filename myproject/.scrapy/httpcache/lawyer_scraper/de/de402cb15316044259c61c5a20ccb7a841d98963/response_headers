@@ -1,0 +1,31 @@
+Date: Mon, 21 Oct 2024 06:30:22 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Headers: Content-Type, Authorization
+Content-Security-Policy: upgrade-insecure-requests;
+Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
+Cross-Origin-Embedder-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Opener-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Resource-Policy: cross-origin
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=*, publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=*, usb=(), xr-spatial-tracking=(), gamepad=(), serial=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000
+X-Content-Security-Policy: default-src 'self'; img-src *; media-src * data:;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+Link: <https://www.adlercolvin.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Last-Modified: Mon, 21 Oct 2024 03:23:56 GMT
+Cf-Cache-Status: HIT
+Server: cloudflare
+Cf-Ray: 8d5f32d8fc422326-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

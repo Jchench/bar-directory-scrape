@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492114.08014218639401628861
+Html-Cacheable: true
+Etag: W/"ac0592161a9c16873eeba5fe6bce5948"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492115|ElTOijOeqe2m; Path=/; Domain=www.marifrank.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:28:35 GMT
+X-Served-By: cache-chi-klot8100077-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,vmPhUNXuQemvc7fjBI8NWewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLisKKfFxaoxVWh9lgIvbTC1kavE0ZtMXws1mfakihq4B,2d58ifebGbosy5xc+FRaliHM8Ay1fNe/zeVFqkD1u8G4y5Op3/QmBST/rqSNjOn0RsM/kwNYbCDi8N+1ydB/VA==,2UNV7KOq4oGjA5+PKsX47C3Dm4evq/BoMKcAXGKUm7xYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR7y7aoFwoyWhs1xWSnyDOT2erft53AdcSwlKVwuTfIX+dyHAscEBix0TGlaDSfACdg==,2m8lepT6TCqm7fnWMwrKXXnuXuBtDQE/fVkf8W2c7Ts=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326otqZKMC3FWGktS1nqbxDHcL0L4pM4UL/YR/O8sZfAW6Q==,hvPRs9vLVE5vQlwEzdMO69idPiiu7q51+NQVr5FVfa4=,bamBRVWSlN/v1ZTIwXGEoEB42BroiG4C0X2FgOQljo9Bqsz/RJUFn2RnrzZW9yWOkgclr8DVZdPp0SBWkDOzXQ==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

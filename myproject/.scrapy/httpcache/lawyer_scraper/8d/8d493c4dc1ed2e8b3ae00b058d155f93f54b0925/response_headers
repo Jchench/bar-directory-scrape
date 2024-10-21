@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:23:10 GMT
+Content-Type: text/plain; charset=utf-8
+Cache-Control: s-maxage=10800, max-age=0
+Etag: W/"f0e2293c5fff8088bc5dcfabb8d27655"
+Last-Modified: Wed, 16 Oct 2024 09:03:50 GMT
+Strict-Transport-Security: max-age=31536000
+Cache-Tag: P-24175495,SS-105317782803,PGS-ALL,SW-4
+Content-Security-Policy: upgrade-insecure-requests
+Edge-Cache-Tag: P-24175495,SS-105317782803,PGS-ALL,SW-4
+X-Hs-Cache-Control: s-maxage=10800, max-age=0
+X-Hs-Cf-Cache-Status: MISS
+X-Hs-Hub-Id: 24175495
+X-Hs-Prerendered: Wed, 16 Oct 2024 09:03:50 GMT
+Set-Cookie: __cf_bm=cB_7ldMtXPs0oSztsNfsMEcRU32dnwmopMq0YMNqdzI-1729491790-1.0.1.1-DXupWEBIJos9K_sEtdefw_y8SsWWspAVr6Y7SCTLPqYS1d0w0N1K3rkew5JFgX1kuFcjuH_3fnapPy9TzD3R5A; path=/; expires=Mon, 21-Oct-24 06:53:10 GMT; domain=.www.tamardysonlegalservices.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: __cfruid=0acfb9199033e04041e74bafa4db944e18b2305d-1729491790; path=/; domain=.www.tamardysonlegalservices.com; HttpOnly; Secure; SameSite=None
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=F0Yt2on1FSUF1w9HJZ77KgqR3ag09qwdjFUMVuHwYbCM%2F%2Bc2i0BBE3jraG%2FELJq%2BQARyKB8Rl1VsMpgpZF0qd47tpTiA9LlfTB6NUNij5LH3shB6IXMzSmPe3dOU7bbteMsAe%2B2e6JK293VJtYuukvM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f284b39a16387-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

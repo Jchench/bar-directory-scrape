@@ -1,0 +1,24 @@
+Content-Length: 158
+Content-Type: text/plain
+Last-Modified: Thu, 27 Jun 2024 17:20:59 GMT
+Etag: "9e-667d9f7b-e1eeee8b10786045;;;"
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:41:49 GMT
+Server: LiteSpeed
+Vary: User-Agent
+Access-Control-Allow-Methods: GET,POST
+Access-Control-Allow-Headers: Content-Type, Authorization
+Content-Security-Policy: upgrade-insecure-requests;
+Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
+Cross-Origin-Embedder-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Opener-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Resource-Policy: cross-origin
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=(), publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=(), usb=(), xr-spatial-tracking=(), gamepad=(), serial=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=63072000
+X-Content-Security-Policy: default-src 'self'; img-src *; media-src * data:;
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

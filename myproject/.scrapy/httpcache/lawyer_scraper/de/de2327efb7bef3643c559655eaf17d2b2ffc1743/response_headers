@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729487632.0321424405408282774
+Html-Cacheable: true
+Etag: W/"b55e3a956cc5b0e0942d71fae261dc5a"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729487633|vSNFIsLz5Thr; Path=/; Domain=www.jmjlegal.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:13:53 GMT
+X-Served-By: cache-chi-klot8100161-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,VtqAe8Wu9wvSsl49B/X4+ewfbs+7qUVAqsIx00yI78k=,m0j2EEknGIVUW/liY8BLLuKm1ZjblSPwIJojBzuX7KYa0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRaliHM8Ay1fNe/zeVFqkD1u8G4y5Op3/QmBST/rqSNjOn0RsM/kwNYbCDi8N+1ydB/VA==,2UNV7KOq4oGjA5+PKsX47C3Dm4evq/BoMKcAXGKUm7xYgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==,zojieFDOLVDhlu3IJ5SrEZNVhBQ0pu5GyrkqhwGKas0=,LoUK8/saGAmOxZWtpubo2jnczfUW7fXB9AsnyRTMdra4TW6QsdcbmdfVDDI2Plt42on49QCcTamRsC/imLym1w==,c9RNFz3ibkjw1/fsr1xeC024KOJCXXKWRz+QqWhKouw=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxGgv3Fx/yyR3NNqayZZbvrMQKWbc/elC0vyFLcTW5gQYTu6C52etnofO907JVdOLIs=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

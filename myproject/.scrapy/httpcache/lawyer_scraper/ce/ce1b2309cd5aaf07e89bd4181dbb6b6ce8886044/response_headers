@@ -1,0 +1,24 @@
+Cache-Control: private, max-age=0
+Cache-Control: no-cache
+X-Via-Nscopi: 1.0
+Content-Type: text/html; charset=utf-8
+Expires: Sun, 06 Oct 2024 05:25:39 GMT
+Last-Modified: Mon, 21 Oct 2024 05:25:39 GMT
+Server: Microsoft-IIS/10.0
+X-Sharepointhealthscore: 0
+X-Aspnet-Version: 4.0.30319
+Sprequestguid: 69fb5ba1-a888-5022-5908-89af94f6a22f
+Request-Id: 69fb5ba1-a888-5022-5908-89af94f6a22f
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self' teams.microsoft.com *.teams.microsoft.com *.skype.com *.teams.microsoft.us local.teams.office.com *.powerapps.com *.yammer.com *.officeapps.live.com *.office.com *.stream.azure-test.net *.microsoftstream.com *.dynamics.com *.microsoft.com onedrive.live.com *.onedrive.live.com;
+Sprequestduration: 57
+Spiislatency: 0
+X-Powered-By: ASP.NET
+Microsoftsharepointteamservices: 16.0.0.10412
+X-Content-Type-Options: nosniff
+X-Ms-Invokeapp: 1; RequireReadOnly
+Date: Mon, 21 Oct 2024 05:25:38 GMT
+Ntcoent-Length: 59450
+Set-Cookie: NSC_ESNS=0160a362-e5cb-1715-9678-005056842fba_4234421015_1361537436_00000000012907336123; Path=/; Expires=Mon, 21-Oct-2024 05:25:53 GMT
+Strict-Transport-Security: max-age=157680000; preload
+Content-Encoding: gzip

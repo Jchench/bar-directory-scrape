@@ -1,0 +1,8 @@
+# START YOAST BLOCK
+# ---------------------------
+User-agent: *
+Disallow:
+
+Sitemap: http://www.as7law.com/sitemap_index.xml
+# ---------------------------
+# END YOAST BLOCK

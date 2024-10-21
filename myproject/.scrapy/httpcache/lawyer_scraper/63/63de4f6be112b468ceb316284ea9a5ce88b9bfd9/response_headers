@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:32:33 GMT
+Content-Type: text/html; charset=UTF-8
+Expires: Mon, 21 Oct 2024 01:36:10 GMT
+X-Redirect-By: WordPress
+Location: https://pointerwise.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot

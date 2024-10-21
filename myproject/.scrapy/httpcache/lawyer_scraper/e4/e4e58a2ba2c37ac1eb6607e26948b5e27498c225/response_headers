@@ -1,0 +1,14 @@
+Content-Length: 92
+Date: Mon, 21 Oct 2024 06:21:13 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Content-Type: text/plain
+Last-Modified: Wed, 07 Apr 2021 20:53:09 GMT
+Accept-Ranges: bytes
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"
+X-Turbo-Charged-By: LiteSpeed

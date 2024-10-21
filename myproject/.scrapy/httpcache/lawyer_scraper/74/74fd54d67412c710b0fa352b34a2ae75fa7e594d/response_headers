@@ -1,0 +1,10 @@
+Date: Mon, 21 Oct 2024 06:32:50 GMT
+Server: Apache
+X-Redirect-By: WordPress
+Set-Cookie: apbct_timestamp=1729492371; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_page_hits=2; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25229736f83ecfe192a527120b69714f2c4b%2522%257D; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_urls=%7B%22www.mahavier.com%2Frobots.txt%22%3A%5B1729492368%5D%2C%22mahavier.com%2Frobots.txt%22%3A%5B1729492369%5D%2C%22www.mahavier.com%2F%22%3A%5B1729492371%5D%7D; expires=Thu, 24-Oct-2024 06:32:51 GMT; Max-Age=259200; path=/; domain=mahavier.com; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_referer=UNKNOWN; expires=Thu, 24-Oct-2024 06:32:51 GMT; Max-Age=259200; path=/; domain=mahavier.com; secure; HttpOnly; SameSite=Lax
+Location: https://mahavier.com/
+Content-Type: text/html; charset=UTF-8

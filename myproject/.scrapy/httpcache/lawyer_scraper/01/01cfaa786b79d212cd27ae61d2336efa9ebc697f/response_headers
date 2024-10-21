@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:27:04 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Cache-Control: no-cache, must-revalidate
+Expires: -1
+Pragma: no-cache
+Set-Cookie: ARRAffinity=4fb3192dd5005df4395924b1d97c9b681e9979439a9624923dc1beb28b17df6b;Path=/;HttpOnly;Secure;Domain=app-manatt-kentico-web-prod.azurewebsites.net
+Set-Cookie: ARRAffinitySameSite=4fb3192dd5005df4395924b1d97c9b681e9979439a9624923dc1beb28b17df6b;Path=/;HttpOnly;SameSite=None;Secure;Domain=app-manatt-kentico-web-prod.azurewebsites.net
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: upgrade-insecure-requests; block-all-mixed-content; default-src 'self'; connect-src 'self' *.fontawesome.com www.google-analytics.com stats.g.doubleclick.net analytics.google.com consentcdn.cookiebot.com *.wistia.com *.sharethis.com; font-src 'self' fast.fonts.net fonts.googleapis.com fonts.gstatic.com *.fontawesome.com data: *.wistia.com; object-src 'none'; img-src 'self' * data:; script-src 'self' 'unsafe-inline' 'unsafe-eval' player.vimeo.com consentcdn.cookiebot.com ajax.googleapis.com ajax.aspnetcdn.com consent.cookiebot.com www.recaptcha.net www.googletagmanager.com *.wistia.com code.jquery.com www.google-analytics.com cdnjs.cloudflare.com siteimproveanalytics.com communications.manatt.com pi.pardot.com optanon.blob.core.windows.net www.google.com fast.fonts.net www.gstatic.com *.wistia.net *.sharethis.com kit.fontawesome.com maxcdn.bootstrapcdn.com 'report-sample'; style-src 'self' 'unsafe-inline' code.jquery.com fonts.googleapis.com fast.fonts.net optanon.blob.core.windows.net fonts.gstatic.com *.fontawesome.com maxcdn.bootstrapcdn.com; media-src 'self'; frame-ancestors 'self' manattonhealth.manatt.com www.billboard.com thefac.org embedded-preview.pardot.force.com; base-uri 'self'; frame-src 'self' www.podbean.com player.vimeo.com consentcdn.cookiebot.com www.recaptcha.net *.wistia.net *.wistia.com www.google.com
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+Permissions-Policy: geolocation=(self), microphone=()
+Referrer-Policy: origin-when-cross-origin
+X-Azure-Ref: 20241021T052704Z-186f6d49965n5kzvdv07qhkvxg00000002yg00000000010t
+X-Fd-Int-Roxy-Purgeid: 0
+X-Cache: TCP_MISS
+Content-Encoding: gzip

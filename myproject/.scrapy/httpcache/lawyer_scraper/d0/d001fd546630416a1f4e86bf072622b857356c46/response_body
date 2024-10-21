@@ -1,0 +1,9 @@
+user-agent:  *
+Crawl-delay:  5
+
+Disallow: 
+Disallow: /cgi-bin/
+Disallow: /backup/
+Disallow: /staging/
+
+Sitemap: https://www.spillaneplc.com/sitemap_index.xml

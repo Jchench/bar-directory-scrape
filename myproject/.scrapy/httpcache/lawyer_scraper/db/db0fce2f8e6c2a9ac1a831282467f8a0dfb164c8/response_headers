@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 06:30:46 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://dandrelaw.com/
+Cf-Ray: 8d5f336c2ddd86e7-ORD
+Cf-Cache-Status: BYPASS
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:30:46 GMT
+Vary: Accept-Encoding
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+Permissions-Policy: accelerometer=(), ambient-light-sensor=(), battery=(), camera=(), cross-origin-isolated=(), display-capture=(), document-domain=(), encrypted-media=(), execution-while-not-rendered=(), execution-while-out-of-viewport=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), navigation-override=(), publickey-credentials-get=(), screen-wake-lock=(), usb=(), vertical-scroll=()
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Frame-Options: SAMEORIGIN
+X-Kinsta-Cache: EXPIRED
+X-Redirect-By: WordPress
+X-Xss-Protection: 1; mode=block
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KGmhWoLNHIaxbniSLpeGsPC4MIZWxtfXFptUusxU%2B2aImu2Oac0iPfmzWoYd4%2BJa4bJoxKdcllp7IxUalReXp3UKnuatguhiUTjB7DvGpGAS3sv2tiFYsMQnuC6fVAhft1H%2B"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

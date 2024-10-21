@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: X-Mapping-nihhbfol=56ABD07FECDBC4A2E5EF8F19B542B293; exp_csrf_token=167b54cf1a8b85d3714bc34ca797e5c49e98c57a

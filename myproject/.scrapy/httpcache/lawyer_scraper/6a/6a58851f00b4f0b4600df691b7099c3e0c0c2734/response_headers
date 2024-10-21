@@ -1,0 +1,18 @@
+Content-Length: 178
+Date: Mon, 21 Oct 2024 06:29:15 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/7.2.17
+Link: <https://www.babcockscott.com/wp-json/>; rel="https://api.w.org/"
+X-Frame-Options: SAMEORIGIN
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Cache-Control: max-age=14400, s-maxage=10
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:29:15 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=QcSYctJlJhJOXVUW4KeYOYZTtps5WQpzTFbkW2XxcM0AQuST53BOM906mjaGmFxXQjGXynmLHMlQhBKQaKNAm%2FRH5jKE8wnsMlMVVu1hycZeG9pfGZ%2BEW5g6qBnCR2W2PpoNSxKHSQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f312f7ae42237-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17041&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2841&recv_bytes=850&delivery_rate=202023&cwnd=244&unsent_bytes=0&cid=829007303d37ab8f&ts=360&x=0"

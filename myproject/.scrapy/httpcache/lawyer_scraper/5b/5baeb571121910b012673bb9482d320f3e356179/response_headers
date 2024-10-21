@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:23:52 GMT
+Content-Type: text/html; charset=UTF-8
+X-Ua-Compatible: IE=edge
+X-Frame-Options: deny
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Referrer-Policy: no-referrer-when-downgrade
+X-Robots-Tag: nofollow
+Expires: Mon, 21 Oct 2024 07:23:52 GMT
+Cache-Control: max-age=3600
+X-Redirect-By: WordPress
+Location: https://accelerant.ai/
+X-Proxy-Cache: MISS
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2FXWQpra4tBlE4P9t%2BGYq7Ie9sy50tMXMN1i8ylJpxJSpW3S%2F4G3kQ9B%2BAmitFRZNDlhglsoECDIIsRe6kuLcLVgTUKZi7UgzDDsOqP%2FDWekeO%2FBhbkgkCYJUfnh5e0CmZ5fdAg%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f294d28296177-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=28973&sent=9&recv=11&lost=0&retrans=2&sent_bytes=6408&recv_bytes=1130&delivery_rate=22338&cwnd=158&unsent_bytes=0&cid=4f60a102da27544c&ts=2887&x=0"

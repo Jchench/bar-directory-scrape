@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:37:47 GMT
+Content-Type: text/plain
+Cache-Control: max-age=31622400
+Etag: W/"6708185c-665"
+Expires: Sat, 11 Oct 2025 18:55:17 GMT
+Last-Modified: Thu, 10 Oct 2024 18:09:32 GMT
+X-Pantheon-Styx-Hostname: styx-fe1-a-b5944cf5b-d9z7k
+X-Styx-Req-Id: 30e6cea0-8739-11ef-845c-a296c6e6daa9
+X-Served-By: cache-chi-klot8100114-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1728630481.910889,VS0,VE4
+Vary: Accept-Encoding
+Age: 862187
+Via: 1.1 varnish
+Cf-Cache-Status: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fXxcmUIPG5bV0ns%2B56r0yhxV0pOndwnLB%2BvWPLI8KerJ3RyHs9VVLErOPYDOiOI6NRqXCOmJChKpa7WEX55ZNFdZZGiWmxHvbzHFj46zLgdK%2F%2FLKHYHSMgHNy88Kk38%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3db0dbe12d25-ORD
+Content-Encoding: gzip

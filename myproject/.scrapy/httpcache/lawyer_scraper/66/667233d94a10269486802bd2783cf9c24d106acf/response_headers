@@ -1,0 +1,12 @@
+Date: Mon, 21 Oct 2024 04:05:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://ramseylawgroup.com/robots.txt
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Server-Timing: cfCacheStatus;desc="EXPIRED"
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=YjKVEBDT8wetnwZgr7jjYgPEC7bYJrGg%2BKZcCF6DH%2B8sqo1OhwK5Sd%2Fzmlt84Qm1uYfaf3nFyUY7BOAvD0m1XEbxnwjWuHOzrxriSnXn9RXX9YoTV9TId%2FMQgzif4PkqwGvUREll8xc%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5e5ee29c251142-ORD

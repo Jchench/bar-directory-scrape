@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:29:20 GMT
+Content-Type: text/html; charset=UTF-8
+Link: <https://robertrandersonlaw.com/wp-json/>; rel="https://api.w.org/", <https://robertrandersonlaw.com/wp-json/wp/v2/pages/2>; rel="alternate"; title="JSON"; type="application/json", <https://robertrandersonlaw.com/>; rel=shortlink
+X-Mod-Pagespeed: 1.13.35.2-0
+Cache-Control: max-age=0, no-cache, s-maxage=10
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=F%2BED3sFmiKxszVetOSvpZcQBZx9%2Bx3sUXrhUobEwF90IzSd7BNbmswm%2FoB76L2qMgJMaa3dZDkQhwjOIBUjyh4R3TQgXNKyAzQenUi6Vc8iWD0QNFBwhkE5axk%2BUQYAAAL8EjVyxpXup"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed96aba3c022c-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=19667&sent=7&recv=8&lost=0&retrans=0&sent_bytes=4286&recv_bytes=1097&delivery_rate=227172&cwnd=231&unsent_bytes=0&cid=dca764c69134866c&ts=884&x=0"

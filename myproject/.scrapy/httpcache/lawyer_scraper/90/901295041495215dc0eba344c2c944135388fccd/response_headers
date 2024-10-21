@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:21:40 GMT
+Content-Type: text/html; charset=utf-8
+Access-Control-Allow-Origin: https://admin.thompsonhine.com
+Cache-Control: s-maxage=900, stale-while-revalidate
+Content-Encoding: gzip
+Content-Security-Policy: frame-ancestors 'self';
+Etag: W/"9at86x88se4zsp"
+Permissions-Policy: geolocation=(), midi=(), sync-xhr=(), microphone=(), camera=(), magnetometer=(), gyroscope=(), fullscreen=(self), payment=()
+Referrer-Policy: strict-origin-when-cross-origin
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Nextjs-Cache: HIT
+X-Powered-By: WP Engine Atlas
+X-Xss-Protection: 1; mode=block
+X-Envoy-Upstream-Service-Time: 18
+Cf-Cache-Status: REVALIDATED
+Server: cloudflare
+Cf-Ray: 8d5ece31bbdf22d4-ORD
+Alt-Svc: h3=":443"; ma=86400

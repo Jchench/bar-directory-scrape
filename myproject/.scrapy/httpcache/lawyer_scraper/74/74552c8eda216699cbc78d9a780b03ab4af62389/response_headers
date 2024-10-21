@@ -1,0 +1,17 @@
+Content-Length: 2428
+Server: nginx
+Content-Type: text/plain
+X-Content-Type-Options: nosniff
+Last-Modified: Mon, 07 Oct 2024 19:37:01 GMT
+Cache-Control: max-age=1209600
+Expires: Tue, 29 Oct 2024 04:32:30 GMT
+X-Request-Id: v-7d365720-8aae-11ef-834d-2b348c3d1d02
+X-Ah-Environment: prod
+Accept-Ranges: bytes
+Age: 521625
+Date: Mon, 21 Oct 2024 05:26:15 GMT
+X-Served-By: cache-chi-klot8100161-CHI
+X-Cache: HIT, HIT
+X-Cache-Hits: 68, 0
+X-Timer: S1729488376.874374,VS0,VE1
+Via: Acquia Platform CDN 1.202

@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:27:45 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: Cookie
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+Link: <https://snyderlawfirmplc.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://snyderlawfirmplc.com/wp-json/wp/v2/pages/8>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://snyderlawfirmplc.com/>; rel=shortlink
+Last-Modified: Fri, 18 Oct 2024 06:56:14 GMT
+Cache-Control: max-age=300, must-revalidate
+X-Nananana: Batcache-Set
+Content-Encoding: gzip
+X-Ac: 2.mdw _atomic_dca STALE
+Alt-Svc: h3=":443"; ma=86400

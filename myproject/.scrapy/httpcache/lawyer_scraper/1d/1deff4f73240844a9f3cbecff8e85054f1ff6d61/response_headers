@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729489066.0731418888670121221
+Html-Cacheable: true
+Etag: W/"00ddc2f7be655a4a120019313cb75664"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729489066|o4YFbbzfiBo1; Path=/; Domain=www.janetmorrislaw.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 05:37:46 GMT
+X-Served-By: cache-chi-klot8100172-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,oDbbMvfdXCdtsgjD2KgaM8iHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLupO/enPqTWY4Qy4iOZWWztGkFvVdT2Nq6f3Hedj7ewB,2d58ifebGbosy5xc+FRalkH8z0ryYJg0StQw/kZJmFD/UfdGkqmz2yvkNCh7E1Bsq7LJTWALEWGna40nM4pOUg==,2UNV7KOq4oGjA5+PKsX47HClnv7xNLEvnKyzioTaZktYgeUJqUXtid+86vZww+nL,ZyqOU5RmLo06QtSO1rnOlQDQLRL0CB+cXjGp7vN+JY8=,updaSF0YDozocDRTgMoSR82lEhpjXbq48sgAxOdkPHMZO90Oh4Cl+i4uzLr8TzTR7FDy343jYTbQAIiTMQBHBw==,OBKtClccko9IfjkunaOFtGkkaKo168gT4bU4q37xh94=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rqBHLqxT6jD5oVc2BcZYRndikuFOgArYv1Y61YMHIqGw==,92x85xT3K2kKmbeSe66tNG0JyRznTpHUdI6gXZBEpr0=,/a5ccLSK1HEmwPNg/x6OuvHio3kpQeOGoLpCALfLJxEIadwsREkxhkoEjLApRk79KKtdVjwNvtnPWoFjWsY9LHenSCh3uN6zD7CRPw0EbA4=
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

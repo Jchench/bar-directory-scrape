@@ -1,0 +1,13 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:25:15 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://ckbvlaw.com/robots.txt
+X-Cache-Status: MISS
+X-Rocket-Nginx-Serving-Static: MISS
+Strict-Transport-Security: max-age=31536000;
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: no-referrer-when-downgrade
+Content-Security-Policy: default-src * 'unsafe-inline' 'unsafe-eval' data: blob:;

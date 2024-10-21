@@ -1,0 +1,23 @@
+Content-Length: 145
+Content-Type: text/plain
+Date: Wed, 16 Oct 2024 12:29:16 GMT
+Server: Apache
+Referrer-Policy: strict-origin-when-cross-origin
+Feature-Policy: camera 'none'; microphone 'none'
+Strict-Transport-Security: max-age=31536000; preload
+Last-Modified: Tue, 27 Aug 2024 09:50:39 GMT
+Etag: "cc-620a72c87f9c0-gzip"
+Accept-Ranges: bytes
+Cache-Control: max-age=2592000
+Expires: Fri, 15 Nov 2024 12:29:16 GMT
+Content-Encoding: gzip
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Content-Security-Policy: default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline'; frame-ancestors * data: blob: ;
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 56ca3a576467b915b94f2a2737d2ab66.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD58-P2
+X-Amz-Cf-Id: CI4nIV7G_BuiZ2vJpXHx9pxoujiwTXi_ZeBzbnDJwxXENJlrsTYMrw==
+Age: 406737

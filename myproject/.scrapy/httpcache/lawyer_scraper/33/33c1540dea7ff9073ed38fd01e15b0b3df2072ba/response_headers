@@ -1,0 +1,21 @@
+Server: CloudFront
+Content-Type: text/html
+Date: Mon, 21 Oct 2024 05:12:38 GMT
+Last-Modified: Mon, 21 Oct 2024 02:16:48 GMT
+Etag: W/"0dfe12e1e94bb9fa2b43562bb464861c"
+X-Amz-Server-Side-Encryption: AES256
+Cache-Control: public, max-age=0, must-revalidate
+X-Amz-Version-Id: U3mFjNqT4WpPXL4URg2xEwBQHsTlWkft
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1 mode=block
+Referrer-Policy: same-origin
+Content-Security-Policy: img-src 'self' data: i.vimeocdn.com images.ctfassets.net p.typekit.net cdn.userway.org t.influ2.com/p/vt/ https://www.google-analytics.com/collect https://i.ytimg.com/vi_webp/; media-src 'self' assets.ctfassets.net videos.ctfassets.net downloads.ctfassets.net; script-src 'self' 'unsafe-inline' 'unsafe-eval' cdn.userway.org https://cdn.userway.org/widget.js https://www.googletagmanager.com/gtag/js https://use.typekit.net/nvk1yiz.js https://pi.pardot.com/analytics https://pi.pardot.com/pd.js http://cdn.pardot.com/pd.js https://www.googletagmanager.com/gtm.js https://www.google-analytics.com/analytics.js https://cdn.yoshki.com/yoshki-library.js https://www.influ2.com/tracker https://insights.paulhastings.com/analytics report-sample https://cdn.jsdelivr.net; font-src 'self' data: use.typekit.net cdn.userway.org; style-src 'self' 'unsafe-inline' use.typekit.net p.typekit.net https://cdn.userway.org/widgetapp/bundles/udf/udf.css report-sample; connect-src 'self' https://*.algolia.net https://*.algolianet.com https://*.algolia.io gafzei06c4.execute-api.us-west-2.amazonaws.com/default/contactus-mailfwd 6dz7p56z7l.execute-api.us-east-1.amazonaws.com 2it1tv0w7h.execute-api.us-east-1.amazonaws.com api.userway.org soundcloud.com w.soundcloud.com vimeo.com embed.podcasts.apple.com cdn.userway.org graphql.contentful.com https://www.google-analytics.com/j/collect https://stats.g.doubleclick.net/j/collect t.influ2.com/u/ https://csr.paulhastings.com https://preview.contentful.com https://cdn.contentful.com https://www.google-analytics.com/g/collect; frame-src 'self' players.brightcove.net embed.podcasts.apple.com w.soundcloud.com soundcloud.com player.vimeo.com https://www.youtube.com/ https://cdn.yoshki.com/ https://cdn.userway.org/ https://www.youtube-nocookie.com/ https://insights.paulhastings.com/; frame-ancestors https://app.contentful.com; base-uri 'self'; object-src 'none'; default-src 'self'; report-to csp-report-endpoint; report-uri https://5favhyu9i1.execute-api.us-east-1.amazonaws.com/prod; form-action 'self';
+Reporting-Endpoints: csp-report-endpoint="https://5favhyu9i1.execute-api.us-east-1.amazonaws.com/prod"
+Content-Encoding: gzip
+Vary: Accept-Encoding
+X-Cache: Miss from cloudfront
+Via: 1.1 34d903d36d6ff3fb4b2de2af9b8025f0.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD51-P2
+X-Amz-Cf-Id: zviigrTmvfTWF8ixHikO_I8gujkFJTRXNdE3mHgQVZn0H2ca1A_olQ==

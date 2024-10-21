@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:31:20 GMT
+Content-Type: text/html; charset=UTF-8
+Strict-Transport-Security: max-age=31536000
+Vary: Accept-Encoding
+Vary: accept, content-type, cookie
+Last-Modified: Mon, 21 Oct 2024 01:08:18 GMT
+Cache-Control: max-age=282, must-revalidate
+X-Nananana: Batcache-Hit
+X-Hacker: Want root?  Visit join.a8c.com and mention this header.
+Host-Header: WordPress.com
+Link: <https://thecloptonfirm.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://thecloptonfirm.com/wp-json/wp/v2/pages/14>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://wp.me/Pc73Hj-e>; rel=shortlink
+Content-Encoding: gzip
+X-Ac: 2.mdw _atomic_dca STALE
+Alt-Svc: h3=":443"; ma=86400

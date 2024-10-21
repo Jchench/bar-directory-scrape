@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: Varnish
+Retry-After: 0
+Location: https://perkinscoie.com/grobinson/
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish
+Strict-Transport-Security: max-age=300
+Date: Mon, 21 Oct 2024 05:36:27 GMT
+X-Served-By: cache-chi-klot8100170-CHI, cache-chi-klot8100170-CHI
+X-Cache: HIT, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729488987.084003,VS0,VE3

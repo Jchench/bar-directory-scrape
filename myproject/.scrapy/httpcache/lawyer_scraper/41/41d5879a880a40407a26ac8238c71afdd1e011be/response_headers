@@ -1,0 +1,19 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:35:02 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: WP Engine
+Expires: Mon, 21 Oct 2024 07:35:02 GMT
+X-Redirect-By: WordPress
+Location: https://apd.lacounty.gov/
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Access-Control-Allow-Credentials: true
+Access-Control-Allow-Origin: https://apd.lacounty.gov
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1
+X-Cdn: Imperva
+X-Iinfo: 12-135936098-135936113 SNNN RT(1729492499880 1371) q(0 0 0 -1) r(2 2) U11

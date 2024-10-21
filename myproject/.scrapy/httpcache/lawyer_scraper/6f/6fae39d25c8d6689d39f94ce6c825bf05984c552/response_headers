@@ -1,0 +1,31 @@
+Content-Length: 137
+Date: Mon, 21 Oct 2024 05:14:36 GMT
+Content-Type: text/plain
+Referrer-Policy: no-referrer-when-downgrade
+Content-Encoding: gzip
+X-Xss-Protection: 1
+X-Fw-Hash: itqw1469vq
+Last-Modified: Tue, 11 Jul 2023 16:35:48 GMT
+X-Fw-Version: 5.0.0
+Etag: W/"64ad84e4-b0"
+X-Content-Type-Options: nosniff
+X-Fw-Server: Flywheel/5.1.0
+X-Cacheable: YES
+Fastly-Restarts: 1
+X-Served-By: cache-chi-klot8100084-CHI, cache-chi-klot8100128-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1727813235.738045,VS0,VE32
+Vary: Accept-Encoding, Authorization
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT
+Cache-Control: max-age=14400
+Cf-Cache-Status: REVALIDATED
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=c7ZNSpCeWNmj2CwuMD3E%2B3Y9JrhtdygH7J6LMCdwqCaa4tEeeXdDD%2BFmhFlt8%2FYnV1zkuT1OOP6rZP3yplNk%2Fd5G2Fd%2BESZhUQukEJROFQ57Zuw9B3mu%2BqzLgG37aDs%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ec3dc9ec6606c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=9756&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2827&recv_bytes=842&delivery_rate=194846&cwnd=235&unsent_bytes=0&cid=af5f3f7bb6821c26&ts=84&x=0"

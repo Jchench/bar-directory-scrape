@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:32:17 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: HVkD65YT1wfR7Mspp2PUKqwrT99tgjTXYRQOSD83s3PzIsN0KKkW/6qCuqVZUDg1CQGVAgHyteE6basPTWz1ZTv3LiNWaDCOxCE8Y+lbt6IAY2BqSU9Yk3LyJznchFhYuFw2HvAUwMQjxXzqswwl+A==$XYy/S1dP8uu+ERT2k2rbmQ==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=YUMpgqQKRYrYmOW_776.p0fq6XGGvXl0yOtwF78qP5w-1729492337-1.0.1.1-dT23IeoFRHsa9FeImt8GZ6cIRAiymTjtCO2oawhA.Cq38Q2VIlinG7JzgB_KalJtivTSr1skcAbIX43HtWnNxg; path=/; expires=Mon, 21-Oct-24 07:02:17 GMT; domain=.www.joesayaslaw.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f35a2fadc2940-ORD
+Content-Encoding: gzip

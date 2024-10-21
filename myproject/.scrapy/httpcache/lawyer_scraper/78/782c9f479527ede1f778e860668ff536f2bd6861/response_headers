@@ -1,0 +1,19 @@
+Content-Length: 162
+X-Fw-Server: Flywheel/5.1.0
+Location: https://smithmyerslaw.com/robots.txt
+Referrer-Policy: no-referrer-when-downgrade
+X-Xss-Protection: 1
+Content-Type: text/html
+X-Fw-Version: 5.0.0
+X-Fw-Hash: 98yi9p98gj
+X-Content-Type-Options: nosniff
+Server: Flywheel/5.1.0
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:29:00 GMT
+X-Served-By: cache-chi-klot8100168-CHI, cache-chi-kigq8000081-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729492140.229432,VS0,VE29
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT

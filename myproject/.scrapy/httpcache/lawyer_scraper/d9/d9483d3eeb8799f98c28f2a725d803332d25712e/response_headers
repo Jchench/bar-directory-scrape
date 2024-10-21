@@ -1,0 +1,14 @@
+Content-Length: 25
+Server: openresty/1.25.3.1
+Date: Mon, 21 Oct 2024 06:38:00 GMT
+Content-Type: text/plain
+Last-Modified: Mon, 15 Jan 2024 21:44:30 GMT
+Etag: "fab6335fc47da1:0"
+Vary: Accept-Encoding
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: "1; mode=block"
+Referrer-Policy: no-referrer-when-downgrade
+X-Webcom-Cache-Status: BYPASS
+Accept-Ranges: bytes

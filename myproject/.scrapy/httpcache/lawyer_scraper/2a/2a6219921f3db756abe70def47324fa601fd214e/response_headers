@@ -1,0 +1,13 @@
+Server: openresty/1.25.3.1
+Date: Mon, 21 Oct 2024 06:23:09 GMT
+Content-Type: text/html
+Vary: Accept-Encoding
+Last-Modified: Tue, 23 Oct 2018 03:54:08 GMT
+Etag: W/"5205-578dd52603c3d"
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: "1; mode=block"
+Referrer-Policy: no-referrer-when-downgrade
+X-Webcom-Cache-Status: BYPASS
+Content-Encoding: gzip

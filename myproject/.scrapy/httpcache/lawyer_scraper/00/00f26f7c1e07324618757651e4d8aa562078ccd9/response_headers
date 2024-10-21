@@ -1,0 +1,13 @@
+Server: Apache/2.4
+Content-Type: text/html; charset=UTF-8
+Content-Security-Policy: frame-ancestors *
+Date: Mon, 21 Oct 2024 05:30:46 GMT
+Expires: Mon, 26 Jul 1997 05:00:00 GMT
+Pragma: no-cache
+X-Content-Type-Options: nosniff
+Set-Cookie: exp_csrf_token=167b54cf1a8b85d3714bc34ca797e5c49e98c57a; expires=Mon, 21-Oct-2024 07:30:46 GMT; Max-Age=7200; path=/; HttpOnly; SameSite=Lax
+X-Frame-Options: DENY
+X-Frame-Options: SAMEORIGIN
+Last-Modified: Mon, 21 Oct 2024 05:30:47 GMT
+X-Ua-Compatible: IE=edge
+Referrer-Policy: strict-origin-when-cross-origin

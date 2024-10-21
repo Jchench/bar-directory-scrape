@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:27:48 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: Q1Pbey98lhIaWquy/uNM/t6mCv/Zvg4XJS+OzzftX8+iBViCw5Za4quKsguWbwN29XD04zoS1vHhV8Y0irlck3Z223AIS8/f3UL4uII0776zpv4GzI5tjlx7rN+jF/RtYIKAk4NrPPQuMoh3aYsu9w==$+GYkhJPT8NDMRaO91tP95A==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=L2GLy.d.0W0JmB6I6kx9vtO4AXXFQcAPmt3oMfk_rUA-1729488468-1.0.1.1-ROZwQ0HLDbc4TNJBLKf6FA0adRY4OK6VsAf4YAVrMrqGJs0MQHqGB44JeSjA45P2TIthzYB9cFFw1WhGKHd7AQ; path=/; expires=Mon, 21-Oct-24 05:57:48 GMT; domain=.www.gorelick-law.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ed73319f92ad2-ORD
+Content-Encoding: gzip

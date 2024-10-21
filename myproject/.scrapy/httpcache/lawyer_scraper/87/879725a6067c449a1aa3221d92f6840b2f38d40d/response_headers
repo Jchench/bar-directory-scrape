@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 05:12:24 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Cache-Control: no-cache
+Link: <https://cldp.doc.gov/>; rel="canonical", <https://cldp.doc.gov/>; rel="shortlink"
+X-Ua-Compatible: IE=edge
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+X-Fastcgi-Cache: HIT
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: default-src 'self' data: https://*.commerce.gov https://www.eda.gov https://eda.gov https://*.eda.gov https://unpkg.com https://*.basemaps.cartocdn.com https://*.vimeo.com https://*.googletagmanager.com https://polyfill.io https://www.googletagmanager.com https://*.mbda.gov https://*.d.commerce.gov https://content.govdelivery.com https://www.google-analytics.com https://use.fontawesome.com https://dap.digitalgov.gov https://*.twitter.com https://*.twimg.com https://*.youtube.com https://livestream.com https://*.livestream.com https://api.new.livestream.com https://emenuapps.ita.doc.gov https://rev-vbrick.uspto.gov https://*.facebook.com https://*.mapbox.com https://*.cloudflare.com https://*.tile.openstreetmap.org https://git.commerce.gov https://cdn.siteimprove.net https://youtube-nocookie.com https://translate.google.com https://www.gstatic.com https://fonts.gstatic.com https://app.powerbigov.us https://*.googleapis.com https://www.youtube-nocookie.com https://api.data.gov https://*.uspto.gov 'unsafe-inline' 'unsafe-eval' ;upgrade-insecure-requests;
+X-Robots-Tag: all
+Expect-Ct: enforce, max-age=300, report-uri='https://www.commerce.gov/'
+Referrer-Policy: strict-origin
+X-Permitted-Cross-Domain-Policies: master-only
+Cf-Cache-Status: DYNAMIC
+Server-Timing: cfCacheStatus;desc="DYNAMIC"
+Server: cloudflare
+Cf-Ray: 8d5ec0a32dab6179-ORD
+Content-Encoding: gzip

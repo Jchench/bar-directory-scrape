@@ -1,0 +1,23 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:42:55 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Frame-Options: sameorigin
+X-Xss-Protection: 1
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=604800 ; includeSubDomains
+Referrer-Policy: origin-when-cross-origin
+Permissions-Policy: accelerometer=(self), autoplay=(self), camera=(self), encrypted-media=(self), fullscreen=(self), geolocation=(self), gyroscope=(self), magnetometer=(self), microphone=(self), midi=(self), payment=(self), usb=(self)
+Link: <https://www.callawayandwolf.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.callawayandwolf.com/wp-json/wp/v2/pages/185>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.callawayandwolf.com/>; rel=shortlink
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 27
+X-Cache-Group: bot
+Content-Encoding: gzip

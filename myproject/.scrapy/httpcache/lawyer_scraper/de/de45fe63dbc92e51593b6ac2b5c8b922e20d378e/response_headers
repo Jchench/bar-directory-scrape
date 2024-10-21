@@ -1,0 +1,16 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:12:24 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://davidagiannotti.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://davidagiannotti.com/wp-json/wp/v2/pages/47274>; rel="alternate"; type="application/json"
+Link: <https://davidagiannotti.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 3
+X-Cache-Group: bot
+Content-Encoding: gzip

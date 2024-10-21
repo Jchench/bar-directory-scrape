@@ -1,0 +1,21 @@
+Content-Length: 21595
+Date: Mon, 21 Oct 2024 06:25:23 GMT
+Server: Apache
+X-Frame-Options: SAMEORIGIN
+Referrer-Policy: same-origin
+Referrer-Policy: no-referrer-when-downgrade
+Vary: Accept-Encoding,User-Agent
+Last-Modified: Mon, 21 Oct 2024 06:23:51 GMT
+Etag: "545b-624f6b2412c34"
+Accept-Ranges: bytes
+Cache-Control: max-age=3600, public
+Expires: Mon, 21 Oct 2024 06:35:23 GMT
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: GET,POST,OPTIONS,DELETE,PUT
+Access-Control-Allow-Headers: Content-Type
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Pragma: public
+Content-Type: text/html; charset=UTF-8
+Content-Encoding: gzip

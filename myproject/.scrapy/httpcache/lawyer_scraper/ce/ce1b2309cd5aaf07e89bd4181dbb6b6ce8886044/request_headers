@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: NSC_ESNS=0157e817-e5c9-1715-9678-005056842fba_2524898752_0993898315_00000000012907336108; NSC_JOzpdzplcczi0v0dhu0r0ycwr4qxib3=14b5a3d972f822b76ebcefc5ad247f0af5abead4723b19fb89f6e5078e5272acc650516d

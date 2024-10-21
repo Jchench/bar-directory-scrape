@@ -1,0 +1,19 @@
+Content-Length: 33
+Content-Type: text/plain
+X-Amz-Meta-Md5: 61853736462e25fcad63da6251982562
+Last-Modified: Thu, 01 Aug 2019 16:21:02 GMT
+Server: AmazonS3
+Strict-Transport-Security: max-age=63072000; includeSubdomains; preload
+Content-Security-Policy: default-src https: 'unsafe-inline'; media-src * data:; img-src * data:
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: same-origin
+Date: Mon, 21 Oct 2024 05:26:04 GMT
+Cache-Control: max-age=0
+Etag: "61853736462e25fcad63da6251982562"
+Vary: Accept-Encoding
+X-Cache: RefreshHit from cloudfront
+Via: 1.1 1fc014a0fca745817935078cd0086d42.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD53-C2
+X-Amz-Cf-Id: 2TKBLW1Y9C7qwettU76oJHXZEQcZike8Q_TIqqTq4D4lt9dNPbxMsQ==

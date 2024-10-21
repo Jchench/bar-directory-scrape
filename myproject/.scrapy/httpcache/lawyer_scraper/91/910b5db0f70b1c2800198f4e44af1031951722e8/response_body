@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+  <meta http-equiv="Content-Language" content="en-us">
+  <meta name="description" content="Civil rights law firm dedicated to enforcing the Fair Housing Act.">
+
+  <!-- link to favicon -->
+  <link rel="apple-touch-icon" sizes="180x180" href="assets/images/apple-touch-icon.png">
+  <link rel="icon" type="image/png" sizes="32x32" href="assets/images/favicon-32x32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="assets/images/favicon-16x16.png">
+  <link rel="manifest" href="assets/images/site.webmanifest">
+
+  <!-- link to css reset and site styles -->
+  <link type="text/css" rel="stylesheet" href="assets/css/reset.css">
+
+  <!-- google font(s) -->
+  <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,400i,600,700|Roboto+Slab:300,400&display=swap"
+    rel="stylesheet">
+
+  <!-- link to bootstrap css -->
+  <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css"
+    integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+  <link type="text/css" rel="stylesheet" href="assets/css/style.css">
+
+  <title>Brancart &amp; Brancart | Attorneys at Law</title>
+</head>
+
+<body>
+
+  <nav class="navbar navbar-expand-lg" id="main-nav">
+    <a href="#" class="logo-link mr-auto navbar-brand"><img src="assets/images/bb-logo-alternate.PNG" alt="Brancart & Brancart" id="bbLogo"></a>
+
+    <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse"
+      data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false"
+      aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"><span></span><span></span><span></span></span>
+    </button>
+
+    <div class="collapse navbar-collapse" id="navbarNavDropdown">
+      <ul class="navbar-nav ml-auto mr-md-5 mt-2 mt-lg-0 flex-row">
+        <li class="nav-item active">
+          <a class="nav-link" href="#"><span class="dot dot-current align-middle"></span><span
+              class="link-text">Home</span><span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link transition" href="about"><span class="dot align-middle"></span><span
+              class="link-text">About</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="contact"><span class="dot align-middle"></span><span
+              class="link-text">Contact</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="links"><span class="dot align-middle"></span><span
+              class="link-text">Links</span></a>
+        </li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="row m-scene" id="body-row main">
+      <!-- Sidebar -->
+      <div id="sidebar-container" class="sidebar-expanded d-none d-md-block d-lg-block col-2 side-nav">
+        <img src="assets/images/colored houses.jpg" alt="Colorful Houses (Photograph by Bernard Kleina)" class="houses-img border border-light">
+
+        <div class="about-link">
+          <a href="site-info" class="text-center">ⓘ About this site</a>
+        </div>
+      </div>       
+      <!-- sidebar-container END -->
+  
+      <!-- MAIN SECTION-->
+      <div class="col-md-10 col-sm-12">
+        <div class="container main-text">
+            <p class="home-text text-justify">
+              Brancart & Brancart is a civil rights law firm dedicated to enforcing the Fair Housing Act and similar laws throughout the United States. Since 1989, the firm has represented thousands of individuals who have experienced housing discrimination based on race, color, national origin, religion, sex, the presence of children, sexual orientation, marital status, source of income, or disability. 
+            </p>
+
+            <p class="home-text text-justify">
+              The firm also provides education, training and support to fair housing advocates and attorneys throughout the United States.
+            </p>
+
+            <p class="home-text text-justify">
+              <b>The firm accepts clients by referral only from fair housing agencies.</b> If you believe you have been the victim of housing discrimination, please contact <a href="links">your local fair housing agency.</a>
+            </p>
+
+            <p class="home-text text-justify pt-3">
+              Please read our <a href="#exampleModalCenter" data-toggle="modal" data-target="#exampleModalCenter">disclaimer</a>.
+            </p>
+
+
+            </div>
+
+            <div class="d-md-none alt-about text-center">
+              <a href="site-info" class="text-center">ⓘ About this site</a>
+            </div>
+  
+      </div>
+      <!-- Main Col END -->
+  </div>
+
+  <!-- Modal -->
+  <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle" aria-hidden="true">
+      <div class="disclaimer modal-dialog modal-dialog-centered rounded" role="document">
+        <div class="container-fluid">
+          <div class="row">
+            <div class="col-12 close-holder">
+              <a href="#" data-dismiss="modal" aria-label="Close" class="close-x"></a>
+            </div>
+          </div>
+
+          <div class="row">
+            <div class="col-12">
+              <p class="disclaimer-text text-justify">Materials on the web site have been prepared by Brancart &amp; Brancart for
+                informational purposes only and are not legal advice. This information is not intended to create,
+                and receipt of it does not constitute, an attorney-client relationship. 
+              </p>  
+              <p class="disclaimer-text text-justify">  
+                Internet subscribers and
+                online readers should not act upon this information without seeking professional counsel. Do not
+                send us confidential information until you speak with one of our attorneys and obtain authorization to
+                send that information to us.&nbsp; Materials on this site are not intended as, and do not constitute,
+                solicitation of any particular client.
+              </p>
+            </div>      
+          </div>    
+
+          <div class="row">
+            <div class="col-12">
+              <p class="maroon-disclaimer-text text-justify text-center">Brancart &amp; Brancart accepts clients by referral only from fair housing
+                agencies.</p> 
+            </div>      
+          </div>
+          
+          <div class="row mt-3">
+            <div class="col-12">
+              <img src="assets/images/blue heart 3.jpg" alt="Blue heart (Photograph by Bernard Kleina)" class="rounded mx-auto d-block align-middle blue-heart">
+            </div>
+          </div> 
+        
+          <div class="row">
+            <div class="col-12">
+              <button type="button" class="close close-dialog" data-dismiss="modal" aria-label="Close">
+                <span aria-labelledby="close"><u>close</u></span>
+              </button>
+            </div>          
+          </div>
+        </div>
+      </div>    
+  </div>
+
+  <!-- scripts tags for Bootstrap -->
+  <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js"
+    integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous">
+  </script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.14.7/umd/popper.min.js"
+    integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous">
+  </script>
+  <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js"
+    integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous">
+  </script>
+  <!-- <script src="assets/javascript/jquery.smoothState.min.js"></script> -->
+  <script src="assets/javascript/app.js"></script>
+</body>
+
+</html>

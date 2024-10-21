@@ -1,0 +1,22 @@
+Content-Length: 172
+Cache-Control: public, max-age=31536000,public
+Expires: Tue, 21 Oct 2025 06:29:56 GMT
+Content-Type: text/plain
+Last-Modified: Mon, 15 Apr 2024 23:16:03 GMT
+Etag: "149-661db533-0;gz"
+Accept-Ranges: bytes
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 06:29:56 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Access-Control-Allow-Origin: *
+Access-Control-Allow-Headers: origin, x-requested-with, content-type
+Access-Control-Allow-Methods: PUT, GET, POST, DELETE, OPTIONS
+Content-Security-Policy: default-src 'unsafe-inline' 'unsafe-eval' data: blob: https: http:;
+Content-Security-Policy: img-src 'unsafe-inline' data: blob: *;
+Content-Security-Policy: script-src 'unsafe-inline' 'unsafe-eval' data: blob: *;
+X-Xss-Protection: 1; mode=block
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

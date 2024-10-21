@@ -1,0 +1,18 @@
+Content-Length: 2759
+Date: Mon, 21 Oct 2024 06:23:57 GMT
+Content-Type: application/octet-stream
+Cache-Control: max-age=43200
+Strict-Transport-Security: max-age=31536000
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: frame-ancestors 'self'
+Last-Modified: Tue, 01 Oct 2024 16:33:36 GMT
+Etag: "d6248f33766a82e017bc581eca86c9c9"
+Surrogate-Key: www.markwcolemanlaw.com 63642b7adfc4d119be4c1e4f pageId:63890b90540327dbcf3b6d62
+Cf-Cache-Status: HIT
+Age: 25288
+Set-Cookie: __cf_bm=OqA8VkEbQrrcB1zxCAe8AOC33QIQl3YIM6ZljPF5Odk-1729491837-1.0.1.1-EIfqFzg21qFHQ6Bzk4.XEj5oYNo1aEgjG4fJhYXybdoJY7qPVodLfcomXvm_RvQbXcStEckTzypGzbII3qbdug; path=/; expires=Mon, 21-Oct-24 06:53:57 GMT; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Set-Cookie: _cfuvid=aaNwICaQAAlhRvh0dbN9Fh3u5Uz1rE4KIktVfZsAU3E-1729491837748-0.0.1.1-604800000; path=/; domain=.cdn.webflow.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Cf-Ray: 8d5f2971da24578e-IAD
+Alt-Svc: h3=":443"; ma=86400
+X-Cluster-Name: us-east-1-prod-hosting-red

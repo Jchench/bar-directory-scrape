@@ -1,0 +1,21 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:27:35 GMT
+Retry-After: 0
+Location: https://elkinskalt.com/
+X-Pantheon-Redirect: primary-domain-policy-doc
+X-Served-By: cache-chi-klot8100100-CHI
+X-Cache: HIT
+X-Cache-Hits: 0
+X-Timer: S1729492055.259292,VS0,VE3
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=6b2NKTSoc4ZMEEffbLKBZzP51W6KLDyBTReJ%2FA6Us10LumFxsoruLsd7nefLOwTcZFP752PwN2urjGhNeRz%2B4oJfRPLyLmFXLnMAYXDW89QZrD55mxIIDBGoXloxgMzo3DlVOzQ%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Strict-Transport-Security: max-age=15552000; preload
+X-Content-Type-Options: nosniff
+Server: cloudflare
+Cf-Ray: 8d5f2ec14d2661be-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16841&sent=5&recv=9&lost=0&retrans=0&sent_bytes=4459&recv_bytes=1089&delivery_rate=219943&cwnd=205&unsent_bytes=0&cid=db0bef9bd88e3283&ts=2745&x=0"

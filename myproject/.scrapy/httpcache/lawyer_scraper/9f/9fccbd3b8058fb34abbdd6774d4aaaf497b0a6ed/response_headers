@@ -1,0 +1,13 @@
+Content-Length: 33586
+Cache-Control: private, s-maxage=600,no-transform
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Etag: " "
+Vary: Accept-Encoding
+Server: Microsoft-IIS/10.0
+P3P: CP="IDC DSP COR ADM DEVi TAIi PSA PSD IVAi IVDi CONi HIS OUR IND CNT"
+Set-Cookie: CP_IsMobile=false; path=/
+Set-Cookie: CP_IsMobile=false; path=/
+X-Content-Type-Options: nosniff
+Content-Security-Policy: frame-ancestors 'self' https://*.granicus.com https://platform.civicplus.com https://account.civicplus.com https://analytics.civicplus.com; img-src * data: blob:; worker-src * data: blob: 'unsafe-eval' 'unsafe-inline'; script-src * about: 'unsafe-inline' 'unsafe-eval'; style-src * 'unsafe-inline'; media-src * blob:; font-src * data:; default-src *
+Date: Mon, 21 Oct 2024 06:41:54 GMT

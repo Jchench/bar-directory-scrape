@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: visid_incap_1238842=fKuUu7aARcWuH5eRNoP/7FvoFWcAAAAAQUIPAAAAAAD1Wvt4fby45Z5LSkhRxJ6d; incap_ses_628_1238842=Duz+BBJdtXhzn85G1hq3CFzoFWcAAAAAamVn3kTTAxJp5SjKN8XuxA==

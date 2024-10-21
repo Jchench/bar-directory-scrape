@@ -1,0 +1,12 @@
+Content-Length: 24135
+X-Dns-Prefetch-Control: on
+Content-Type: text/html; charset=UTF-8
+Link: <https://weil-law.net/wp-json/>; rel="https://api.w.org/"
+Link: <https://weil-law.net/wp-json/wp/v2/pages/111>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://weil-law.net/>; rel=shortlink
+Etag: "109-1729267841;gz"
+X-Litespeed-Cache: hit
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 06:22:46 GMT
+Server: LiteSpeed

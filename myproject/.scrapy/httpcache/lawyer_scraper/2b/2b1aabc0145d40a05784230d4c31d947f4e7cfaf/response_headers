@@ -1,0 +1,11 @@
+Content-Length: 108
+X-Powered-By: PHP/8.2.23
+Link: <https://sigstod.com/wp-json/>; rel="https://api.w.org/"
+Content-Type: text/plain; charset=utf-8
+Cache-Control: public, max-age=0
+Expires: Mon, 21 Oct 2024 06:23:48 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 06:23:48 GMT
+Server: LiteSpeed
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

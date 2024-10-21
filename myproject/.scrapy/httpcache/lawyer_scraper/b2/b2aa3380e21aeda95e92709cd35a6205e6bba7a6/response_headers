@@ -1,0 +1,22 @@
+Age: 51
+Cache-Control: public, max-age=0, must-revalidate
+Content-Encoding: gzip
+Content-Security-Policy-Report-Only: default-src 'self';    connect-src 'self'  *.nixonpeabody.com *.nixonpeabody.localhost *.typekit.net *.vercel.app *.linkedin.com *.clarity.ms *.bing.com *.onetrust.com *.google.com *.doubleclick.net https://apps.sitecore.net https://cdn.cookielaw.org https://googletagmanager.com https://www.google-analytics.com https://www.googleadservices.com https://snap.licdn.com https://cdn.pdst.fm https://pixels.spotify.com https://youtube.com https://www.youtube.com https://player.vimeo.com https://open.spotify.com https://vercel.com https://vercel.live https://vitals.vercel-insights.com wss://ws-us3.pusher.com;    script-src 'self'  'unsafe-inline' *.searchstax.com *.clarity.ms https://cdn.cookielaw.org https://www.googletagmanager.com https://tagmanager.google.com https://snap.licdn.com https://vercel.live https://cdn.pdst.fm https://player.vimeo.com;    style-src 'self' 'unsafe-inline' *.typekit.net https://vercel.live https://googletagmanager.com https://tagmanager.google.com https://fonts.googleapis.com;    img-src * data: blob:;    object-src 'self' data: blob:;    base-uri 'self';    form-action 'self';    font-src 'self' data: *.typekit.net https://vercel.live https://assets.vercel.com https://fonts.gstatic.com;    frame-src 'self' https://vercel.live *.doubleclick.net https://player.vimeo.com https://youtube.com https://www.youtube.com https://cdn.yoshki.com https://open.spotify.com/;    frame-ancestors 'none';    upgrade-insecure-requests;    report-to csp-report;
+Content-Type: text/html; charset=utf-8
+Date: Mon, 21 Oct 2024 06:29:31 GMT
+Etag: W/"r9snsorrb72l46"
+Permissions-Policy: autoplay=(self "https://player.vimeo.com")
+Referrer-Policy: no-referrer-when-downgrade
+Report-To: {"group":"csp-report","max_age":604800,"endpoints":[{"url":"/api/csp-report","method":"POST"}],"include_subdomains":true}
+Server: Vercel
+Set-Cookie: isInternalUser=false; Path=/
+Strict-Transport-Security: max-age=63072000
+Vary: Accept
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Matched-Path: /en
+X-Nextjs-Matched-Path: /en/[[...path]]
+X-Powered-By: Next.js
+X-Vercel-Cache: HIT
+X-Vercel-Id: cle1::iad1::h6tvc-1729492223378-3e9f1d951d61
+X-Xss-Protection: 1; mode=block

@@ -1,0 +1,15 @@
+Date: Mon, 21 Oct 2024 06:21:52 GMT
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: PHP/7.4.33
+Link: <http://www.mashianlaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:21:52 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=qvAmFvK6WisBSlkPnboyCssrOyWcn6gbdWp6wsIC5U980OXGmTSHoXpmbc3DIMLhoq3ENblElBbIuvLEOojIvNg7mmTzOYD0%2BWsnKZu7yESz7IrVag%2By%2Ff43u05N18wLflSAfoE%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f2661ce2a2c13-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=15126&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2832&recv_bytes=848&delivery_rate=159322&cwnd=193&unsent_bytes=0&cid=41b0a990242d9079&ts=225&x=0"

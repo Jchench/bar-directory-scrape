@@ -1,0 +1,15 @@
+Content-Length: 26
+Date: Mon, 21 Oct 2024 05:13:42 GMT
+Server: Apache
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Content-Security-Policy: base-uri 'self'; default-src 'self'; connect-src 'self' *.google-analytics.com *.bamboohr.com *.webspellchecker.net; frame-src 'self' *.google.com *.webspellchecker.net *.googleapis.com *.vimeo.com *.youtube-nocookie.com recruitingbypaycor.com *.youtube.com; font-src 'self' *.bootstrapcdn.com *.typekit.net fonts.gstatic.com *.cloudflare.com *.webspellchecker.net fonts.googleapis.com; script-src *.krcl.com 'unsafe-inline' 'unsafe-eval' *.cloudflare.com *.bamboohr.com unpkg.com *.webspellchecker.net *.youtube.com *.bootstrapcdn.com fonts.googleapis.com *.googletagmanager.com apis.google.com *.google.com *.gstatic.com *.googleapis.com *.siteimprove.com *.jquery.com *.jsdelivr.net *.addthis.com;style-src *.krcl.com 'unsafe-inline' *.cloudflare.com *.bamboohr.com unpkg.com *.typekit.net *.webspellchecker.net *.bootstrapcdn.com fonts.googleapis.com *.googleapis.com *.gstatic.com *.jquery.com *.jsdelivr.net; form-action *.krcl.com; img-src * 'unsafe-inline' data:; object-src 'none'
+Last-Modified: Sun, 19 Dec 2021 01:00:10 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=172800
+Expires: Wed, 23 Oct 2024 05:13:42 GMT
+Vary: User-Agent
+X-Xss-Protection: 1; mode=block
+Referrer-Policy: same-origin
+Permissions-Policy: geolocation=(self), microphone=()
+Feature-Policy: geolocation 'self'; vibrate 'none'
+Content-Type: text/plain

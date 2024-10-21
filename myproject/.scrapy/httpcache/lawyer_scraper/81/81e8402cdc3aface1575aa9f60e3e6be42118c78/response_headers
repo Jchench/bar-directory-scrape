@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 05:28:22 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Link: <https://www.herrick.com/wp-json/>; rel="https://api.w.org/"
+Content-Security-Policy: upgrade-insecure-requests
+Content-Security-Policy: upgrade-insecure-requests
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Referrer-Policy: strict-origin-when-cross-origin
+Feature-Policy: camera 'none'; microphone 'none'
+Permissions-Policy: camera=(), microphone=(), geolocation=()
+Strict-Transport-Security: max-age=15552000; includeSubDomains; preload
+Content-Encoding: gzip
+Cache-Control: max-age=28800
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 05:28:22 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=q2qBv5zZq%2BIPkY6tGB%2BUWi6tWfXyqjGQl2cYRBDsN0LQMXUPMVsR9Ptwy0mfUyD%2FDKGvCskFlH5Pg0iB0nsKUAIeOyTqw823MZsGGu4tWPV0sfzNRbXyTiw9wGcEU3viIw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed802598f6315-ORD

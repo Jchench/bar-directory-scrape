@@ -1,0 +1,15 @@
+Content-Length: 184
+Cache-Control: max-age=31536000
+Content-Type: text/plain
+Content-Encoding: gzip
+Last-Modified: Fri, 16 Jun 2023 18:27:26 GMT
+Accept-Ranges: bytes
+Etag: "1567d13380a0d91:0"
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+X-Frame-Options: SAMEORIGIN
+Content-Security-Policy: default-src * blob: data: cid:; img-src * data: blob: cid: 'unsafe-inline'; media-src * data: blob:; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; style-src * blob: data: 'unsafe-inline'; style-src-elem * blob: data: 'unsafe-inline', font-src * data:
+Date: Mon, 21 Oct 2024 05:12:31 GMT
+Set-Cookie: TS01cf4b6f=0184cfe7a6ff52c0b79fbc3392f820d05f4531d759fd5920cca5ba97f31f86e03bd21e4ec3fe73cb4071c630d55e152febb766dc88; Path=/; Domain=.www.pooleshaffery.com; Secure; HttpOnly;

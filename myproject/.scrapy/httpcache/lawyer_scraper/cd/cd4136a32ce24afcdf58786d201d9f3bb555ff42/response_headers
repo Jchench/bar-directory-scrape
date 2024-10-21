@@ -1,0 +1,20 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:14:24 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Cookie,Accept-Encoding
+X-Drupal-Dynamic-Cache: MISS
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Sun, 19 Nov 1978 05:00:00 GMT
+X-Generator: Drupal 10 (https://www.drupal.org)
+Strict-Transport-Security: max-age=31536000 ; includeSubDomains
+Cache-Control: max-age=21600, public
+X-Drupal-Cache: HIT
+Last-Modified: Mon, 21 Oct 2024 00:02:40 GMT
+Etag: W/"1729468960"
+Age: 3795
+X-Cache: HIT
+Access-Control-Allow-Origin: *
+Content-Encoding: gzip

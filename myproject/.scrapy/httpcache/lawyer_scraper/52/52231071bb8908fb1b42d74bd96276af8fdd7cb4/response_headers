@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 06:35:54 GMT
+Content-Type: text/html; charset=UTF-8
+Cf-Cache-Status: DYNAMIC
+Age: 549
+Cache-Control: public, max-age=0, s-maxage=3600
+Last-Modified: Mon, 21 Oct 2024 05:22:05 GMT
+Link: <https://constructiondefect.com/wp-json/>; rel="https://api.w.org/", <https://constructiondefect.com/wp-json/wp/v2/pages/19>; rel="alternate"; title="JSON"; type="application/json", <https://constructiondefect.com/>; rel=shortlink
+Vary: Accept-Encoding
+Ki-Cache-Tag: 6fba5875-fa25-4b4d-b77f-fae26604cc25,afdd8daeb2a20c77640b9c5490bd9e8576ac3f70dd9419eb7eacee32f29c8fd5
+Ki-Cache-Type: Edge
+Ki-Cf-Cache-Status: HIT
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Edge-O2O: yes
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=3bCYuAtLO2omvVTEB4Jkm%2BInWNDjQN9hcTxx9XdEVdJPn27DFnBHxVuw1HanIjFLKuiKd9zEYcUBYpz7ZdpgR1x%2BKThYWJHMKmmhukxDKPFKC3iZ%2F%2FN2K9LjpMEbjcUz18wvdqLd9p0%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f3af03f8a1b67-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=61457&sent=8&recv=9&lost=0&retrans=0&sent_bytes=4701&recv_bytes=1097&delivery_rate=324639&cwnd=235&unsent_bytes=0&cid=84f09ab253a607b8&ts=2507&x=0"

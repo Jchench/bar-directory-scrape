@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:35:52 GMT
+Content-Type: text/plain; charset=utf-8
+Link: <https://constructiondefect.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Ki-Cache-Type: None
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Edge-O2O: yes
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: HIT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2BzHuJWwD0z%2FIiFJxYFxLuP6H1iT2sfqcKcuWpQbqKXibn987DH3SGdfmBWiFvHgCWYUK%2B0LMu0x4RxYHJ%2BH4ti0Vck9VkUSFrYVH8Qn2o73rXLxGt48%2FvAanV668QRwTHJO1HwsCzrM%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Content-Encoding: gzip
+Cache-Control: max-age=14400
+Cf-Cache-Status: EXPIRED
+Last-Modified: Mon, 21 Oct 2024 06:35:52 GMT
+Server: cloudflare
+Cf-Ray: 8d5f3ae0fdc41b67-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=76175&sent=4&recv=6&lost=0&retrans=0&sent_bytes=2857&recv_bytes=852&delivery_rate=197167&cwnd=232&unsent_bytes=0&cid=84f09ab253a607b8&ts=244&x=0"

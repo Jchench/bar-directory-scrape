@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:36:29 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Content-Security-Policy: frame-ancestors 'self' *.ca.gov
+X-Content-Type-Options: nosniff
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+Accept-Ranges: bytes
+X-Cache: HIT: 20
+X-Cache-Group: bot
+Set-Cookie: incap_ses_132_1238842=pr08DcdpDxMz2u84d/XUAVzoFWcAAAAAJoaH5ogIx5K1LmUPT7UK4w==; path=/; Domain=.ca.gov
+X-Cdn: Imperva
+Content-Encoding: gzip
+X-Iinfo: 42-45227305-45227310 NNYN CT(42 86 0) RT(1729488988601 73) q(0 0 2 1) r(2 3) U24

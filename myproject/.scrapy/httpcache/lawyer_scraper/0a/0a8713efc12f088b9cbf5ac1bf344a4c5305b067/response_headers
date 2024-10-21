@@ -1,0 +1,14 @@
+Content-Length: 108
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 06:41:47 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 20018
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Link: <http://smcdslaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Cache-Control: max-age=315360000
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Content-Encoding: gzip
+X-Sucuri-Cache: EXPIRED

@@ -1,0 +1,10 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.rpblaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.rpblaw.com/wp-json/wp/v2/pages/8>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.rpblaw.com/>; rel=shortlink
+Cache-Control: public, max-age=600
+Expires: Mon, 21 Oct 2024 05:22:50 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 05:12:51 GMT
+Server: LiteSpeed

@@ -1,0 +1,18 @@
+Content-Length: 172
+Date: Mon, 21 Oct 2024 06:30:20 GMT
+Server: nginx/1.25.5
+Content-Type: text/plain; charset=utf-8
+Cf-Edge-Cache: cache,platform=wordpress
+X-Robots-Tag: noindex, follow
+Link: <https://hcesq.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding,User-Agent
+Cache-Control: max-age=86400
+Expires: Tue, 22 Oct 2024 06:30:19 GMT
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+Referrer-Policy: no-referrer-when-downgrade
+Access-Control-Allow-Origin: *
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

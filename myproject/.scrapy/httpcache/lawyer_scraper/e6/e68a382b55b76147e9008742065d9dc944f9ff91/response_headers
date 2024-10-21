@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 06:30:36 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://smitherslf.com/
+Cf-Ray: 8d5f33270bc16077-ORD
+Cf-Cache-Status: BYPASS
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:30:36 GMT
+Vary: Accept-Encoding
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: MISS
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MKGBTLKee9RqTE7exRB%2BIqL%2Fg85oyUekHHiA8%2FqSKE7gsLaqmrDR0BkWxUkUiRM1W6NyYYoMlnRL334uqzDzgdPrTGtgPabhQ3Sdo6Hqy1JFPb%2Bx2FJjS8%2FaDufwToiV%2BZJEpA%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

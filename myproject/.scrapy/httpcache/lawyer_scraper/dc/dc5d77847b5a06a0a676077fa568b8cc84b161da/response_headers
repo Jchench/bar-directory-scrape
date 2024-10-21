@@ -1,0 +1,14 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:12:58 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://www.brookskushman.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 5
+X-Cache-Group: bot
+Content-Encoding: gzip

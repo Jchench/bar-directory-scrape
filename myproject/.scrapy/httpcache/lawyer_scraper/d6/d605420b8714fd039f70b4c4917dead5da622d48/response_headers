@@ -1,0 +1,11 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 06:23:38 GMT
+X-Backend: varnish_ssl
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Cf-Cache-Status: EXPIRED
+Expires: Thu, 21 Nov 2024 06:23:38 GMT
+Cache-Control: public, max-age=2678400
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f28f7af98507c-ORD
+Alt-Svc: h3=":443"; ma=86400

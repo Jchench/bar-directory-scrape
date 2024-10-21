@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:26:49 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://pwfirm.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Cf-Cache-Status: HIT
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ed5beb9ee6399-ORD
+Alt-Svc: h3=":443"; ma=86400

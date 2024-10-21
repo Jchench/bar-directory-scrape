@@ -1,0 +1,14 @@
+Date: Mon, 21 Oct 2024 05:30:31 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+Link: <https://sylvalawcorp.com/wp-json/>; rel="https://api.w.org/", <https://sylvalawcorp.com/wp-json/wp/v2/pages/19>; rel="alternate"; title="JSON"; type="application/json", <https://sylvalawcorp.com/>; rel=shortlink
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 07:30:30 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Newfold-Cache-Level: 2
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

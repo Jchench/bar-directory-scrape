@@ -1,0 +1,11 @@
+X-Powered-By: PHP/7.4.33
+Content-Type: text/html; charset=UTF-8
+Link: <https://www.maire-law.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.maire-law.com/wp-json/wp/v2/pages/5>; rel="alternate"; type="application/json"
+Link: <https://www.maire-law.com/>; rel=shortlink
+Cache-Control: public, max-age=0
+Expires: Mon, 21 Oct 2024 05:20:17 GMT
+Content-Encoding: gzip
+Vary: Accept-Encoding,Accept-Encoding
+Date: Mon, 21 Oct 2024 05:20:17 GMT
+Server: LiteSpeed

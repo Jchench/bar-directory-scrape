@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /wp-content/uploads/wpo-plugins-tables-list.json
+
+Sitemap: https://jerrykaufman.com/sitemap.xml
+Sitemap: https://jerrykaufman.com/sitemap.rss

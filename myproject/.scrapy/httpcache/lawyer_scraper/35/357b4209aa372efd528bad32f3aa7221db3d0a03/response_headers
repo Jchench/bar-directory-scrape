@@ -1,0 +1,13 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 06:32:28 GMT
+Content-Type: text/html; charset=UTF-8
+X-Powered-By: PHP/8.2.24
+X-Powered-By: PleskLin
+Expires: Mon, 21 Oct 2024 07:32:28 GMT
+Cache-Control: max-age=3600
+Cache-Control: public, max-age=31536000
+X-Redirect-By: WordPress
+Set-Cookie: wordpress_test_cookie=WP%20Cookie%20check; path=/
+Location: https://steeringlaw.com/robots.txt
+X-Cache-Status: MISS

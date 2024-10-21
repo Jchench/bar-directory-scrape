@@ -1,0 +1,11 @@
+Date: Mon, 21 Oct 2024 05:20:38 GMT
+Content-Type: text/html
+Location: https://barbozaassociates.com/
+Content-Security-Policy: upgrade-insecure-requests
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Dqj7ypETlbwpTOmtZZHiC9M03qW5D10b06Upw%2BCD9A5ToWiDeSD9%2F0pMSm6wXdshEwmBGd%2FQxcWQqsAnQDcfG1ZuCZQaTLIbjpjxqYFoBFe2fdQoFxG7gnvXxT%2Ba7JU4WolSqOVsIFP8BYZP"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5eccac19ef2af2-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17518&sent=8&recv=8&lost=0&retrans=0&sent_bytes=3947&recv_bytes=1103&delivery_rate=208360&cwnd=234&unsent_bytes=0&cid=c7df1b2cec64d1f2&ts=4545&x=0"

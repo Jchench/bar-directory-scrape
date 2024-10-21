@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 06:30:52 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://reddingcriminaldefenseattorney.com/robots.txt
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Vary: Accept-Encoding
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=kYnBhUfYK5DzugoD%2BhZThwBNyeZjW3LjgXjtNDCzJ2pL5lWCkjiOw0bWQ85IpEPlCQaWipbsWL4n7q5ROQK99DXZcAl596%2Bjj8mO9CFpJYRXlXGLuHZlOY2X8zcPnDsl%2F5Qyb5LDMeLVW8b00Ld5Xf96%2FDiu6TNA0g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f33918a3d6387-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=24205&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2376&recv_bytes=868&delivery_rate=271491&cwnd=183&unsent_bytes=0&cid=4441b9d30724d55c&ts=616&x=0"

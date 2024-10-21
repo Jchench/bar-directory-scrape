@@ -1,0 +1,23 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 05:12:45 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Pingback: https://www.weinstocklaw.com/xmlrpc.php
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Referrer-Policy: strict-origin-when-cross-origin
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), encrypted-media=(), fullscreen=(), geolocation=(), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+Link: <https://www.weinstocklaw.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.weinstocklaw.com/wp-json/wp/v2/pages/171>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.weinstocklaw.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 15
+X-Cache-Group: bot
+Content-Encoding: gzip

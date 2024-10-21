@@ -1,0 +1,22 @@
+Content-Length: 142
+Cache-Control: public, max-age=600
+Content-Type: text/plain; charset=utf-8
+Link: <https://www.accela.com/wp-json/>; rel="https://api.w.org/"
+Referrer-Policy: no-referrer-when-downgrade
+Server: nginx
+Strict-Transport-Security: max-age=31622400
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Pantheon-Styx-Hostname: styx-fe4-b-7f998d8f5-dbdts
+X-Robots-Tag: noindex, follow
+X-Styx-Req-Id: 4ae35f90-8f75-11ef-93f1-eeb635b720b1
+X-Xss-Protection: 1; mode=block
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish, 1.1 varnish, 1.1 varnish
+Date: Mon, 21 Oct 2024 06:25:40 GMT
+X-Served-By: cache-chi-klot8100061-CHI, cache-chi-klot8100117-CHI, cache-chi-klot8100117-CHI
+X-Cache: MISS, MISS, MISS
+X-Cache-Hits: 0, 0, 0
+X-Timer: S1729491940.197672,VS0,VE163
+Vary: Accept-Encoding

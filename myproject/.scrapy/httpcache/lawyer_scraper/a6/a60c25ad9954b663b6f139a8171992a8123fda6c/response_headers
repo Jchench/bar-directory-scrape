@@ -1,0 +1,18 @@
+Content-Length: 128
+Date: Mon, 21 Oct 2024 05:27:56 GMT
+Content-Type: text/plain; charset=utf-8
+X-Robots-Tag: noindex, follow
+Link: <https://www.amendtlaw.com/wp-json/>; rel="https://api.w.org/"
+Cache-Control: max-age=172800
+Expires: Wed, 23 Oct 2024 05:27:55 GMT
+Vary: Accept-Encoding,User-Agent
+Content-Encoding: gzip
+Cf-Cache-Status: MISS
+Last-Modified: Mon, 21 Oct 2024 05:27:56 GMT
+Accept-Ranges: bytes
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=%2BZVJWvoNaJx2cLzzpgvoUp7VnYvzM71ecL9uewRnD7FYiKNTFVJ%2FYoE4EmNuAjwFPZvWNHqJb96I5lV%2BmqBN%2Fc9MGe8uatBsGTwP5PlodPV4l5k3HGASkKQtaf0NG68wlY9iug%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed7600d985c90-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17444&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2829&recv_bytes=847&delivery_rate=202333&cwnd=191&unsent_bytes=0&cid=9757f1f9e3dbfc15&ts=387&x=0"

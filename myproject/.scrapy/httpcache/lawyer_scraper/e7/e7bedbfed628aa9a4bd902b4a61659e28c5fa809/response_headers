@@ -1,0 +1,23 @@
+Date: Mon, 21 Oct 2024 05:15:16 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://nlsla.org/wp-json/>; rel="https://api.w.org/"
+Link: <https://nlsla.org/wp-json/wp/v2/pages/241>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://nlsla.org/>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://nlsla.org/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://nlsla.org
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 6
+X-Cache-Group: bot
+Content-Security-Policy: upgrade-insecure-requests
+Cf-Cache-Status: DYNAMIC
+Server: cloudflare
+Cf-Ray: 8d5ec4d17da26082-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

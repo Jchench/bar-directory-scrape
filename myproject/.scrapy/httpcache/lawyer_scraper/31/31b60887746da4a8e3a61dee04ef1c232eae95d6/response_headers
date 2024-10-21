@@ -1,0 +1,21 @@
+Date: Mon, 21 Oct 2024 06:39:14 GMT
+Content-Type: text/html; charset=UTF-8
+Accept-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Critical-Ch: Sec-CH-UA-Bitness, Sec-CH-UA-Arch, Sec-CH-UA-Full-Version, Sec-CH-UA-Mobile, Sec-CH-UA-Model, Sec-CH-UA-Platform-Version, Sec-CH-UA-Full-Version-List, Sec-CH-UA-Platform, Sec-CH-UA, UA-Bitness, UA-Arch, UA-Full-Version, UA-Mobile, UA-Model, UA-Platform-Version, UA-Platform, UA
+Cross-Origin-Embedder-Policy: require-corp
+Cross-Origin-Opener-Policy: same-origin
+Cross-Origin-Resource-Policy: same-origin
+Origin-Agent-Cluster: ?1
+Permissions-Policy: accelerometer=(),autoplay=(),browsing-topics=(),camera=(),clipboard-read=(),clipboard-write=(),geolocation=(),gyroscope=(),hid=(),interest-cohort=(),magnetometer=(),microphone=(),payment=(),publickey-credentials-get=(),screen-wake-lock=(),serial=(),sync-xhr=(),usb=()
+Referrer-Policy: same-origin
+X-Content-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Cf-Mitigated: challenge
+Cf-Chl-Out: Tp5Tv/9k2hha+GIIpJm5o95oWkkes1gY3JcZ/9t4LxI2oQR6GQUY1ecP1Kvrj5fH4a4noh9nZ7EYgT4omP0PDVApv1jnjXo7Jo1MmyWT2U3evToBOU82OD/BFhVrMXYy/mLk2XpxqjOme+lwle9aYg==$lQQj3zMtbHzQboS3kIbwbw==
+Cache-Control: max-age=900
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Set-Cookie: __cf_bm=lYjqKcbfrWtyPRtrikAYtQsh5nRqmD5yVsdnOP95GnY-1729492754-1.0.1.1-WyhQaHrn7sWSXIBWCvXmn6lEQzflIS2qo3fcwavQ8YK5DEUYaBHTQVl.GLR_LeAO2Vm7uD1TmyI_a3ldKxGmsg; path=/; expires=Mon, 21-Oct-24 07:09:14 GMT; domain=.www.dordicklaw.com; HttpOnly; Secure; SameSite=None
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f3fd3deb5619f-ORD
+Content-Encoding: gzip

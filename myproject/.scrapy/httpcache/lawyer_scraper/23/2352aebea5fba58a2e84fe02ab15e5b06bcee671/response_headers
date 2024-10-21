@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:22:08 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Link: <https://donaldsoncallifperez.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 2
+X-Cache-Group: bot
+Cf-Cache-Status: HIT
+Age: 6274
+Last-Modified: Mon, 21 Oct 2024 04:37:34 GMT
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=a10Qvq7oXjMLrgH1OCez2TkvyuMVDaLFs%2Bi8v1Gbv33%2BwXhIZF1bE702OnbOYNxl%2FCGJi3PFaW4L6M9nRwzMCIyHsvmdxG9%2BU4EZtOWFFrwm4xKz9bEq6pk2Jk42ofROvB6LL4XCJWYmnig%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f26c8ca16113e-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18672&sent=3&recv=5&lost=0&retrans=0&sent_bytes=2864&recv_bytes=854&delivery_rate=124757&cwnd=227&unsent_bytes=0&cid=f6779c8de32e73b8&ts=735&x=0"

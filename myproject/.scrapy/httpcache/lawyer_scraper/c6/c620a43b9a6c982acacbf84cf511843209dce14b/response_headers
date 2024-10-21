@@ -1,0 +1,11 @@
+Date: Mon, 21 Oct 2024 05:36:45 GMT
+Content-Type: text/html
+Location: https://bumpykanahele.com/
+Vary: Accept-Encoding
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=W0I77rV8%2B4q2PLx9ZtussvQ3Tgetef%2FAb66zsZDiZ0c6Vaoz6kr9XimjFFRD%2F1N%2FaYlrWOBlsZ7z71WFSsCi1H00hkUlgvjmu5MUo1WFUvs5k5m3Z0c0b4uohtb3sZaWDnCfbyg%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ee44dcde513cb-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17497&sent=8&recv=8&lost=0&retrans=0&sent_bytes=4973&recv_bytes=1089&delivery_rate=326420&cwnd=242&unsent_bytes=0&cid=fc47d35ae504fe70&ts=9980&x=0"

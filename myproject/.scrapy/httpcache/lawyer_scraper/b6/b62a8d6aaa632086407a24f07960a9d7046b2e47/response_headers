@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729491082.3081425171251362772
+Html-Cacheable: true
+Etag: W/"d1c9f92fbd7d522525cdb7aa1d1ad2eb"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729491083|GLOBiuXhEsgW; Path=/; Domain=www.calhounlawfirm.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:11:23 GMT
+X-Served-By: cache-chi-kigq8000031-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,jKB0KR2wTEE1MYSdxvKSbciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLuKm1ZjblSPwIJojBzuX7KYa0sM5c8dDUFHeNaFq0qDu,2d58ifebGbosy5xc+FRalmviTmVSl9F+F601hCQpaL2nygh7vOl3Fvzybe9pvDff0ipxkS5lyEEczH5yFcgzXg==,2UNV7KOq4oGjA5+PKsX47B1ANU/aY3kA+J3E1oSuFO5YgeUJqUXtid+86vZww+nL,yjl+3i4ewmndURL19eJvoxbByJA9NHlicUtjNWo9tRs=,updaSF0YDozocDRTgMoSR3P0Zd0lJaXX9kVbmPX6p4mJ9sk86Y0aa66ACt+Wv8FstZHn/cXx7C3owR9F4b/fDg==,92x85xT3K2kKmbeSe66tNG0JyRznTpHUdI6gXZBEpr0=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326rbrm0mb/eEycr2uzV9Nbf5FGaD0QwXHUugBYPrO9DzTQ==,3/G75g/Ccrnvo6tL2FCOJEJ9UB5+1CRPXAz5laMoKLo=,bamBRVWSlN/v1ZTIwXGEoAH9zHSvkB00bBqiLAGEjjDKbtuHQyal9xyfyZJu5tTZZ4jDcA0Mqk4wGKI0viskRA==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

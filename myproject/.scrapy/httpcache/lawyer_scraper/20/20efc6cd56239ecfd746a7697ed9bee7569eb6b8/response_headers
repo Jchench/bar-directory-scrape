@@ -1,0 +1,22 @@
+Date: Mon, 21 Oct 2024 06:20:13 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://warriorone.com/
+X-Redirect-By: WordPress
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Pre-Cognitive-Push: Enabled
+Quantum-Flux-Capacity: Omega
+Strict-Transport-Security: max-age=31536000
+Cache-Control: public, no-cache
+Referrer-Policy: strict-origin-when-cross-origin
+X-Grid-Srcache-Ttl: 2592000
+X-Grid-Srcache-Fetch: HIT
+X-Grid-Srcache-Store: BYPASS
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=1Y0zpeYgdkCMjUJF9b0wJM01rydyccX1PKmzKLswq4%2FSCS5fNw7T9CQrAl%2BaKct6bUlOJJeD6XSI%2BMqieasHRa1siMMTX37iOKVWenweo04uklat%2BJsBXLeGhxOnVHWjp%2F5EV64%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f23f5fe30609c-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=27058&sent=8&recv=9&lost=0&retrans=1&sent_bytes=4837&recv_bytes=1089&delivery_rate=152541&cwnd=214&unsent_bytes=0&cid=eb582d680268160d&ts=3176&x=0"

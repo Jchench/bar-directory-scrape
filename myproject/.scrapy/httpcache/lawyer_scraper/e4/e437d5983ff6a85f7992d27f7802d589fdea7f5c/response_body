@@ -1,0 +1,179 @@
+<!DOCTYPE HTML>
+<!--
+	Epilogue by TEMPLATED
+	templated.co @templatedco
+	Released for free under the Creative Commons Attribution 3.0 license (templated.co/license)
+-->
+<html>
+	<head>
+		<title>Evans - Silver</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+                <link rel="icon" type="image/png"  href="https://evans-silver.com/favicon.png">
+
+        
+        <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
+
+
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><style type="text/css">
+<!--
+body {
+	background-image: url(images/banner.jpg);
+	background-repeat: no-repeat;
+		background-size: cover;
+}
+-->
+</style>
+
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+
+<script async src="https://www.googletagmanager.com/gtag/js?id=UA-172375632-1"></script>
+
+<script>
+
+  window.dataLayer = window.dataLayer || [];
+
+  function gtag(){dataLayer.push(arguments);}
+
+  gtag('js', new Date());
+
+ 
+
+  gtag('config', 'UA-172375632-1');
+
+</script>
+
+
+</head>
+	<body>
+
+		<!-- Header -->
+			<header id="header" class="alt">
+			  <div class="inner">
+					<h1>Evans - Silver</h1>
+                 <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:Bill@Evans-Silver.com">Bill@Evans-Silver.com</a>  &nbsp;&nbsp
+                                  <i class="fas fa-envelope"></i>&nbsp;<a href="mailto:Greg@Evans-Silver.com">Greg@Evans-Silver.com</a>  &nbsp;&nbsp
+                                  <br>
+
+                 <i></i>&nbsp;(P) 562-439-9001&nbsp;&nbsp		<i ></i>&nbsp;(F) 562-439-9002	  </div>
+			</header>
+
+		<!-- Wrapper -->
+			<div id="wrapper2">
+            
+            
+            <br>
+            
+            
+            			<!-- Banner --><!-- Items -->
+	  <section class="main items">
+      	<ul class="actions2">
+								<li><a href="index.html" class="button">Home</a></li>
+                                <li><a href="evan.html" class="button">Bill Evans</a></li>
+                                <li><a href="greg.html" class="button">Greg Silver</a></li>
+                                <li><a href="contact/index.html" class="button">Contact</a></li>
+							</ul>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            			<section id="main" class="main">
+						<header>
+							<h2>WILLIAM D. EVANS AND GREGORY S. SILVER</h2>
+						</header>
+						<p>William D. Evans and Gregory S. Silver have been practicing law in the City of Long Beach collectively for
+almost 90 years and the firm today continues to enjoy a "preeminent" rating among its peers as one of Long
+Beach's best-rated law firms. Representing clients throughout the United States and Canada, the Evans &
+Silver attorneys and their staff pride themselves on their experience, successful outcomes and quality long
+term relationships they enjoy with the people of their city, schools, civic institutes and offices throughout city
+management. 
+<br><br>
+ 
+The attorneys at Evans & Silver have the knowledge and experience to address a wide range of legal
+challenges at a reasonable cost to its clients. If at any time they feel the your legal challenges would be better
+placed with another attorney or firm, they’ll help you find the right quality representation and counsel. </p>
+
+
+<p>Providing basic legal counseling to full litigation services, the Evans & Silver attorneys and office staff work in
+the following areas:
+
+<ul><li>PERSONAL INJURY INCLUDING CATASTROPHIC INJURY CASES</li>
+<li>FAMILY LAW </li>
+<li>BUSINESS & COMMERCIAL LAW</li>
+<li>CRIMINAL LAW</li>
+<li>EMPLOYMENT & LABOR LAW</li>
+<li>REAL ESTATE LAW</li>
+<li>PROBATE & ESTATE ADMINISTRATION </li>
+
+
+</ul></p>
+					</section>
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+            
+
+	
+      
+      
+      
+						<article class="item">
+							<header>
+								<a href="evan.html"><img src="images/bill2.jpg" alt="Best Long Beach Lawyer" /></a>
+						
+							</header>
+						
+					  <ul class="actions">
+								<li><a href="evan.html" class="button">William D. Evans - Biography</a></li>
+							</ul>
+						</article>
+						<article class="item">
+							<header>
+								<a href="greg.html"><img src="images/greg.jpg" alt="Best Long Beach Lawyer" /></a>
+					
+							</header>
+							
+							<ul class="actions">
+								<li><a href="greg.html" class="button">Greg Silver - Biography</a></li>
+							</ul>
+		</article>
+	  </section>
+
+				<!-- CTA --><!-- Main -->
+				
+
+
+				<!-- Footer -->
+	  
+	</div>
+
+<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/skel.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>

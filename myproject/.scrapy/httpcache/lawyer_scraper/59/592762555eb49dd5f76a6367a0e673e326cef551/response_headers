@@ -1,0 +1,38 @@
+Access-Control-Allow-Headers: Content-Type, Authorization
+Access-Control-Allow-Methods: GET,POST
+Cache-Control: public, max-age=604800
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests; frame-ancestors 'none';
+Content-Type: text/html; charset=UTF-8
+Cross-Origin-Embedder-Policy: unsafe-none; report-to='default'
+Cross-Origin-Embedder-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Opener-Policy: unsafe-none
+Cross-Origin-Opener-Policy-Report-Only: unsafe-none; report-to='default'
+Cross-Origin-Resource-Policy: cross-origin
+Link: <https://www.stevenslee.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.stevenslee.com/wp-json/wp/v2/pages/53>; rel="alternate"; title="JSON"; type="application/json"
+Link: <https://www.stevenslee.com/>; rel=shortlink
+Permissions-Policy: accelerometer=(), autoplay=(), camera=(), cross-origin-isolated=(), display-capture=(self), encrypted-media=(), fullscreen=*, geolocation=(self), gyroscope=(), keyboard-map=(), magnetometer=(), microphone=(), midi=(), payment=*, picture-in-picture=*, publickey-credentials-get=(), screen-wake-lock=(), sync-xhr=*, usb=(), xr-spatial-tracking=(), gamepad=(), serial=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: nginx
+Set-Cookie: 1uga2j4l=x9tvsl60lb39; expires=Sat, 26 Oct 2024 06:27:13 GMT; Max-Age=432000; path=/; domain=www.stevenslee.com; secure; HttpOnly
+Set-Cookie: pqikkciy=bcowmdcsalbd; expires=Sat, 26 Oct 2024 06:27:13 GMT; Max-Age=432000; path=/; domain=www.stevenslee.com; secure; HttpOnly
+Set-Cookie: 102q2sff=fgluhcol8ig9; expires=Sat, 26 Oct 2024 06:27:13 GMT; Max-Age=432000; path=/; domain=www.stevenslee.com; secure; HttpOnly
+Set-Cookie: 85ycxb25=70ivrnnhojoh; expires=Sat, 26 Oct 2024 06:27:13 GMT; Max-Age=432000; path=/; domain=www.stevenslee.com; secure; HttpOnly
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+Strict-Transport-Security: max-age=300
+X-Content-Security-Policy: default-src 'self'; img-src *; media-src * data:;
+X-Content-Type-Options: nosniff
+X-Frame-Options: DENY
+X-Pantheon-Styx-Hostname: styx-fe4-a-746c76f549-tmsbz
+X-Permitted-Cross-Domain-Policies: none
+X-Styx-Req-Id: 8214e470-8f75-11ef-b7f5-4a99526bc4d8
+Date: Mon, 21 Oct 2024 06:27:13 GMT
+X-Served-By: cache-chi-kigq8000150-CHI
+X-Cache: MISS
+X-Cache-Hits: 0
+X-Timer: S1729492033.803975,VS0,VE579
+Vary: Accept-Encoding, Cookie
+Age: 0
+Accept-Ranges: bytes
+Via: 1.1 varnish

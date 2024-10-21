@@ -1,0 +1,19 @@
+Content-Length: 44
+Server: openresty
+Date: Mon, 21 Oct 2024 05:32:34 GMT
+Content-Type: text/plain
+Accept-Ranges: bytes
+Age: 53265
+Content-Encoding: gzip
+Etag: W/"18-5ec78569e5140"
+Last-Modified: Wed, 02 Nov 2022 08:07:57 GMT
+Vary: Accept-Encoding
+X-Cache: cached
+X-Cache-Hit: HIT
+X-Cacheable: YES
+X-Cacheproxy-Retries: 0/2
+X-Content-Type-Options: nosniff
+X-Php-Version: 8.0
+X-Xss-Protection: 1; mode=block
+X-Backend: varnish_ssl
+Strict-Transport-Security: max-age=31536000; includeSubDomains

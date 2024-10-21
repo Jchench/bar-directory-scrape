@@ -1,0 +1,21 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:27:08 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Powered-By: WP Engine
+Link: <https://pubdef.lacounty.gov/wp-json/>; rel="https://api.w.org/"
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://pubdef.lacounty.gov/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://pubdef.lacounty.gov
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Content-Encoding: gzip
+Set-Cookie: visid_incap_2161623=sxhchJUfSc+BIN9ACyWO+Tv0FWcAAAAAQUIPAAAAAAB9n2apFIfMaOoqfiXVgUye; expires=Mon, 20 Oct 2025 08:37:59 GMT; HttpOnly; path=/; Domain=.lacounty.gov
+Set-Cookie: nlbi_2161623=hUiMNaHmO3iJwRj7s+CBPAAAAAC/r5noV4XJ+ZICZnTAEtsY; HttpOnly; path=/; Domain=.lacounty.gov
+Set-Cookie: incap_ses_1226_2161623=CPSvXqdHmka1/IpuraADETv0FWcAAAAARTzqn7ufYPRlUMW7hRJJ9A==; path=/; Domain=.lacounty.gov
+X-Cdn: Imperva
+X-Iinfo: 7-136392000-136392020 NNNN CT(62 63 0) RT(1729492026730 390) q(0 0 1 1) r(2 8) U18

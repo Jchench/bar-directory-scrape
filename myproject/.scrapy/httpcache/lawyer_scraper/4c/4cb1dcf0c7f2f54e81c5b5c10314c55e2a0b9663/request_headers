@@ -1,0 +1,5 @@
+Accept: text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8
+Accept-Language: en
+User-Agent: Scrapy/2.11.2 (+https://scrapy.org)
+Accept-Encoding: gzip, deflate
+Cookie: HandLtestDomainNameServer=HandLtestDomainValueServer; handl_landing_page=https%3A%2F%2Fwww.caseygerry.com%2Frobots.txt; handl_ip=67.173.84.89; handl_url_base=https%3A%2F%2Fwww.caseygerry.com%2F; handl_url=https%3A%2F%2Fwww.caseygerry.com%2F; user_agent=Scrapy%2F2.11.2%20%28%2Bhttps%3A%2F%2Fscrapy.org%29

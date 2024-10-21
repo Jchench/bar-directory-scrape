@@ -1,0 +1,15 @@
+Content-Length: 0
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 06:41:42 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 20018
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+X-Redirect-By: WordPress
+Vary: X-Forwarded-Proto,Accept-Encoding
+Location: http://smcdslaw.com/robots.txt
+Cache-Control: max-age=315360000
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+X-Sucuri-Cache: MISS

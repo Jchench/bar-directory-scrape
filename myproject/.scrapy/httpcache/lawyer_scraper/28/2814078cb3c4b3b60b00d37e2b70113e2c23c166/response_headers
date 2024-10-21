@@ -1,0 +1,16 @@
+Date: Mon, 21 Oct 2024 06:34:50 GMT
+Content-Type: text/html; charset=UTF-8
+X-Dns-Prefetch-Control: on
+X-Redirect-By: WordPress
+Location: https://pagelawyers.com/
+X-Litespeed-Cache-Control: public,max-age=604800
+X-Litespeed-Tag: 473_HTTP.200,473_HTTP.301,473_front,473_URL.6666cd76f96956469e7be39d750cc7d9,473_F,473_Po.12,473_PGS,473_guest,473_
+X-Litespeed-Cache: miss
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=KQeytFDpBgerkevE9e1%2B24KF72Ssjl5Yj%2F1UZr71riJ0wr3bkl8x4k3Gy56Ty%2FRPuIRvJFaN4tjyXWP7ncYQvjYYKxr5iATieJjqPmtq%2Bh3eExk7j3yPs6JlFsCcLEiP6fnBEstj"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5f395f0e816175-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16282&sent=7&recv=8&lost=0&retrans=0&sent_bytes=4466&recv_bytes=1091&delivery_rate=242383&cwnd=244&unsent_bytes=0&cid=c445d7fd82841f98&ts=2863&x=0"

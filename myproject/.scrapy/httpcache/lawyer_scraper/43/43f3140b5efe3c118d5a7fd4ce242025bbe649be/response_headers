@@ -1,0 +1,17 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:22:43 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Expires: Thu, 19 Nov 1981 08:52:00 GMT
+Link: <https://www.mccormickbarstow.com/wp-json/>; rel="https://api.w.org/"
+Link: <https://www.mccormickbarstow.com/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 4
+X-Cache-Group: bot
+Content-Security-Policy: upgrade-insecure-requests
+Content-Encoding: gzip

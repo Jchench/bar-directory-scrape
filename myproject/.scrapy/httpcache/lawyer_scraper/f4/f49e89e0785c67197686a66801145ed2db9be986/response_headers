@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 05:12:34 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://kornreichpersonalinjurylaw.com/robots.txt
+X-Litespeed-Cache: miss
+X-Turbo-Charged-By: LiteSpeed
+Cf-Cache-Status: BYPASS
+Set-Cookie: apbct_timestamp=1729487554; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_landing_ts=1729487554; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_page_hits=1; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_cookies_test=%257B%2522cookies_names%2522%253A%255B%2522apbct_timestamp%2522%252C%2522apbct_site_landing_ts%2522%252C%2522apbct_page_hits%2522%255D%252C%2522check_value%2522%253A%25227d8c327e6a143c9e461de2bcff1bfbdc%2522%257D; path=/; secure; HttpOnly; SameSite=Lax
+Set-Cookie: apbct_site_referer=UNKNOWN; expires=Thu, 24-Oct-2024 05:12:34 GMT; Max-Age=259200; path=/; domain=kornreichpersonalinjurylaw.com; secure; HttpOnly; SameSite=Lax
+Set-Cookie: ct_sfw_pass_key=28f43abf9dda1fba083d1462dcf7da740; expires=Wed, 20-Nov-2024 05:12:34 GMT; Max-Age=2592000; path=/; secure; SameSite=Lax
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=Ey8KQLQrfzkHAhZmm4oWFJbRhdspegReMCsy1D168eoVOwbWnTLeTfSj8%2Fbg8oTz6WIvEjeNdA2KmXUwZEXbPNrtlFWB1kF77XI%2FL7fP%2FC%2F0gE35l8otcy1R5tMlxxx6NWZPdAJqvfr1oPNQmNmoPD6XsLy9"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ec0dc08331401-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=20810&sent=5&recv=6&lost=0&retrans=0&sent_bytes=2881&recv_bytes=864&delivery_rate=183349&cwnd=216&unsent_bytes=0&cid=5c9a96a851f44893&ts=726&x=0"

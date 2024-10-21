@@ -1,0 +1,18 @@
+Content-Length: 114
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 06:26:15 GMT
+Content-Type: text/plain; charset=utf-8
+X-Sucuri-Id: 20007
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=31536000
+Content-Security-Policy: upgrade-insecure-requests;
+Content-Security-Policy: upgrade-insecure-requests;
+Referrer-Policy: strict-origin-when-cross-origin
+Link: <https://maryharrislaw.com/wp-json/>; rel="https://api.w.org/"
+Vary: Accept-Encoding
+Content-Encoding: gzip
+Expires: Thu, 31 Dec 2037 23:55:55 GMT
+Cache-Control: max-age=315360000
+X-Sucuri-Cache: MISS

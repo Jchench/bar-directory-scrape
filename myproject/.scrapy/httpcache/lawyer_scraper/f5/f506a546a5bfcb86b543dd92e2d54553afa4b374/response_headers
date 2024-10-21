@@ -1,0 +1,11 @@
+Date: Mon, 21 Oct 2024 06:29:13 GMT
+Content-Type: text/html
+Location: https://intermedia-advertising.com/robots.txt
+Expires: Thu, 01 Jan 1970 00:00:01 GMT
+Cache-Control: max-age=120
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=NhHm5cyPI8GwY9%2Fv29c5nqW0vBuWx1oVZerVcsf6IAW20bCr8gCs8QvtN4BY5O%2BFDXQ%2F5oCErzUlutH2CrIp7Svj2Ppz%2BzghokC73V%2Bb63Z0hpfOvK1gfNttfNp%2FyRbf%2BEmv7kCLP3ykMTOODhVpxw%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f3125df5de261-ORD

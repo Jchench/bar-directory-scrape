@@ -1,0 +1,11 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 05:33:46 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 06:33:46 GMT
+Location: https://burger-pierce.com
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=fBhzYB0rPnBGj58m1YfvC2VuG%2BHQ25hEl%2BvcPvLdLZ6eugnQzPeb%2FRMAtxTdWgmlkRu1hy7RVSRUfSXHvqcyL65SlmNfSB0JYpeh3AFGP61QvF9y41D8ufLUB3a2i0KhdT%2F6bGDvzr4%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5edfec784a61fc-ORD

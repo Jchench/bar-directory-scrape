@@ -1,0 +1,14 @@
+Content-Length: 191
+Date: Mon, 21 Oct 2024 05:11:45 GMT
+Server: nginx/1.23.4
+Content-Type: text/plain
+Last-Modified: Mon, 18 Apr 2022 23:26:29 GMT
+Accept-Ranges: bytes
+Cache-Control: max-age=21600
+Expires: Mon, 21 Oct 2024 11:11:45 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

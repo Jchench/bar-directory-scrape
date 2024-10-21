@@ -1,0 +1,11 @@
+Content-Length: 42892
+Date: Mon, 21 Oct 2024 05:16:42 GMT
+Server: Apache
+Vary: Accept-Encoding,Cookie,User-Agent
+Link: <https://fagellaw.com/wp-json/>; rel="https://api.w.org/", <https://fagellaw.com/wp-json/wp/v2/pages/10>; rel="alternate"; title="JSON"; type="application/json", <https://fagellaw.com/>; rel=shortlink
+Cache-Control: private, proxy-revalidate, s-maxage=0
+Cache-Control: max-age=600
+Cf-Edge-Cache: no-cache
+Expires: Mon, 21 Oct 2024 05:26:42 GMT
+Content-Encoding: gzip
+Content-Type: text/html; charset=UTF-8

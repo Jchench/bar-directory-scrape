@@ -1,0 +1,9 @@
+Content-Length: 245
+Date: Mon, 21 Oct 2024 05:11:43 GMT
+Server: nginx/1.23.4
+Content-Type: text/html; charset=iso-8859-1
+Location: https://www.mbkchapman.com/robots.txt
+Cache-Control: max-age=7200
+Expires: Mon, 21 Oct 2024 07:11:43 GMT
+X-Server-Cache: true
+X-Proxy-Cache: EXPIRED

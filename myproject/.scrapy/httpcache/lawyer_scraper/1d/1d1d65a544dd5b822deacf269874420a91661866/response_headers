@@ -1,0 +1,20 @@
+Date: Mon, 21 Oct 2024 06:30:33 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://smitherslf.com/robots.txt
+Cf-Ray: 8d5f3315b9616077-ORD
+Cf-Cache-Status: DYNAMIC
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:30:33 GMT
+Ki-Cache-Type: None
+Ki-Cf-Cache-Status: BYPASS
+Ki-Edge: v=20.2.8;mv=3.1.2
+Ki-Origin: g1p
+X-Content-Type-Options: nosniff
+X-Edge-Location-Klb: 1
+X-Kinsta-Cache: MISS
+X-Redirect-By: WordPress
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=wTKCfXKtScRet0H1slKYNKCWKsFUogk2G8yO8oedCWmKHCpfY%2FTVhx0jFS11sxVLTOiMtYnTwx9RsxKjnc5x7%2FOBvVZx3nIBjEP4m68VOLdreZohAkvGkNxKFxVMzMNtWjH20g%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0.01,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Alt-Svc: h3=":443"; ma=86400

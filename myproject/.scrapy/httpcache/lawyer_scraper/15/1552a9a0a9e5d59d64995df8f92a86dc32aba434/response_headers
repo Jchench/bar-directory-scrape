@@ -1,0 +1,13 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 06:39:40 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:39:40 GMT
+Location: https://carlsonnicholas.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=lpCEZvWv512VHViyi60HbqhVEeXT2RdiCfGRkpWwGp6Mi7mbIg0J1RDy3ai950mu8QSF%2BsCH0tifUbAo8QdqbIjwzUxAOk3YyIysdzbKhmUdxg5sCROurVuN6FiTsBFrwYilLEdGg2s8%2BQ%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f407589fe1247-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17310&sent=5&recv=7&lost=0&retrans=0&sent_bytes=4379&recv_bytes=1099&delivery_rate=210449&cwnd=244&unsent_bytes=0&cid=11f758e8b4569414&ts=2429&x=0"

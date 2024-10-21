@@ -1,0 +1,11 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 05:21:37 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 06:21:37 GMT
+Location: https://www.parkermilliken.com
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=xWG0L6DqReQ1UulB3rpGemx6VfsOvMgL2CK0Bx2hMSPY2oBjZrfqttxVq44hckBlOt29%2FWE5CDH15P0aaE9%2FPQBsNpjHvwIqHxYDQtAEj%2FRzhXdTEcPnkd6t9wP3D%2BNm"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5ece1e5ee91173-ORD

@@ -1,0 +1,12 @@
+Content-Length: 217
+Server: nginx
+Date: Mon, 21 Oct 2024 05:29:25 GMT
+Content-Type: text/html; charset=iso-8859-1
+X-Content-Type-Options: nosniff
+Location: https://www.afslaw.com/robots.txt
+Cache-Control: max-age=1209600
+Expires: Mon, 04 Nov 2024 05:29:25 GMT
+X-Request-Id: v-6f5d8a1a-8f6d-11ef-8998-b7b845deaedf
+Age: 0
+Via: varnish
+X-Cache: MISS

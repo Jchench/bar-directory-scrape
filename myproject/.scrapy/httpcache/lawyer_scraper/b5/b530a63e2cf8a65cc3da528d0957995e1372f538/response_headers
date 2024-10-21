@@ -1,0 +1,19 @@
+Date: Mon, 21 Oct 2024 06:39:54 GMT
+Content-Type: text/plain; charset=utf-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+P3P: CP="ALL DSP NID CURa ADMa DEVa HISa OTPa OUR NOR NAV DEM"
+Link: <https://cisloandthomas.com/wp-json/>; rel="https://api.w.org/"
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=14400, must-revalidate
+X-Cache: HIT: 1
+X-Cache-Group: bot
+Content-Security-Policy: upgrade-insecure-requests
+Cf-Cache-Status: HIT
+Age: 6215
+Last-Modified: Mon, 21 Oct 2024 04:56:19 GMT
+Server: cloudflare
+Cf-Ray: 8d5f40cc4a5de260-ORD
+Content-Encoding: gzip
+Alt-Svc: h3=":443"; ma=86400

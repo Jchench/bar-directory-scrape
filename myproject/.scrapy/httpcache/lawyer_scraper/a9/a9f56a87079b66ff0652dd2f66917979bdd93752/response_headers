@@ -1,0 +1,9 @@
+Date: Mon, 21 Oct 2024 05:30:05 GMT
+Server: Apache
+X-Redirect-By: WordPress
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Set-Cookie: bp_user-role=guest; expires=Wed, 30-Jun-2038 05:30:06 GMT; Max-Age=432000000; path=/
+Set-Cookie: bp_user-registered=0; expires=Wed, 30-Jun-2038 05:30:06 GMT; Max-Age=432000000; path=/
+Location: https://flmic.com/
+Content-Type: text/html; charset=UTF-8

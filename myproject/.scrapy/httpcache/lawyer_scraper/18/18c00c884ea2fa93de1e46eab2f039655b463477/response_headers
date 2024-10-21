@@ -1,0 +1,24 @@
+Content-Type: text/html; charset=UTF-8
+Link: <https://static.parastorage.com/>; rel=preconnect; crossorigin;,<https://static.parastorage.com/>; rel=preconnect;,<https://static.wixstatic.com/>; rel=preconnect; crossorigin;,<https://static.wixstatic.com/>; rel=preconnect;,<https://siteassets.parastorage.com>; rel=preconnect; crossorigin;,
+X-Wix-Request-Id: 1729492202.706142516026288504
+Html-Cacheable: true
+Etag: W/"bb27c63e52bb23724cf95453383471eb"
+Content-Language: en
+Strict-Transport-Security: max-age=86400
+Age: 0
+Set-Cookie: XSRF-TOKEN=1729492203|OyAEO_MIbjkP; Path=/; Domain=www.harrishospitalitylaw.com; Secure; SameSite=None
+Set-Cookie: ssr-caching=cache#desc=miss#varnish=miss_miss#dc#desc=fastly_42_g; max-age=20
+Cache-Control: private,max-age=0,must-revalidate
+Server: Pepyaka
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:30:03 GMT
+X-Served-By: cache-chi-klot8100031-CHI
+X-Cache: MISS
+Vary: Accept-Encoding
+Server-Timing: cache;desc=miss, varnish;desc=miss_miss, dc;desc=fastly_42_g
+X-Seen-By: yvSunuo/8ld62ehjr5B7kA==,jKB0KR2wTEE1MYSdxvKSbciHE4dbw+wewoJ5nvKoyjE=,m0j2EEknGIVUW/liY8BLLl77sBeKLtHVaXbFQUDNQYPu/2EjeiyKjB/JVOb8T5Ve,2d58ifebGbosy5xc+FRalmviTmVSl9F+F601hCQpaL2nygh7vOl3Fvzybe9pvDff0ipxkS5lyEEczH5yFcgzXg==,2UNV7KOq4oGjA5+PKsX47HLFaI6iNJWKbgg2rxnh6ipYgeUJqUXtid+86vZww+nL,cHRtQrknGItGja64/E4ONwqchA0VEAROgOj6VgeSDvY=,updaSF0YDozocDRTgMoSR1BR5P0wTWNfYH7b935M50/yno9WWZ+tWJkay0UtNckb4hvFGeMPF5fdfHOa7VknIA==,hvPRs9vLVE5vQlwEzdMO69idPiiu7q51+NQVr5FVfa4=,LoUK8/saGAmOxZWtpubo2nxCN6pZRaAO+mlFK8X326oU2VZePBcmuVUE26t21P65ZoTgfK2Zaspyb6Pl2z0jNA==,OBKtClccko9IfjkunaOFtGkkaKo168gT4bU4q37xh94=,bamBRVWSlN/v1ZTIwXGEoDD17pSgsK7pDXROccAbv3+Lr4qfZJjqcplnSheeQeUIcgdsJrzCeY4XeLIi+HnjZA==
+Via: 1.1 google
+Glb-X-Seen-By: bS8wRlGzu0Hc+WrYuHB8QIg44yfcdCMJRkBoQ1h6Vjc=
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

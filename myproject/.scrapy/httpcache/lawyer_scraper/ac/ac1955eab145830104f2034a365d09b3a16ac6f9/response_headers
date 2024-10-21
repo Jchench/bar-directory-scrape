@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 06:22:06 GMT
+Content-Type: text/html; charset=UTF-8
+Location: https://donaldsoncallifperez.com/robots.txt
+X-Redirect-By: WordPress
+X-Powered-By: WP Engine
+X-Cacheable: CacheAlways: forever
+Cache-Control: max-age=86400, must-revalidate
+X-Cache: MISS
+X-Cache-Group: bot
+Cf-Cache-Status: MISS
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=0Ej6iFGfND9a1KibrOil9mNrjy3sz3phOH3uQ%2FajmnJkqKtVxZkWUzuBfeORRd5iWqQqLyUkq3lv%2FjMrvrfbDAFXYt9yKJ18RrtucQRxIaaUnuSE5FoaJtHKzzkiNaPLhpOV5deOOVE5P3Wh7YpS"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f26b7de03acaa-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=18686&sent=4&recv=5&lost=0&retrans=0&sent_bytes=2864&recv_bytes=858&delivery_rate=121166&cwnd=229&unsent_bytes=0&cid=8f5f16438c4fccd2&ts=849&x=0"

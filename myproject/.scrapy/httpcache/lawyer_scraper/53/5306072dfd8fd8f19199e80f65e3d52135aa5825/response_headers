@@ -1,0 +1,31 @@
+Date: Mon, 21 Oct 2024 06:28:53 GMT
+Content-Type: text/plain; charset=UTF-8
+Cache-Control: public, max-age=31536000
+X-Drupal-Dynamic-Cache: MISS
+Content-Language: en
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+Expires: Tue, 21 Oct 2025 06:28:53 GMT
+Last-Modified: Sun, 20 Oct 2024 05:40:21 GMT
+Etag: W/"1729402821"
+Vary: X-Geo-Country, Accept-Encoding
+X-Generator: Drupal 10 (https://www.drupal.org)
+Content-Security-Policy: report-uri /report-csp-violation; upgrade-insecure-requests
+X-Content-Security-Policy: report-uri /report-csp-violation; upgrade-insecure-requests
+X-Webkit-Csp: report-uri /report-csp-violation; upgrade-insecure-requests
+X-Xss-Protection: 1; mode=block
+Strict-Transport-Security: max-age=1000; includeSubDomains; preload
+From-Origin: same
+Referrer-Policy: same-origin
+Expect-Ct: max-age=86400, enforce
+Feature-Policy: 
+X-Drupal-Cache: MISS
+X-Request-Id: v-cbfe0970-8ea5-11ef-bdcf-d7888495edea
+X-Ah-Environment: 01live
+Via: varnish
+X-Cache: MISS
+Cf-Cache-Status: HIT
+Age: 89312
+Server: cloudflare
+Cf-Ray: 8d5f30aa7c882273-ORD
+Content-Encoding: gzip

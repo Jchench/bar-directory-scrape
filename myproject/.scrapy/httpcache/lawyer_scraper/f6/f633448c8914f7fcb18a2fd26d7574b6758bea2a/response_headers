@@ -1,0 +1,13 @@
+Content-Length: 167
+Date: Mon, 21 Oct 2024 06:39:40 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Mon, 21 Oct 2024 07:39:40 GMT
+Location: https://friedmanlawoffices.com/
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=uzc9e4EP5C2qXAUCJv%2FJ6P9tbh4YK%2FN7SoDite4cOF%2BNKtYfIz8Uck6ZYwjzpFsKCUHCLAuqsOfef4cOazYbGyimbtx%2BrLrZFCIzp0DCctNcR96tCWaxqoDyPlvh6w5opkSe5NP%2Fx1%2Fl"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d5f4078eec02cb9-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=17852&sent=2&recv=4&lost=0&retrans=0&sent_bytes=1046&recv_bytes=456&delivery_rate=90556&cwnd=218&unsent_bytes=0&cid=0000000000000000&ts=0&x=0"

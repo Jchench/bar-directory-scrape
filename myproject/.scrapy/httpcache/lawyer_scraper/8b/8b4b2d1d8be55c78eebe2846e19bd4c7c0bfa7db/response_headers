@@ -1,0 +1,12 @@
+Content-Length: 31
+Content-Type: text/plain
+Last-Modified: Thu, 30 Sep 2021 04:00:15 GMT
+Etag: "1f-6155364f-c386790b75f37bbc;;;"
+Accept-Ranges: bytes
+Date: Mon, 21 Oct 2024 06:21:09 GMT
+Server: LiteSpeed
+Strict-Transport-Security: max-age=63072000; includeSubDomains
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Cache-Control: max-age=3600, public, must-revalidate
+Alt-Svc: h3=":443"; ma=2592000, h3-29=":443"; ma=2592000, h3-Q050=":443"; ma=2592000, h3-Q046=":443"; ma=2592000, h3-Q043=":443"; ma=2592000, quic=":443"; ma=2592000; v="43,46"

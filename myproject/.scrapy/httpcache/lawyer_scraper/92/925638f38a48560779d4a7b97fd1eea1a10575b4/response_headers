@@ -1,0 +1,12 @@
+Server: nginx
+Date: Mon, 21 Oct 2024 06:21:36 GMT
+Content-Type: text/html; charset=utf-8
+Cache-Provider: CLOUDWAYS-CACHE-DE
+Content-Encoding: gzip
+Vary: Accept-Encoding
+Last-Modified: Wed, 02 Oct 2024 07:09:32 GMT
+Cache-Control: max-age=0, s-maxage=2592000
+Expires: Mon, 21 Oct 2024 06:21:36 GMT
+Age: 0
+X-Cache: MISS
+Accept-Ranges: bytes

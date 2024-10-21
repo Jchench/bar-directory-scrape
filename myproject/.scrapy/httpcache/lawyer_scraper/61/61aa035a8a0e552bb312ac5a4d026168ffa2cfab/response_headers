@@ -1,0 +1,11 @@
+Content-Length: 230
+Server: openresty/1.25.3.1
+Date: Mon, 21 Oct 2024 05:35:07 GMT
+Content-Type: text/html; charset=iso-8859-1
+Location: https://oneil-llp.com/
+Strict-Transport-Security: max-age=31536000
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: "1; mode=block"
+Referrer-Policy: no-referrer-when-downgrade
+X-Webcom-Cache-Status: BYPASS

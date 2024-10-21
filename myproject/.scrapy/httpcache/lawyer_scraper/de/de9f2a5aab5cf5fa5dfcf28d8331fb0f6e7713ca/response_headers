@@ -1,0 +1,13 @@
+Content-Length: 0
+Date: Mon, 21 Oct 2024 05:34:24 GMT
+Server: nginx/1.25.5
+Content-Type: text/html; charset=UTF-8
+X-Pingback: https://russell-mallett.com/xmlrpc.php
+Expires: Wed, 11 Jan 1984 05:00:00 GMT
+Cache-Control: no-cache, must-revalidate, max-age=0
+Location: https://russell-mallett.com/
+Host-Header: c2hhcmVkLmJsdWVob3N0LmNvbQ==
+X-Endurance-Cache-Level: 2
+X-Nginx-Cache: WordPress
+X-Server-Cache: true
+X-Proxy-Cache: MISS

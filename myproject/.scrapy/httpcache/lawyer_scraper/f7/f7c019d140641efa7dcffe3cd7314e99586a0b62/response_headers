@@ -1,0 +1,20 @@
+Content-Length: 744
+Accept-Ranges: bytes
+Alt-Svc: h3=":443"; ma=2592000
+Cache-Control: max-age=1209600
+Content-Encoding: gzip
+Content-Security-Policy: upgrade-insecure-requests
+Content-Type: text/plain
+Cross-Origin-Window-Policy: deny
+Date: Mon, 21 Oct 2024 05:33:01 GMT
+Etag: "88d-559bf6a346ec0-gzip"
+Expires: Mon, 04 Nov 2024 05:33:01 GMT
+Last-Modified: Fri, 22 Sep 2017 04:12:19 GMT
+Permissions-Policy: interest-cohort=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: Caddy
+Server: Apache
+Vary: User-Agent,Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Permitted-Cross-Domain-Policies: none

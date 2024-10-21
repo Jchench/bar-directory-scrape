@@ -1,0 +1,9 @@
+Content-Length: 0
+Server: nginx
+Date: Mon, 21 Oct 2024 05:12:05 GMT
+Content-Type: text/html; charset=UTF-8
+X-Redirect-By: WordPress
+Location: https://jerrykaufman.com/robots.txt
+Cache-Control: private, must-revalidate
+Expires: Mon, 18 Nov 2024 05:12:04 GMT
+Vary: User-Agent

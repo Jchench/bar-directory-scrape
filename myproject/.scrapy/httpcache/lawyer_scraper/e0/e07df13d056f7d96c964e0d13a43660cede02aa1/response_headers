@@ -1,0 +1,15 @@
+Content-Length: 69
+Server: nginx/1.18.0
+Date: Mon, 21 Oct 2024 06:24:51 GMT
+Content-Type: text/plain
+Vary: *
+X-Server-Ip: 209.202.244.203
+P3P: policyref="http://www.lycos.com/w3c/p3p.xml", CP="IDC DSP COR CURa ADMa DEVa CUSa PSAa IVAa CONo OUR IND UNI STA"
+Set-Cookie: MEMBER_PAGE=tcotrel/robots.txt; path=/; domain=.tripod.com
+Set-Cookie: REFERRER=(null); path=/; domain=.tripod.com
+Last-Modified: Tue, 20 Mar 2012 21:16:51 GMT
+Etag: "45-4f68f3c3"
+Accept-Ranges: bytes
+Access-Control-Allow-Headers: DNT,User-Agent,X-Requested-With,If-Modified-Since,Cache-Control,Content-Type,Range
+Access-Control-Allow-Methods: GET, POST, OPTIONS
+Access-Control-Allow-Origin: *

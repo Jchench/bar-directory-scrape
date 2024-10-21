@@ -1,0 +1,17 @@
+Date: Mon, 21 Oct 2024 05:13:35 GMT
+Content-Type: text/plain
+Vary: Accept-Encoding
+Set-Cookie: ApplicationGatewayAffinityCORS=702fc09b0c0645d76f996f109bfcebfc; Path=/; SameSite=None; Secure
+Set-Cookie: ApplicationGatewayAffinity=702fc09b0c0645d76f996f109bfcebfc; Path=/
+Cache-Control: max-age=604800
+Last-Modified: Sun, 22 Sep 2024 19:48:50 GMT
+Etag: W/"4f77907228ddb1:0"
+Content-Security-Policy: frame-ancestors 'self' *.calbar.ca.gov *.force.com *.salesforce.com *.youtube.com *.youtu.be app.powerbigov.us calbar.az1.qualtrics.com
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Strict-Transport-Security: max-age=63072000; includeSubDomains; preload
+Permissions-Policy: fullscreen=(), microphone=(), gamepad=(), midi=(), display-capture=(), usb=(), magnetometer=(), picture-in-picture=(), accelerometer=(), xr-spatial-tracking=(), idle-detection=(), sync-xhr=(), serial=(), clipboard-read=(), payment=(), bluetooth=(), hid=(), keyboard-map=(), screen-wake-lock=(), gyroscope=(), clipboard-write=(), publickey-credentials-get=()
+Referrer-Policy: strict-origin-when-cross-origin
+Server: 
+Content-Encoding: gzip

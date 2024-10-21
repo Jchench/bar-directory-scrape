@@ -1,0 +1,31 @@
+Content-Length: 6892
+Content-Type: text/html; charset=utf-8
+Date: Mon, 21 Oct 2024 05:03:09 GMT
+Server: Apache
+Cache-Control: max-age=0, private, must-revalidate
+Cache-Control: max-age=1200
+Referrer-Policy: strict-origin-when-cross-origin
+X-Permitted-Cross-Domain-Policies: none
+X-Xss-Protection: 0
+X-Xss-Protection: 1; mode=block
+X-Request-Id: 0ebd7b48-8a2d-4014-aa55-ab8ff9e2bd04
+Link: </assets/application-c5a624736be2ce9416b3cb84d79dad225017a6412bed5e9c2b40c9e37baf0afe.css>; rel=preload; as=style; nopush,</assets/application-852d75637ba08d592801b483c880c84c0ba427c645d6572a3853e7d2f607acdf.js>; rel=preload; as=script; nopush,</packs/application-14d3df3bd8ca06726479.js>; rel=preload; as=script; nopush
+X-Download-Options: noopen
+X-Frame-Options: SAMEORIGIN
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+X-Content-Type-Options: nosniff
+Feature-Policy: camera 'none'; microphone 'none'
+Strict-Transport-Security: max-age=31536000; preload
+Etag: W/"5f9e3f725ff089e19adc93e1e49ad394-gzip"
+Status: 200 OK
+Expires: Mon, 21 Oct 2024 05:23:09 GMT
+Content-Encoding: gzip
+Content-Security-Policy: default-src *  data: blob: filesystem: about: ws: wss: 'unsafe-inline' 'unsafe-eval'; script-src * data: blob: 'unsafe-inline' 'unsafe-eval'; connect-src * data: blob: 'unsafe-inline'; img-src * data: blob: 'unsafe-inline'; frame-src * data: blob: ; style-src * data: blob: 'unsafe-inline'; font-src * data: blob: 'unsafe-inline'; frame-ancestors * data: blob: ;
+X-Ua-Compatible: IE=edge
+Vary: Accept-Encoding
+X-Cache: Hit from cloudfront
+Via: 1.1 56ca3a576467b915b94f2a2737d2ab66.cloudfront.net (CloudFront)
+X-Amz-Cf-Pop: ORD58-P2
+X-Amz-Cf-Id: D31f2TYJb4sotUZhcpdgQqNnz0H9Pwnb-y45FzzVWr1VvWUA72rdEQ==
+Age: 1505

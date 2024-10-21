@@ -1,0 +1,19 @@
+Content-Length: 39695
+Server: Sucuri/Cloudproxy
+Date: Mon, 21 Oct 2024 05:32:41 GMT
+Content-Type: text/html; charset=UTF-8
+X-Sucuri-Id: 20006
+X-Xss-Protection: 1; mode=block
+X-Frame-Options: SAMEORIGIN
+X-Content-Type-Options: nosniff
+Content-Security-Policy: upgrade-insecure-requests;
+Link: <https://www.chirla.org/wp-json/>; rel="https://api.w.org/", <https://www.chirla.org/wp-json/wp/v2/pages/2>; rel="alternate"; type="application/json", <https://www.chirla.org/>; rel=shortlink
+X-Tec-Api-Version: v1
+X-Tec-Api-Root: https://www.chirla.org/wp-json/tribe/events/v1/
+X-Tec-Api-Origin: https://www.chirla.org
+Last-Modified: Mon, 21 Oct 2024 03:33:46 GMT
+Cache-Control: max-age=0
+Expires: Mon, 21 Oct 2024 03:33:44 GMT
+Vary: Accept-Encoding
+Content-Encoding: gzip
+X-Sucuri-Cache: HIT

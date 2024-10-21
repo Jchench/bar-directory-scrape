@@ -1,0 +1,13 @@
+Content-Type: text/plain;charset=utf-8
+X-Cache: HIT from ncfsc-web01.sac1.squiz.cloud
+X-Content-Type-Options: nosniff
+Content-Encoding: gzip
+X-Upgrade-Enabled: off
+Age: 4113
+Cache-Control: private, max-age=0
+Vary: Accept-Encoding
+Date: Mon, 21 Oct 2024 05:12:30 GMT
+Content-Disposition: inline; filename="robots.txt";
+Via: 1.1 ncfsc-web01.sac1.squiz.cloud
+Server: openresty
+X-Request-Id: c05be591-b67e-494e-9ce7-dc12340ca703

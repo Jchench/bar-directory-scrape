@@ -1,0 +1,24 @@
+Date: Mon, 21 Oct 2024 05:25:43 GMT
+Content-Type: text/html
+Referrer-Policy: no-referrer-when-downgrade
+X-Content-Type-Options: nosniff
+X-Fw-Hash: itqw1469vq
+Location: https://ymclegal.com/
+X-Fw-Server: Flywheel/5.1.0
+X-Fw-Version: 5.0.0
+X-Xss-Protection: 1
+Accept-Ranges: bytes
+X-Served-By: cache-chi-kigq8000080-CHI, cache-chi-klot8100080-CHI
+X-Cache: MISS, MISS
+X-Cache-Hits: 0, 0
+X-Timer: S1729488343.954954,VS0,VE67
+X-Fw-Serve: TRUE
+X-Fw-Static: NO
+X-Fw-Type: FLYWHEEL_BOT
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=MB%2FitgVPVJIJeBgYklnxoMo3OPm3AwuS0kawNDh2Sjn0WgJDKjZmsAtqCzKJCIYLcuS5WfbBHYzO%2FswMktt%2B9PirAVtxwuXg87rdSa65KXBsaHbu9yiKKyh1zV5jIp9bDJTT"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d5ed41f5e396205-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=16796&sent=10&recv=10&lost=0&retrans=1&sent_bytes=6201&recv_bytes=1085&delivery_rate=145235&cwnd=224&unsent_bytes=0&cid=ccfaf84221b29cc4&ts=643&x=0"
