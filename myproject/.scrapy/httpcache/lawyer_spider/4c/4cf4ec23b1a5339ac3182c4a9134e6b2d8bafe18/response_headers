@@ -1,0 +1,15 @@
+Content-Length: 166
+Content-Type: text/html
+Server: openresty
+Location: /schedules/
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:27:31 GMT
+Date: Sun, 27 Oct 2024 18:26:31 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=89
+Server-Timing: origin; dur=0
+Server-Timing: ak_p; desc="1730053591588_388187166_8431097_8828_5965_295_0_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053591.80a5f9

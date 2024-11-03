@@ -1,0 +1,21 @@
+Server: nginx
+Date: Sun, 27 Oct 2024 20:26:15 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+X-Powered-By: Express
+X-Ap-Cache: hit
+Etag: W/"892ad-s0nv/Or5Bba6RxwN2BXCk9L6Ytw"
+Strict-Transport-Security: max-age=31536000; includeSubDomains
+Strict-Transport-Security: max-age=31536000; includeSubdomains; preload
+X-Service-Response-Time: 0.02235
+Content-Language: en
+X-Service: agencies
+Server-Timing: service;dur=26.27925, backend;dur=53.35667
+Sm-Log-Id: flb-aa114e65db816270adf4fd6d398172a0
+X-Frame-Options: DENY
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Cache-Control: no-cache
+Content-Encoding: gzip
+Via: 1.1 google
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,15 @@
+Content-Length: 166
+Content-Type: text/html
+Location: /tag/lawsuit/
+Server: openresty
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:27:24 GMT
+Date: Sun, 27 Oct 2024 18:26:24 GMT
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=212
+Server-Timing: origin; dur=84
+Server-Timing: ak_p; desc="1730053584362_388187166_8423177_29631_6175_8053_0_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053584.808709

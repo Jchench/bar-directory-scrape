@@ -1,0 +1,13 @@
+Content-Length: 167
+Date: Sun, 27 Oct 2024 18:29:03 GMT
+Content-Type: text/html
+Cache-Control: max-age=3600
+Expires: Sun, 27 Oct 2024 19:29:03 GMT
+Location: https://meidasnews.com
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=uth%2FAn4va%2BUvqs7uP5PoZi3nrlDlsdHFNKd%2BK%2BRdBNrXCmy4KFoYUeTsCNiwxic%2B3yc9zX%2FoylvhOgQCGPPakHEDQPPo%2BabwPRxrB%2Fxe16ncXs8XxQNmF4ONRYqPe2szvl6GLwtt"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Vary: Accept-Encoding
+Server: cloudflare
+Cf-Ray: 8d94bfd97ede29fd-ORD
+Alt-Svc: h3=":443"; ma=86400
+Server-Timing: cfL4;desc="?proto=TCP&rtt=6130&sent=12&recv=11&lost=0&retrans=4&sent_bytes=7285&recv_bytes=1168&delivery_rate=381296&cwnd=234&unsent_bytes=0&cid=2a99524bc6dc4f63&ts=85051&x=0"

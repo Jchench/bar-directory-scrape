@@ -1,0 +1,12 @@
+Content-Length: 887
+Server: openresty
+Date: Sun, 27 Oct 2024 18:29:28 GMT
+Content-Type: text/plain
+Vary: origin, Cookie
+Permissions-Policy: accelerometer=(), autoplay=(self "https://player.pbs.org" "https://player-staging.pbs.org"), camera=(), display-capture=(), document-domain=(), encrypted-media=(self "https://player.pbs.org" "https://player-staging.pbs.org"), fullscreen=(self "https://player.pbs.org" "https://player-staging.pbs.org"), geolocation=(self "https://player.pbs.org" "https://player-staging.pbs.org"), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+Etag: "61ee062607591e09f36e5e394df3ac41"
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Cross-Origin-Opener-Policy: same-origin
+X-Cache-Fs-Status: HIT
+X-Pbs-Fwsrvname: ip-10-193-6-67.ec2.internal

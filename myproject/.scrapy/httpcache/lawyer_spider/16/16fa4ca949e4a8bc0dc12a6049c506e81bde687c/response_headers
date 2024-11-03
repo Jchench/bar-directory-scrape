@@ -1,0 +1,12 @@
+Content-Length: 0
+Server: AkamaiGHost
+Location: https://shop.pbs.org/opb
+Cache-Control: private, max-age=0
+Expires: Sun, 27 Oct 2024 18:27:38 GMT
+Date: Sun, 27 Oct 2024 18:27:38 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=1
+Server-Timing: ak_p; desc="1730053658602_388187166_8461741_13_4323_8_0_-";dur=1
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053658.811dad

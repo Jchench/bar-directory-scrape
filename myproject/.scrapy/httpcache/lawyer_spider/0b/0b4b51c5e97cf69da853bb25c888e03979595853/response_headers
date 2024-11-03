@@ -1,0 +1,19 @@
+Date: Sun, 27 Oct 2024 18:29:04 GMT
+Content-Type: text/html; charset=utf-8
+Cf-Ray: 8d94bfd8193989f4-ORD
+Cf-Cache-Status: DYNAMIC
+Age: 4434
+Cache-Control: public, max-age=0, must-revalidate
+Set-Cookie: __cfwaitingroom=Chh6SWVCa2c5c3VESVFPTjJ2ZmRGVzB3PT0SlAJlSGxHV1NhUTM4U3RhRzZxUmlUaWtFdlhmSkhKN3hYdW5UYWFmTnBiVzJPbk5TSFZEQnZxdXBnY2ZTKzZGY0RkbnNoQW9GaGdYYlBUanRVOXJoTGd5Q3FRNmczb2ZPQlk4SFBieXFTMkdqSW1qNmVWdmFrMEFaUkJuRXd3Y0N4ZlVHamthcnRvbEF5cDRHZDNMaTNvL3JRam1SYzBnaFg3dkU2dUN5aVk1TElxaHRLc2ZRcWk2ODdFdTZrQ3RhR1FxRU1vckJPMnZMTjU4ZGJCYjJ5TnpSQmdqenN2RGlLdW5wT0Zpa3hmTllmK2tOSXIrbDlJd3FXSkpXRW9VQ0hVSGplSWN6ditXNzdxZE53NjJHRT0%3D; Domain=blockworks.co; Path=/; Expires=Sun, 27 Oct 2024 18:32:03 GMT; HttpOnly; Secure; SameSite=None; Partitioned
+Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
+Vary: accept-encoding
+X-Matched-Path: /newsletter
+X-Vercel-Cache: STALE
+X-Vercel-Id: cle1::iad1::zxhsk-1730053743567-154f3b89047f
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip

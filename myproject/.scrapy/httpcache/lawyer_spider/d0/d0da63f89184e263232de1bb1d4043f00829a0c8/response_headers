@@ -1,0 +1,15 @@
+Content-Length: 166
+Content-Type: text/html
+Server: openresty
+Location: /elections/
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:26:36 GMT
+Date: Sun, 27 Oct 2024 18:25:36 GMT
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=147
+Server-Timing: origin; dur=47
+Server-Timing: ak_p; desc="1730053536306_388187166_8423113_19428_5322_9202_121_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053536.8086c9

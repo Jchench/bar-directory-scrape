@@ -1,0 +1,11 @@
+Content-Length: 219
+Location: https://about.youtube/
+X-Content-Type-Options: nosniff
+Server: sffe
+X-Xss-Protection: 0
+Date: Sun, 27 Oct 2024 18:26:10 GMT
+Expires: Sun, 27 Oct 2024 18:56:10 GMT
+Cache-Control: public, max-age=1800
+Content-Type: text/html; charset=UTF-8
+Age: 591
+Alt-Svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000

@@ -1,0 +1,13 @@
+Content-Length: 60738
+Content-Type: text/html; charset=utf-8
+Content-Encoding: gzip
+Pragma: no-cache
+Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
+Link: </assets/fonts/proximanova-extrabold-webfont.woff2>; rel=preload; as=font; crossorigin; type="font/woff2", </assets/fonts/proximanova-regular-webfont.woff2>; rel=preload; as=font; crossorigin; type="font/woff2", </assets/fonts/proximanova-bold-webfont.woff2>; rel=preload; as=font; crossorigin; type="font/woff2", </assets/fonts/proximanova-semibold-webfont.woff2>; rel=preload; as=font; crossorigin; type="font/woff2", </assets/shared-images/logos/wbir.png>; rel=preload; as=image, </assets/shared-images/backgrounds/diag-5x5-blue-2x.png>; rel=preload; as=image
+X-Powered-By: ASP.NET
+Cache-Control: max-age=300
+Expires: Sun, 27 Oct 2024 18:31:37 GMT
+Date: Sun, 27 Oct 2024 18:26:37 GMT
+Vary: Accept-Encoding
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block

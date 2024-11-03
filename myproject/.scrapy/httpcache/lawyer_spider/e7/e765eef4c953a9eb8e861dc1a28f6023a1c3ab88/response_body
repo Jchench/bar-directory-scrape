@@ -1,0 +1,43 @@
+# FYI: This file only applies to Station Video Portals
+# PBS.org's robots.txt is maintained by Ops
+
+User-agent: Mediapartners-Google
+Disallow:
+
+User-agent: *
+Crawl-delay: 10
+
+#shows data page
+Disallow: /shows-page
+Disallow: /latest-episode
+#all personal pages
+Disallow: /watchlist/
+Disallow: /watchlist/page
+Disallow: /viewing-history/
+Disallow: /viewing-history/page
+Disallow: /favorite-shows/
+Disallow: /favorite-shows-page
+#all search and search videos
+Disallow: /search
+Disallow: /search-videos
+#all profile views
+Disallow: /login/
+Disallow: /logout/
+Disallow: /personal/
+Disallow: /profile
+Disallow: /feedback/submit/
+Disallow: /cc-info/
+Disallow: /troubleshooting/
+
+# disallow most passport views
+Disallow: /passport/
+# but allow the Passport Learn More page
+Allow: /passport/learn-more/
+
+# RWEB-8073 blocking AI bots
+
+User-agent: GPTBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /

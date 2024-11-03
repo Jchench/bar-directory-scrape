@@ -1,0 +1,24 @@
+Content-Length: 143
+Content-Type: text/plain; charset=utf-8
+X-Powered-By: Express
+Permissions-Policy: camera=(), microphone=()
+X-Content-Type-Options: nosniff
+X-Xss-Protection: 1; mode=block
+Content-Security-Policy: frame-ancestors 'self' https://www.google.com https://meidasnews-com.cdn.ampproject.org *.ex.co *.playbuzz.com *.avplayer.com *.innovid.com; default-src https: blob: data: 'unsafe-inline' 'unsafe-eval'; child-src https: blob: data:; connect-src https: blob: data: wss:; font-src https: blob: data:; img-src https: blob: data:; media-src https: blob: data:; object-src https: blob: data:; script-src https: blob: data: 'unsafe-inline' 'unsafe-eval'; style-src https: blob: data: 'unsafe-inline'; upgrade-insecure-requests
+X-Frame-Options: sameorigin
+Cache-Control: max-age=30
+Content-Encoding: gzip
+Via: 1.1 varnish, 1.1 varnish
+X-Saycdn-Ttl: 133.000
+X-Say-Cacheable: YES
+X-Say-Ttl: 133.000
+Accept-Ranges: bytes
+Date: Sun, 27 Oct 2024 18:30:11 GMT
+Age: 562
+X-Served-By: cache-bfi-kbfi7400033-BFI, cache-chi-kigq8000062-CHI
+X-Cache: HIT, HIT
+X-Cache-Hits: 2, 2
+X-Timer: S1730053812.786090,VS0,VE0
+Vary: Fastly-SSL, Accept-Encoding
+Strict-Transport-Security: max-age=31557600
+Server-Timing: time-start-msec;dur=1730053811786,time-elapsed;dur=0,fastly-pop;desc=CHI,hit-state;desc=HIT

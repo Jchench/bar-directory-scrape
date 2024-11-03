@@ -1,0 +1,21 @@
+Content-Type: text/html; charset=utf-8
+Server: openresty
+Etag: W/"3c042-6yPpPgKc380oI0bLSaJqvwQINm0"
+X-Arc-Pb-Request-Id: 1da97c3d-4c24-480b-9692-bf4d6e0019ff
+X-Arc-Pb-Request-Id: 7b153b76-720b-4b63-8530-eed0231d409c
+Last-Modified: Sun, 27 Oct 2024 18:16:57 GMT
+Vary: Accept-Encoding
+X-Akamai-Transformed: 9 50852 0 pmb=mRUM,2
+Content-Encoding: gzip
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:28:38 GMT
+Date: Sun, 27 Oct 2024 18:27:38 GMT
+Server-Timing: cdn-cache; desc=HIT
+Server-Timing: edge; dur=52
+Server-Timing: origin; dur=0
+Server-Timing: ak_p; desc="1730053658537_388187166_8444578_5266_5483_6167_0_-";dur=1
+Link: <https://securepubads.g.doubleclick.net>;rel="preconnect",<https://secure.quantserve.com>;rel="preconnect",<https://connect.facebook.net>;rel="preconnect",<https://web-sdk.urbanairship.com>;rel="preconnect",<https://rules.quantcount.com>;rel="preconnect",<https://static.chartbeat.com>;rel="preconnect",<https://pagead2.googlesyndication.com>;rel="preconnect"
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053658.80daa2

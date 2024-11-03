@@ -1,0 +1,21 @@
+Date: Sun, 27 Oct 2024 18:27:45 GMT
+Content-Type: text/html; charset=UTF-8
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+Vary: Accept-Encoding
+X-Pingback: http://www.getnetwise.org/xmlrpc.php
+Link: <http://www.getnetwise.org/index.php/wp-json/>; rel="https://api.w.org/"
+Link: <http://www.getnetwise.org/index.php/wp-json/wp/v2/pages/2365>; rel="alternate"; title="JSON"; type="application/json"
+Link: <http://www.getnetwise.org/>; rel=shortlink
+X-Powered-By: WP Engine
+X-Cacheable: bot
+Cache-Control: max-age=10800, must-revalidate
+X-Cache: HIT: 31
+X-Cache-Group: bot
+Cache-Tag: iefgetnwhost603d73ca2e6af
+Cf-Cache-Status: DYNAMIC
+Report-To: {"endpoints":[{"url":"https:\/\/a.nel.cloudflare.com\/report\/v4?s=lE3t3FJuCdBd%2FRLnsFGld95CAOEyB6YpAoWlIQlh%2B4i45JLFdDjBUbKiPYN08%2FEdtsBzqJbu6PShCzEKo24SsST0sEdZNwWo60OEyFCsEluodNlb8UyDEFEe3SpwQIAmP2sp0Q%3D%3D"}],"group":"cf-nel","max_age":604800}
+Nel: {"success_fraction":0,"report_to":"cf-nel","max_age":604800}
+Server: cloudflare
+Cf-Ray: 8d94bdf1d89c10c3-ORD
+Content-Encoding: gzip

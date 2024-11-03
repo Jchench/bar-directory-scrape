@@ -1,0 +1,20 @@
+Content-Type: text/html; charset=utf-8
+Server: openresty
+Etag: W/"32992-7AnL+Xl3y6h/K8LDUPEH2zgDyn0"
+X-Arc-Pb-Request-Id: 95ed2fa9-f193-45da-bf57-0a728f375efb
+X-Arc-Pb-Request-Id: 8a1e5758-3ab2-499a-8ac3-70b22036a8e3
+Last-Modified: Sun, 27 Oct 2024 18:27:16 GMT
+Vary: Accept-Encoding
+X-Akamai-Transformed: 9 41196 0 pmb=mRUM,2
+Content-Encoding: gzip
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:28:16 GMT
+Date: Sun, 27 Oct 2024 18:27:16 GMT
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=230
+Server-Timing: origin; dur=627
+Server-Timing: ak_p; desc="1730053635861_388187166_8440313_85668_6043_10_0_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053635.80c9f9

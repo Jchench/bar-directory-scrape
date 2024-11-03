@@ -1,0 +1,16 @@
+Server: openresty
+Date: Sun, 27 Oct 2024 18:29:50 GMT
+Content-Type: text/html; charset=utf-8
+Vary: Accept-Encoding
+Vary: Cloudfront-Viewer-Country, origin, Cookie
+Expires: Sun, 27 Oct 2024 19:20:23 GMT
+Cache-Control: max-age=3600
+Permissions-Policy: accelerometer=(), autoplay=(self "https://player.pbs.org" "https://player-staging.pbs.org"), camera=(), display-capture=(), document-domain=(), encrypted-media=(self "https://player.pbs.org" "https://player-staging.pbs.org"), fullscreen=(self "https://player.pbs.org" "https://player-staging.pbs.org"), geolocation=(self "https://player.pbs.org" "https://player-staging.pbs.org"), gyroscope=(), magnetometer=(), microphone=(), midi=(), payment=(), usb=()
+Content-Security-Policy: frame-ancestors http://*.opb.org:* https://*.opb.org;
+Etag: W/"ac6c55ed80791ac865942141a0592a25"
+X-Content-Type-Options: nosniff
+Referrer-Policy: no-referrer-when-downgrade
+Cross-Origin-Opener-Policy: same-origin
+X-Cache-Fs-Status: HIT
+X-Pbs-Fwsrvname: ip-10-193-6-67.ec2.internal
+Content-Encoding: gzip

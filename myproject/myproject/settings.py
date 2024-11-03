@@ -123,3 +123,4 @@ RETRY_TIMES = 3  # Number of times to retry failed requests
 # Set the download timeout (default is 180 seconds)
 DOWNLOAD_TIMEOUT = 300
 
+DEPTH_LIMIT = 2  # Adjust depth as needed

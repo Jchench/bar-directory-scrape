@@ -1,0 +1,22 @@
+Date: Sun, 27 Oct 2024 18:26:45 GMT
+Content-Type: text/plain; charset=utf-8
+Cf-Ray: 8d94bc78bc2f89f4-ORD
+Cf-Cache-Status: REVALIDATED
+Access-Control-Allow-Origin: *
+Cache-Control: public, max-age=2678400, must-revalidate
+Content-Disposition: inline; filename="robots.txt"
+Etag: W/"77005817e5507378fffc6c95e62be91e"
+Last-Modified: Sat, 26 Oct 2024 15:22:53 GMT
+Set-Cookie: __cfwaitingroom=Chh1RFQveTlzY2JVSXpSb3BCK2M4d1ZRPT0SkAIrNktFckYrY0JyY1kzNUdScGpyUzdWcG40V0pXOEx1a3hvdGJzRW9CZ2ZaRERCV2NGdFVPcjdoRDlqb2Nla2R5SGFjYTV5SytKejl2eXpvOWJSb3ZHUHdvdHdMcjV1WXhPeDFSaXZabWRhaUlFbFd4Z3dKWHJOR0MxZjVFKzA4WnZmNEhmam8vTGN0TmtxRm5yK3dva3NBMm0za1hPUTZPRDhLbFlFZnoxMUN5MFNFN01RcFlBa2k4cmJwdHZhWDUzQVdrRzF4MUNDNnN0RUJZM2l5TlpTT1BsY1hvWHd2bmxBVkt4cUNqbjhMWk4vYlFSQ0JTZUdXS1dPTU1WbGFxSnB6OGRVMVpYT1VkNDhpcw%3D%3D; Domain=blockworks.co; Path=/; Expires=Sun, 27 Oct 2024 18:29:45 GMT; HttpOnly; Secure; SameSite=None; Partitioned
+Strict-Transport-Security: max-age=7776000; includeSubDomains; preload
+Vary: Accept-Encoding
+X-Matched-Path: /robots.txt
+X-Vercel-Cache: HIT
+X-Vercel-Id: cdg1::mhx2m-1729987958415-4d4feb327b6e
+Expect-Ct: max-age=86400, enforce
+Referrer-Policy: same-origin
+X-Content-Type-Options: nosniff
+X-Frame-Options: SAMEORIGIN
+X-Xss-Protection: 1; mode=block
+Server: cloudflare
+Content-Encoding: gzip

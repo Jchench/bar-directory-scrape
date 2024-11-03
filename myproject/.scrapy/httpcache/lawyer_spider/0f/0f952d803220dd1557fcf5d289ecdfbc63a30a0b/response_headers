@@ -1,0 +1,22 @@
+Content-Length: 34361
+Content-Type: text/html; charset=utf-8
+Server: openresty
+X-Arc-Pb-Request-Id: d87f8b4f-9602-4d09-af4c-a493caf305fc
+X-Arc-Pb-Request-Id: 02a86474-6fa9-4447-9225-0315713fa387
+Etag: W/"231c0-/i67k2dGtyCmJXrHUXBT2iCyxf0"
+Last-Modified: Sun, 27 Oct 2024 18:24:29 GMT
+Vary: Accept-Encoding
+X-Akamai-Transformed: 9 32376 0 pmb=mRUM,2
+Content-Encoding: gzip
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:25:29 GMT
+Date: Sun, 27 Oct 2024 18:24:29 GMT
+Set-Cookie: AKA_A2=A; expires=Sun, 27-Oct-2024 19:24:29 GMT; path=/; domain=opb.org; secure; HttpOnly
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=201
+Server-Timing: origin; dur=578
+Server-Timing: ak_p; desc="1730053468936_388187166_8399937_77881_6410_5_0_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053468.802c41

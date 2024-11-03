@@ -1,0 +1,18 @@
+Content-Length: 17
+Content-Type: text/plain; charset=utf-8
+X-Arc-Pb-Request-Id: bbd125e2-eb5f-484a-9d11-ba6d502ac393
+Server: openresty
+Location: /election-2024/
+Etag: W/"11-4ExTNZIsXkV/CnzWLJPEp/aZ+Ck"
+Last-Modified: Sun, 27 Oct 2024 18:26:45 GMT
+Cache-Control: private, max-age=60
+Expires: Sun, 27 Oct 2024 18:27:45 GMT
+Date: Sun, 27 Oct 2024 18:26:45 GMT
+Server-Timing: cdn-cache; desc=REVALIDATE
+Server-Timing: edge; dur=136
+Server-Timing: origin; dur=126
+Server-Timing: ak_p; desc="1730053605228_388187166_8438145_26153_5666_7047_0_-";dur=1
+Link: <https://www.googletagmanager.com>;rel="preconnect",<https://opb.video-player.arcpublishing.com>;rel="preconnect"
+Content-Security-Policy: upgrade-insecure-requests
+X-Arc-Ttl: -1
+X-Arc-Request-Id: 0.1e442317.1730053605.80c181
